@@ -1,0 +1,23 @@
+"States","Area Km2","Tiger No.","Tiger Lower Limit","Tiger Upper Limit"
+"Uttarakhand",1901.0,178.0,161.0,195.0
+"Uttar Pradesh",2766.0,109.0,91.0,127.0
+"Bihar",510.0,10.0,7.0,13.0
+"Shivalik-Gangetic",5177.0,297.0,259.0,335.0
+"Andhra Pradesh",14126.0,95.0,84.0,107.0
+"Chattisgarh",3609.0,26.0,23.0,28.0
+"Madhya Pradesh",15614.0,300.0,236.0,364.0
+"Maharashtra",4273.0,103.0,76.0,131.0
+"Orissa",9144.0,45.0,37.0,53.0
+"Rajasthan",356.0,32.0,30.0,35.0
+"Jharkhand**",1488.0,"NA","NA","NA"
+"Central Indian",48610.0,601.0,486.0,718.0
+"Karnataka",18715.0,290.0,241.0,339.0
+"Kerala",6168.0,46.0,39.0,53.0
+"Tamil Nadu",9211.0,76.0,56.0,95.0
+"Western Ghats",34094.0,402.0,336.0,487.0
+"Assam*",1164.0,70.0,60.0,80.0
+"Arunachal Pradesh*",1685.0,14.0,12.0,18.0
+"Mizoram*",785.0,6.0,4.0,8.0
+"Northern West Bengal*",596.0,10.0,8.0,12.0
+"Sunderbans",1586.0,"NA","NA","NA"
+"Total Tiger Population","NULL",1411.0,1165.0,1657.0

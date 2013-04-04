@@ -1,0 +1,13 @@
+"Cycle","Year","Satellite and Sensor","Data Period","Forest Cover"
+"First",1987.0,"Landsat-Mss","1981-83",640819.0
+"Second",1989.0,"Landsat-TM","1985-87",638804.0
+"Third",1991.0,"Landsat-TM","1987-89",639364.0
+"Fourth ",1993.0,"Landsat-TM","1989-91",639386.0
+"Fifth",1995.0,"IRS-1B LISSII","1991-93",638879.0
+"Sixth",1997.0,"IRS-1B LISSII","1993-95",633397.0
+"Seventh",1999.0,"IRS-IC/ID LISS III","1996-98",637293.0
+"Eighth",2001.0,"IRS-IC/ID LISS III",2000.0,653898.0
+"Ninth",2003.0,"IRS-ID LISS III",2002.0,677816.0
+"Tenth",2005.0,"IRS-P6-LISS III",2004.0,690171.0
+"Eleventh",2009.0,"IRS-P6-LISS III",2006.0,769512.0
+"Twelth",2011.0,"IRS-P6-LISS III &","2008-09",692027.0

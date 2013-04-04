@@ -1,0 +1,6 @@
+"RADAR,ARRAY & COMPUTER DEVICES","Surveillance","Track while scan (TWS) targets","Azimuth","Elevation coverage","Detection range (km at rpm)","Transmit Power(W per module)","Duty cycle (max)","Overall Tx Gain(dB)","Receive Noise Figure(dB)","Receiver gain(dB)","Phase shifter(bits)","Attenuator(bits)","Operating Temperature(°C)","Maximum packet size(bytes)","Maximum data communication throughput(kbps)","Interface ports","Power(W)","RAM(GB)","HDD(GB)","Ethernet Interface"
+"ROHINI MEDIUM RANGE SURVEILLANCE RADAR (3D-CAR)","3D",150.0,"360°","20°","120 at 15, 150 at 7.5","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"TRANSMIT RECEIVE MODULE (TR MODULE): L BAND","NA","NA","NA","NA","NA",200.0,0.1,10.0,3.5,20.0,6.0,5.0," - 40 to + 55","NA","NA","NA","NA","NA","NA","NA"
+"TRANSMIT RECEIVE MODULE (TR MODULE): S BAND","NA","NA","NA","NA","NA",200.0,0.1,53.0,3.6,30.0,6.0,6.0," - 40 to + 55","NA","NA","NA","NA","NA","NA","NA"
+"SECURE DATA ADAPTOR (SDA)","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",6000.0,115.2,"USB 1.1 (12 Mbps), RS232","<1","NA","NA","NA"
+"WEARABLE COMPUTER(WC)","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","RS232","<9.5",1.0,16.0,"10/100/1000"
