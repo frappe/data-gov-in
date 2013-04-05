@@ -34,9 +34,10 @@ def get_cgi_fields():
 	
 
 def get_file_names():
-	return [fname for fname in os.listdir(os.path.join("files", "csv")) 
+	file_names = [fname for fname in os.listdir(os.path.join("files", "csv")) 
 		if not fname.startswith(".")]
-
+	file_names.sort()
+	return file_names
 	
 def get_file_data(fname):
 	if fname:
