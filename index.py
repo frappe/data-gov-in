@@ -9,13 +9,14 @@ cgitb.enable()
 def render():
 	form_dict = get_cgi_fields()
 	fname = form_dict.get("fname")
+	files = get_file_names()
 	
 	jenv = Environment(loader = FileSystemLoader("templates"))
 
 	html = jenv.get_template("base.html").render({
-		"files": get_file_names(),
-		"fname": fname,
-		"file_data": get_file_data(fname),
+		"files": files,
+		"fname": fname or files[0],
+		"file_data": get_file_data(fname or files[0]),
 	})
 	
 	print "Content-Type: text/html"
