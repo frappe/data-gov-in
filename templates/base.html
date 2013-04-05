@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>A better data.gov.in</title>
+	<meta name="generator" content="wnframework">
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+	<link type="text/css" rel="stylesheet" href="css/bootstrap-responsive.min.css">
+	<link type="text/css" rel="stylesheet" href="css/font-awesome.min.css">
+	<link type="text/css" rel="stylesheet" href="css/main.css">
+	<meta name="description" content="A better visualization of data.giv.in">
+</head>
+<body>
+	<div class="container">
+		<div class="outer">
+			<div class="navbar navbar-inverse">
+			  <div class="navbar-inner">
+			    <a class="brand" href="#">data.gov.in</a>
+			    <ul class="nav">
+			      <li><a href="#">Home</a></li>
+			    </ul>
+			  </div>
+			</div>
+			
+			{% macro get_file_title(f) -%}
+				{{ f[:-4].replace("_", " ").title() }}
+			{%- endmacro %}
+			
+			<div class="row">
+				<div class="span12">
+					<select class="span6" id="file-select">
+						{% for f in files -%}
+						<option value="{{ f }}" {{ f == fname and "selected" or "" }}>		
+							{{ get_file_title(f) }}
+						</option>
+						{%- endfor %}
+					</select>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span12" style="overflow-x: scroll;">
+					<h4>{{ get_file_title(fname) }}</h4>
+					{% if file_data -%}
+					<table class="table table-bordered table-striped">
+						<tbody>
+							{% for row in file_data -%}
+							<tr>
+								{% for col in row -%}
+								<td>{{ col }}</td>
+								{%- endfor %}
+							</tr>
+							{%- endfor %}
+						</tbody>
+					</table>
+					{%- endif %}
+				</div>
+			</div>
+		</div>
+	</div>
+	<script>
+		$("#file-select").change(function() {
+			window.location.href = "index.py?fname=" + $(this).val();
+		});
+	</script>
+</body>
+</html>
