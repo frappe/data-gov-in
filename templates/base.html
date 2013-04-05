@@ -20,7 +20,7 @@
 			  <div class="navbar-inner">
 			    <a class="brand" href="#">data.gov.in</a>
 			    <ul class="nav">
-			      <!--<li><a href="#">Home</a></li>-->
+			      <!-- <li><a href="#">Home</a></li> -->
 			    </ul>
 			  </div>
 			</div>
@@ -42,8 +42,8 @@
 			</div>
 			<div class="row">
 				<div class="span12" style="overflow-x: scroll;">
-					<h4>{{ get_file_title(fname) }}</h4>
 					{% if file_data -%}
+					<h4>{{ get_file_title(fname) }}</h4>
 					<table class="table table-bordered table-striped">
 						<tbody>
 							{% for row in file_data -%}
