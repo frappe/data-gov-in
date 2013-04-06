@@ -1,17 +1,17 @@
 {% extends "base.html" %}
 
 {% block content %}
-{% macro get_file_title(f) -%}
-	{{ f and f[:-4].replace("_", " ").title() or "" }}
-{%- endmacro %}
 
+<div style="background-color: #{{ group_info['color'] }}; height: 18px;">
+</div>
 
 <div class="row">
 	<div class="span12" style="overflow-x: scroll;">
 		{% if file_data -%}
-		<h4>{{ get_file_title(fname) }}</h4>
+		<h4>{{ properties.title }}</h4>
+		<p style="color: #777; font-size: 80%">{{ properties.description }}</p>
 		<canvas id="canvas" height="300" width="940"></canvas>
-		<table class="table table-bordered table-striped">
+		<table class="table table-bordered table-striped" style="font-size: 80%">
 			<tbody>
 				{% for row in file_data -%}
 				<tr>
