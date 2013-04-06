@@ -56,3 +56,7 @@ def flt(val):
 		return float(val)
 	except ValueError, e:
 		return 0
+
+def urlencode(txt):
+	import urllib2
+	return urllib2.quote((txt or "").encode("utf-8"))
