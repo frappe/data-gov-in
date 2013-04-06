@@ -25,3 +25,30 @@ def get_file_content(fname):
 			
 			content = unicode(content, errors="ignore")
 		return content
+
+
+def get_chart_data(fname):
+	import json
+	file_data = get_file_data(fname or files[0])
+	y_labels = file_data[0][1:]
+	transposed_data = map(list, zip(*file_data))
+	x_labels = transposed_data[0][1:]
+	
+	data_sets = []
+	i = 250
+	for d in transposed_data[1:]:
+		data_sets.append({
+			"fillColor" : "rgba(%s, %s, %s, %s)" % (i, i, i, .5),
+			"strokeColor" : "rgba(%s, %s, %s, %s)" % (i, i, i, 1),
+			"pointColor" : "rgba(%s, %s, %s, %s)" % (i, i, i, 1),
+			"pointStrokeColor" : "#fff",
+			"data": [float(val) for val in d[1:]]
+		})
+		i -= 30
+	
+	chart_data = {
+		"labels": x_labels,
+		"datasets": data_sets
+	}
+	
+	return json.dumps(chart_data)
