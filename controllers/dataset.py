@@ -15,6 +15,8 @@ def get_args(form_dict):
 	}
 	
 def get_chart_data(file_data):
+	if not file_data:
+		return
 	y_labels = file_data[0][1:]
 	transposed_data = map(list, zip(*file_data))
 	x_labels = transposed_data[0][1:]

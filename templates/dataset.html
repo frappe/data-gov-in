@@ -6,10 +6,24 @@
 </div>
 
 <div class="row">
-	<div class="span12" style="overflow-x: scroll;">
-		{% if file_data -%}
+	<div class="span12">
+		<a href="index.py?page=sector&group={{ group }}" style="text-decoration: none;">
+			<h5 style="color: #{{ group_info['color'] }};">
+			<i class="icon {{ group_info['icon'] }}"></i> {{ group_info["label"] }}</h5>
+		</a>
+	</div>
+</div>
+
+<div class="row">
+	<div class="span12">
 		<h4>{{ properties.title }}</h4>
 		<p style="color: #777; font-size: 80%">{{ properties.description }}</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="span12" style="overflow-x: scroll;">
+		{% if file_data -%}
 		<canvas id="canvas" height="300" width="940"></canvas>
 		<table class="table table-bordered table-striped" style="font-size: 80%">
 			<tbody>
