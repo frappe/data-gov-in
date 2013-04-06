@@ -10,6 +10,7 @@ def render():
 	form_dict = get_cgi_fields()
 	fname = form_dict.get("fname")
 	files = get_file_names()
+	from utils import get_file_data
 	
 	jenv = Environment(loader = FileSystemLoader("templates"))
 
@@ -35,22 +36,10 @@ def get_cgi_fields():
 	
 
 def get_file_names():
-	file_names = [fname for fname in os.listdir(os.path.join("files", "csv")) 
+	file_names = [fname for fname in os.listdir(os.path.join("data", "csv")) 
 		if not fname.startswith(".")]
 	file_names.sort()
 	return file_names
 	
-def get_file_data(fname):
-	if fname:
-		import csv
-	
-		with open(os.path.join("files", "csv", fname), "r") as csv_file:
-			reader = csv.reader(csv_file.read().splitlines())
-			csvrows = [[col for col in row] for row in reader]
-	
-		return csvrows
-	else:
-		return None
-
 if __name__=="__main__":
 	render()

@@ -1,22 +1,27 @@
 from __future__ import unicode_literals
 import requests, re, os, xlrd, csv, cStringIO
 
+sources = [
+	"http://data.gov.in/hackathon/sectors",
+	"http://data.gov.in/catalogs"
+]
+
 def download():
 	for i in xrange(35):
 		print "page %s" % i
-		response = requests.get("http://data.gov.in/catalogs?page=%s" % i)
-		for filename in re.findall("url=([^&]+)&nid", response.text):
+		response = requests.get(sources[0] + "?page=%s" % i, verify=False)
+		for filename in re.findall("url=([^&]+)", response.text):
 			print filename
-			filepath = os.path.join("files", "raw", filename.split("/")[-1])
+			filepath = os.path.join("data", "raw", filename.split("/")[-1])
 			if not os.path.exists(filepath):
-				with open(filepath) as datafile:
+				with open(filepath, "wb") as datafile:
 					r = requests.get(filename)
 					for chunk in r.iter_content(1024):
 						datafile.write(chunk)
 
 def convert_to_csv():
 	import xlrd, shutil
-	raw_path = os.path.join("files", "raw")
+	raw_path = os.path.join("data", "raw")
 	for fname in os.listdir(raw_path):
 		fpath = os.path.join(raw_path, fname)
 		extn = fname.split(".")[-1].lower()
@@ -32,15 +37,17 @@ def convert_to_csv():
 				write_csv(sheet, file_name)
 		elif extn == "csv":
 			print fpath
-			shutil.copy(fpath, os.path.join("files", "csv"))
+			shutil.copy(fpath, os.path.join("data", "csv"))
 
 			
 def write_csv(sheet, file_name):
+	if os.path.exists(os.path.join("data", "csv", file_name)):
+		return
 	csv_writer = UnicodeWriter()
 	for row_no in xrange(sheet.nrows):
 		csv_writer.writerow(sheet.row_values(row_no))
 	
-	with open(os.path.join("files", "csv", file_name), "w") as csv_file:
+	with open(os.path.join("data", "csv", file_name), "w") as csv_file:
 		csv_file.write(csv_writer.getvalue())
 
 class UnicodeWriter:
