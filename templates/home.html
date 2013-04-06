@@ -19,7 +19,6 @@
 			>Show me.</a></p>
 	</div>
 </div>
-<hr>
 {% endmacro %}
 
 {% block content %}
@@ -40,6 +39,7 @@
 <br />
 {% for group in group_list if group!="Other" -%}
 	{{ write_group(group) }}
+	<hr>
 {%- endfor %}
 {{ write_group("Other") }}
 
