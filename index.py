@@ -12,6 +12,8 @@ def render():
 	form_dict = get_cgi_fields()
 
 	jenv = Environment(loader = FileSystemLoader("templates"))
+	set_jenv_filters(jenv)
+	
 	template = form_dict.get("page", "home")
 	args = get_method("controllers." + template + ".get_args")(form_dict)
 	args.update(form_dict)
@@ -39,6 +41,10 @@ def get_cgi_fields():
 		form[key] = cgi_fields.getvalue(key)
 		
 	return form	
+	
+def set_jenv_filters(jenv):
+	from utils import urlencode
+	jenv.filters["urlencode"] = urlencode
 	
 if __name__=="__main__":
 	render()
