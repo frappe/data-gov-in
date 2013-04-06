@@ -8,23 +8,26 @@ cgitb.enable()
 
 def render():
 	form_dict = get_cgi_fields()
-	fname = form_dict.get("fname")
-	files = get_file_names()
-	from utils import get_file_data
 	
 	jenv = Environment(loader = FileSystemLoader("templates"))
 	template = form_dict.get("page", "home")
+	args = get_method("controllers." + template + ".get_args")(form_dict)
+	args.update(form_dict)
 
-	html = jenv.get_template(template + ".html").render({
-		"files": files,
-		"fname": fname or files[0],
-		"file_data": get_file_data(fname or files[0]),
-	})
+	html = jenv.get_template(template + ".html").render(args)
 	
 	print "Content-Type: text/html"
 	print
 	print (html or "").encode("utf-8")
 
+def get_method(method_string):
+	modulename = '.'.join(method_string.split('.')[:-1])
+	methodname = method_string.split('.')[-1]
+
+	__import__(modulename)
+	import sys
+	moduleobj = sys.modules[modulename]
+	return getattr(moduleobj, methodname)
 
 def get_cgi_fields():
 	cgi_fields = cgi.FieldStorage(keep_blank_values=True)
@@ -34,13 +37,6 @@ def get_cgi_fields():
 		form[key] = cgi_fields.getvalue(key)
 		
 	return form
-	
-
-def get_file_names():
-	file_names = [fname for fname in os.listdir(os.path.join("data", "csv")) 
-		if not fname.startswith(".")]
-	file_names.sort()
-	return file_names
-	
+		
 if __name__=="__main__":
 	render()
