@@ -1,27 +1,21 @@
 import os
-import setproperties
+import setproperties, utils
 
 def get_args(form_dict):
 	setproperties.load_properties()
 	group_list = setproperties.groups.keys()
 	group_list.sort()
-	group_datasets = {}
-	for group in group_list:
-		group_datasets[group] = []
+	group_datasets = setproperties.get_group_datasets()
 	
-	for fname in setproperties.properties:
-		p = setproperties.properties[fname]
-		if not p.get("title"):
-			p["title"] = fname
-		p["file_name"] = fname
-		if p.get("groups"):
-			for group in p.get("groups"):
-				group_datasets[group].append(p)
-		else:
-			group_datasets["Other"].append(p)
+	maxsets = max([len(group_datasets[g]) for g in group_datasets])
+	for g in setproperties.groups:
+		setproperties.groups[g]["sets"] = float(len(group_datasets[g]))
 			
 	return {
 		"group_list": group_list,
 		"groups": setproperties.groups,
-		"group_datasets": group_datasets
+		"group_datasets": group_datasets,
+		"get_hex_shade": utils.get_hex_shade,
+		"maxsets": maxsets,
+		"int": int
 	}

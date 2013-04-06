@@ -25,3 +25,29 @@ def get_file_content(fname):
 			
 			content = unicode(content, errors="ignore")
 		return content
+		
+def get_hex_shade(color, percent):
+	def p(c):
+		v = int(c, 16) + int(int('ff', 16) * (float(percent)/100))
+		if v < 0: 
+			v=0
+		if v > 255: 
+			v=255
+		h = hex(v)[2:]
+		if len(h) < 2:
+			h = "0" + h
+		return h
+		
+	r, g, b = color[0:2], color[2:4], color[4:6]
+	
+	avg = (float(int(r, 16) + int(g, 16) + int(b, 16)) / 3)
+	# switch dark and light shades
+	if avg > 128:
+		percent = -percent
+
+	# stronger diff for darker shades
+	if percent < 25 and avg < 64:
+		percent = percent * 2
+	
+	return p(r) + p(g) + p(b)
+

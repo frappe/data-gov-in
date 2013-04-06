@@ -11,13 +11,13 @@ groups = {
 			"poverty", "growth", "production", "outlay", "cash",
 			"transaction", "patents"],
 		"icon": "icon-bar-chart",
-		"color": "#1D766F"
+		"color": "1D766F"
 	},
 	"Agriculture": {
 		"label": "Agriculture and Rural Development",
 		"keywords": ["crop", "wheat", "rice", "gram", "panchayat"],
 		"icon": "icon-leaf",
-		"color": "#BF8E30"
+		"color": "BF8E30"
 	},
 	"Education": {
 		"label": "Education and Skill Development",
@@ -25,7 +25,7 @@ groups = {
 			"wage", "personnel", "graduate", "employee", "earning", "degree",
 			"literacy", "workmen", "teacher"],
 		"icon": "icon-book",
-		"color": "#A30008"
+		"color": "A30008"
 	},
 	"Environment": {
 		"label": "Water and Environment",
@@ -33,7 +33,7 @@ groups = {
 			"ozone", "chemicals", "elephant", "animal", "carbon", "parks", 
 			"temperature", "forests"],
 		"icon": "icon-cloud",
-		"color": "#009D91"
+		"color": "009D91"
 	},
 	"Energy": {
 		"label": "Energy",
@@ -41,27 +41,27 @@ groups = {
 			"power", "electricity", "petrol", "diesel", "crude", "coal", "gas",
 			"energies"],
 		"icon": "icon-lightbulb",
-		"color": "#FFA700"
+		"color": "FFA700"
 	},
 	"Health": {
 		"label": "Health",
 		"keywords": ["health", "hospital", "doctor", "born", "mortality", "birth",
 			"fertility", "injury", "injuries", "allopath", "death", "medical",
 			"pharma", "condom", "family", "deaths"],
-		"icon": "icon-plus-sign-alt"
-		"color": "#FB000D"
+		"icon": "icon-plus-sign-alt",
+		"color": "FB000D"
 	},
 	"Urban Development": {
 		"label": "Urban Development",
 		"keywords": ["accident", "tour", "srtu", "rural", "roads", "infrastructure"],
 		"icon": "icon-building",
-		"color": "#1D766F"
+		"color": "1D766F"
 	},
 	"Other": {
 		"label": "Other",
 		"description": "Uncategorized",
 		"icon": "icon-question-sign",
-		""
+		"color": "AAAAAA"
 	}
 }
 
@@ -120,7 +120,24 @@ def has_keyword(text, group):
 	if not text: return
 	t = text.lower().replace("_", " ").split()
 	return set(t).intersection(set(groups[group]["keywords"]))
+
+def get_group_datasets():
+	group_datasets = {}
+	for group in groups:
+		group_datasets[group] = []
 	
+	for fname in properties:
+		p = properties[fname]
+		if not p.get("title"):
+			p["title"] = fname
+		p["file_name"] = fname
+		if p.get("groups"):
+			for group in p.get("groups"):
+				group_datasets[group].append(p)
+		else:
+			group_datasets["Other"].append(p)
+	return group_datasets
+
 def print_no_group():
 	global properties
 	load_properties()

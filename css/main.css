@@ -6,12 +6,11 @@ div.outer {
 }
 
 .outer .navbar {
-	margin: -30px -30px 20px -30px;
+	margin: -30px -30px 5px -30px;
 }
 
 .navbar-inner {
 	border: 0px;
-	border-bottom: 1px solid #ddd;
 	border-radius: 0px;
 	padding-right: 30px;
 	padding-left: 30px;
@@ -72,7 +71,6 @@ div.web-footer, div.web-footer a {
     background-color: #FFFDFC;
     background-repeat: repeat-x;
 	background-image: none;
-	border-bottom: 1px solid #d9d7d6;
 }
 
 .navbar-inverse .brand,
