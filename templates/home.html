@@ -12,10 +12,4 @@
 		{%- endfor %}
 </div>
 
-<script>
-	$("#file-select").change(function() {
-		window.location.href = "index.py?page=dataset&fname=" + $(this).val();
-	});
-</script>
-
 {% endblock %}
