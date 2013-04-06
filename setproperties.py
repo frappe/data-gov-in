@@ -14,7 +14,10 @@ def set_properties():
 		#data = get_file_data(fname)
 		data = None
 		set_property_for(fname, data)
-		
+	
+	save_properties()
+	
+def save_properties():
 	with open(propertypath, "w") as propertyfile:
 		propertyfile.write(json.dumps(properties, indent=1, sort_keys=True))	
 
@@ -24,12 +27,17 @@ def load_properties():
 		with open(propertypath, "r") as propertyfile:
 			properties = json.loads(propertyfile.read())
 	
-
 def set_property_for(fname, data):
 	global properties
 	fproperty = properties.get(fname, {})
 	set_groups(fname, data, fproperty)
 	properties[fname] = fproperty
+
+def update_for_file(raw_fname, for_update):
+	global properties
+	for key in properties:
+		if key.startswith(raw_fname.split(".")[0]):
+			properties[key].update(for_update)
 
 def set_groups(fname, data, fproperty):
 	fgroups = []

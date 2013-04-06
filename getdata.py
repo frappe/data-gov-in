@@ -1,5 +1,6 @@
 from __future__ import unicode_literals
 import requests, re, os, xlrd, csv, cStringIO
+import setproperties
 
 sources = [
 	"http://data.gov.in/hackathon/sectors",
@@ -7,18 +8,39 @@ sources = [
 ]
 
 def download():
+	setproperties.load_properties()
+
 	for i in xrange(35):
 		print "page %s" % i
-		response = requests.get(sources[0] + "?page=%s" % i, verify=False)
-		for filename in re.findall("url=([^&]+)", response.text):
+		response = requests.get(sources[1] + "?page=%s" % i, verify=False)
+		properties = get_url_title_and_description_from_html(response.text)
+		
+		for filename in properties:
 			print filename
-			filepath = os.path.join("data", "raw", filename.split("/")[-1])
+			filepath = os.path.join("data", "raw", filename)
 			if not os.path.exists(filepath):
 				with open(filepath, "wb") as datafile:
-					r = requests.get(filename)
+					r = requests.get(properties[filename]["url"])
 					for chunk in r.iter_content(1024):
 						datafile.write(chunk)
-
+			
+			setproperties.update_for_file(filename, properties[filename])
+			
+	setproperties.save_properties()
+	
+def get_url_title_and_description_from_html(text):
+	properties = {}
+	for row in text.split("ds-list-item")[1:-1]:
+		row = row.replace("\n", "")
+		url = re.findall("url=([^&]+)", row)[0]
+		file_name = url.split("/")[-1]
+		properties[file_name] = {
+			"url": url,
+			"title": re.findall('title="([^"]+)"', row)[0],
+			"description": re.findall("<br />([^<]+)", row)[0]
+		}
+	return properties
+		
 def convert_to_csv():
 	import xlrd, shutil
 	raw_path = os.path.join("data", "raw")
@@ -78,5 +100,5 @@ class UnicodeWriter:
 			return obj
 
 if __name__=="__main__":
-	#download()
-	convert_to_csv()
+	download()
+	#convert_to_csv()
