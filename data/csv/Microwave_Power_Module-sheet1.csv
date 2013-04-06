@@ -1,0 +1,5 @@
+"Name","RF Input Power (max) in dBm","RF Output Power (min) in W","Gain (dB)","Input Voltage (VDC)","Prime Power(W)","Dimensions (mm)","Weight (kg)"
+"MPS-4051",-8.0,120.0,60.0,270.0,170.0," 345x325x70",12.0
+"MCT-3547",0.0,50.0,47.0,270.0,560.0,"390x160x150",19.0
+"MCS-5049",-10.0,49.0,59.0,"24 - 32",430.0,"320x160x150",12.0
+"MCS-3550M","NA",100.0,50.0,270.0,430.0,"NA",4.0

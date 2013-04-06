@@ -1,0 +1,8 @@
+"Saw (SURFACE ACOUSTIC WAVE) Discrete Chemical Sensors","Sensitivity(Hz/ppm)","Response Time(sec)","Reset Time(sec)","Min. Detected Level(Hz/min)","Drift(min)","Warm-Up time(min)","Power(watt)"
+"Parameters: Sensor 1; Test Vapors: SARIN",1400.0,15.0,60.0,"3 (60)",0.5,20.0,0.5
+"Parameters: Sensor 1; Test Vapors: DMPP",1300.0,15.0,60.0,"120 (50)",0.5,20.0,0.5
+"Parameters: Sensor 2; Test Vapors: DMPP",12.0,15.0,60.0,"5 (25)",0.25,5.0,0.3
+"Parameters: Sensor 2; Test Vapors: DNT",206.0,60.0,300.0,"117 (130)",0.25,5.0,0.3
+"Parameters: Sensor 3; Test Vapors: TNT",2400.0,120.0,300.0,"45 (450)",5.0,30.0,0.7
+"Saw Multi-Sensor E-Noise","NA","NA","NA","NA","NA","NA","NA"
+"Parameters: E-Nose 1; Test Vapors: DMPP","200-600",15.0,60.0,"NA",0.5,15.0,0.3

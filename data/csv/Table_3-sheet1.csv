@@ -1,0 +1,14 @@
+"Sr. No.","Station-Location","Distance in Kms.","Dissolved Oxygen during 1986 (mg/l)","Biological Oxygen Demand in 1986 (mg/l)","Dissolved Oxygen during 2011 (mg/l)","Biological Oxygen demand during 2011 (mg/l)"
+1.0,"Rishikesh",0.0,8.1,1.7,7.6,1.4
+2.0,"Hardwar D/s",30.0,8.1,1.8,7.4,1.6
+3.0,"Garhmukteshwar",175.0,7.8,2.2,7.5,1.7
+4.0,"Kannauj U/S",430.0,7.2,5.5,7.9,1.7
+6.0,"Kanpur U/S",530.0,7.2,7.2,7.7,3.3
+7.0,"Kanpur D/S",548.0,6.7,8.6,7.6,3.8
+8.0,"Allahabad U/S",733.0,6.4,11.4,7.8,5.3
+9.0,"Allahabad D/S",743.0,6.6,15.5,7.8,5.1
+10.0,"Varanasi U/S",908.0,5.6,10.1,8.0,2.9
+11.0,"Varanasi D/S",916.0,5.9,10.6,8.0,4.3
+12.0,"Patna U/S",1188.0,8.4,2.0,7.0,1.8
+13.0,"Patna D/S",1198.0,8.1,2.2,7.1,2.5
+14.0,"Rajmahal",1508.0,7.8,1.8,6.8,1.5

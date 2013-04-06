@@ -1,0 +1,607 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>India - Household Consumer Expenditure 66th Round, Type -1</title>
+<base href="http://164.100.34.62/">
+
+<link rel="stylesheet" type="text/css" href="themes/wb/reset-fonts-grids.css" />
+<link rel="stylesheet" type="text/css" href="themes/wb/styles.css" />
+<link rel="stylesheet" type="text/css" href="themes/wb/forms.css" />
+
+<script type="text/javascript" src="javascript/jquery.js"></script>
+
+<link type="text/css" rel="stylesheet" href="http://164.100.34.62/javascript/tree/jquery.treeview.css" /><link type="text/css" rel="stylesheet" href="http://164.100.34.62/themes/ddibrowser/ddi.css" /><script type="text/javascript" src="http://164.100.34.62/javascript/tree/jquery.treeview.pack.js"></script><script type="text/javascript" src="http://164.100.34.62/javascript/ddibrowser.js"></script>
+<script type="text/javascript"> 
+   var CI = {'base_url': 'http://164.100.34.62/index.php'}; 
+</script> 
+
+</head>
+<body>
+<div id="custom-doc" class="yui-t7" > 
+	<!--login information bar-->
+    <span id="user-container">
+    
+<div id="user-bar">
+<div class="user-box">
+    <a href="http://164.100.34.62/index.php/auth/login">Login</a> | 
+    	
+    <a href="http://164.100.34.62/index.php/auth/register">Register</a>
+        </div>
+</div>
+    </span>
+    
+    <!-- header -->
+    <div id="hd">
+       	<!-- logo -->
+        <div class="site-logo">
+        	<a title="Micro Data Archive - Home Page"  href="http://164.100.34.62/index.php">
+            <img src="themes/wb/logo.gif"  border="0" alt="Logo"/>
+            </a>
+        </div>
+    </div>
+    
+    <div id="bd" >
+    	<!-- banner-->
+        <div id="banner">Micro Data Archive</div>
+        
+        <div id="inner-body">
+            <!-- menu -->
+                        <div class="menu-horizontal">
+                    <ul>
+		
+
+	
+                
+		<li >
+        	<a  href="http://164.100.34.62/index.php/home">Home</a>
+        </li>
+		
+
+	
+                
+		<li >
+        	<a  href="http://164.100.34.62/index.php/catalog">Microdata  Catalog</a>
+        </li>
+		
+
+	
+                
+		<li >
+        	<a  href="http://164.100.34.62/index.php/access">Data Access</a>
+        </li>
+		
+
+	
+                
+		<li >
+        	<a  href="http://mospi.nic.in/Mospi_New/site/home.aspx">Mospi Home</a>
+        </li>
+</ul>
+                    <br style="clear:both;"/>
+             </div>
+                    
+                            <div id="content" class="yui-b" >
+                
+                	<!--share-bar -->
+                    <div id="page-tools">
+					<style>
+.share-bar-container{position:relative;text-align:right;border:0px solid blue;margin-left:auto;margin-right:0px;z-index:899;height:35px;}
+ul.share-bar{position:absolute;border:0px solid red;height:30px;width:auto;text-align:left;right:0px;z-index:999}
+ul.share-bar li{float:left;margin-left:3px;border:0px solid blue;padding:5px;position:relative;height:24px;vertical-align:baseline}
+ul.share-bar .item-body{position:absolute;height:100px;width:100px;background:white;border:2px solid #CCCCCC;right:0px;z-index:100}
+
+ul.share-bar ul{display:none;position:absolute;width:220px;background:#F7F7F7;right:0px;top:24px;padding:10px;border:4px solid #CCCCCC;z-index:1000}
+ul.share-bar ul li{float:left;width:45%;font-size:11px;margin:0px;padding:5px;}
+ul.share-bar ul li:hover{background-color:#FBFBFB; cursor:pointer}
+ur.share-bar ul li img{vertical-align:baseline}
+ul.share-bar li.active ul{display:block;}
+ul.share-bar li.active{background-color:#CCCCCC}
+a.share{background:url("images/shared_open.gif") no-repeat left center;padding-left:20px;color:#999999;text-transform:uppercase;font-size:11px}
+.active a.share{background:url("images/shared_close.gif") no-repeat left center;color:black;}
+ul.share-bar img{vertical-align:baseline}
+
+</style>
+
+<div class="share-bar-container">
+<ul class="share-bar">
+    <li><a target="_blank" rel="nofollow" href="http://164.100.34.62/index.php/catalog/19/?print=yes"><img src="images/print.gif" alt="Print"/></a></li>
+    <li><a rel="nofollow" href="mailto:?subject=India - Household Consumer Expenditure 66th Round, Type -1&amp;body=http://164.100.34.62/index.php/catalog/19"><img src="images/email.png" alt="Email"/></a></li>
+    <li>
+    	<a href="#" class="share">Share</a>
+        <ul class="">
+            <li><a title="Share with Digg "target="_blank" href="http://digg.com/submit?url=http://164.100.34.62/index.php/catalog/19&title=India - Household Consumer Expenditure 66th Round, Type -1"><img src="images/icons/digg16.png"/> Digg</a></li>
+            <li><a title="Share with Google Buzz" target="_blank" href="http://www.google.com/buzz/post?message=India - Household Consumer Expenditure 66th Round, Type -1&url=http://164.100.34.62/index.php/catalog/19"><img src="images/icons/buzz16.png"/> Google Buzz</a></li>
+            <li><a title="Share with LinkedIn" target="_blank" href="http://www.linkedin.com/cws/share?url=http://164.100.34.62/index.php/catalog/19&title=India - Household Consumer Expenditure 66th Round, Type -1&source=http://164.100.34.62/index.php"><img src="images/icons/linkedin16.png"/> LinkedIn</a></li>
+            <li><a title="Share with Stumbleupon" target="_blank" href="http://www.stumbleupon.com/submit?url=http://164.100.34.62/index.php/catalog/19&title=India - Household Consumer Expenditure 66th Round, Type -1"><img src="images/icons/stumbleupon16.png"/> Stumbleupon</a></li>
+            <li><a title="Share with Delicious" target="_blank" href="http://www.delicious.com/save?v=5&noui&jump=close&url=http://164.100.34.62/index.php/catalog/19&title=India - Household Consumer Expenditure 66th Round, Type -1"><img src="images/icons/delicious16.png"/> Delicious</a></li>
+        </ul>
+    </li>
+    <li><a target="_blank" 	title="Share with Facebook"	href="http://www.facebook.com/sharer.php?u=http://164.100.34.62/index.php/catalog/19&t=India - Household Consumer Expenditure 66th Round, Type -1&src=sp"><img src="images/facebook.png"/></a></li>
+    <li><a target="_blank" title="Share with Twitter"href="http://twitter.com/share?_=original_referer=http://164.100.34.62/index.php/catalog/19&text=India - Household Consumer Expenditure 66th Round, Type -1&url=http://164.100.34.62/index.php/catalog/19"><img src="images/twitter.png" alt="Twitter" /></a></li>
+</ul>
+</div>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$('.share-bar .share').click(toggle_menu);
+	function toggle_menu(event)
+	{
+		if ($(this).parent().is(".active"))
+		{
+			$(this).parent().removeClass("active");
+		}
+		else
+		{
+			$(this).parent().addClass('active');
+		}	
+		event.stopPropagation();
+		return false;
+	}
+	
+	$('body').click(function(event) {
+ 		//hide the share box
+		if(!$(event.target).is('.active ul, .active li'))
+		{
+			$('.share-bar .active').removeClass("active");
+		}
+ 	});
+ 
+});
+</script>
+                	</div>
+                
+                    <!--breadcrumbs -->
+                    	    <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+           <span typeof="v:Breadcrumb">
+                		         <a href="http://164.100.34.62/index.php/" rel="v:url" property="v:title">
+    	      	Home        	</a> ›
+                        
+       </span>
+                  <span typeof="v:Breadcrumb">
+                		         <a href="http://164.100.34.62/index.php/catalog" rel="v:url" property="v:title">
+    	      	Data catalog        	</a> ›
+                        
+       </span>
+                  <span typeof="v:Breadcrumb">
+        	         	         <a class="active" href="http://164.100.34.62/index.php/catalog/19" rel="v:url" property="v:title">
+    	      	DDI-IND-NSSO-66-SCHEDULE-1.0T1        	</a>
+                        
+       </span>
+               </div>
+                                        
+					<script type="text/javascript"> 
+   var CI = {
+				'base_url': 'http://164.100.34.62/index.php',
+				'current_section': 'http://164.100.34.62/index.php/catalog/19',
+				'js_loading': 'Loading, please wait...'  
+			}; 	
+</script> 
+
+	<script>
+		$(function(){
+			//tree-view 
+			$(".filetree").treeview({collapsed: false});
+		});
+	</script>
+
+<div class="page-body" >
+		<h2>India - Household Consumer Expenditure 66th Round, Type -1</h2>
+
+<style>
+/*grid/table listing format*/
+.grid-table{width:100%;}
+.grid-table .header{background-color:none;text-align:left;}
+.grid-table .header th{padding:5px;border-bottom:2px solid #C1DAD7;border-top:2px solid #C1DAD7;}
+.grid-table .header a, .grid-table .header {color:black;}
+.grid-table tr td{padding:5px;border-bottom:1px solid #C1DAD7;}
+.grid-table .alternate{background-color:#FBFBFB}
+.grid-table a{color:#00679C;text-decoration:none;}
+.grid-table a:hover{color:maroon;}
+.table-heading-row{}
+.table-heading-cell{font-weight:bold;font-size:12px;border-bottom:2px solid #CFD9FE;}
+.table-row{}
+.table-row-alternate{background:#F7F7F7}
+.table-cell,.table-cell-alternate{padding:5px;border-bottom:1px solid #F7F7F7;}
+.table a{text-decoration:none;color:#003366}
+.table a:hover{text-decoration:underline;color:black}
+.links img ,.content-container img {vertical-align:bottom;}
+.link-col {float:left;display:block;margin-right:10px;}
+.link-col-2{float:left;display:block;}
+.es td{background-color:#EAEAEA}
+.grid-table td {vertical-align:top;}
+.box-harvested{background-color:#D0E6F4;border:1px solid #99CCFF; padding:10px;margin-top:10px;margin-bottom:20px;font-size:14px;}
+</style>
+
+<div class="content-container">
+
+
+<table class="grid-table" cellspacing="0">
+	<tr class="header">
+    	<td>Reference ID</td>
+        <td>DDI-IND-NSSO-66-SCHEDULE-1.0T1</td>
+    </tr>
+	<tr>
+    	<td style="width:100px;">Year</td>
+        <td>2009 - 2010        </td>
+    </tr>
+		<tr>
+    	<td>Country</td>
+        <td>India</td>
+    </tr>
+		<tr valign="top">
+    	<td>Producer(s)</td>
+        <td>
+        					                                    National Sample Survey Office,NSSO, Ministry of Statistics & Programme Implementation, Govt. of India                                
+        </td>
+    </tr>
+    	<tr valign="top">
+    	<td>Sponsor(s)</td>
+        <td>Ministry of Statistics & Programme Implementation, Govenment of Indis - MOSPI -<BR /></td>
+    </tr>
+    
+	    
+    
+	
+	        
+    <tr>
+    	<td>Data</td>
+        <td>
+            <!--access policy -->
+            <span class="link-col">
+            <a id="ap-19" class="accesspolicy"  title="Microdata access policy" href="http://164.100.34.62/index.php/catalog/19/accesspolicy/">
+                <span><img src="images/page_white_key.png" /> Access policy</span>
+            </a>
+            </span>
+            			
+                            <!--data access -->
+                                                    
+		</td>	            
+	</tr>
+    
+    </table>
+
+<style>
+	.resources h3{font-weight:bold;padding-top:10px;font-size:12px;}
+	.abstract{display:none;margin-bottom:10px;background-color:none;}
+	.resources .alternate, .resources .resource{border-bottom:1px solid #C1DAD7;padding:5px;width:98%;overflow:auto;}
+	.resources .alternate{background-color:#FBFBFB;}
+	.resources .alternate:hover, .resources .resource:hover{background-color:#EAEAEA}
+	.resources fieldset {border:0px;border-top:4px solid gainsboro;margin-top:20px;margin-bottom:10px;padding-top:5px;color:#333333;font-size:12px;}
+	.resources fieldset legend{font-weight:bold;;padding:5px;text-transform:capitalize;margin-left:10px;}	
+	.resource-info{cursor:pointer;color:maroon;}
+	.resource-right-col{float:right;font-size:11px;width:15%;}
+	.resource-left-col{float:left;width:85%;}
+	.resource-file-size{display:inline-block;width:100px;text-align:left;color:#999999;}
+</style>
+<div style="padding-top:20px;">
+<h2>Related Materials</h2>
+<div class="resources">
+    			        <fieldset>
+        <legend>
+			Questionnaires        </legend>
+				                                                <div class="alternate">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Questionnaires-Household consumer Expenditure-Schedule 1.0</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/133" title="http://164.100.34.62/index.php/ddibrowser/19/download/133" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 1.32 MB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                    </fieldset>
+        		        <fieldset>
+        <legend>
+			Reports        </legend>
+				                                                <div class="resource">    	
+                    <div class="resource-left-col">
+                        		
+                                            		<span class="resource-info" class="resource-info" title="Click to view information" alt="View more information" id="139">Tables and Reports</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/139" title="http://164.100.34.62/index.php/ddibrowser/19/download/139" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 7.8 MB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                    						<div id="info_139" class="abstract">
+							                       				
+                                    <div>
+	                                    <h3>Description</h3>
+										The report presents data on level of consumption and its break-up by commodity group.<br />
+The level of living of an individual is measured by his or her household’s per capita consumption<br />
+level, with household consumption measured as the sum of monetary values of goods and<br />
+services consumed during a month by a household. Apart from average levels of consumption<br />
+for rural and urban sectors of different States/UTs, the report presents fractiles of the<br />
+distributions of persons over different levels of living.                                    </div>
+                                                                                                            
+                        </div>
+                                    
+                 </div>
+                                                                <div class="alternate">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Level and Pattern of Consumer Expenditure</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/1043" title="http://164.100.34.62/index.php/ddibrowser/19/download/1043" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 8.33 MB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                                                                <div class="resource">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Household Consumption of various Goods and Services in India</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/1044" title="http://164.100.34.62/index.php/ddibrowser/19/download/1044" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 8.89 MB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                                                                <div class="alternate">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Household Consumer Expenditure Across Socio-Economic Group</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/1602" title="http://164.100.34.62/index.php/ddibrowser/19/download/1602" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 8.78 MB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                                                                <div class="resource">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Public Distribution System and other Sources of Household Consumption</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/1603" title="http://164.100.34.62/index.php/ddibrowser/19/download/1603" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 11.12 MB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                                                                <div class="alternate">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Perceived Adequacy of Food Consumption in Indian Households</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/1604" title="http://164.100.34.62/index.php/ddibrowser/19/download/1604" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 20.13 MB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                    </fieldset>
+        		        <fieldset>
+        <legend>
+			Technical documents        </legend>
+				                                                <div class="resource">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Concepts and Definitions</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/134" title="http://164.100.34.62/index.php/ddibrowser/19/download/134" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 45.97 KB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                                                                <div class="alternate">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Estimation Procedure</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/135" title="http://164.100.34.62/index.php/ddibrowser/19/download/135" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 839.13 KB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                                                                <div class="resource">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Instruction to field staff</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/136" title="http://164.100.34.62/index.php/ddibrowser/19/download/136" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 732.39 KB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                                                                <div class="alternate">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Distribution of Sample Village and Block</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/137" title="http://164.100.34.62/index.php/ddibrowser/19/download/137" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 146.37 KB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                                                                <div class="resource">    	
+                    <div class="resource-left-col">
+                        		
+                        	                        <span>Sub-Stratum Size and Allocation for Sector</span>
+                                            </div>
+                    <div class="resource-right-col">
+                    	<span class="resource-file-size">
+							<a target="_blank" href="http://164.100.34.62/index.php/ddibrowser/19/download/138" title="http://164.100.34.62/index.php/ddibrowser/19/download/138" class="download"><img src="images/acrobat.png" alt="pdf"  title="pdf"/>  - 733.52 KB</a>                        </span>        
+                    </div>
+                    <div style="float:right;font-size:11px;">
+                    </div>
+                    <br style="clear:both;"  />
+
+                                    
+                 </div>
+                    </fieldset>
+        </div>
+</div>
+
+<script type="text/javascript">
+	//show/hide resource
+	function toggle_resource(element_id){
+		$("#"+element_id).toggle();
+	}
+	
+	$(document).ready(function () { 
+		bind_behaviours();
+	});	
+	
+	function bind_behaviours() {
+		//show variable info by id
+		$(".resource-info").unbind('click');
+		$(".resource-info").click(function(){
+			if($(this).attr("id")!=''){
+				toggle_resource('info_'+$(this).attr("id"));
+			}
+			return false;
+		});	
+	}
+</script></div>
+
+</div>
+
+<div class="ddi-sidebar" >
+	
+<!--overview-->
+<div class="left-bar-section">
+    <ul>
+    <li class="item section-header"><a href="http://164.100.34.62/index.php/catalog/19" class="ajax">Study Information</a></li>
+    <li class="item section-header"><a href="http://164.100.34.62/index.php/catalog/19/overview" class="ajax">Overview</a></li>
+    </ul>
+	<!-- IE -->
+    		
+            
+</div>
+
+
+<!--tech-info-->
+<div class="section-header">
+	<div><img src="images/database_table.png" border="0"/> Technical Information</div>
+    <ul class="filetree">
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/sampling" class="ajax">Sampling</a></li>     
+                        
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/questionnaires" class="ajax">Questionnaires</a></li>     
+                        
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datacollection" class="ajax">Data collection</a></li>     
+                        
+                                
+                                
+                <!--technical documents -->
+	    			<li ><a href="http://164.100.34.62/index.php/catalog/19/technicaldocuments" class="ajax">Technical documents</a></li>
+                
+
+        <!-- other materials-->
+            </ul> 	
+</div>
+
+
+<!-- Tables and reports -->
+<div class="section-header">
+	<div><img src="images/database_table.png" border="0"/> Tabulation and Analysis</div>
+    <ul class="filetree" >
+	    	    			<li><a href="http://164.100.34.62/index.php/catalog/19/reports" class="ajax">Reports</a></li>
+                
+	            
+    </ul> 	
+</div>
+
+<!--datasets-->
+<div class="left-bar-section">
+    <img src="images/folder_page_white.png" border="0"/> Datasets</div>    
+<ul id="browser" class="filetree">
+	<li>	
+    	<!--access policy-->
+	    <img src="images/page_white_key.png" border="0"/> <a href="http://164.100.34.62/index.php/catalog/19/accesspolicy" class="ajax">Access policy</a>    </li>
+    	
+    
+	    <li>
+    	<span class="folder">&nbsp;<a href="http://164.100.34.62/index.php/catalog/19/datafiles">Data Files</a></span>
+        <ul>
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datafile/F18" class="ajax" title="Identification of Sample Household">Identification of Sa</a></li>
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datafile/F19" class="ajax" title="Household Characteristics">Household Characteri</a></li>
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datafile/F20" class="ajax" title="Demographic and other particulars of household members">Demographic and othe</a></li>
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datafile/F21" class="ajax" title="Consumption of cereals, pulses, milk and milk products, sugar and salt during the last 30 days">Consumption of cerea</a></li>
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datafile/F23" class="ajax" title="Consumption of clothing, bedding and footwear during last 30 and 365 days">Consumption of cloth</a></li>
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datafile/F24" class="ajax" title="Expenditure on education and medical (institutional) goods and services">Expenditure on educa</a></li>
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datafile/F26" class="ajax" title="Expenditure on miscellaneous goods and services including medical (non-institutional), rents and taxes during the last 30 days">Expenditure on misce</a></li>
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datafile/F25" class="ajax" title="Expenditure for purchase and construction (including repair and maintenance) of durable goods for domestic use">Expenditure for purc</a></li>
+                                    <li><a href="http://164.100.34.62/index.php/catalog/19/datafile/F22" class="ajax" title="Summary of comsumer expenditure">Summary of comsumer </a></li>
+                    </ul>
+    </li>
+	    
+              	<li><span class="folder">Variable groups</span>
+    		<ul><li><a class="ajax" href="http://164.100.34.62/index.php/ddibrowser/19/vargrp/VG1"></a></span></ul>        </li>    
+    	    <li>
+    	<!--variable search-->
+	    <img src="images/page_white_find.png" border="0"/> <a href="http://164.100.34.62/index.php/catalog/19/search" class="ajax">Variable Search</a>    </li>
+    </ul>
+
+<!-- export-->
+
+<div class="left-bar-section" style="margin-top:5px;">
+   <img border="0" title="Study Metadata (DDI)" alt="DDI" src="images/ddi-logo.gif" /> 
+   <a href="http://164.100.34.62/index.php/catalog/ddi/19" title="Study metadata in DDI format"  rel="nofollow">
+             Metadata in XML</a>
+</div></div>
+<br style="clear:both;"/>                </div>
+            		</div>
+
+    <!-- footer -->
+    <div id="ft">Powered by NADA 3.0 and DDI-
+Computer Centre, East Block-10 R K  Puram, New Delhi-110066, India </div>
+	<!--end bd-->
+    </div>
+
+</div>
+</div>
+<div style="padding-bottom:100px;">&nbsp;</div>
+</body>
+</html>

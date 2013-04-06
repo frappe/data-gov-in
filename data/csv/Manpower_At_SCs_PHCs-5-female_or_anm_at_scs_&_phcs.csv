@@ -1,0 +1,37 @@
+"S. No.","State/UT","[R1] Required1               ","[S] Sanctioned","[P] In Position","[S-P] Vacant","[R1-P] Shortfall1                      "
+1.0,"Andhra Pradesh",14146.0,24523.0,21647.0,2876.0,"NULL"
+2.0,"Arunachal Pradesh",383.0,"NA",395.0,"NA","NULL"
+3.0,"Assam",5542.0,"NA",8723.0,"NA","NULL"
+4.0,"Bihar",11559.0,"NA",16943.0,"NA","NULL"
+5.0,"Chhattisgarh",5817.0,6394.0,5430.0,964.0,387.0
+6.0,"Goa",194.0,260.0,240.0,20.0,"NULL"
+7.0,"Gujarat",8397.0,7248.0,6431.0,817.0,1966.0
+8.0,"Haryana",2952.0,5420.0,5034.0,386.0,"NULL"
+9.0,"Himachal Pradesh",2520.0,2213.0,1685.0,528.0,835.0
+10.0,"Jammu & Kashmir",2304.0,2282.0,3777.0,"NULL","NULL"
+11.0,"Jharkhand",4288.0,4288.0,6372.0,"NULL","NULL"
+12.0,"Karnataka",11180.0,11180.0,11433.0,"NULL","NULL"
+13.0,"Kerala",5384.0,4232.0,4173.0,59.0,1211.0
+14.0,"Madhya Pradesh ",10025.0,11904.0,12516.0,"NULL","NULL"
+15.0,"Maharashtra",12389.0,21122.0,21726.0,"NULL","NULL"
+16.0,"Manipur",500.0,984.0,661.0,323.0,"NULL"
+17.0,"Meghalaya",514.0,667.0,787.0,"NULL","NULL"
+18.0,"Mizoram",427.0,388.0,619.0,"NULL","NULL"
+19.0,"Nagaland",522.0,"NA",907.0,"NA","NULL"
+20.0,"Odisha##",7916.0,7442.0,7934.0,"NULL","NULL"
+21.0,"Punjab",3396.0,4044.0,4096.0,"NULL","NULL"
+22.0,"Rajasthan",13004.0,14348.0,17638.0,"NULL","NULL"
+23.0,"Sikkim",170.0,219.0,292.0,"NULL","NULL"
+24.0,"Tamil Nadu",9910.0,9910.0,9774.0,136.0,136.0
+25.0,"Tripura",711.0,"NA",440.0,"NA",271.0
+26.0,"Uttarakhand",2004.0,2077.0,2192.0,"NULL","NULL"
+27.0,"Uttar Pradesh3",24213.0,25190.0,22464.0,2726.0,1749.0
+28.0,"West Bengal",11265.0,10356.0,12966.0,"NULL","NULL"
+29.0,"A& N Islands",133.0,214.0,214.0,0.0,"NULL"
+30.0,"Chandigarh",17.0,17.0,29.0,"NULL","NULL"
+31.0,"D & N Haveli",56.0,40.0,81.0,"NULL","NULL"
+32.0,"Daman & Diu",29.0,26.0,40.0,"NULL","NULL"
+33.0,"Delhi##",49.0,43.0,54.0,"NULL","NULL"
+34.0,"Lakshadweep",18.0,"NA",31.0,"NA","NULL"
+35.0,"Puducherry",77.0,72.0,124.0,"NULL","NULL"
+36.0,"All India Total",172011.0,177103.0,207868.0,8835.0,6555.0

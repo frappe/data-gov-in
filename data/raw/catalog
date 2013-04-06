@@ -1,0 +1,653 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Data Catalog</title>
+<base href="http://164.100.34.62/">
+
+<link rel="stylesheet" type="text/css" href="themes/wb/reset-fonts-grids.css" />
+<link rel="stylesheet" type="text/css" href="themes/wb/styles.css" />
+<link rel="stylesheet" type="text/css" href="themes/wb/forms.css" />
+
+<script type="text/javascript" src="javascript/jquery.js"></script>
+
+<link type="text/css" rel="stylesheet" href="http://164.100.34.62/javascript/jquery/themes/ui-lightness/ui.core.css" /><link type="text/css" rel="stylesheet" href="http://164.100.34.62/javascript/jquery/themes/ui-lightness/ui.base.css" /><link type="text/css" rel="stylesheet" href="http://164.100.34.62/javascript/jquery/themes/ui-lightness/ui.accordion.css" /><link type="text/css" rel="stylesheet" href="http://164.100.34.62/javascript/jquery/themes/ui-lightness/ui.theme.css" /><link type="text/css" rel="stylesheet" href="http://164.100.34.62/themes/wb/datacatalog.css" /><script type="text/javascript" src="http://164.100.34.62/javascript/datacatalog.js"></script><script type="text/javascript" src="http://164.100.34.62/javascript/ui.core.js"></script><script type="text/javascript" src="http://164.100.34.62/javascript/jquery/ui/ui.accordion.js"></script><script type="text/javascript" src="http://164.100.34.62/javascript/jquery.blockui.js"></script>
+<script type="text/javascript"> 
+   var CI = {'base_url': 'http://164.100.34.62/index.php'}; 
+</script> 
+
+</head>
+<body>
+<div id="custom-doc" class="yui-t7" > 
+	<!--login information bar-->
+    <span id="user-container">
+    
+<div id="user-bar">
+<div class="user-box">
+    <a href="http://164.100.34.62/index.php/auth/login">Login</a> | 
+    	
+    <a href="http://164.100.34.62/index.php/auth/register">Register</a>
+        </div>
+</div>
+    </span>
+    
+    <!-- header -->
+    <div id="hd">
+       	<!-- logo -->
+        <div class="site-logo">
+        	<a title="Micro Data Archive - Home Page"  href="http://164.100.34.62/index.php">
+            <img src="themes/wb/logo.gif"  border="0" alt="Logo"/>
+            </a>
+        </div>
+    </div>
+    
+    <div id="bd" >
+    	<!-- banner-->
+        <div id="banner">Micro Data Archive</div>
+        
+        <div id="inner-body">
+            <!-- menu -->
+                        <div class="menu-horizontal">
+                    <ul>
+		
+
+	
+                
+		<li >
+        	<a  href="http://164.100.34.62/index.php/home">Home</a>
+        </li>
+		
+
+	
+                
+		<li class="selected">
+        	<a  href="http://164.100.34.62/index.php/catalog">Microdata  Catalog</a>
+        </li>
+		
+
+	
+                
+		<li >
+        	<a  href="http://164.100.34.62/index.php/access">Data Access</a>
+        </li>
+		
+
+	
+                
+		<li >
+        	<a  href="http://mospi.nic.in/Mospi_New/site/home.aspx">Mospi Home</a>
+        </li>
+</ul>
+                    <br style="clear:both;"/>
+             </div>
+                    
+                            <div id="content" class="yui-b" >
+                
+                	<!--share-bar -->
+                    <div id="page-tools">
+					<style>
+.share-bar-container{position:relative;text-align:right;border:0px solid blue;margin-left:auto;margin-right:0px;z-index:899;height:35px;}
+ul.share-bar{position:absolute;border:0px solid red;height:30px;width:auto;text-align:left;right:0px;z-index:999}
+ul.share-bar li{float:left;margin-left:3px;border:0px solid blue;padding:5px;position:relative;height:24px;vertical-align:baseline}
+ul.share-bar .item-body{position:absolute;height:100px;width:100px;background:white;border:2px solid #CCCCCC;right:0px;z-index:100}
+
+ul.share-bar ul{display:none;position:absolute;width:220px;background:#F7F7F7;right:0px;top:24px;padding:10px;border:4px solid #CCCCCC;z-index:1000}
+ul.share-bar ul li{float:left;width:45%;font-size:11px;margin:0px;padding:5px;}
+ul.share-bar ul li:hover{background-color:#FBFBFB; cursor:pointer}
+ur.share-bar ul li img{vertical-align:baseline}
+ul.share-bar li.active ul{display:block;}
+ul.share-bar li.active{background-color:#CCCCCC}
+a.share{background:url("images/shared_open.gif") no-repeat left center;padding-left:20px;color:#999999;text-transform:uppercase;font-size:11px}
+.active a.share{background:url("images/shared_close.gif") no-repeat left center;color:black;}
+ul.share-bar img{vertical-align:baseline}
+
+</style>
+
+<div class="share-bar-container">
+<ul class="share-bar">
+    <li><a target="_blank" rel="nofollow" href="http://164.100.34.62/index.php/catalog/?print=yes"><img src="images/print.gif" alt="Print"/></a></li>
+    <li><a rel="nofollow" href="mailto:?subject=Data Catalog&amp;body=http://164.100.34.62/index.php/catalog"><img src="images/email.png" alt="Email"/></a></li>
+    <li>
+    	<a href="#" class="share">Share</a>
+        <ul class="">
+            <li><a title="Share with Digg "target="_blank" href="http://digg.com/submit?url=http://164.100.34.62/index.php/catalog&title=Data Catalog"><img src="images/icons/digg16.png"/> Digg</a></li>
+            <li><a title="Share with Google Buzz" target="_blank" href="http://www.google.com/buzz/post?message=Data Catalog&url=http://164.100.34.62/index.php/catalog"><img src="images/icons/buzz16.png"/> Google Buzz</a></li>
+            <li><a title="Share with LinkedIn" target="_blank" href="http://www.linkedin.com/cws/share?url=http://164.100.34.62/index.php/catalog&title=Data Catalog&source=http://164.100.34.62/index.php"><img src="images/icons/linkedin16.png"/> LinkedIn</a></li>
+            <li><a title="Share with Stumbleupon" target="_blank" href="http://www.stumbleupon.com/submit?url=http://164.100.34.62/index.php/catalog&title=Data Catalog"><img src="images/icons/stumbleupon16.png"/> Stumbleupon</a></li>
+            <li><a title="Share with Delicious" target="_blank" href="http://www.delicious.com/save?v=5&noui&jump=close&url=http://164.100.34.62/index.php/catalog&title=Data Catalog"><img src="images/icons/delicious16.png"/> Delicious</a></li>
+        </ul>
+    </li>
+    <li><a target="_blank" 	title="Share with Facebook"	href="http://www.facebook.com/sharer.php?u=http://164.100.34.62/index.php/catalog&t=Data Catalog&src=sp"><img src="images/facebook.png"/></a></li>
+    <li><a target="_blank" title="Share with Twitter"href="http://twitter.com/share?_=original_referer=http://164.100.34.62/index.php/catalog&text=Data Catalog&url=http://164.100.34.62/index.php/catalog"><img src="images/twitter.png" alt="Twitter" /></a></li>
+</ul>
+</div>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$('.share-bar .share').click(toggle_menu);
+	function toggle_menu(event)
+	{
+		if ($(this).parent().is(".active"))
+		{
+			$(this).parent().removeClass("active");
+		}
+		else
+		{
+			$(this).parent().addClass('active');
+		}	
+		event.stopPropagation();
+		return false;
+	}
+	
+	$('body').click(function(event) {
+ 		//hide the share box
+		if(!$(event.target).is('.active ul, .active li'))
+		{
+			$('.share-bar .active').removeClass("active");
+		}
+ 	});
+ 
+});
+</script>
+                	</div>
+                
+                    <!--breadcrumbs -->
+                    	    <div class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+           <span typeof="v:Breadcrumb">
+                		         <a href="http://164.100.34.62/index.php/" rel="v:url" property="v:title">
+    	      	Home        	</a> ›
+                        
+       </span>
+                  <span typeof="v:Breadcrumb">
+        	         	         <a class="active" href="http://164.100.34.62/index.php/catalog" rel="v:url" property="v:title">
+    	      	Data catalog        	</a>
+                        
+       </span>
+               </div>
+                                        
+					<table width="100%" class="catalog-page-title" cellpadding="0" cellspacing="0" border="0">
+<tr valign="baseline">
+<td><h1>Data Catalog</h1></td>
+<td align="right">
+<div class="page-links">
+	<a id="link_export" title="Export search result" href="http://164.100.34.62/index.php/catalog/export"><img src="images/export.gif" border="0" alt="Export"/></a>
+    <a title="RSS feed" href="http://164.100.34.62/index.php/catalog/rss" target="_blank"><img src="images/rss_icon.png" border="0" alt="RSS"/></a>
+</div>
+</td>
+</tr>
+</table>
+
+<form name="search_form" id="search_form" method="get" autocomplete = "off">
+<input type="hidden" id="view" name="view" value="s"/>
+<input type="hidden" id="ps" name="ps" value="15"/>
+<div id="accordion" > 
+	        </div>
+	<div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" style="padding:5px;">
+   	        <input type="hidden"/>
+        <div style="margin-left:35px;font-style:normal;color:black;font-weight:normal;margin-bottom:5px;clear:both;">
+        <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td>Show studies conducted between&nbsp;</td>
+                <td><input type="hidden"/><select name="from" id="from">
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+</select></td>
+                <td>&nbsp;and&nbsp;</td>
+                <td><select name="to" id="to">
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011" selected="selected">2011</option>
+</select></td>
+            </tr>
+        </table>
+        </div>
+		
+		<div class="variable-search">
+    		Find <input maxlength="100" type="text" name="sk" value="" style="margin-left:10px;margin-right:5px;width:65%;"/> in study description		</div>    
+        
+        <div class="variable-search" style="margin-top:5px;">
+        	Find <input maxlength="100"  type="text" name="vk" value="" style="margin-left:10px;margin-right:5px;width:65%;"/> in variable description
+			<div style="margin-left:37px;font-size:11px;margin-top:5px;">
+            Variable description includes: 
+			<input type="checkbox" name="vf[]" id="name" value="name"  /><label for="label">Name </label>
+            <input type="checkbox" name="vf[]" id="label" value="labl" /><label for="label">Label </label>
+            <input type="checkbox" name="vf[]" id="question" value="qstn"  /><label for="question">Question </label>
+            <input type="checkbox" name="vf[]" id="categories" value="catgry"  /><label for="categories">Classification </label>
+			</div>                    
+        </div>
+
+		<div style="text-align:right;margin-top:-15px;" class="search-buttons">
+        	<input class="button" type="submit" id="btnsearch" name="search" value="Search"/>
+            <input class="btn-cancel" type="button" id="reset" name="reset" onclick="window.location.href='http://164.100.34.62/index.php/catalog/?reset=reset'"  value="Reset"/>
+		</div> 
+    </div>
+
+	<div id="surveys"><table style="width:100%;" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<div class="catalog-sort-links">
+Sort results by:
+<a href="http://164.100.34.62/index.php/catalog/?sort_by=proddate&sort_order=asc&">Year</a>| <a class="selected" href="http://164.100.34.62/index.php/catalog/?sort_by=titl&sort_order=desc&">Title <img src="images/arrow-desc.png" alt="DESC" border="0"/></a></div>
+</td>
+<td align="right">
+	 
+</td>
+</tr>
+</table>
+
+<div class="pagination">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr valign="middle">
+	<td>Found <b>118</b> studies out of <b>118</b>   </td>
+    <td align="right">
+        <span class="page-link">
+        	                        </span>  
+        
+		        
+		Page <select name="page" id="page" onchange="advanced_search()"><option selected="selected">1</option><option >2</option><option >3</option><option >4</option><option >5</option><option >6</option><option >7</option><option >8</option></select> of 8                                    
+		<span class="page-link">
+                	<a title="Next page" href="http://164.100.34.62/index.php/catalog/?&page=2" onclick="search_page(2);return false;">&raquo;</a>
+                </span>
+    </td>
+</tr>
+</table>
+</div>
+
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/109"  title="Annual Survey of Industries (Detail) 1983-84" >
+					                	Annual Survey of Industries (Detail) 1983-84                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/107"  title="Annual Survey of Industries (Detail) 1984-85" >
+					                	Annual Survey of Industries (Detail) 1984-85                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/76"  title="Annual Survey of Industries 1989-90" >
+					                	Annual Survey of Industries 1989-90                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/75"  title="Annual Survey of Industries 1993-94" >
+					                	Annual Survey of Industries 1993-94                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/68"  title="Annual Survey of Industries 1994-95" >
+					                	Annual Survey of Industries 1994-95                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/69"  title="Annual Survey of Industries 1996-97" >
+					                	Annual Survey of Industries 1996-97                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/63"  title="Annual Survey of Industries 1997-98" >
+					                	Annual Survey of Industries 1997-98                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/55"  title="Annual Survey of Industries 1998-99" >
+					                	Annual Survey of Industries 1998-99                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/48"  title="Annual Survey of Industries 1999-2000" >
+					                	Annual Survey of Industries 1999-2000                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/82"  title="Annual Survey of Industries 2000-01" >
+					                	Annual Survey of Industries 2000-01                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/83"  title="Annual Survey of Industries 2001-02" >
+					                	Annual Survey of Industries 2001-02                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/37"  title="Annual Survey of Industries 2002-03" >
+					                	Annual Survey of Industries 2002-03                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/40"  title="Annual Survey of Industries 2003-04" >
+					                	Annual Survey of Industries 2003-04                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/34"  title="Annual Survey of Industries 2004-05" >
+					                	Annual Survey of Industries 2004-05                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing), MOSPI, Government of India                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+		<div class="survey-row">
+        <div class="left">
+            <div class="title">
+                        
+                <a href="http://164.100.34.62/index.php/catalog/17"  title="Annual Survey of Industries 2005-06" >
+					                	Annual Survey of Industries 2005-06                </a>
+			            </div>
+            <div class="sub-title">By: 
+				                                	Central Statistics Office (Industrial Statistics Wing)                            </div>
+                                        
+		</div>
+		<div class="right">
+       		    
+        </div>
+        
+                      		
+    </div>    
+
+<div class="pagination">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr valign="middle">
+	<td>
+		Showing <b>1-15</b> of <b>118</b> studies   </td>
+    <td align="right">
+        <span class="page-link">
+        	                        </span>  
+        
+		        
+		Page <select name="page2" id="page2" onchange="navigate_page()"><option selected="selected">1</option><option >2</option><option >3</option><option >4</option><option >5</option><option >6</option><option >7</option><option >8</option></select> of 8                                    
+		<span class="page-link">
+                	<a title="Next page" href="http://164.100.34.62/index.php/catalog/?&page=2" onclick="search_page(2);return false;">&raquo;</a>
+                </span>
+    </td>
+</tr>
+</table>
+</div>
+<div class="light switch-page-size">
+    Select number of records to show per page:
+    <span class="btn">15</span>
+    <span class="btn">30</span>
+    <span class="btn">50</span>
+    <span class="btn">100</span>
+</div>
+
+<div class="da-legend">
+<span title="link_data_direct"><img src="images/form_direct.gif" /> Direct access</span>
+<span  title="Microdata request form (Public access)"><img src="images/form_public.gif" /> Public use files</span>
+<span title="Microdata request form (Licensed)"><img src="images/form_licensed.gif" /> Licensed data files</span>
+<span title="Microdata request form(Data Enclave)"><img src="images/form_enclave.gif" /> Data enclave</span>
+<span title="Microdata available from external repository"><img src="images/form_remote.gif" /> Data available from external repository</span>
+</div>
+<script type="text/javascript">
+	var sort_info = {'sort_by': 'titl', 'sort_order': ''};
+</script>
+</div>
+    
+</form> 
+ 
+
+<script type="text/javascript">
+//translations	
+var i18n=
+{
+'searching':"Searching, please wait...",
+'loading':"Loading, please wait...",
+'invalid_year_range_selected':"Invalid year range selected.",
+'topic_selected':"topic selected",
+'topics_selected':"topics selected",
+'collection_selected':"js_collection_selected",
+'collections_selected':"js_collections_selected",
+'country_selected':"country selected",
+'countries_selected':"countries selected",
+'cancel':"Cancel"
+};
+
+//min/max years
+var years = {'from': '1975', 'to': '2011'}; 
+</script>                </div>
+            		</div>
+
+    <!-- footer -->
+    <div id="ft">Powered by NADA 3.0 and DDI-
+Computer Centre, East Block-10 R K  Puram, New Delhi-110066, India </div>
+	<!--end bd-->
+    </div>
+
+</div>
+</div>
+<div style="padding-bottom:100px;">&nbsp;</div>
+</body>
+</html>

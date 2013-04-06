@@ -1,0 +1,5 @@
+"PULSED COUPLED CAVITY TWT","Frequency","Peak Output Power(kW)","Gain (rated Power) dB","Gain Equalisation (dB)","Duty Cycle","Pulse Width (µs)","Band Width(MHz)","Beam Voltage(kv)","Beam Current(A)","Output","Weight(Kg)"
+"MPC 5070","Ku Band",10.0,45.0,"±2",0.025,10.0,"NA","NA","NA","WR 62","NA"
+"MPC 2081","S Band",130.0,47.0,"NA",0.045,100.0,400.0,45.0,16.0,"WR 284","NA"
+"MPC 4068","X Band",6.5,38.0,"±0.5",10.0,80.0,200.0,"NA","NA","WR 90",3.0
+"MICROWAVE POWER MODULE (MPM)","C-X-Ku",0.08,50.0,"NA","CW","NA","NA","NA","NA","NA","NA"

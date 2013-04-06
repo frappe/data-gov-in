@@ -1,0 +1,1269 @@
+State,District,Market,Commodity,Variety,Date,MIN Price,MAX Price,MODAL Price
+Assam,Darrang,Kharupetia,Rice,Coarse,03/20/2001,850,1050,1000
+Gujarat,Dahod,Dahod,Rice,Other,12/11/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/12/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/13/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/14/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/15/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/18/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/19/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/20/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/21/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/22/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/24/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/26/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/27/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/28/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/29/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/31/2001,650,650,650
+Gujarat,Vadodara(Baroda),Vadodara,Rice,IR-8,12/28/2001,850,850,850
+Gujarat,Vadodara(Baroda),Vadodara,Rice,IR-8,12/29/2001,850,850,850
+Gujarat,Vadodara(Baroda),Vadodara,Rice,IR-8,12/31/2001,850,850,850
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Other,12/28/2001,1100,1200,1150
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Other,12/29/2001,1100,1200,1160
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Other,12/31/2001,1100,1200,1150
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Parmal,12/27/2001,690,700,700
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Parmal,12/28/2001,690,700,700
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Parmal,12/29/2001,690,700,700
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Parmal,12/31/2001,690,700,700
+Haryana,Ambala,Ambala City,Rice,Basmati-370,03/28/2001,10,30,20
+Haryana,Ambala,Ambala City,Rice,Basmati-370,08/31/2001,1000,1500,1300
+Haryana,Ambala,Ambala City,Rice,PR-103,08/31/2001,450,600,550
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/01/2001,900,1000,950
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/02/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/03/2001,900,1000,950
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/04/2001,900,1000,950
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/06/2001,950,1050,1000
+Karnataka,Bangalore,Bangalore,Rice,Coarse,09/01/2001,900,1200,1050
+Karnataka,Bangalore,Bangalore,Rice,Coarse,09/10/2001,1000,1100,1050
+Karnataka,Bangalore,Bangalore,Rice,Coarse,10/16/2001,950,1100,1025
+Karnataka,Bangalore,Bangalore,Rice,Coarse,12/20/2001,0,500,400
+Karnataka,Bangalore,Bangalore,Rice,Dappa,12/20/2001,950,1100,1025
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/01/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/02/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/03/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/04/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/06/2001,1650,1800,1725
+Karnataka,Bangalore,Bangalore,Rice,Fine,09/01/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,09/10/2001,1750,1850,0
+Karnataka,Bangalore,Bangalore,Rice,Fine,10/16/2001,1800,1900,1850
+Karnataka,Bangalore,Bangalore,Rice,Fine,12/20/2001,1800,1900,1850
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/01/2001,1450,1500,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/02/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/03/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/04/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/06/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,09/01/2001,1500,1600,1550
+Karnataka,Bangalore,Bangalore,Rice,Medium,09/10/2001,1500,1600,1550
+Karnataka,Bangalore,Bangalore,Rice,Medium,10/16/2001,1600,1700,1650
+Karnataka,Bangalore,Bangalore,Rice,Medium,12/20/2001,1550,1650,1600
+Karnataka,Bangalore,Bangalore,Rice,Other,11/15/2001,1800,1900,1850
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Dappa,12/19/2001,800,1050,950
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Dappa,12/21/2001,800,1050,950
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Dappa,12/27/2001,800,1050,950
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Dappa,12/28/2001,750,950,900
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Fine,12/19/2001,1400,1850,1500
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Fine,12/21/2001,1400,1850,1600
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Fine,12/27/2001,1400,1850,1600
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Fine,12/28/2001,1450,1850,1500
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Medium,12/19/2001,1200,1350,1300
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Medium,12/21/2001,1200,1350,1300
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Medium,12/27/2001,1200,1350,1300
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Medium,12/28/2001,1200,1350,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati (Rose),09/17/2001,3600,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati (Rose),09/20/2001,3200,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati (Rose),11/06/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,09/17/2001,3500,4000,3800
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,09/20/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,09/25/2001,3200,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/03/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/05/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/09/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/16/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/23/2001,2500,3500,3000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/30/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/02/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/06/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/16/2001,2700,3400,3100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/20/2001,2600,3400,3000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/30/2001,2800,3400,3100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,12/07/2001,2700,3400,3100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,09/17/2001,3200,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,09/20/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,09/25/2001,3500,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/03/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/05/2001,3400,4000,3700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/09/2001,3300,4000,3700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/16/2001,3200,4000,3700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/23/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/30/2001,3000,3800,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/02/2001,3000,3800,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/06/2001,3000,3800,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/16/2001,3000,3800,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/20/2001,3000,3600,3300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/30/2001,3000,3500,3300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,12/07/2001,3000,3400,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,09/17/2001,5000,6000,5500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,09/20/2001,4500,6000,5500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,09/25/2001,4800,6000,5500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/03/2001,4500,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/05/2001,4300,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/09/2001,4300,5000,4700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/16/2001,4000,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/23/2001,4000,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/30/2001,4000,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/02/2001,4000,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/06/2001,4200,5000,4600
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/16/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/20/2001,3800,4500,4200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/30/2001,3600,4400,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,12/07/2001,3600,4400,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,09/17/2001,4400,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,09/20/2001,4300,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,09/25/2001,4500,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/03/2001,4300,5000,4700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/05/2001,4200,5000,4600
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/09/2001,4200,5000,4600
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/16/2001,4200,5000,4700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/23/2001,4000,4800,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/30/2001,4000,4800,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/02/2001,4000,4800,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/06/2001,4000,4800,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/16/2001,3800,4400,4100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/20/2001,3800,4400,4100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/30/2001,3800,4200,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,12/07/2001,3800,4200,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,09/17/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,09/20/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,09/25/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/03/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/05/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/09/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/16/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/23/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/30/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/02/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/06/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/16/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/20/2001,4000,4400,4200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/30/2001,4000,4400,4200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,12/07/2001,4000,4400,4200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,09/17/2001,1000,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,11/16/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,11/20/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,11/30/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,12/07/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,09/20/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,09/25/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/03/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/05/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/09/2001,1150,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/16/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/23/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/30/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/02/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/06/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/16/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/20/2001,1180,1250,1220
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/30/2001,1150,1250,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,12/07/2001,1150,1250,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),09/20/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),09/25/2001,1000,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/03/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/05/2001,950,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/09/2001,900,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/16/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/23/2001,950,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/30/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/02/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/06/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/16/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/20/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/30/2001,930,1030,980
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),12/07/2001,1000,1100,1050
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,09/17/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,09/20/2001,1100,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,09/25/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/03/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/05/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/09/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/16/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/23/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/30/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/02/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/06/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/16/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/20/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/30/2001,1100,1250,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,09/17/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,09/20/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,09/25/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/03/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/05/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/09/2001,1300,1500,1400
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/16/2001,1400,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/23/2001,1400,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/30/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,11/02/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,11/06/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,11/16/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,11/20/2001,1250,1400,1350
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni (Fine) Boiled,09/17/2001,1200,1500,1400
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni (Fine) Boiled,11/30/2001,1300,1500,1400
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni (Fine) Boiled,12/07/2001,1300,1500,1400
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni Fine Raw,09/17/2001,1100,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni Fine Raw,10/03/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni Fine Raw,10/05/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni Fine Raw,10/09/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,09/20/2001,1050,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,09/25/2001,1000,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/03/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/05/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/09/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/16/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/23/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/30/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/02/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/06/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/16/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/20/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/30/2001,1180,1250,1225
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,12/07/2001,1150,1250,1200
+Maharashtra,Kolhapur,Kolhapur,Rice,Pusa Basmati Raw (New),06/14/2001,2200,2300,2250
+Maharashtra,Kolhapur,Kolhapur,Rice,Pusa Basmati Raw (Old),06/14/2001,2000,2050,2025
+Maharashtra,Kolhapur,Kolhapur,Rice,Pusa Basmati Sela (Old),06/14/2001,1850,1950,1900
+Maharashtra,Kolhapur,Kolhapur,Rice,Sona Mansoori Non Basmati,06/14/2001,1200,1250,1225
+Maharashtra,Mumbai,Mumbai,Rice,Basmati Charmi,06/02/2001,2500,2950,2725
+Maharashtra,Mumbai,Mumbai,Rice,Basmati Charmi,06/04/2001,2500,2900,2700
+Maharashtra,Mumbai,Mumbai,Rice,Basmati Golden Sela New,07/10/2001,2500,2900,2700
+Maharashtra,Mumbai,Mumbai,Rice,Basmati Paddy,07/11/2001,2500,2900,2700
+Maharashtra,Mumbai,Mumbai,Rice,IR-8,07/17/2001,950,1325,1125
+Maharashtra,Mumbai,Mumbai,Rice,Kolam-Non Basmati,06/02/2001,2000,2500,2250
+Maharashtra,Mumbai,Mumbai,Rice,Kolam-Non Basmati,06/04/2001,2000,2500,2250
+Maharashtra,Mumbai,Mumbai,Rice,Kolam-Non Basmati,07/17/2001,2200,2500,2350
+Maharashtra,Mumbai,Mumbai,Rice,Masoori-Non Basmti,07/17/2001,1000,1150,1075
+Maharashtra,Mumbai,Mumbai,Rice,Masuri,06/02/2001,1750,1850,1800
+Maharashtra,Mumbai,Mumbai,Rice,Masuri,06/04/2001,1000,1150,1075
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,05/26/2001,1100,1350,1225
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/02/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/05/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/07/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/08/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/09/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/11/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/13/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/14/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/18/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/19/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/20/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/21/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/29/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/30/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/03/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/04/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/05/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/06/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/07/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/09/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/10/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/11/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/12/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/13/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/14/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/16/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/17/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/18/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/20/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/21/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/23/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/01/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/03/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/04/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/06/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/08/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/09/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/10/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/11/2001,1150,1948,1550
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/16/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/17/2001,1150,1450,1350
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/18/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/19/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/23/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/29/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/30/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/31/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/01/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/03/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/05/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/06/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/07/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/08/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/10/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/11/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/12/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/13/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/14/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/15/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/22/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,10/20/2001,1200,1450,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,10/23/2001,1200,1450,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/03/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/05/2001,1200,1500,1350
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/21/2001,1200,1500,1350
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/22/2001,1200,1500,1450
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/24/2001,1200,1500,1450
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/26/2001,1200,1500,1350
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/27/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/30/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/03/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/04/2001,1100,1550,1250
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/05/2001,1100,1550,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/07/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/08/2001,1100,1150,1125
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/10/2001,1100,1550,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/11/2001,1100,1550,1225
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/12/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/13/2001,1100,1550,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/18/2001,1100,1500,1250
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/24/2001,1100,1500,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/27/2001,1200,1400,1300
+Maharashtra,Pune,Pune,Rice,Basmati-370,07/27/2001,700,3300,1200
+Maharashtra,Pune,Pune,Rice,Fine,04/10/2001,750,1900,1400
+Maharashtra,Pune,Pune,Rice,Fine,04/18/2001,700,3200,2000
+Maharashtra,Pune,Pune,Rice,Fine,04/20/2001,650,3400,2000
+Maharashtra,Pune,Pune,Rice,Fine,04/27/2001,300,350,325
+Maharashtra,Pune,Pune,Rice,Fine,05/05/2001,600,3000,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/08/2001,701,3200,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/15/2001,1050,3500,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/17/2001,900,3400,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/24/2001,800,3550,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/25/2001,600,3250,2000
+Maharashtra,Pune,Pune,Rice,Medium,06/07/2001,350,650,450
+Maharashtra,Pune,Pune,Rice,Medium,06/12/2001,950,3300,2000
+Maharashtra,Pune,Pune,Rice,Medium,06/16/2001,1000,3500,2000
+Maharashtra,Pune,Pune,Rice,Medium,06/18/2001,950,3600,2000
+Maharashtra,Sangli,Sangli,Rice,Medium,12/14/2001,700,3550,2100
+Maharashtra,Sangli,Sangli,Rice,Medium,12/18/2001,800,4600,2100
+Nagaland,Kohima,Jalukie,Rice,Fine,04/02/2001,1100,1100,1100
+Nagaland,Kohima,Jalukie,Rice,Super Fine,04/02/2001,1300,1400,1300
+Nagaland,Kohima,Khuzama,Rice,AP Raw Rice 5293,03/12/2001,900,1390,1000
+Nagaland,Kohima,Khuzama,Rice,AP Raw Rice 5293,12/12/2001,900,1280,1000
+NCT of Delhi,Delhi,Narela,Rice,Coarse,09/05/2001,945,945,945
+NCT of Delhi,Delhi,Narela,Rice,Coarse,09/20/2001,1119,1119,1119
+NCT of Delhi,Delhi,Narela,Rice,Coarse,09/24/2001,966,1475,1250
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/01/2001,949,949,949
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/04/2001,511,511,511
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/08/2001,970,970,970
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/11/2001,960,960,960
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/28/2001,735,735,735
+NCT of Delhi,Delhi,Narela,Rice,Coarse,11/02/2001,735,943,850
+NCT of Delhi,Delhi,Narela,Rice,Coarse,11/30/2001,965,965,965
+NCT of Delhi,Delhi,Narela,Rice,Coarse,12/23/2001,915,915,915
+Punjab,Patiala,Samana,Rice,PR-106,10/06/2001,450,560,514
+Punjab,Patiala,Samana,Rice,PR-106,10/22/2001,436,560,533
+Punjab,Patiala,Samana,Rice,PR-106,10/23/2001,421,560,525
+Punjab,Patiala,Samana,Rice,PR-106,11/12/2001,406,560,533
+Punjab,Patiala,Samana,Rice,PR-106,11/20/2001,350,560,520
+Punjab,Patiala,Samana,Rice,PR-106,11/22/2001,301,560,531
+Punjab,Patiala,Samana,Rice,PR-106,11/23/2001,321,550,480
+Rajasthan,Jaipur,Jaipur (Grain),Rice,Fine,09/10/2001,3000,3500,3200
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/13/2001,461,528,500
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/14/2001,470,525,504
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/22/2001,434,554,440
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/27/2001,480,493,490
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/28/2001,440,446,441
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/29/2001,466,480,473
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/30/2001,449,462,452
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/13/2001,534,564,550
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/14/2001,534,581,572
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/22/2001,462,489,488
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/27/2001,528,550,537
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/28/2001,450,464,453
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,04/02/2001,473,500,481
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Medium,03/27/2001,493,520,506
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Medium,03/28/2001,434,501,460
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Medium,04/02/2001,461,478,470
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/22/2001,536,648,541
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/27/2001,501,577,507
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/28/2001,526,541,536
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/29/2001,510,545,536
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/30/2001,461,496,462
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/15/2001,453,490,473
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/16/2001,453,489,473
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/19/2001,455,473,467
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/20/2001,455,472,467
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/21/2001,455,473,467
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/22/2001,437,457,447
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/28/2001,440,450,447
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/15/2001,480,519,506
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/16/2001,481,508,493
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/19/2001,504,511,507
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/20/2001,488,512,500
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/21/2001,481,512,493
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/22/2001,457,505,480
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/28/2001,469,499,480
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/15/2001,521,573,560
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/20/2001,540,565,553
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/21/2001,520,560,547
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/22/2001,537,564,553
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/28/2001,520,569,547
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Super Fine,03/15/2001,480,495,487
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Super Fine,03/16/2001,461,493,480
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Super Fine,03/19/2001,480,497,493
+Tripura,West District,Bishalgarh,Rice,Coarse,07/07/2001,1100,1200,1150
+Tripura,West District,Bishalgarh,Rice,Coarse,07/09/2001,1150,1200,1175
+Tripura,West District,Bishalgarh,Rice,Coarse,07/10/2001,1150,1200,1175
+Tripura,West District,Bishalgarh,Rice,Coarse,07/11/2001,1100,1125,1110
+Tripura,West District,Bishalgarh,Rice,Coarse,07/11/2001,1100,1125,1110
+Tripura,West District,Bishalgarh,Rice,Coarse,07/12/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,07/13/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/16/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/17/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/18/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/19/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/20/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/21/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/23/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/26/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/27/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/28/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/30/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/31/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/01/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/02/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/03/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/04/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/06/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/07/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/13/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/14/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/16/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/18/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/20/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/21/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/22/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/25/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/27/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/28/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/29/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/30/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/01/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/05/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/06/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/07/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/10/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/14/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/15/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/18/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/19/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/20/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/21/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/22/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/24/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/25/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/26/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/27/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/28/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Fine,05/09/2001,1350,1500,1400
+Tripura,West District,Bishalgarh,Rice,Fine,07/02/2001,1400,1450,1420
+Tripura,West District,Bishalgarh,Rice,Fine,07/07/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/09/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/10/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/11/2001,1540,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/11/2001,1540,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/12/2001,1520,1600,1550
+Tripura,West District,Bishalgarh,Rice,Fine,07/13/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/16/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/17/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/18/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/19/2001,1450,1500,1475
+Tripura,West District,Bishalgarh,Rice,Fine,07/20/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/21/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/23/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/26/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/27/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,07/28/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,07/30/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,07/31/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/01/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/02/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/03/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/04/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/06/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/07/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/13/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/14/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/16/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/18/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/20/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/21/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/22/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/25/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/27/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,08/28/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,08/29/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,08/30/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/01/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/05/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/06/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/07/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/10/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/14/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/15/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/18/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/19/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/20/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/21/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/22/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/24/2001,1530,1600,1550
+Tripura,West District,Bishalgarh,Rice,Fine,09/25/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/26/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/27/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/28/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,IR-8,07/07/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,IR-8,07/09/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,IR-8,07/10/2001,1050,1100,1080
+Tripura,West District,Bishalgarh,Rice,IR-8,07/11/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,07/11/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,07/12/2001,1225,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,07/13/2001,1350,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/16/2001,1350,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/17/2001,1350,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/18/2001,1350,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/19/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,07/20/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/21/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/23/2001,1300,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/26/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/27/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,07/28/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/30/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/31/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/01/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/02/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/03/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/04/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/06/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/07/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/13/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/14/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/16/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/18/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/20/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/21/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/22/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/25/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,08/27/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,08/28/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,08/29/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,08/30/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/01/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/05/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/06/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/07/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/10/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,09/14/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,09/15/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,09/18/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/19/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/20/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/21/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/22/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/24/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/25/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/26/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/27/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/28/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,Other,05/09/2001,1050,1200,1100
+West Bengal,24 Parganas,Barasat,Rice,Medium,03/29/2001,840,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,03/30/2001,840,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/03/2001,840,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/04/2001,840,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/11/2001,820,840,830
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/18/2001,800,820,810
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/20/2001,800,820,810
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/30/2001,790,820,810
+West Bengal,24 Parganas,Barasat,Rice,Medium,05/02/2001,790,820,810
+West Bengal,24 Parganas,Barasat,Rice,Medium,05/07/2001,780,800,790
+West Bengal,24 Parganas,Barasat,Rice,Medium,05/23/2001,770,790,780
+West Bengal,24 Parganas,Barasat,Rice,Medium,06/19/2001,820,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,06/20/2001,810,850,840
+West Bengal,24 Parganas,Barasat,Rice,Medium,06/22/2001,810,850,840
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/02/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/03/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/04/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/06/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/07/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/11/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/13/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/16/2001,830,880,860
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/17/2001,830,880,860
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/18/2001,840,900,870
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/20/2001,850,900,870
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/27/2001,870,900,880
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/30/2001,870,900,880
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/31/2001,870,900,880
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/01/2001,870,900,880
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/03/2001,580,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/06/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/07/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/08/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/10/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/13/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/14/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/17/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/20/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/21/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/22/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/24/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/27/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/28/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/29/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/31/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/03/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/04/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/05/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/10/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/11/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/12/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/14/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/18/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/19/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/24/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/25/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,PR-103,03/23/2001,11,23,12
+West Bengal,Malda,Samsi,Rice,Basmati-370,03/16/2001,1800,2200,2100
+West Bengal,Malda,Samsi,Rice,Fine(Basmati),03/16/2001,11,23,12
+State,District,Market,Commodity,Variety,Date,MIN Price,MAX Price,MODAL Price
+Assam,Darrang,Kharupetia,Rice,Coarse,03/20/2001,850,1050,1000
+Gujarat,Dahod,Dahod,Rice,Other,12/11/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/12/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/13/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/14/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/15/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/18/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/19/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/20/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/21/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/22/2001,700,700,700
+Gujarat,Dahod,Dahod,Rice,Other,12/24/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/26/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/27/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/28/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/29/2001,650,650,650
+Gujarat,Dahod,Dahod,Rice,Other,12/31/2001,650,650,650
+Gujarat,Vadodara(Baroda),Vadodara,Rice,IR-8,12/28/2001,850,850,850
+Gujarat,Vadodara(Baroda),Vadodara,Rice,IR-8,12/29/2001,850,850,850
+Gujarat,Vadodara(Baroda),Vadodara,Rice,IR-8,12/31/2001,850,850,850
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Other,12/28/2001,1100,1200,1150
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Other,12/29/2001,1100,1200,1160
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Other,12/31/2001,1100,1200,1150
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Parmal,12/27/2001,690,700,700
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Parmal,12/28/2001,690,700,700
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Parmal,12/29/2001,690,700,700
+Gujarat,Vadodara(Baroda),Vadodara,Rice,Parmal,12/31/2001,690,700,700
+Haryana,Ambala,Ambala City,Rice,Basmati-370,08/31/2001,1000,1500,1300
+Haryana,Ambala,Ambala City,Rice,PR-103,08/31/2001,450,600,550
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/01/2001,900,1000,950
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/02/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/03/2001,900,1000,950
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/04/2001,900,1000,950
+Karnataka,Bangalore,Bangalore,Rice,Coarse,08/06/2001,950,1050,1000
+Karnataka,Bangalore,Bangalore,Rice,Coarse,09/01/2001,900,1200,1050
+Karnataka,Bangalore,Bangalore,Rice,Coarse,09/10/2001,1000,1100,1050
+Karnataka,Bangalore,Bangalore,Rice,Coarse,10/16/2001,950,1100,1025
+Karnataka,Bangalore,Bangalore,Rice,Coarse,12/20/2001,0,500,400
+Karnataka,Bangalore,Bangalore,Rice,Dappa,12/20/2001,950,1100,1025
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/01/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/02/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/03/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/04/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,08/06/2001,1650,1800,1725
+Karnataka,Bangalore,Bangalore,Rice,Fine,09/01/2001,1700,1800,1750
+Karnataka,Bangalore,Bangalore,Rice,Fine,09/10/2001,1750,1850,0
+Karnataka,Bangalore,Bangalore,Rice,Fine,10/16/2001,1800,1900,1850
+Karnataka,Bangalore,Bangalore,Rice,Fine,12/20/2001,1800,1900,1850
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/01/2001,1450,1500,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/02/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/03/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/04/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,08/06/2001,1450,1550,1500
+Karnataka,Bangalore,Bangalore,Rice,Medium,09/01/2001,1500,1600,1550
+Karnataka,Bangalore,Bangalore,Rice,Medium,09/10/2001,1500,1600,1550
+Karnataka,Bangalore,Bangalore,Rice,Medium,10/16/2001,1600,1700,1650
+Karnataka,Bangalore,Bangalore,Rice,Medium,12/20/2001,1550,1650,1600
+Karnataka,Bangalore,Bangalore,Rice,Other,11/15/2001,1800,1900,1850
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Dappa,12/19/2001,800,1050,950
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Dappa,12/21/2001,800,1050,950
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Dappa,12/27/2001,800,1050,950
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Dappa,12/28/2001,750,950,900
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Fine,12/19/2001,1400,1850,1500
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Fine,12/21/2001,1400,1850,1600
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Fine,12/27/2001,1400,1850,1600
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Fine,12/28/2001,1450,1850,1500
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Medium,12/19/2001,1200,1350,1300
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Medium,12/21/2001,1200,1350,1300
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Medium,12/27/2001,1200,1350,1300
+Karnataka,Mysore,Mysore (Bandipalya),Rice,Medium,12/28/2001,1200,1350,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati (Rose),09/17/2001,3600,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati (Rose),09/20/2001,3200,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati (Rose),11/06/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,09/17/2001,3500,4000,3800
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,09/20/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,09/25/2001,3200,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/03/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/05/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/09/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/16/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/23/2001,2500,3500,3000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,10/30/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/02/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/06/2001,2800,3500,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/16/2001,2700,3400,3100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/20/2001,2600,3400,3000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,11/30/2001,2800,3400,3100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Car,12/07/2001,2700,3400,3100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,09/17/2001,3200,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,09/20/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,09/25/2001,3500,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/03/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/05/2001,3400,4000,3700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/09/2001,3300,4000,3700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/16/2001,3200,4000,3700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/23/2001,3000,4000,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,10/30/2001,3000,3800,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/02/2001,3000,3800,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/06/2001,3000,3800,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/16/2001,3000,3800,3500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/20/2001,3000,3600,3300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,11/30/2001,3000,3500,3300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Charmi,12/07/2001,3000,3400,3200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,09/17/2001,5000,6000,5500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,09/20/2001,4500,6000,5500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,09/25/2001,4800,6000,5500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/03/2001,4500,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/05/2001,4300,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/09/2001,4300,5000,4700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/16/2001,4000,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/23/2001,4000,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,10/30/2001,4000,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/02/2001,4000,5000,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/06/2001,4200,5000,4600
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/16/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/20/2001,3800,4500,4200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,11/30/2001,3600,4400,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Silky Kohinoor,12/07/2001,3600,4400,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,09/17/2001,4400,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,09/20/2001,4300,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,09/25/2001,4500,5500,5000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/03/2001,4300,5000,4700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/05/2001,4200,5000,4600
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/09/2001,4200,5000,4600
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/16/2001,4200,5000,4700
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/23/2001,4000,4800,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,10/30/2001,4000,4800,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/02/2001,4000,4800,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/06/2001,4000,4800,4500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/16/2001,3800,4400,4100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/20/2001,3800,4400,4100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,11/30/2001,3800,4200,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Super Kohinoor,12/07/2001,3800,4200,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,09/17/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,09/20/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,09/25/2001,3500,4500,4000
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/03/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/05/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/09/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/16/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/23/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,10/30/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/02/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/06/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/16/2001,4000,4500,4300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/20/2001,4000,4400,4200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,11/30/2001,4000,4400,4200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Basmati Trophy,12/07/2001,4000,4400,4200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,09/17/2001,1000,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,11/16/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,11/20/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,11/30/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR 20 Fine Raw,12/07/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,09/20/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,09/25/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/03/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/05/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/09/2001,1150,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/16/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/23/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,10/30/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/02/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/06/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/16/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/20/2001,1180,1250,1220
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,11/30/2001,1150,1250,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8,12/07/2001,1150,1250,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),09/20/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),09/25/2001,1000,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/03/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/05/2001,950,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/09/2001,900,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/16/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/23/2001,950,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),10/30/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/02/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/06/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/16/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/20/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),11/30/2001,930,1030,980
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,IR-8 Raw (New),12/07/2001,1000,1100,1050
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,09/17/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,09/20/2001,1100,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,09/25/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/03/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/05/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/09/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/16/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/23/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,10/30/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/02/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/06/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/16/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/20/2001,1200,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Jaya,11/30/2001,1100,1250,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,09/17/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,09/20/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,09/25/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/03/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/05/2001,1200,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/09/2001,1300,1500,1400
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/16/2001,1400,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/23/2001,1400,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,10/30/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,11/02/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,11/06/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,11/16/2001,1300,1600,1500
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni,11/20/2001,1250,1400,1350
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni (Fine) Boiled,09/17/2001,1200,1500,1400
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni (Fine) Boiled,11/30/2001,1300,1500,1400
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni (Fine) Boiled,12/07/2001,1300,1500,1400
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni Fine Raw,09/17/2001,1100,1500,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni Fine Raw,10/03/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni Fine Raw,10/05/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Ponni Fine Raw,10/09/2001,1000,1200,1100
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,09/20/2001,1050,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,09/25/2001,1000,1400,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/03/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/05/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/09/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/16/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/23/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,10/30/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/02/2001,1000,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/06/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/16/2001,1100,1400,1300
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/20/2001,1100,1300,1200
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,11/30/2001,1180,1250,1225
+Kerala,Thiruvananthapuram,Thiruvananthapuram,Rice,Zeeraga Samba Rawrice,12/07/2001,1150,1250,1200
+Maharashtra,Kolhapur,Kolhapur,Rice,Pusa Basmati Raw (New),06/14/2001,2200,2300,2250
+Maharashtra,Kolhapur,Kolhapur,Rice,Pusa Basmati Raw (Old),06/14/2001,2000,2050,2025
+Maharashtra,Kolhapur,Kolhapur,Rice,Pusa Basmati Sela (Old),06/14/2001,1850,1950,1900
+Maharashtra,Kolhapur,Kolhapur,Rice,Sona Mansoori Non Basmati,06/14/2001,1200,1250,1225
+Maharashtra,Mumbai,Mumbai,Rice,Basmati Charmi,06/02/2001,2500,2950,2725
+Maharashtra,Mumbai,Mumbai,Rice,Basmati Charmi,06/04/2001,2500,2900,2700
+Maharashtra,Mumbai,Mumbai,Rice,Basmati Golden Sela New,07/10/2001,2500,2900,2700
+Maharashtra,Mumbai,Mumbai,Rice,Basmati Paddy,07/11/2001,2500,2900,2700
+Maharashtra,Mumbai,Mumbai,Rice,IR-8,07/17/2001,950,1325,1125
+Maharashtra,Mumbai,Mumbai,Rice,Kolam-Non Basmati,06/02/2001,2000,2500,2250
+Maharashtra,Mumbai,Mumbai,Rice,Kolam-Non Basmati,06/04/2001,2000,2500,2250
+Maharashtra,Mumbai,Mumbai,Rice,Kolam-Non Basmati,07/17/2001,2200,2500,2350
+Maharashtra,Mumbai,Mumbai,Rice,Masoori-Non Basmti,07/17/2001,1000,1150,1075
+Maharashtra,Mumbai,Mumbai,Rice,Masuri,06/02/2001,1750,1850,1800
+Maharashtra,Mumbai,Mumbai,Rice,Masuri,06/04/2001,1000,1150,1075
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,05/26/2001,1100,1350,1225
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/02/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/05/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/07/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/08/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/09/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/11/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/13/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/14/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/18/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/19/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/20/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/21/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/29/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,06/30/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/03/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/04/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/05/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/06/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/07/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/09/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/10/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/11/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/12/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/13/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/14/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/16/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/17/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/18/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/20/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/21/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,07/23/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/01/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/03/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/04/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/06/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/08/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/09/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/10/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/11/2001,1150,1948,1550
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/16/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/17/2001,1150,1450,1350
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/18/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/19/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/23/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/29/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/30/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,08/31/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/01/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/03/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/05/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/06/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/07/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/08/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/10/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/11/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/12/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/13/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/14/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/15/2001,1150,1450,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,09/22/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,10/20/2001,1200,1450,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,10/23/2001,1200,1450,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/03/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/05/2001,1200,1500,1350
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/21/2001,1200,1500,1350
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/22/2001,1200,1500,1450
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/24/2001,1200,1500,1450
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/26/2001,1200,1500,1350
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/27/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,11/30/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/03/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/04/2001,1100,1550,1250
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/05/2001,1100,1550,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/07/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/08/2001,1100,1150,1125
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/10/2001,1100,1550,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/11/2001,1100,1550,1225
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/12/2001,1200,1400,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/13/2001,1100,1550,1325
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/18/2001,1100,1500,1250
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/24/2001,1100,1500,1300
+Maharashtra,Nagpur,Nagpur,Rice,Hmt Rice-Non Basmati,12/27/2001,1200,1400,1300
+Maharashtra,Pune,Pune,Rice,Basmati-370,07/27/2001,700,3300,1200
+Maharashtra,Pune,Pune,Rice,Fine,04/10/2001,750,1900,1400
+Maharashtra,Pune,Pune,Rice,Fine,04/18/2001,700,3200,2000
+Maharashtra,Pune,Pune,Rice,Fine,04/20/2001,650,3400,2000
+Maharashtra,Pune,Pune,Rice,Fine,04/27/2001,300,350,325
+Maharashtra,Pune,Pune,Rice,Fine,05/05/2001,600,3000,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/08/2001,701,3200,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/15/2001,1050,3500,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/17/2001,900,3400,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/24/2001,800,3550,2000
+Maharashtra,Pune,Pune,Rice,Fine,05/25/2001,600,3250,2000
+Maharashtra,Pune,Pune,Rice,Medium,06/07/2001,350,650,450
+Maharashtra,Pune,Pune,Rice,Medium,06/12/2001,950,3300,2000
+Maharashtra,Pune,Pune,Rice,Medium,06/16/2001,1000,3500,2000
+Maharashtra,Pune,Pune,Rice,Medium,06/18/2001,950,3600,2000
+Maharashtra,Sangli,Sangli,Rice,Medium,12/14/2001,700,3550,2100
+Maharashtra,Sangli,Sangli,Rice,Medium,12/18/2001,800,4600,2100
+Nagaland,Kohima,Jalukie,Rice,Fine,04/02/2001,1100,1100,1100
+Nagaland,Kohima,Jalukie,Rice,Super Fine,04/02/2001,1300,1400,1300
+Nagaland,Kohima,Khuzama,Rice,AP Raw Rice 5293,03/12/2001,900,1390,1000
+Nagaland,Kohima,Khuzama,Rice,AP Raw Rice 5293,12/12/2001,900,1280,1000
+NCT of Delhi,Delhi,Narela,Rice,Coarse,09/05/2001,945,945,945
+NCT of Delhi,Delhi,Narela,Rice,Coarse,09/20/2001,1119,1119,1119
+NCT of Delhi,Delhi,Narela,Rice,Coarse,09/24/2001,966,1475,1250
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/01/2001,949,949,949
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/04/2001,511,511,511
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/08/2001,970,970,970
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/11/2001,960,960,960
+NCT of Delhi,Delhi,Narela,Rice,Coarse,10/28/2001,735,735,735
+NCT of Delhi,Delhi,Narela,Rice,Coarse,11/02/2001,735,943,850
+NCT of Delhi,Delhi,Narela,Rice,Coarse,11/30/2001,965,965,965
+NCT of Delhi,Delhi,Narela,Rice,Coarse,12/23/2001,915,915,915
+Punjab,Patiala,Samana,Rice,PR-106,10/06/2001,450,560,514
+Punjab,Patiala,Samana,Rice,PR-106,10/22/2001,436,560,533
+Punjab,Patiala,Samana,Rice,PR-106,10/23/2001,421,560,525
+Punjab,Patiala,Samana,Rice,PR-106,11/12/2001,406,560,533
+Punjab,Patiala,Samana,Rice,PR-106,11/20/2001,350,560,520
+Punjab,Patiala,Samana,Rice,PR-106,11/22/2001,301,560,531
+Punjab,Patiala,Samana,Rice,PR-106,11/23/2001,321,550,480
+Rajasthan,Jaipur,Jaipur (Grain),Rice,Fine,09/10/2001,3000,3500,3200
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/13/2001,461,528,500
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/14/2001,470,525,504
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/22/2001,434,554,440
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/27/2001,480,493,490
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/28/2001,440,446,441
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/29/2001,466,480,473
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Coarse,03/30/2001,449,462,452
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/13/2001,534,564,550
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/14/2001,534,581,572
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/22/2001,462,489,488
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/27/2001,528,550,537
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,03/28/2001,450,464,453
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Fine,04/02/2001,473,500,481
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Medium,03/27/2001,493,520,506
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Medium,03/28/2001,434,501,460
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Medium,04/02/2001,461,478,470
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/22/2001,536,648,541
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/27/2001,501,577,507
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/28/2001,526,541,536
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/29/2001,510,545,536
+Tamil Nadu,Cuddalore,Virudhachalam,Rice,Super Fine,03/30/2001,461,496,462
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/15/2001,453,490,473
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/16/2001,453,489,473
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/19/2001,455,473,467
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/20/2001,455,472,467
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/21/2001,455,473,467
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/22/2001,437,457,447
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Coarse,03/28/2001,440,450,447
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/15/2001,480,519,506
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/16/2001,481,508,493
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/19/2001,504,511,507
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/20/2001,488,512,500
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/21/2001,481,512,493
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/22/2001,457,505,480
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Fine,03/28/2001,469,499,480
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/15/2001,521,573,560
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/20/2001,540,565,553
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/21/2001,520,560,547
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/22/2001,537,564,553
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Medium,03/28/2001,520,569,547
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Super Fine,03/15/2001,480,495,487
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Super Fine,03/16/2001,461,493,480
+Tamil Nadu,Villupuram,Ulundurpettai,Rice,Super Fine,03/19/2001,480,497,493
+Tripura,West District,Bishalgarh,Rice,Coarse,07/07/2001,1100,1200,1150
+Tripura,West District,Bishalgarh,Rice,Coarse,07/09/2001,1150,1200,1175
+Tripura,West District,Bishalgarh,Rice,Coarse,07/10/2001,1150,1200,1175
+Tripura,West District,Bishalgarh,Rice,Coarse,07/11/2001,1100,1125,1110
+Tripura,West District,Bishalgarh,Rice,Coarse,07/11/2001,1100,1125,1110
+Tripura,West District,Bishalgarh,Rice,Coarse,07/12/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,07/13/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/16/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/17/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/18/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/19/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/20/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/21/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/23/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/26/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/27/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/28/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/30/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,07/31/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/01/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/02/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/03/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/04/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/06/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/07/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/13/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/14/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/16/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/18/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/20/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/21/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/22/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/25/2001,1100,1150,1125
+Tripura,West District,Bishalgarh,Rice,Coarse,08/27/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/28/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/29/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,08/30/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/01/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/05/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/06/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/07/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/10/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/14/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/15/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/18/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/19/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/20/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/21/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/22/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/24/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/25/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/26/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/27/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Coarse,09/28/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,Fine,05/09/2001,1350,1500,1400
+Tripura,West District,Bishalgarh,Rice,Fine,07/02/2001,1400,1450,1420
+Tripura,West District,Bishalgarh,Rice,Fine,07/07/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/09/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/10/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/11/2001,1540,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/11/2001,1540,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/12/2001,1520,1600,1550
+Tripura,West District,Bishalgarh,Rice,Fine,07/13/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/16/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/17/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/18/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/19/2001,1450,1500,1475
+Tripura,West District,Bishalgarh,Rice,Fine,07/20/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/21/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/23/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/26/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,07/27/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,07/28/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,07/30/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,07/31/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/01/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/02/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/03/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/04/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/06/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/07/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/13/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/14/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/16/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/18/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/20/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/21/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/22/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/25/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,08/27/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,08/28/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,08/29/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,08/30/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/01/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/05/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/06/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/07/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/10/2001,1600,1650,1625
+Tripura,West District,Bishalgarh,Rice,Fine,09/14/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/15/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/18/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/19/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/20/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/21/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/22/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/24/2001,1530,1600,1550
+Tripura,West District,Bishalgarh,Rice,Fine,09/25/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/26/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/27/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,Fine,09/28/2001,1550,1600,1575
+Tripura,West District,Bishalgarh,Rice,IR-8,07/07/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,IR-8,07/09/2001,1050,1100,1075
+Tripura,West District,Bishalgarh,Rice,IR-8,07/10/2001,1050,1100,1080
+Tripura,West District,Bishalgarh,Rice,IR-8,07/11/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,07/11/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,07/12/2001,1225,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,07/13/2001,1350,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/16/2001,1350,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/17/2001,1350,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/18/2001,1350,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/19/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,07/20/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/21/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/23/2001,1300,1400,1375
+Tripura,West District,Bishalgarh,Rice,IR-8,07/26/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/27/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,07/28/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/30/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,07/31/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/01/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/02/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/03/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/04/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/06/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/07/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/13/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/14/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/16/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/18/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/20/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/21/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/22/2001,1300,1400,1350
+Tripura,West District,Bishalgarh,Rice,IR-8,08/25/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,08/27/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,08/28/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,08/29/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,08/30/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/01/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/05/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/06/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/07/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/10/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,09/14/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,09/15/2001,1200,1300,1250
+Tripura,West District,Bishalgarh,Rice,IR-8,09/18/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/19/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/20/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/21/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/22/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/24/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/25/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/26/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/27/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,IR-8,09/28/2001,1250,1300,1275
+Tripura,West District,Bishalgarh,Rice,Other,05/09/2001,1050,1200,1100
+West Bengal,24 Parganas,Barasat,Rice,Medium,03/29/2001,840,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,03/30/2001,840,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/03/2001,840,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/04/2001,840,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/11/2001,820,840,830
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/18/2001,800,820,810
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/20/2001,800,820,810
+West Bengal,24 Parganas,Barasat,Rice,Medium,04/30/2001,790,820,810
+West Bengal,24 Parganas,Barasat,Rice,Medium,05/02/2001,790,820,810
+West Bengal,24 Parganas,Barasat,Rice,Medium,05/07/2001,780,800,790
+West Bengal,24 Parganas,Barasat,Rice,Medium,05/23/2001,770,790,780
+West Bengal,24 Parganas,Barasat,Rice,Medium,06/19/2001,820,860,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,06/20/2001,810,850,840
+West Bengal,24 Parganas,Barasat,Rice,Medium,06/22/2001,810,850,840
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/02/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/03/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/04/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/06/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/07/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/11/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/13/2001,830,880,850
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/16/2001,830,880,860
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/17/2001,830,880,860
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/18/2001,840,900,870
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/20/2001,850,900,870
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/27/2001,870,900,880
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/30/2001,870,900,880
+West Bengal,24 Parganas,Barasat,Rice,Medium,07/31/2001,870,900,880
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/01/2001,870,900,880
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/03/2001,580,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/06/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/07/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/08/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/10/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/13/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/14/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/17/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/20/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/21/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/22/2001,880,900,890
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/24/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/27/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/28/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/29/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,08/31/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/03/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/04/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/05/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/10/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/11/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/12/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/14/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/18/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/19/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/24/2001,890,910,900
+West Bengal,24 Parganas,Barasat,Rice,Medium,09/25/2001,890,910,900
+West Bengal,Malda,Samsi,Rice,Basmati-370,03/16/2001,1800,2200,2100

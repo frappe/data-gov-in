@@ -1,0 +1,1176 @@
+State,District,Market,Commodity,Variety,Date,MIN Price,MAX Price,MODAL Price
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/12/2001,500,660,605
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/14/2001,535,650,603
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/19/2001,590,662,626
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/27/2001,585,610,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/28/2001,570,620,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,05/11/2001,580,625,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,05/12/2001,600,670,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,05/22/2001,565,710,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,05/23/2001,570,670,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,09/19/2001,600,610,605
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,09/21/2001,600,610,605
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,09/22/2001,590,606,598
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,09/25/2001,600,605,602
+Gujarat,Rajkot,Gondal,Wheat,Sona,11/28/2001,666,666,666
+Gujarat,Rajkot,Gondal,Wheat,Sona,11/29/2001,891,926,926
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/03/2001,920,935,920
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/05/2001,795,990,825
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/11/2001,880,900,880
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/12/2001,845,885,875
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/13/2001,825,875,825
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/14/2001,855,855,855
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/18/2001,685,901,901
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/20/2001,770,950,840
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/21/2001,855,1000,905
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/22/2001,785,785,785
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/26/2001,800,945,870
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/27/2001,895,895,895
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/28/2001,860,900,900
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/31/2001,900,900,900
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/07/2001,690,810,775
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/09/2001,690,805,790
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/10/2001,690,790,740
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/11/2001,690,810,720
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/12/2001,680,800,735
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/13/2001,680,800,720
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/14/2001,680,790,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/17/2001,650,790,730
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/18/2001,650,785,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/19/2001,675,790,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/23/2001,650,790,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/24/2001,660,790,750
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/25/2001,655,780,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/26/2001,650,790,720
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/27/2001,640,795,690
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/28/2001,630,785,700
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/30/2001,640,795,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/31/2001,640,785,730
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,08/07/2001,650,800,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,08/08/2001,660,790,700
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,08/17/2001,665,810,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,08/18/2001,675,800,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,09/14/2001,700,855,790
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,09/15/2001,675,940,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/01/2001,690,825,725
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/06/2001,710,850,780
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/12/2001,705,870,810
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/13/2001,700,885,740
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/15/2001,670,875,725
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/21/2001,695,900,720
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/23/2001,690,880,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/26/2001,700,890,770
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/27/2001,690,895,815
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/28/2001,705,890,785
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/29/2001,710,895,785
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/01/2001,710,900,810
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/03/2001,725,915,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/04/2001,710,900,820
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/05/2001,720,910,845
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/06/2001,705,900,775
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/07/2001,725,925,810
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/08/2001,710,915,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/10/2001,715,925,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/11/2001,725,940,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/12/2001,715,925,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/13/2001,710,935,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/14/2001,710,930,810
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/15/2001,700,920,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/18/2001,715,935,845
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/19/2001,700,950,830
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/20/2001,710,975,815
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/21/2001,700,955,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/22/2001,700,930,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/26/2001,710,960,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/27/2001,715,950,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/28/2001,725,975,835
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/29/2001,725,975,945
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/31/2001,730,950,800
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/21/2001,700,905,750
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/23/2001,700,905,775
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/26/2001,695,905,710
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/27/2001,695,910,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/28/2001,710,920,840
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/29/2001,715,935,815
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/01/2001,725,925,815
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/03/2001,735,925,860
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/04/2001,720,920,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/05/2001,730,940,855
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/06/2001,720,920,850
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/07/2001,735,950,825
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/08/2001,720,935,865
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/10/2001,725,940,830
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/11/2001,735,960,850
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/12/2001,725,935,855
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/13/2001,700,950,865
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/14/2001,725,950,825
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/15/2001,710,940,835
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/18/2001,725,955,895
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/19/2001,710,960,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/20/2001,725,985,835
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/21/2001,720,970,835
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/22/2001,715,950,835
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/26/2001,725,975,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/27/2001,725,965,865
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/28/2001,735,985,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/29/2001,730,985,955
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/31/2001,740,965,825
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/07/2001,690,840,800
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/09/2001,690,825,800
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/10/2001,690,825,780
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/11/2001,680,840,735
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/12/2001,680,825,745
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/13/2001,680,815,735
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/14/2001,680,800,725
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/17/2001,650,810,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/18/2001,650,810,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/19/2001,675,810,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/21/2001,650,840,810
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/23/2001,650,805,785
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/24/2001,650,810,775
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/25/2001,655,800,730
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/26/2001,650,815,790
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/27/2001,635,825,790
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/28/2001,630,800,730
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/30/2001,640,810,725
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/31/2001,640,840,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,08/07/2001,665,825,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,08/08/2001,670,820,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,08/17/2001,680,820,725
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,08/18/2001,680,810,735
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,09/14/2001,725,825,800
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,09/15/2001,735,875,745
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/01/2001,700,840,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/06/2001,725,865,800
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/12/2001,730,860,820
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/13/2001,710,875,760
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/15/2001,680,885,770
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,Other,12/27/2001,680,715,700
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,Other,12/28/2001,680,715,705
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,Other,12/29/2001,680,715,700
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,Other,12/31/2001,680,715,700
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,RR21,12/28/2001,815,841,830
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,RR21,12/29/2001,815,841,830
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,RR21,12/31/2001,815,841,830
+Haryana,Ambala,Ambala City,Wheat,MP Lokwan,08/31/2001,500,600,550
+Karnataka,Bangalore,Bangalore,Wheat,147 Average,12/20/2001,900,1150,1025
+Karnataka,Bangalore,Bangalore,Wheat,147 Best,12/20/2001,940,1200,1070
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/01/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/02/2001,930,1300,1115
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/03/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/04/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/06/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,09/01/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,09/10/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,10/16/2001,1000,1200,1100
+Karnataka,Bangalore,Bangalore,Wheat,Other,11/15/2001,1000,1200,1100
+Karnataka,Dharwad,Hubli (Amaragol),Wheat,White,01/10/2001,771,771,771
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,05/21/2001,622,685,636
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,06/22/2001,625,755,693
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,06/23/2001,626,678,650
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,06/25/2001,611,710,655
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,06/26/2001,611,722,631
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,03/27/2001,704,1054,1001
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,04/03/2001,691,841,832
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,05/21/2001,681,952,937
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/21/2001,972,972,972
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/22/2001,1027,1027,1027
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/23/2001,780,1011,1011
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/25/2001,750,972,941
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/26/2001,755,969,917
+Madhya Pradesh,Bhopal,Bhopal,Wheat,WH-542,03/27/2001,547,682,600
+Madhya Pradesh,Bhopal,Bhopal,Wheat,WH-542,04/03/2001,558,675,646
+Madhya Pradesh,Bhopal,Bhopal,Wheat,WH-542,06/21/2001,640,766,650
+Maharashtra,Kolhapur,Kolhapur,Wheat,Bansi,06/14/2001,875,1400,1200
+Maharashtra,Kolhapur,Kolhapur,Wheat,Sharbati,06/14/2001,850,1300,1150
+Maharashtra,Mumbai,Mumbai,Wheat,Kalyan,07/09/2001,575,765,670
+Maharashtra,Mumbai,Mumbai,Wheat,Kalyan,07/10/2001,725,825,775
+Maharashtra,Mumbai,Mumbai,Wheat,Lok-1,07/09/2001,810,1200,1050
+Maharashtra,Mumbai,Mumbai,Wheat,Lok-1,07/10/2001,870,1200,1035
+Maharashtra,Mumbai,Mumbai,Wheat,Lok-1,07/11/2001,875,950,910
+Maharashtra,Mumbai,Mumbai,Wheat,Lok-1,07/17/2001,800,1200,1050
+Maharashtra,Mumbai,Mumbai,Wheat,Lokwan Gujrat,07/17/2001,810,850,830
+Maharashtra,Mumbai,Mumbai,Wheat,MP 147,06/02/2001,800,1200,1000
+Maharashtra,Mumbai,Mumbai,Wheat,MP 147,06/04/2001,875,1200,1037
+Maharashtra,Mumbai,Mumbai,Wheat,MP 147,07/17/2001,900,1200,1050
+Maharashtra,Mumbai,Mumbai,Wheat,MP Lokwan,06/02/2001,950,1200,1075
+Maharashtra,Mumbai,Mumbai,Wheat,MP Lokwan,06/04/2001,800,1200,1000
+Maharashtra,Mumbai,Mumbai,Wheat,MP Quality,07/11/2001,900,1200,1050
+Maharashtra,Mumbai,Mumbai,Wheat,MP Quality,07/17/2001,1000,1500,1050
+Maharashtra,Mumbai,Mumbai,Wheat,Punjab-Mill Dhada,07/17/2001,725,875,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,05/26/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/02/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/05/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/07/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/08/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/09/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/11/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/13/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/14/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/18/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/19/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/20/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/21/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/29/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/30/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/04/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/05/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/07/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/09/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/10/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/11/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/12/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/13/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/14/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/16/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/21/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/01/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/03/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/04/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/09/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/10/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/11/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/16/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/17/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/19/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/23/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/28/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/29/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/30/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/31/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/01/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/03/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/05/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/06/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/07/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/08/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/10/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/11/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/12/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/13/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/14/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/15/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/22/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,10/20/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,10/23/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/03/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/05/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/22/2001,750,850,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/24/2001,750,850,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/26/2001,750,850,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/27/2001,750,850,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/30/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/03/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/05/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/07/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/08/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/10/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/12/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/18/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/24/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/27/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,05/26/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/02/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/05/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/07/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/08/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/09/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/11/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/13/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/14/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/18/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/19/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/20/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/21/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/29/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/30/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/03/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/04/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/05/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/06/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/07/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/09/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/10/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/11/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/12/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/13/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/14/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/16/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/17/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/18/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/20/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/21/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/23/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/01/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/03/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/04/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/06/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/08/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/09/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/10/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/11/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/16/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/17/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/18/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/19/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/23/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/28/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/29/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/30/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/31/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/01/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/03/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/05/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/06/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/07/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/08/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/10/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/11/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/12/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/13/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/14/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/15/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/22/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,10/20/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,10/23/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/03/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/05/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/21/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/22/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/24/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/26/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/27/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/30/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/03/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/04/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/05/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/07/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/08/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/10/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/11/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/12/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/13/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/18/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/24/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/27/2001,1000,1100,1050
+Maharashtra,Pune,Pune,Wheat,2189 No. 1,09/10/2001,800,900,850
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/07/2001,750,1100,900
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/12/2001,700,1050,850
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/13/2001,875,911,891
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/16/2001,700,800,750
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/18/2001,700,950,825
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,07/02/2001,800,1000,900
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,07/07/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,07/11/2001,750,950,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,03/30/2001,400,900,675
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/03/2001,650,1450,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/07/2001,700,1500,1100
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/09/2001,830,1500,1200
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/10/2001,830,1050,950
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/11/2001,700,1500,1100
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/12/2001,700,1400,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/16/2001,700,1400,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/18/2001,700,1400,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/20/2001,700,1400,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/21/2001,725,1200,950
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/24/2001,725,1051,900
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/27/2001,770,1050,910
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/30/2001,675,1100,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/02/2001,641,1125,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/03/2001,471,1125,900
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/05/2001,741,1125,900
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/08/2001,800,1100,950
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/15/2001,775,1150,900
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/17/2001,750,950,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/24/2001,700,950,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/25/2001,700,950,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,07/27/2001,800,1140,925
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,07/29/2001,800,861,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,07/31/2001,800,860,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/01/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/02/2001,800,870,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/03/2001,800,841,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/04/2001,800,840,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/06/2001,900,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/13/2001,750,925,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/14/2001,750,930,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/18/2001,831,1200,975
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/20/2001,831,1200,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/21/2001,831,1200,1151
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/22/2001,831,1200,975
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/23/2001,800,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/24/2001,830,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/25/2001,800,1100,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/27/2001,800,1100,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/29/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/30/2001,775,1000,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/05/2001,850,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/07/2001,800,900,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/08/2001,800,1100,901
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/15/2001,800,900,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/17/2001,800,900,875
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/18/2001,800,900,875
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/20/2001,850,950,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/01/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/02/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/03/2001,780,1100,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/04/2001,800,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/05/2001,800,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/06/2001,800,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/08/2001,800,900,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/09/2001,900,950,925
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/10/2001,850,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/11/2001,850,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/12/2001,850,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/13/2001,850,1000,875
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/17/2001,750,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/19/2001,825,1001,901
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/20/2001,825,1000,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/25/2001,800,900,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/26/2001,800,850,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/27/2001,900,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/29/2001,900,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/30/2001,875,900,885
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/31/2001,875,900,885
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,12/27/2001,850,950,900
+Maharashtra,Sangli,Sangli,Wheat,Maharashtra 2189,12/14/2001,800,1050,875
+Maharashtra,Sangli,Sangli,Wheat,Maharashtra 2189,12/18/2001,850,1300,1000
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/16/2001,535,588,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/17/2001,532,582,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/18/2001,555,586,570
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/19/2001,530,610,570
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/21/2001,548,625,560
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/22/2001,549,635,570
+NCT of Delhi,Delhi,Narela,Wheat,Dara,08/25/2001,560,599,580
+NCT of Delhi,Delhi,Narela,Wheat,Dara,08/26/2001,539,600,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,08/27/2001,552,650,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/01/2001,500,590,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/02/2001,550,645,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/03/2001,542,601,575
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/04/2001,550,594,560
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/05/2001,545,643,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/07/2001,480,640,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/08/2001,568,606,590
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/09/2001,555,635,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/10/2001,500,614,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/11/2001,571,615,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/13/2001,575,612,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/14/2001,570,640,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/15/2001,571,624,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/16/2001,574,766,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/17/2001,570,617,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/18/2001,505,760,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/20/2001,581,731,700
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/21/2001,570,618,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/22/2001,582,636,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/23/2001,573,736,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/24/2001,559,637,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/25/2001,584,700,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/27/2001,560,700,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/28/2001,584,660,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/29/2001,551,665,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/30/2001,570,631,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/01/2001,590,680,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/04/2001,590,638,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/08/2001,580,634,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/09/2001,586,607,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/11/2001,571,640,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/12/2001,575,796,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/13/2001,594,631,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/14/2001,598,643,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/15/2001,580,761,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/16/2001,601,643,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/18/2001,593,690,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/19/2001,603,709,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/20/2001,588,686,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/21/2001,595,751,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/22/2001,600,890,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/23/2001,590,650,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/25/2001,600,637,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/26/2001,600,640,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/27/2001,596,665,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/28/2001,600,678,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/29/2001,600,662,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/30/2001,600,649,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/01/2001,580,751,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/02/2001,593,685,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/03/2001,558,691,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/04/2001,566,728,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/05/2001,570,875,710
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/06/2001,600,721,700
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/08/2001,605,846,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/09/2001,600,809,700
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/10/2001,590,853,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/11/2001,600,881,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/12/2001,595,877,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/13/2001,604,866,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/14/2001,605,771,725
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/15/2001,600,794,710
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/16/2001,590,701,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/17/2001,575,781,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/18/2001,580,866,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/19/2001,585,731,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/20/2001,595,741,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/22/2001,580,615,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/23/2001,591,700,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/24/2001,579,611,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/25/2001,590,700,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/26/2001,586,720,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/27/2001,592,666,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/29/2001,590,650,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/30/2001,584,801,700
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/01/2001,570,651,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/03/2001,577,656,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/04/2001,585,652,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/06/2001,575,620,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/08/2001,595,725,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/09/2001,590,646,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/10/2001,578,680,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/11/2001,595,741,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/13/2001,569,652,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/14/2001,596,725,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/15/2001,580,645,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/16/2001,601,661,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/17/2001,565,649,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/18/2001,570,721,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/20/2001,595,671,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/21/2001,608,671,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/22/2001,590,831,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/23/2001,595,675,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/24/2001,590,638,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/25/2001,593,630,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/27/2001,581,642,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/28/2001,590,634,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/29/2001,607,655,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/30/2001,605,695,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/31/2001,581,632,610
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/17/2001,722,950,800
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/18/2001,764,900,850
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/19/2001,750,881,800
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/21/2001,660,901,800
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/22/2001,700,850,800
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/23/2001,800,873,825
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/24/2001,700,840,750
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,09/04/2001,645,700,690
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,10/05/2001,591,777,700
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,10/06/2001,574,852,750
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,10/07/2001,590,801,700
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,12/16/2001,875,875,875
+NCT of Delhi,Delhi,Narela,Wheat,Superior,11/06/2001,650,991,800
+Punjab,Faridkot,Kotkapura,Wheat,MP Lokwan,12/01/2001,0,560,0
+Rajasthan,Alwar,Alwar,Wheat,Dara,04/23/2001,580,670,630
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Kalyan,09/10/2001,500,580,540
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Kalyan,11/23/2001,640,665,655
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,03/29/2001,620,620,620
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,10/31/2001,675,675,675
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/01/2001,675,675,675
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/03/2001,675,675,675
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/06/2001,665,665,665
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/07/2001,665,665,665
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/09/2001,675,675,675
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/12/2001,720,720,720
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/17/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/19/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/20/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/21/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/23/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,MP Lokwan,09/10/2001,550,580,565
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,10/30/2001,790,900,825
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,10/31/2001,690,700,695
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,11/06/2001,700,850,775
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,11/13/2001,800,900,850
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,11/20/2001,800,900,850
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,12/04/2001,750,850,800
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,12/05/2001,800,900,850
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,12/10/2001,850,900,875
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,12/12/2001,800,900,850
+Rajasthan,Kota,Kota,Wheat,Mexican,11/22/2001,657,875,690
+West Bengal,Malda,Samsi,Wheat,MP Lokwan,03/16/2001,535,550,543
+State,District,Market,Commodity,Variety,Date,MIN Price,MAX Price,MODAL Price
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/12/2001,500,660,605
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/14/2001,535,650,603
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/19/2001,590,662,626
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/27/2001,585,610,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,04/28/2001,570,620,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,05/11/2001,580,625,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,05/12/2001,600,670,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,05/22/2001,565,710,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,05/23/2001,570,670,0
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,09/19/2001,600,610,605
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,09/21/2001,600,610,605
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,09/22/2001,590,606,598
+Chandigarh,Chandigarh,Chandigarh (F&V),Wheat,Other,09/25/2001,600,605,602
+Gujarat,Rajkot,Gondal,Wheat,Sona,11/28/2001,666,666,666
+Gujarat,Rajkot,Gondal,Wheat,Sona,11/29/2001,891,926,926
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/03/2001,920,935,920
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/05/2001,795,990,825
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/11/2001,880,900,880
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/12/2001,845,885,875
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/13/2001,825,875,825
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/14/2001,855,855,855
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/18/2001,685,901,901
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/20/2001,770,950,840
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/21/2001,855,1000,905
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/22/2001,785,785,785
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/26/2001,800,945,870
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/27/2001,895,895,895
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/28/2001,860,900,900
+Gujarat,Rajkot,Gondal,Wheat,Sona,12/31/2001,900,900,900
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/07/2001,690,810,775
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/09/2001,690,805,790
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/10/2001,690,790,740
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/11/2001,690,810,720
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/12/2001,680,800,735
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/13/2001,680,800,720
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/14/2001,680,790,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/17/2001,650,790,730
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/18/2001,650,785,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/19/2001,675,790,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/23/2001,650,790,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/24/2001,660,790,750
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/25/2001,655,780,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/26/2001,650,790,720
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/27/2001,640,795,690
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/28/2001,630,785,700
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/30/2001,640,795,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,07/31/2001,640,785,730
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,08/07/2001,650,800,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,08/08/2001,660,790,700
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,08/17/2001,665,810,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,08/18/2001,675,800,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,09/14/2001,700,855,790
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,09/15/2001,675,940,715
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/01/2001,690,825,725
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/06/2001,710,850,780
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/12/2001,705,870,810
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/13/2001,700,885,740
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,10/15/2001,670,875,725
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/21/2001,695,900,720
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/23/2001,690,880,710
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/26/2001,700,890,770
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/27/2001,690,895,815
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/28/2001,705,890,785
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,11/29/2001,710,895,785
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/01/2001,710,900,810
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/03/2001,725,915,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/04/2001,710,900,820
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/05/2001,720,910,845
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/06/2001,705,900,775
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/07/2001,725,925,810
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/08/2001,710,915,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/10/2001,715,925,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/11/2001,725,940,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/12/2001,715,925,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/13/2001,710,935,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/14/2001,710,930,810
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/15/2001,700,920,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/18/2001,715,935,845
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/19/2001,700,950,830
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/20/2001,710,975,815
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/21/2001,700,955,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/22/2001,700,930,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/26/2001,710,960,825
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/27/2001,715,950,850
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/28/2001,725,975,835
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/29/2001,725,975,945
+Gujarat,Rajkot,Rajkot,Wheat,Lokwan,12/31/2001,730,950,800
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/21/2001,700,905,750
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/23/2001,700,905,775
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/26/2001,695,905,710
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/27/2001,695,910,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/28/2001,710,920,840
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,11/29/2001,715,935,815
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/01/2001,725,925,815
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/03/2001,735,925,860
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/04/2001,720,920,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/05/2001,730,940,855
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/06/2001,720,920,850
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/07/2001,735,950,825
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/08/2001,720,935,865
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/10/2001,725,940,830
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/11/2001,735,960,850
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/12/2001,725,935,855
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/13/2001,700,950,865
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/14/2001,725,950,825
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/15/2001,710,940,835
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/18/2001,725,955,895
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/19/2001,710,960,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/20/2001,725,985,835
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/21/2001,720,970,835
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/22/2001,715,950,835
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/26/2001,725,975,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/27/2001,725,965,865
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/28/2001,735,985,845
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/29/2001,730,985,955
+Gujarat,Rajkot,Rajkot,Wheat,MP Lokwan,12/31/2001,740,965,825
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/07/2001,690,840,800
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/09/2001,690,825,800
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/10/2001,690,825,780
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/11/2001,680,840,735
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/12/2001,680,825,745
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/13/2001,680,815,735
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/14/2001,680,800,725
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/17/2001,650,810,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/18/2001,650,810,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/19/2001,675,810,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/21/2001,650,840,810
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/23/2001,650,805,785
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/24/2001,650,810,775
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/25/2001,655,800,730
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/26/2001,650,815,790
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/27/2001,635,825,790
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/28/2001,630,800,730
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/30/2001,640,810,725
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,07/31/2001,640,840,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,08/07/2001,665,825,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,08/08/2001,670,820,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,08/17/2001,680,820,725
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,08/18/2001,680,810,735
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,09/14/2001,725,825,800
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,09/15/2001,735,875,745
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/01/2001,700,840,750
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/06/2001,725,865,800
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/12/2001,730,860,820
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/13/2001,710,875,760
+Gujarat,Rajkot,Rajkot,Wheat,Rajasthan Tukdi,10/15/2001,680,885,770
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,Other,12/27/2001,680,715,700
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,Other,12/28/2001,680,715,705
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,Other,12/29/2001,680,715,700
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,Other,12/31/2001,680,715,700
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,RR21,12/28/2001,815,841,830
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,RR21,12/29/2001,815,841,830
+Gujarat,Vadodara(Baroda),Vadodara,Wheat,RR21,12/31/2001,815,841,830
+Haryana,Ambala,Ambala City,Wheat,MP Lokwan,08/31/2001,500,600,550
+Karnataka,Bangalore,Bangalore,Wheat,147 Average,12/20/2001,900,1150,1025
+Karnataka,Bangalore,Bangalore,Wheat,147 Best,12/20/2001,940,1200,1070
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/01/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/02/2001,930,1300,1115
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/03/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/04/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,08/06/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,09/01/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,09/10/2001,900,1100,1000
+Karnataka,Bangalore,Bangalore,Wheat,Other,10/16/2001,1000,1200,1100
+Karnataka,Bangalore,Bangalore,Wheat,Other,11/15/2001,1000,1200,1100
+Karnataka,Dharwad,Hubli (Amaragol),Wheat,White,01/10/2001,771,771,771
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,05/21/2001,622,685,636
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,06/22/2001,625,755,693
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,06/23/2001,626,678,650
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,06/25/2001,611,710,655
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Lokwan,06/26/2001,611,722,631
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,03/27/2001,704,1054,1001
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,04/03/2001,691,841,832
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,05/21/2001,681,952,937
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/21/2001,972,972,972
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/22/2001,1027,1027,1027
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/23/2001,780,1011,1011
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/25/2001,750,972,941
+Madhya Pradesh,Bhopal,Bhopal,Wheat,MP Sharbati,06/26/2001,755,969,917
+Madhya Pradesh,Bhopal,Bhopal,Wheat,WH-542,03/27/2001,547,682,600
+Madhya Pradesh,Bhopal,Bhopal,Wheat,WH-542,04/03/2001,558,675,646
+Madhya Pradesh,Bhopal,Bhopal,Wheat,WH-542,06/21/2001,640,766,650
+Maharashtra,Kolhapur,Kolhapur,Wheat,Bansi,06/14/2001,875,1400,1200
+Maharashtra,Kolhapur,Kolhapur,Wheat,Sharbati,06/14/2001,850,1300,1150
+Maharashtra,Mumbai,Mumbai,Wheat,Kalyan,07/09/2001,575,765,670
+Maharashtra,Mumbai,Mumbai,Wheat,Kalyan,07/10/2001,725,825,775
+Maharashtra,Mumbai,Mumbai,Wheat,Lok-1,07/09/2001,810,1200,1050
+Maharashtra,Mumbai,Mumbai,Wheat,Lok-1,07/10/2001,870,1200,1035
+Maharashtra,Mumbai,Mumbai,Wheat,Lok-1,07/11/2001,875,950,910
+Maharashtra,Mumbai,Mumbai,Wheat,Lok-1,07/17/2001,800,1200,1050
+Maharashtra,Mumbai,Mumbai,Wheat,Lokwan Gujrat,07/17/2001,810,850,830
+Maharashtra,Mumbai,Mumbai,Wheat,MP 147,06/02/2001,800,1200,1000
+Maharashtra,Mumbai,Mumbai,Wheat,MP 147,06/04/2001,875,1200,1037
+Maharashtra,Mumbai,Mumbai,Wheat,MP 147,07/17/2001,900,1200,1050
+Maharashtra,Mumbai,Mumbai,Wheat,MP Lokwan,06/02/2001,950,1200,1075
+Maharashtra,Mumbai,Mumbai,Wheat,MP Lokwan,06/04/2001,800,1200,1000
+Maharashtra,Mumbai,Mumbai,Wheat,MP Quality,07/11/2001,900,1200,1050
+Maharashtra,Mumbai,Mumbai,Wheat,MP Quality,07/17/2001,1000,1500,1050
+Maharashtra,Mumbai,Mumbai,Wheat,Punjab-Mill Dhada,07/17/2001,725,875,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,05/26/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/02/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/05/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/07/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/08/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/09/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/11/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/13/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/14/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/18/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/19/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/20/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/21/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/29/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,06/30/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/04/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/05/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/07/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/09/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/10/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/11/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/12/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/13/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/14/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/16/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,07/21/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/01/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/03/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/04/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/09/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/10/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/11/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/16/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/17/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/19/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/23/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/28/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/29/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/30/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,08/31/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/01/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/03/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/05/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/06/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/07/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/08/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/10/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/11/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/12/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/13/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/14/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/15/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,09/22/2001,650,750,700
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,10/20/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,10/23/2001,700,800,750
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/03/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/05/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/22/2001,750,850,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/24/2001,750,850,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/26/2001,750,850,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/27/2001,750,850,800
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,11/30/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/03/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/05/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/07/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/08/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/10/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/12/2001,650,800,725
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/18/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/24/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Lokwan,12/27/2001,700,850,775
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,05/26/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/02/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/05/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/07/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/08/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/09/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/11/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/13/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/14/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/18/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/19/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/20/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/21/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/29/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,06/30/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/03/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/04/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/05/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/06/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/07/2001,950,1050,1000
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/09/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/10/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/11/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/12/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/13/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/14/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/16/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/17/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/18/2001,1150,1400,1275
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/20/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/21/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,07/23/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/01/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/03/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/04/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/06/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/08/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/09/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/10/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/11/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/16/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/17/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/18/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/19/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/23/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/28/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/29/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/30/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,08/31/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/01/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/03/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/05/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/06/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/07/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/08/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/10/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/11/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/12/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/13/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/14/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/15/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,09/22/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,10/20/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,10/23/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/03/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/05/2001,900,1000,950
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/21/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/22/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/24/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/26/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/27/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,11/30/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/03/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/04/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/05/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/07/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/08/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/10/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/11/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/12/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/13/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/18/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/24/2001,1000,1100,1050
+Maharashtra,Nagpur,Nagpur,Wheat,Sharbati,12/27/2001,1000,1100,1050
+Maharashtra,Pune,Pune,Wheat,2189 No. 1,09/10/2001,800,900,850
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/07/2001,750,1100,900
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/12/2001,700,1050,850
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/13/2001,875,911,891
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/16/2001,700,800,750
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,06/18/2001,700,950,825
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,07/02/2001,800,1000,900
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,07/07/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,2189 No. 2,07/11/2001,750,950,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,03/30/2001,400,900,675
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/03/2001,650,1450,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/07/2001,700,1500,1100
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/09/2001,830,1500,1200
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/10/2001,830,1050,950
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/11/2001,700,1500,1100
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/12/2001,700,1400,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/16/2001,700,1400,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/18/2001,700,1400,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/20/2001,700,1400,1000
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/21/2001,725,1200,950
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/24/2001,725,1051,900
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/27/2001,770,1050,910
+Maharashtra,Pune,Pune,Wheat,Kalyan,04/30/2001,675,1100,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/02/2001,641,1125,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/03/2001,471,1125,900
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/05/2001,741,1125,900
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/08/2001,800,1100,950
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/15/2001,775,1150,900
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/17/2001,750,950,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/24/2001,700,950,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,05/25/2001,700,950,800
+Maharashtra,Pune,Pune,Wheat,Kalyan,07/27/2001,800,1140,925
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,07/29/2001,800,861,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,07/31/2001,800,860,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/01/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/02/2001,800,870,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/03/2001,800,841,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/04/2001,800,840,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/06/2001,900,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/13/2001,750,925,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/14/2001,750,930,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/18/2001,831,1200,975
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/20/2001,831,1200,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/21/2001,831,1200,1151
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/22/2001,831,1200,975
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/23/2001,800,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/24/2001,830,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/25/2001,800,1100,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/27/2001,800,1100,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/29/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,08/30/2001,775,1000,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/05/2001,850,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/07/2001,800,900,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/08/2001,800,1100,901
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/15/2001,800,900,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/17/2001,800,900,875
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/18/2001,800,900,875
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,09/20/2001,850,950,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/01/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/02/2001,825,875,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/03/2001,780,1100,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/04/2001,800,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/05/2001,800,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/06/2001,800,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/08/2001,800,900,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/09/2001,900,950,925
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/10/2001,850,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/11/2001,850,1000,900
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/12/2001,850,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/13/2001,850,1000,875
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/17/2001,750,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/19/2001,825,1001,901
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/20/2001,825,1000,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/25/2001,800,900,850
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/26/2001,800,850,825
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/27/2001,900,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/29/2001,900,1000,950
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/30/2001,875,900,885
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,10/31/2001,875,900,885
+Maharashtra,Pune,Pune,Wheat,MP Lokwan,12/27/2001,850,950,900
+Maharashtra,Sangli,Sangli,Wheat,Maharashtra 2189,12/14/2001,800,1050,875
+Maharashtra,Sangli,Sangli,Wheat,Maharashtra 2189,12/18/2001,850,1300,1000
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/16/2001,535,588,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/17/2001,532,582,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/18/2001,555,586,570
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/19/2001,530,610,570
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/21/2001,548,625,560
+NCT of Delhi,Delhi,Narela,Wheat,Dara,06/22/2001,549,635,570
+NCT of Delhi,Delhi,Narela,Wheat,Dara,08/25/2001,560,599,580
+NCT of Delhi,Delhi,Narela,Wheat,Dara,08/26/2001,539,600,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,08/27/2001,552,650,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/01/2001,500,590,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/02/2001,550,645,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/03/2001,542,601,575
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/04/2001,550,594,560
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/05/2001,545,643,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/07/2001,480,640,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/08/2001,568,606,590
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/09/2001,555,635,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/10/2001,500,614,550
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/11/2001,571,615,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/13/2001,575,612,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/14/2001,570,640,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/15/2001,571,624,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/16/2001,574,766,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/17/2001,570,617,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/18/2001,505,760,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/20/2001,581,731,700
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/21/2001,570,618,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/22/2001,582,636,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/23/2001,573,736,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/24/2001,559,637,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/25/2001,584,700,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/27/2001,560,700,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/28/2001,584,660,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/29/2001,551,665,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,09/30/2001,570,631,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/01/2001,590,680,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/04/2001,590,638,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/08/2001,580,634,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/09/2001,586,607,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/11/2001,571,640,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/12/2001,575,796,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/13/2001,594,631,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/14/2001,598,643,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/15/2001,580,761,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/16/2001,601,643,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/18/2001,593,690,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/19/2001,603,709,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/20/2001,588,686,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/21/2001,595,751,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/22/2001,600,890,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/23/2001,590,650,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/25/2001,600,637,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/26/2001,600,640,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/27/2001,596,665,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/28/2001,600,678,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/29/2001,600,662,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,10/30/2001,600,649,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/01/2001,580,751,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/02/2001,593,685,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/03/2001,558,691,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/04/2001,566,728,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/05/2001,570,875,710
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/06/2001,600,721,700
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/08/2001,605,846,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/09/2001,600,809,700
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/10/2001,590,853,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/11/2001,600,881,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/12/2001,595,877,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/13/2001,604,866,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/14/2001,605,771,725
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/15/2001,600,794,710
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/16/2001,590,701,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/17/2001,575,781,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/18/2001,580,866,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/19/2001,585,731,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/20/2001,595,741,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/22/2001,580,615,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/23/2001,591,700,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/24/2001,579,611,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/25/2001,590,700,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/26/2001,586,720,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/27/2001,592,666,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/29/2001,590,650,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,11/30/2001,584,801,700
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/01/2001,570,651,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/03/2001,577,656,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/04/2001,585,652,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/06/2001,575,620,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/08/2001,595,725,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/09/2001,590,646,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/10/2001,578,680,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/11/2001,595,741,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/13/2001,569,652,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/14/2001,596,725,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/15/2001,580,645,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/16/2001,601,661,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/17/2001,565,649,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/18/2001,570,721,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/20/2001,595,671,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/21/2001,608,671,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/22/2001,590,831,750
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/23/2001,595,675,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/24/2001,590,638,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/25/2001,593,630,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/27/2001,581,642,610
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/28/2001,590,634,600
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/29/2001,607,655,625
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/30/2001,605,695,650
+NCT of Delhi,Delhi,Narela,Wheat,Dara,12/31/2001,581,632,610
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/17/2001,722,950,800
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/18/2001,764,900,850
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/19/2001,750,881,800
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/21/2001,660,901,800
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/22/2001,700,850,800
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/23/2001,800,873,825
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,06/24/2001,700,840,750
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,09/04/2001,645,700,690
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,10/05/2001,591,777,700
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,10/06/2001,574,852,750
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,10/07/2001,590,801,700
+NCT of Delhi,Delhi,Narela,Wheat,Deshi,12/16/2001,875,875,875
+NCT of Delhi,Delhi,Narela,Wheat,Superior,11/06/2001,650,991,800
+Punjab,Faridkot,Kotkapura,Wheat,MP Lokwan,12/01/2001,0,560,0
+Rajasthan,Alwar,Alwar,Wheat,Dara,04/23/2001,580,670,630
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Kalyan,09/10/2001,500,580,540
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Kalyan,11/23/2001,640,665,655
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,03/29/2001,620,620,620
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,10/31/2001,675,675,675
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/01/2001,675,675,675
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/03/2001,675,675,675
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/06/2001,665,665,665
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/07/2001,665,665,665
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/09/2001,675,675,675
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/12/2001,720,720,720
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/17/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/19/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/20/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/21/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Mexican,11/23/2001,715,715,715
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,MP Lokwan,09/10/2001,550,580,565
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,10/30/2001,790,900,825
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,10/31/2001,690,700,695
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,11/06/2001,700,850,775
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,11/13/2001,800,900,850
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,11/20/2001,800,900,850
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,12/04/2001,750,850,800
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,12/05/2001,800,900,850
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,12/10/2001,850,900,875
+Rajasthan,Jaipur,Jaipur (Grain),Wheat,Sharbati,12/12/2001,800,900,850
+Rajasthan,Kota,Kota,Wheat,Mexican,11/22/2001,657,875,690
+West Bengal,Malda,Samsi,Wheat,MP Lokwan,03/16/2001,535,550,543
