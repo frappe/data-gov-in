@@ -18,52 +18,18 @@
 		<div class="outer">
 			<div class="navbar navbar-inverse">
 			  <div class="navbar-inner">
-			    <a class="brand" href="#">data.gov.in</a>
+			    <a class="brand" href="index.py">data.gov.in</a>
 			    <ul class="nav">
 			      <!-- <li><a href="#">Home</a></li> -->
 			    </ul>
 			  </div>
 			</div>
-			
 			{% macro get_file_title(f) -%}
 				{{ f and f[:-4].replace("_", " ").title() or "" }}
-			{%- endmacro %}
-			
-			<div class="row">
-				<div class="span12">
-					<select class="span6" id="file-select">
-						{% for f in files -%}
-						<option value="{{ f }}" {{ f == fname and "selected" or "" }}>		
-							{{ get_file_title(f) }}
-						</option>
-						{%- endfor %}
-					</select>
-				</div>
-			</div>
-			<div class="row">
-				<div class="span12" style="overflow-x: scroll;">
-					{% if file_data -%}
-					<h4>{{ get_file_title(fname) }}</h4>
-					<table class="table table-bordered table-striped">
-						<tbody>
-							{% for row in file_data -%}
-							<tr>
-								{% for col in row -%}
-								<td>{{ col }}</td>
-								{%- endfor %}
-							</tr>
-							{%- endfor %}
-						</tbody>
-					</table>
-					{%- endif %}
-				</div>
-			</div>
+			{%- endmacro %}			
+			{% block content %}
+			{% endblock %}
 		</div>
 	</div>
-	<script>
-		$("#file-select").change(function() {
-			window.location.href = "index.py?fname=" + $(this).val();
-		});
-	</script>
 </body>
 </html>

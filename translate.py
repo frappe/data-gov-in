@@ -44,7 +44,7 @@ def translate(lang):
 	cnt = 0
 	for m in messages:
 		cnt += 1
-		if cnt > 15: break
+		#if cnt > 15: break
 		if not translations.get(m):
 			print 'translating: ' + m
 			response = requests.get("""https://www.googleapis.com/language/translate/v2""",
@@ -53,7 +53,7 @@ def translate(lang):
 					"source": "en",
 					"target": lang,
 					"q": m
-				})
+				}, verify=False)
 
 			t = response.json["data"]["translations"][0]["translatedText"] or m
 			translations[m] = t.encode('utf-8')

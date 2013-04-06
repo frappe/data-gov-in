@@ -1,0 +1,2829 @@
+{
+ ".DS_Store": {
+  "groups": []
+ }, 
+ "ACTIVITYWISE_CLASSIFICATION-ACTUAL_2011-12_BUDGET_ESTIMATE_2012-13_REVISED_ESTIMATE_2012-13-be_re_actual_(2012-13).csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "ACTIVITYWISE_CLASSIFICATION-ACTUAL_2011-12_BUDGET_ESTIMATE_2012-13_REVISED_ESTIMATE_2012-13-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "ACTIVITYWISE_CLASSIFICATION-ACTUAL_2011-12_BUDGET_ESTIMATE_2012-13_REVISED_ESTIMATE_2012-13-summary.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "ACTIVITYWISE_CLASSIFICATION_OF_BUDGET_PROVISIONS_FOR_THE_FINANCIAL_YEAR_2013-14_1-classification_of_budget_estm..csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "ACTIVITYWISE_CLASSIFICATION_OF_BUDGET_PROVISIONS_FOR_THE_FINANCIAL_YEAR_2013-14_1-sheet3.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "ACTIVITYWISE_CLASSIFICATION_OF_BUDGET_PROVISIONS_FOR_THE_FINANCIAL_YEAR_2013-14_1-summary_of_budget_estm..csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "AIR_QUALITY_IN_INDUSTRIAL_AREAS_1.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "AIR_QUALITY_IN_INDUSTRIAL_AREAS_UNDER_NATIONAL_AMBIENT_AIR_QUALITY_MONITORING_PROGRAMME.csv": {
+  "groups": [
+   "Environment", 
+   "Agriculture"
+  ]
+ }, 
+ "AIR_QUALITY_IN_RESIDENTIAL_AREAS.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "AIR_QUALITY_IN_RESIDENTIAL_AREAS_UNDER_NATIONAL_AMBIENT_AIR_QUALITY_MONITORING_PROGRAMME_FOR_A_FEW_STATES.csv": {
+  "groups": [
+   "Environment", 
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "AREA_UNDER_PRINCIPAL_CROPS-all_india.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "AREA_UNDER_PRINCIPAL_CROPS-statewise_2009-10.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "AREA_UNDER_PRINCIPAL_CROPS-statewisw_2010-11.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "AREA_UNDER_PRINCIPAL_CROPS_0-all_india.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "AREA_UNDER_PRINCIPAL_CROPS_0-statewise_2009-10.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "AREA_UNDER_PRINCIPAL_CROPS_0-statewise_2010-11.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "AVERAGE_GASEOUS_COMPOSITION_OF_DRY.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "AVERAGE_PER_CAPITA_ANNUAL_EARNINGS_OF_FACTORY_LABOUR-nic_2004.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "AVERAGE_PER_CAPITA_ANNUAL_EARNINGS_OF_FACTORY_LABOUR-nic_2008.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "AVERAGE_PER_CAPITA_ANNUAL_EARNINGS_OF_FACTORY_WORKERS.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "AVERAGE_YIELD_OF_PRINCIPAL_CROPS-all_india.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "AVERAGE_YIELD_OF_PRINCIPAL_CROPS-statewise_2009-10_&_2010-11.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Achievements_of_Family_Welfare_Programme-all_india.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "Achievements_of_Family_Welfare_Programme-statewise_2010-11.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Achievements_of_Family_Welfare_Programme-statewise_2011-12.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Achievements_of_Immunization_Programme-all_india.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "Achievements_of_Immunization_Programme-statewise_2010-11.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Achievements_of_Immunization_Programme-statewise_2011-12.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Adminstrative_Structure_And_Rural_Health_Infrastructure.csv": {
+  "groups": [
+   "Health", 
+   "Urban Development"
+  ]
+ }, 
+ "All_India_Index_Jan11_Dec12-r+u.csv": {
+  "groups": []
+ }, 
+ "All_India_Index_Jan11_Dec12-rural.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "All_India_Index_Jan11_Dec12-urban.csv": {
+  "groups": []
+ }, 
+ "All_India_Index_Jan13.csv": {
+  "groups": []
+ }, 
+ "Animals_insured.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-estimates_-_detail_(in_crores).csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-estimates_-_summary_(in_crores).csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-growth_rates_-_detail.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-growth_rates_-_summary.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-rates_of_gdp_at_market_prices.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Annual_Gross_Emoluments_of_Research_And_Development_Personnel_Employed_As_On_1stApril2005.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Annual_Report_2012-13-Electronics_and_IT_Production_and_Exports-electronics_&_it_exports.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Annual_Report_2012-13-Electronics_and_IT_Production_and_Exports-electronics_&_it_production.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Annual_Report_2012-13-Electronics_and_IT_Production_and_Exports-employee_structure.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "Applications_For_Patents_Filed_From_1980-81_To_2006-07_By_Different_States.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Applications_For_Patents_Filed_In_India_From_1980-81_To_2006-07_By_Foreign_Countries.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Applications_For_Patents_From_Persons_In_India_And_Abroad_In_The_Years_1980-81_To_2006-07.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Areawise_Number_of_Projects_Received_During_2009-2012.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Areawise_Ongoing_Projects_As_on_6th_March_2013.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Budgetary_allocations_for_different_technology_Clusters-budgetary_allocations.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Budgetary_allocations_for_different_technology_Clusters-sheet3.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Budgetary_allocations_for_different_technology_Clusters-sheet4.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Building_Position_For_SCs_PHCs_CHCs_2-community_health_centres.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Building_Position_For_SCs_PHCs_CHCs_2-primary_health_centres.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Building_Position_For_SCs_PHCs_CHCs_2-sub_centres.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "CATEGORY-WISE_WASTELANDS_OF_INDIA.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "CONSUMPTION_OF_ELECTRICITY_BY_SECTORS.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "CONSUMPTION_OF_OZONE_DEPLETING_SUBSTANCES_IN_INDIA.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "CONSUMPTION_OF_OZONE_DEPLETING_SUBSTANCES_IN_INDIA_1.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "CONSUMPTION_OF_PETROLEUM_PRODUCTS_2.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "CONSUMPTION_OF_RAW_COAL_1.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "CONVENTIONAL_ENERGY-avail_of_source_of_conv_energy.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "CONVENTIONAL_ENERGY-consumption_of_conv_energy.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "CONVENTIONAL_ENERGY-conventional_energy.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "CONVENTIONAL_ENERGY-prod_of_source_of_conv_energy.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "COST_ESTIMATE_OF_SOME_PRINCIPAL_CROPS_IN_FIVE_MAJOR_PRODUCING_STATES_DURING_2008-09.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "CashTransactionReports2012.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "CashTransactionReportsReceived.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Combined_SOF_2012-13_for_al_States_asdataset_ds.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Company-wise_Production_of_Crude_Oil_in_India-2004-12-calender_years-offshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Company-wise_Production_of_Crude_Oil_in_India-2004-12-calender_years-onshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Company-wise_Production_of_Crude_Oil_in_India-2004-12-financial_years-offshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Company-wise_Production_of_Crude_Oil_in_India-2004-12-financial_years-onshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Comphrehensive_Environment_Pollution_Index_For_Critically_Polluted_Industrial_Area_Clusters.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "Condoms_Users.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Cooperation_Activity_of_FIU.csv": {
+  "groups": []
+ }, 
+ "Cooperation_Activity_of_FIU2012.csv": {
+  "groups": []
+ }, 
+ "Copyrights_for_Softwares.csv": {
+  "groups": []
+ }, 
+ "Counterfeit_Currency_Reports2012-counterfeit_currency_reports.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Counterfeit_Currency_Reports2012-description.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Counterfeit_Currency_Reports_Received.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Country_of_Citizenship_of_NonUS_Citizens_Awarded_Sc_And_Engg_Doctorates_By_US_Universities_1980-2005.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "CrudeOil__NaturalGas_and_Product_Pipelines_in_India_2004-12.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Crude_Birth_Rate_1.csv": {
+  "groups": [
+   "Energy", 
+   "Health"
+  ]
+ }, 
+ "Crude_Death_Rate_1.csv": {
+  "groups": [
+   "Energy", 
+   "Health"
+  ]
+ }, 
+ "DOMESTIC_PRODUCTION_OF_PETROLEUM_PRODUCTS_1.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "DRDO_in_the_Parliament-drdo_questions_in_parliament.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "DRDO_in_the_Parliament-sheet3.csv": {
+  "groups": []
+ }, 
+ "Datasets_ECS-antennas.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Datasets_ECS-day_vision_devices.csv": {
+  "groups": []
+ }, 
+ "Datasets_ECS-pulsed_coupled_cavity_twt.csv": {
+  "groups": []
+ }, 
+ "Datasets_ECS-radar,array_&_computer_devices.csv": {
+  "groups": []
+ }, 
+ "Datasets_ECS-saw_discrete_chemical_sensors.csv": {
+  "groups": []
+ }, 
+ "Decentralised_Off-grid_Renewable_Energy_Systems_Devices.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Demographic_Indicators_1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Dispensaries_And_Beneficiaries_Under_Central_Govt_Health_Scheme_Upto31stMarch-all_india.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Dispensaries_And_Beneficiaries_Under_Central_Govt_Health_Scheme_Upto31stMarch-statewise.csv": {
+  "groups": [
+   "Health", 
+   "Economy"
+  ]
+ }, 
+ "Dispensaries_Under_Ayush_Systems_As_On_1stApril-all_india.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Dispensaries_Under_Ayush_Systems_As_On_1stApril-statewise.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "District_Wise_Rural_HealthCare_Infrastructure.csv": {
+  "groups": [
+   "Health", 
+   "Urban Development"
+  ]
+ }, 
+ "District_wise_CSC_rollout_and_connectivity.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Doctorate_Degrees_Awarded_Faculty-Wise_1984-85_To_2005-06.csv": {
+  "groups": [
+   "Health", 
+   "Education"
+  ]
+ }, 
+ "EDUCATION_ENROLLMENT-_statewise(higher_education).csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "EDUCATION_ENROLLMENT-all_india(higher_education).csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EDUCATION_ENROLLMENT-all_india(ph_d,m.phil).csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EDUCATION_ENROLLMENT-statewise_(ph_d,m.phil).csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "EDUCATION_INSTITUTIONS_SCHOOLS_AND_EXPENDITURE.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION-capacity,_gen_and_cons_-_india.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION-capacity,_gen_and_cons_-_state.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "ELECTRICITY_GENERATED_DISTRIBUTED_SOLD_AND_LOST.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ELECTRICITY_SOLD_TO_ULTIMATE_CONSUMERS-sales_to_customers_-_all_india.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ELECTRICITY_SOLD_TO_ULTIMATE_CONSUMERS-sales_to_customers_-_statewise.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "EMPLOYMENT_IN_BANKS.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EMPLOYMENT_IN_FACTORIES-_ADULTS_ADOLESCENTS_AND_CHILDREN_ACCORDING_TO_SEX-1-employment_in_factory_all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EMPLOYMENT_IN_FACTORIES-_ADULTS_ADOLESCENTS_AND_CHILDREN_ACCORDING_TO_SEX-1-employment_in_factory_statewise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "EMPLOYMENT_IN_FACTORIES-_ADULTS_ADOLESCENTS_AND_CHILDREN_ACCORDING_TO_SEX-employment_in_factory_all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EMPLOYMENT_IN_FACTORIES-_ADULTS_ADOLESCENTS_AND_CHILDREN_ACCORDING_TO_SEX-employment_in_factory_statewise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "EMPLOYMENT_IN_INSURANCE.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EMPLOYMENT_IN_PLANTATIONS.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "EMPLOYMENT_IN_PORTS-major_ports_as_on_31st_march.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EMPLOYMENT_IN_PORTS-no._of_dock_workers.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EMPLOYMENT_IN_PORTS-non_major_ports_as_on_31st_mar.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EMPLOYMENT_IN_SHOPS_AND_COMMERCIAL_ESTABLISHMENTS-employment_in_shops_all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "EMPLOYMENT_IN_SHOPS_AND_COMMERCIAL_ESTABLISHMENTS-employment_in_shops_state-wise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "ENROLMENT_IN_SCHOOL_EDUCATION_BY_COURSES_AND_STAGES.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "ENROLMENT_IN_SCHOOL_EDUCATION_BY_COURSES_AND_STAGES_IN_RECOGNISED_INSTITUTIONS.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "ESTIMATED_AVERAGE_DAILY_EMPLOYMENT_AND_WORKING_FACTORIES-all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "ESTIMATED_AVERAGE_DAILY_EMPLOYMENT_AND_WORKING_FACTORIES-state-wise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "ESTIMATED_EMPLOYMENT_IN_THE_PUBLIC_AND_PRIVATE_SECTORS_as_on_31st_March-estimated_employment_all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "ESTIMATED_EMPLOYMENT_IN_THE_PUBLIC_AND_PRIVATE_SECTORS_as_on_31st_March-estimated_employment_state-wise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "ESTIMATED_EMPLOYMENT_IN_THE_PUBLIC_AND_PRIVATE_SECTORS_as_on_31st_March_1-estimated_employment_all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "ESTIMATED_EMPLOYMENT_IN_THE_PUBLIC_AND_PRIVATE_SECTORS_as_on_31st_March_1-estimated_employment_statewise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "ESTIMATED_NUMBER_OF_SPECIES.csv": {
+  "groups": []
+ }, 
+ "ESTIMATED_POPULATION_OF_WILD_ELEPHANTS.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES-capacity_of_renewable_power.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES-coal_washeries.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES-crude_oil_and_natural_gas.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES-generating_capacity_of_electric.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES-lignite.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES-potential_of_renewable_power.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ESTIMATED_RESERVE_AND_INSTALLED_CAPACITY_OF_VARIOUS_SOURCES_OF_ENERGIES-renewable_energy_systems.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "ESTIMATES_OF_TREE_AND_MANGROVE_COVER-tree_&_mangrove_cover_all_india.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "ESTIMATES_OF_TREE_AND_MANGROVE_COVER-tree_&_mangrove_cover_statewise.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "ESTIMATES_OF_TREE_AND_MANGROVE_COVER_1-tree_&_mangrove_cover_all_india.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "ESTIMATES_OF_TREE_AND_MANGROVE_COVER_1-tree_&_mangrove_cover_statewise.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "ESTIMATES_OF_WASTELANDS_IN_INDIA.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "EXPENDITURE_INCURRED_ON_PAY_AND_ALLOWANCES_OF_CIVILIAN_EMPLOYEES_BY_THE_CENTRAL_MINISTRIES-DEPARTMENTS-expenditure_incurred_all_india.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "EXPENDITURE_INCURRED_ON_PAY_AND_ALLOWANCES_OF_CIVILIAN_EMPLOYEES_BY_THE_CENTRAL_MINISTRIES-DEPARTMENTS-expenditure_incurred_dept-wise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "Electronic_IT_Production.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Electronics_IT_Exports.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Employment_in_Railways.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Enrolment_of_Women_In_Higher_Education_By_Science_And_Technology_Disciplines.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Estimated_Stock_of_Engineering_Degree_Holders_In_The_Working_Age_Group_By_Selected_Disciplines.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Estimated_Stock_of_Science_and_Technology_Personnel.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Expenditure_On_Education_By_Centre_And_State_Governments.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "Expenditure_On_Research_and_Development_By_Major_Scientific_Agencies.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Expenditure_On_RnD_By_Central_Ministries_or_Depts_Other_Than_Major_Scientific_Agencies.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Expenditure_Per_Capita_And_As_Percentage_of_GDP_For_Selected_Countries_2004-06.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Export_of_Major_Chemicals_ProductWise_or_GroupWise_2006-07_to_2011-12.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "Export_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2011-12.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "FACTORY_EMPLOYMENT.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "FACTORY_EMPLOYMENT_BY_STATES.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "FINANCIAL_OUTCOMES_UNDER_NREGA-financial_outcomes_-_all_india.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "FINANCIAL_OUTCOMES_UNDER_NREGA-financial_outcomes_-_state-wise.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "FOREST_COVER_AREA-forest_cover_all_india.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "FOREST_COVER_AREA-forest_cover_statewise.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "FOREST_COVER_AREA_1-forest_cover_all-india.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "FOREST_COVER_AREA_1-forest_cover_state-wise.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "FOREST_OCCUPANCY_AND_POPULATION_ESTIMATES_OF_TIGERS_AS_PER_THE_REFINED_METHODOLOGY.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "Faculty-Wise_Enrolment_In_Higher_Education_From_1985-86_To_2006-07.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Faculty-Wise_Enrolment_of_Women_In_Higher_Education_From_1974-75_To_2005-06.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Female_Manpower_By_Qualifications_For_Central_And_State_Sectors_As_On_1stApril2005.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2002-03-2002-03.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2002-03-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2003-04-2003-04.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2003-04-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2004-05-2004-05.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2004-05-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2005-06-2005-06.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2005-06-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2006-07-2006-07.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2006-07-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2007-08-2007-08.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2007-08-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2008-09-2008-09.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2008-09-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2009-10-2009-10.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2009-10-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2010-11_1-2010-11.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2010-11_1-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2011-12-2011-12.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Performance_of_SRTUs_for_the_Year_2011-12-abbreviations.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Financial_Progress_For_ST.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Full_Time_Equivalent_Of_Women_Employed_In_R&D_Establishments_As_On_1stApril2005.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "GDP-Growth-PercentShare-At-Current-Prices-gdp-%share-at-current-prices.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "GDP-Growth-PercentShare-At-Current-Prices-gdp-growth-at-current-prices.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "GDP-Growth-PercentSharte-at-Constant-04-05-Price-gdp-%share-constant-04-05-price.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "GDP-Growth-PercentSharte-at-Constant-04-05-Price-gdp-growth-constant-04-05-price.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "GLOBAL_AVERAGE_TEMPERATURE.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "GLOBAL_AVERAGE_TEMPERATURE_AND_ATMOSPHERIC_CONCENTRATION_OF_CARBON_DIOXIDE.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "GROSS_GENERATION_OF_ELECTRICITY_IN_UTILITIES_AND_NON-UTILITIES.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "GROUP-WISE_ESTIMATED_NUMBER_OF_CENTRAL_GOVERNMENT_CIVILIAN_REGULAR_EMPLOYEES-cg_regular_employees_all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "GROUP-WISE_ESTIMATED_NUMBER_OF_CENTRAL_GOVERNMENT_CIVILIAN_REGULAR_EMPLOYEES-cg_regular_employees_dept_wise.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Hospitals_And_Bed_Strength_Under_Ayush_Systems_As_On_1stApril-all_india.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Hospitals_And_Bed_Strength_Under_Ayush_Systems_As_On_1stApril-statewise.csv": {
+  "groups": [
+   "Health", 
+   "Economy"
+  ]
+ }, 
+ "HotelTourismData-sheet1.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "HotelTourismData-sheet2.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Human_Resource_Emp_list_DRDO_1-sheet2.csv": {
+  "groups": []
+ }, 
+ "Human_Resource_Emp_list_DRDO_1-sheet3.csv": {
+  "groups": []
+ }, 
+ "Hydraulic_and_Lubrication_Filters-sheet2.csv": {
+  "groups": []
+ }, 
+ "Hydraulic_and_Lubrication_Filters-sheet3.csv": {
+  "groups": []
+ }, 
+ "IMAGE_INTENSIFICATION_BASED_DEVICES-sheet1.csv": {
+  "groups": []
+ }, 
+ "IMAGE_INTENSIFICATION_BASED_DEVICES-sheet2.csv": {
+  "groups": []
+ }, 
+ "IMAGE_INTENSIFICATION_BASED_DEVICES-sheet3.csv": {
+  "groups": []
+ }, 
+ "IMPLEMENTATION_REPORT_UNDER_NREGA-implementation_report_all_india.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "IMPLEMENTATION_REPORT_UNDER_NREGA-implementation_report_statewise.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "INDEX_NUMBER_OF_PRINCIPAL_CROPS.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "INDUSTRIAL_DISPUTES-industrial_disputes_all_india.csv": {
+  "groups": []
+ }, 
+ "INDUSTRIAL_DISPUTES-industrial_disputes_state-wise.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "INDUSTRIAL_DISPUTES_BY_CAUSES.csv": {
+  "groups": []
+ }, 
+ "INDUSTRIAL_INJURIES_IN_FACTORIES-injuries_in_factories_all_india.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "INDUSTRIAL_INJURIES_IN_FACTORIES-injuries_in_factories_statewise.csv": {
+  "groups": [
+   "Health", 
+   "Economy"
+  ]
+ }, 
+ "INDUSTRIAL_INJURIES_IN_MINES-injuries_in_mines-_mineral-wise.csv": {
+  "groups": [
+   "Energy", 
+   "Health"
+  ]
+ }, 
+ "INDUSTRIAL_INJURIES_IN_MINES-injuries_in_mines_-_all_india.csv": {
+  "groups": [
+   "Energy", 
+   "Health"
+  ]
+ }, 
+ "INDUSTRIAL_INJURIES_IN_MINES_1-injuries_in_mines-_mineral_wise.csv": {
+  "groups": [
+   "Energy", 
+   "Health"
+  ]
+ }, 
+ "INDUSTRIAL_INJURIES_IN_MINES_1-injuries_in_mines_all_india.csv": {
+  "groups": [
+   "Energy", 
+   "Health"
+  ]
+ }, 
+ "INDUSTRY-WISE_OFF-TAKE_OF_NATURAL_GAS.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "INSTALLATION_OF_OFF-GRIDDECENTRALISED_RENEWABLE_ENERGY_SYSTEMSDEVICES_DURING_2009-10.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "IUD_Insertions.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Import_of_Major_Chemicals_ProductWise_or_GroupWise_2006-07_to_2011-12.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "Import_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2011-12.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12-exports.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12-gross_imports.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12-net_imports.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Index_of_Industrial_Production_1980-81-2_digit_weight.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Index_of_Industrial_Production_1980-81-averageannual(apr-mar)indices.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Index_of_Industrial_Production_1980-81-growthovercorresperiodofprevyr.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Index_of_Industrial_Production_1993-94-2_digit_weight.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Index_of_Industrial_Production_1993-94-averageannual(apr-mar)indices.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Index_of_Industrial_Production_1993-94-growthovercorresperiodofprevyr.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Indicators_From_Annual_Health_Survey_2010-11.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Industry-wise_Offtakes_of_Natural_Gas_in_India_2004-12.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Infant_Mortality_Rate_1.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "International_EMS_tariff_1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "LITERACY_RATE_INDIA-literacy_rate_-_all_india(nsso).csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "LITERACY_RATE_INDIA-literacy_rate_-_statewise(nsso).csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "List_of_Ongoing_Projects_As_on_13th_March_2013.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "List_of_SWAN_PoP.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES-cars.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES-chassis_dynamometer_-_4_wheeler.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES-chassis_dynamometer_-_car.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES-diesel_vehicles.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES-dieselvehicleenginedynamometer_.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES-petrol_vehicles.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Manpower_At_SCs_PHCs-5-female_or_anm_at_scs_&_phcs.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Manpower_At_SCs_PHCs-5-male_at_sub-centres.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "MaternalMortalityRate07-09.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Microwave_Power_Module-sheet1.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Microwave_Power_Module-sheet2.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Microwave_Power_Module-sheet3.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Month_and_Year-wise_Average_of_International_Crude_Oil_Prices_2004-12.csv": {
+  "groups": [
+   "Energy", 
+   "Agriculture"
+  ]
+ }, 
+ "NUMBER_AND_AREA_OF_NATIONALPARKS_AND_SANCTUARIES_IN_INDIA.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "NUMBER_OF_RECOGNISED_EDUCATIO_AL_INSTITUTIONS-all_india_educational_institute.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "NUMBER_OF_RECOGNISED_EDUCATIO_AL_INSTITUTIONS-statewise_educational_institute.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "NUMBER_OF_TEACHERS_IN_EDUCATIONAL_INSTITUTIONS-teacher_in_institutionall_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "NUMBER_OF_TEACHERS_IN_EDUCATIONAL_INSTITUTIONS-teacher_in_institutionstatewise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "NUMBER_OF_TOWNS_AND_VILLAGES_ELECTRIFIED_IN_INDIA.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "National_Expenditure_On_R&D_In_Relation_To_GNP_or_GDP.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "National_Expenditure_On_Research_&_Development.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "National_Expenditure_on_Research_And_Development_By_Sector.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Neo-Natal_Mortality_Rate.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "No_Of_Newborn_Visited_Within_24hrs_of_Home_Delivery_1.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "No_Of_Newborns_Breastfed_Within_1hr_1.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "No_Of_Newborns_Having_Weight_Less_Than_2.5Kgs_1.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "No_Of_Newborns_Weighed_At_Birth_1.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "No_Of_Pregnant_Women_Received_3ANC_CheckUps_1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "No_Of_Still_Births_1.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "No_Of_Sub_Div_Hosp_District_Hosp_Mobile_Medical_Units_Functioning_1.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "No_Of_Women_Discharged_Under_48hrs_Of_Delivery_1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "No_Of_Women_Given_TT2_or_Booster.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "No_Of_Women_Having_HB_Level_Less_Than_11.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "No_of_Job_Seekers_On_The_Live_Registers_of_Emp_Exch_During_The_Period_1971-2006.csv": {
+  "groups": []
+ }, 
+ "Number_Of_SCs_PHCs_CHCs_During_Five_Year_Plans-1-community_health_centres.csv": {
+  "groups": [
+   "Health", 
+   "Economy"
+  ]
+ }, 
+ "Number_Of_SCs_PHCs_CHCs_During_Five_Year_Plans-1-primary_health_centres.csv": {
+  "groups": [
+   "Health", 
+   "Economy"
+  ]
+ }, 
+ "Number_Of_SCs_PHCs_CHCs_During_Five_Year_Plans-1-sub_centres.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Number_of_Allopathic_Hospitals_Dispensaries_And_Beds.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Number_of_Allopathic_Medical_and_Dental_Colleges_And_Admission.csv": {
+  "groups": [
+   "Health", 
+   "Education"
+  ]
+ }, 
+ "Number_of_Cases_And_Deaths_Due_To_Diseases-all_india.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Number_of_Cases_And_Deaths_Due_To_Diseases-statewise_2010.csv": {
+  "groups": [
+   "Health", 
+   "Economy"
+  ]
+ }, 
+ "Number_of_Cases_And_Deaths_Due_To_Diseases-statewise_2011.csv": {
+  "groups": [
+   "Health", 
+   "Economy"
+  ]
+ }, 
+ "Number_of_Registered_Allopathic_Doctors_And_Dental_Surgeons.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Number_of_Registered_General_Nursing_Midwives_Auxiliary_Nurse-Midwives_And_Health_Visitors-all_india.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Number_of_Registered_General_Nursing_Midwives_Auxiliary_Nurse-Midwives_And_Health_Visitors-statewise.csv": {
+  "groups": [
+   "Health", 
+   "Economy"
+  ]
+ }, 
+ "Oral_Pill_Users.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Out-Turn_of_Scientific_And_Technical_Personnel_From_Universities_In_India_1947-1995.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "PATTERN_OF_LAND_UTILISATION-all_india.csv": {
+  "groups": []
+ }, 
+ "PATTERN_OF_LAND_UTILISATION-state_wise_(2009-10).csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PATTERN_OF_LAND_UTILISATION-statewise(2008-09).csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PERFORMANCE_OF_EMPLOYMENT_EXCHANGES-employment_exchange_all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "PERFORMANCE_OF_EMPLOYMENT_EXCHANGES-employment_exchange_statewise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "PERFORMANCE_OF_EMPLOYMENT_EXCHANGES_1-employment_exchange_all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "PERFORMANCE_OF_EMPLOYMENT_EXCHANGES_1-employment_exchange_statewise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "PG_and_Exclusive_PG_Colleges_in_AYUSH-ayurveda.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "PG_and_Exclusive_PG_Colleges_in_AYUSH-homoeopathy.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "PG_and_Exclusive_PG_Colleges_in_AYUSH-siddha.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "PG_and_Exclusive_PG_Colleges_in_AYUSH-unani.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "PHYSICAL_AND_FINANCIAL_PROGRESS_UNDER_PMGSY.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PHYSICAL_AND_FINANCIAL_PROGRESS_UNDER_PMGSY_1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PHYSICAL_AND_FINANCIAL_PROGRESS_UNDER_SGSY_As_On_18TH_MAY2011-financial_progress_(in_`_crore).csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PHYSICAL_AND_FINANCIAL_PROGRESS_UNDER_SGSY_As_On_18TH_MAY2011-physical_progress_(in_number).csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PHYSICAL_AND_FINANCIAL_PROGRESS_UNDER_SGSY_As_On_18TH_MAY2011_1-financial_progress_(in_crore).csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PHYSICAL_AND_FINANCIAL_PROGRESS_UNDER_SGSY_As_On_18TH_MAY2011_1-physical_progress_(in_number).csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PHYSICAL_OUTCOMES_UNDER_NREGA-physical_outcome_-_all_india.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PHYSICAL_OUTCOMES_UNDER_NREGA-physical_outcome_-_state-wise.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "PHYSICAL_PROGRESS_OF_RURAL_ROADS_UNDER_BHARAT_NIRMAN-all_india.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "PHYSICAL_PROGRESS_OF_RURAL_ROADS_UNDER_BHARAT_NIRMAN-state-wise.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "PHYSICAL_PROGRESS_UNDER_RASHTRIYA_GRAM_SWARAJ_YOJANA-resource_centres_at_gram_panch..csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "PHYSICAL_PROGRESS_UNDER_RASHTRIYA_GRAM_SWARAJ_YOJANA-training_infrastructure_sanc..csv": {
+  "groups": [
+   "Agriculture", 
+   "Urban Development"
+  ]
+ }, 
+ "PHYSICAL_PROGRESS_UNDER_RASHTRIYA_GRAM_SWARAJ_YOJANA_1-resource_centre_at_gram_panch..csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "PHYSICAL_PROGRESS_UNDER_RASHTRIYA_GRAM_SWARAJ_YOJANA_1-traning_infrs._sanctioned.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "PRODUCTION_OF_COAL.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "PRODUCTION_OF_OZONE_DEPLETING_SUBSTANCES_IN_INDIA.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "PRODUCTION_OF_PRINCIPAL_CROPS-all_india.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "PRODUCTION_OF_PRINCIPAL_CROPS-statewise_2009-10.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "PRODUCTION_OF_PRINCIPAL_CROPS-statewisw_2010-11.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "PROGRAMME-WISE_CUMULATIVE_ACHIEVEMENT.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "PROGRESS_OF_AFFORESTATION_THROUGH_SUCCESSIVE_PLANS.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME-dpap_&_ddp.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME-iwmp.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "Patents_Filed_And_Sealed_In_The_Years_1976-77_To_2006-07.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Patents_Granted.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Petroleum_Refining_Capacity_in_India_As_on_2012.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Pharmacists_LaboratoryTechnicians_NursingStaff_At_PHCs_CHCs-1-laboratory_technicians.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Pharmacists_LaboratoryTechnicians_NursingStaff_At_PHCs_CHCs-1-nursing_staff.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Pharmacists_LaboratoryTechnicians_NursingStaff_At_PHCs_CHCs-1-pharmacists.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Philatelic_bureaux_11012013.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Philatelic_counters11012013.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2002-03-2002-03.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2002-03-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2003-04-2003-04.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2003-04-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2004-05-2004-05.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2004-05-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2005-06_1-2005-06.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2005-06_1-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2006-07_1-2006-07.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2006-07_1-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2007-08-2007-08.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2007-08-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2008-09-2008-09.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2008-09-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2009-10-2009-10.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2009-10-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2010-11-2010-11.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2010-11-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2011-12-2011-12.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Physical_Performance_of_SRTUs_for_the_Year_2011-12-abbreviations.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Post_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems_As_On_1stApril-all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Post_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems_As_On_1stApril-statewise.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "Poverty_Lines_2004-05.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Poverty_Lines_2009-10.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Poverty_Ratio_2004-05.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Poverty_Ratio_2009-10.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Product-wise_Consumption_of_Petroleum_Products_2004-12.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Production_of_Major_Chemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12-basic_major_petrochemicals.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12-intermediates.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12-other_petro-based_chemicals.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "Production_of_Petroleum_Products_2004-12-pattern_of_production(%).csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Production_of_Petroleum_Products_2004-12-production.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Project_portfolio_of_the_Organization_1-sheet1.csv": {
+  "groups": []
+ }, 
+ "Project_portfolio_of_the_Organization_1-sheet2.csv": {
+  "groups": []
+ }, 
+ "Project_portfolio_of_the_Organization_1-sheet3.csv": {
+  "groups": []
+ }, 
+ "Pulsed_Coupled_cavity_TWT-sheet1.csv": {
+  "groups": []
+ }, 
+ "Pulsed_Coupled_cavity_TWT-sheet2.csv": {
+  "groups": []
+ }, 
+ "Pulsed_Coupled_cavity_TWT-sheet3.csv": {
+  "groups": []
+ }, 
+ "Quarterly_Estimates_of_GDP_at_Constant_2004-05_Prices-growth_rates.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "Quarterly_Estimates_of_GDP_at_Constant_2004-05_Prices-quarterly_estimates.csv": {
+  "groups": [
+   "Agriculture", 
+   "Economy"
+  ]
+ }, 
+ "RESOURCE_CENTRES_AT_BLOCK_LEVEL_SANCTIONED.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "RESOURCE_CENTRES_AT_BLOCK_LEVEL_SANCTIONED_1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Registered_Practitioners_Under_Ayush_Systems_AsOn1stJanuary-all_india.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Registered_Practitioners_Under_Ayush_Systems_AsOn1stJanuary-statewise.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Researchers_Per_Million_People_For_Selected_Countries_2004-06.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Reserves_of_Crude_Oil_in_India_2004-12.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Reserves_of_Natural_Gas_in_India_2004-12.csv": {
+  "groups": [
+   "Energy"
+  ]
+ }, 
+ "Rural_Health_Assistants_and_Doctors_At_PHCs_2-doctors.csv": {
+  "groups": [
+   "Health", 
+   "Urban Development"
+  ]
+ }, 
+ "Rural_Health_Assistants_and_Doctors_At_PHCs_2-health_assistants-female_or_lhv.csv": {
+  "groups": [
+   "Health", 
+   "Urban Development"
+  ]
+ }, 
+ "Rural_Health_Assistants_and_Doctors_At_PHCs_2-health_assistants-male.csv": {
+  "groups": [
+   "Health", 
+   "Urban Development"
+  ]
+ }, 
+ "STATEWISE_FORESTS_COVER_OF_THE_COUNTRY-forest_cover_all_india.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STATEWISE_FORESTS_COVER_OF_THE_COUNTRY-forest_cover_statewise.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STATEWISE_FORESTS_COVER_OF_THE_COUNTRY_1-forest_cover_all-india.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STATEWISE_FORESTS_COVER_OF_THE_COUNTRY_1-forest_cover_state-wise.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STATEWISE_PRODUCTION_OF_FOREST_PRODUCE-forest_produce_-_all_india.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STATEWISE_PRODUCTION_OF_FOREST_PRODUCE-forest_produce_-_statewise.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STATEWISE_RECORDED_FOREST_AREA_OF_THE_COUNTRY-recorded_forestarea_-_all_india.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STATEWISE_RECORDED_FOREST_AREA_OF_THE_COUNTRY-recorded_forestarea_-_statewise.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STATEWISE_REVENUE_AND_EXPENDITURE_FRO_ON_FORESTS-rev_&_exp_-_forest_statewise.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STATEWISE_REVENUE_AND_EXPENDITURE_FRO_ON_FORESTS-revenue_&_expense-_forest_india.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "STR_Trend_Analysis_Report_2010_1-trend_by_sector_wise_states.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "STR_Trend_Analysis_Report_2010_1-trends_by_category.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "STR_Trend_Analysis_Report_2010_1-trends_by_year_wise_states.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Sector-Wise_Expenditure_On_Education_By_Central_And_State_Governments_Revenue_Account.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "Sector-Wise_Plan_And_Non-Plan_Budget_Estimates_For_Edu_By_Central_And_StateGovts_2007-08.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Selected_Statistical_Indicators_For_India.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Shortfall_In_Health_Infra_As_Per_2011_Population_Prov_In_India_2.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "State-wise_Gross_Production_of_Natural_Gas_in_India_2004-12-calender_years-offshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "State-wise_Gross_Production_of_Natural_Gas_in_India_2004-12-calender_years-onshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "State-wise_Gross_Production_of_Natural_Gas_in_India_2004-12-financial_years-offshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "State-wise_Gross_Production_of_Natural_Gas_in_India_2004-12-financial_years-onshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "State-wise_Number_of_Retail_Outlets_LDO_or_SKO_As_on_1stApril_2012.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "State-wise_Production_of_Crude_Oil_in_India_2004-12-calender_years-offshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "State-wise_Production_of_Crude_Oil_in_India_2004-12-calender_years-onshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "State-wise_Production_of_Crude_Oil_in_India_2004-12-financial_years-offshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "State-wise_Production_of_Crude_Oil_in_India_2004-12-financial_years-onshore.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "State-wise_and_Sex-wise_registered_practitioners_in_India.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "State-wise_details_of_cumulative_grid_interactive_renewable_power_installed_capacity.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "State-wise_details_of_cumulative_grid_interactive_renewable_power_installed_capacity_1.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Statewise_General_Index_Jan11_Dec12-r+u.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_General_Index_Jan11_Dec12-rural.csv": {
+  "groups": [
+   "Urban Development", 
+   "Economy"
+  ]
+ }, 
+ "Statewise_General_Index_Jan11_Dec12-urban.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_General_Index_Jan13_1-statewise_general_index(1).csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_General_Index_Jan13_1-statewise_general_index.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_General_Index_Jan13_1-statewise_general_index_(2).csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_Number_of_Institutes_Implementing_the_Projects_during_2010-12.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_Number_of_Projects_Not_Found_Suitable_For_Funding_During_2010-2012.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_Number_of_Projects_Received_During_2009-2012.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_Ongoing_Projects_As_on_6th_March_2013_1-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_Ongoing_Projects_As_on_6th_March_2013_1-sheet2.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_Ongoing_Projects_As_on_6th_March_2013_1-sheet3.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Statewise_and_Sourcewise_Installed_Capacity_of_Grid_Interactive_Renewable_Power.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Statistics_of_Mental_Hospitals.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Sterilisations.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Still_Birth_Rate_1.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Summer_Average_Values_March-June_for_Water_Quality_on_River_Ganga_under_Ganga_Action_Plan.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "Suspicious_Transaction_Reports2012-strs_disseminated.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Suspicious_Transaction_Reports2012-strs_processed.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Suspicious_Transaction_Reports2012-strs_received.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Suspicious_Transaction_Reports_Received-strs_disseminated.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Suspicious_Transaction_Reports_Received-strs_processed.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Suspicious_Transaction_Reports_Received-strs_received.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "TABLE_4.csv": {
+  "groups": []
+ }, 
+ "TABLE_6-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "TABLE_6-sheet2.csv": {
+  "groups": []
+ }, 
+ "TABLE_6-sheet3.csv": {
+  "groups": []
+ }, 
+ "TOTAL_EARNINGS_OF_FACTORY_WORKERS_IN_INDIA.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "TOTAL_EXPORT_AND_IMPORT_OF_OZONE_DEPLETING_SUBSTANCES.csv": {
+  "groups": [
+   "Environment", 
+   "Economy"
+  ]
+ }, 
+ "Table_1-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Table_1-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_1-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_1_0-sheet1.csv": {
+  "groups": []
+ }, 
+ "Table_1_0-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_1_0-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_2-sheet1.csv": {
+  "groups": []
+ }, 
+ "Table_2-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_2-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_2.1-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Table_2.1-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_2.1-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_2.2-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Table_2.2-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_2.2-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_2.2a-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Table_2.2a-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_2.2a-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_2.3-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Table_2.3-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_2.3-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_2.4-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Table_2.4-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_2.4-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_3-sheet1.csv": {
+  "groups": []
+ }, 
+ "Table_3-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_3-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_5-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Table_5-sheet2.csv": {
+  "groups": []
+ }, 
+ "Table_5-sheet3.csv": {
+  "groups": []
+ }, 
+ "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-ayurveda.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-homoeopathy.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-naturopathy.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-siddha.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-sowa-rigpa.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-unani.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-yoga.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Telephones_as_on_Oct__2012.csv": {
+  "groups": []
+ }, 
+ "Total_Fertility_Rate_1.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Total_No_PersonsInjured_in_RoadAccidents_in_India_2003-11.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Total_No_PersonsKilled_in_RoadAccidents_in_India_2003-11.csv": {
+  "groups": [
+   "Education", 
+   "Urban Development"
+  ]
+ }, 
+ "Total_No_Road_Accidents_in_India_2003-11_1.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Total_Specialists_GDMOS-Allopathic_and_Radiographers_At_CHCs_2-gdmos_-_allopathic.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Total_Specialists_GDMOS-Allopathic_and_Radiographers_At_CHCs_2-radiographers.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Total_Specialists_GDMOS-Allopathic_and_Radiographers_At_CHCs_2-total_specialists.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Tourism_Statistics_Since_1991.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "TravelTourData-adventure_tour.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "TravelTourData-sheet2.csv": {
+  "groups": [
+   "Urban Development"
+  ]
+ }, 
+ "Trends_in_Indian_Petroleum_Industry_at_a_Glance_2004-12-1_(2).csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "Trends_in_Indian_Petroleum_Industry_at_a_Glance_2004-12-trendsinindianpetroleumindustry.csv": {
+  "groups": [
+   "Energy", 
+   "Economy"
+  ]
+ }, 
+ "UG_Colleges_in_AYUSH-ayurveda.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "UG_Colleges_in_AYUSH-homoeopathy.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "UG_Colleges_in_AYUSH-naturopathy.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "UG_Colleges_in_AYUSH-siddha.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "UG_Colleges_in_AYUSH-unani.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Under_5_Mortality_Rate_2010_2.csv": {
+  "groups": [
+   "Health"
+  ]
+ }, 
+ "Under_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems-all_india.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Under_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems-statewise_2010.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "Under_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems-statewise_2011.csv": {
+  "groups": [
+   "Education", 
+   "Economy"
+  ]
+ }, 
+ "Universities_Or_Colleges_And_Their_Enrolment_From_1976-77_To_2006-07.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Use-based_Indices_And_Growth_1980-81-2_digit_weight.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Use-based_Indices_And_Growth_1980-81-averageannual(apr-mar)indices.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Use-based_Indices_And_Growth_1980-81-growthovercorresperiodofprevyr.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Use-based_Indices_And_Growth_1993-94-2_digit_weight_-_apr'94-mar'98.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Use-based_Indices_And_Growth_1993-94-2_digit_weight_-_apr'98-jun'11.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Use-based_Indices_And_Growth_1993-94-averageannual(apr-mar)indices.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "Use-based_Indices_And_Growth_1993-94-growthovercorresperiodofprevyr.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "WAGES_AND_EARNINGS_OF_MINING_LABOUR-avg_week_earnings_coal_mines.csv": {
+  "groups": [
+   "Energy", 
+   "Education"
+  ]
+ }, 
+ "WAGES_AND_EARNINGS_OF_MINING_LABOUR-avg_week_earnings_noncoal_mines.csv": {
+  "groups": [
+   "Energy", 
+   "Education"
+  ]
+ }, 
+ "WATER_QUALITY_OF_A_FEW_INDIAN_RIVERS_DURING_2001-2010.csv": {
+  "groups": [
+   "Environment"
+  ]
+ }, 
+ "WORKMENS_COMPENSATION.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "WORKMENS_COMPENSATION_1.csv": {
+  "groups": [
+   "Education"
+  ]
+ }, 
+ "Wholesale_Price_Indices_of_Selected_Petroleum_Products_2004-12.csv": {
+  "groups": [
+   "Energy", 
+   "Agriculture"
+  ]
+ }, 
+ "Women_Rec_Post_Partum_Checkup_Within_48hrs_After_Del_1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "agmarkrice2001.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2002.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2003.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2004.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2005.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2006.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2007.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2008.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2009.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2010.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2011.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkrice2012.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2001.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2002.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2003.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2004.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2005.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2006.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2007.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2008.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2009.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2010.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2011.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "agmarkwheat2012.csv": {
+  "groups": [
+   "Agriculture"
+  ]
+ }, 
+ "dbt_scheme_summary_for_ndsap.csv": {
+  "groups": []
+ }, 
+ "economyindicator_dataset-india_economy_some_indicators_d.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "economyindicator_dataset-macro_economy_dataset01.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "economyindicator_dataset-sheet3.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "nlp_ndsap.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "spoutlay_0708_ds.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "spoutlay_0809_ds.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "spoutlay_0910_ds-2009-10ao,ro,exp_as_on_24-09-12.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "spoutlay_0910_ds-sheet1.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "spoutlay_1011_ds.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "spoutlay_1112_ds.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "table3_04_05.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }, 
+ "table4_04_05.csv": {
+  "groups": [
+   "Economy"
+  ]
+ }
+}

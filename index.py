@@ -13,8 +13,9 @@ def render():
 	from utils import get_file_data
 	
 	jenv = Environment(loader = FileSystemLoader("templates"))
+	template = form_dict.get("page", "home")
 
-	html = jenv.get_template("base.html").render({
+	html = jenv.get_template(template + ".html").render({
 		"files": files,
 		"fname": fname or files[0],
 		"file_data": get_file_data(fname or files[0]),

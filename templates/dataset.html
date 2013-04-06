@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% macro get_file_title(f) -%}
+	{{ f and f[:-4].replace("_", " ").title() or "" }}
+{%- endmacro %}
+
+<div class="row">
+	<div class="span12" style="overflow-x: scroll;">
+		{% if file_data -%}
+		<h4>{{ get_file_title(fname) }}</h4>
+		<table class="table table-bordered table-striped">
+			<tbody>
+				{% for row in file_data -%}
+				<tr>
+					{% for col in row -%}
+					<td>{{ col }}</td>
+					{%- endfor %}
+				</tr>
+				{%- endfor %}
+			</tbody>
+		</table>
+		{%- endif %}
+	</div>
+</div>
+{% endblock %}
