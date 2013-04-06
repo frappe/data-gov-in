@@ -35,6 +35,7 @@ def get_url_title_and_description_from_html(text):
 		url = re.findall("url=([^&]+)", row)[0]
 		file_name = url.split("/")[-1]
 		properties[file_name] = {
+			"file_name": file_name,
 			"url": url,
 			"title": re.findall('title="([^"]+)"', row)[0],
 			"description": re.findall("<br />([^<]+)", row)[0]

@@ -94,7 +94,8 @@ groups = {
 	"Health": ["health", "hospital", "doctor", "born", "mortality", "birth",
 		"fertility", "injury", "injuries", "allopath", "death", "medical",
 		"pharma", "condom"],
-	"Urban Development": ["accident", "tour", "srtu", "rural", "roads", "infrastructure"]
+	"Urban Development": ["accident", "tour", "srtu", "rural", "roads", "infrastructure"],
+	"Other": []
 }
 	
 if __name__=="__main__":

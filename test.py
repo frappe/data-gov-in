@@ -678,11 +678,22 @@ Government of India. </div>                <div class="spacer" ></div>
   </body>
 </html>"""
 
-import re
-for row in text.split("ds-list-item")[1:-1]:
-	#print row
-	#break
-	row = row.replace("\n", "")
-	print re.findall('title="([^"]+)"', row)
-	print re.findall("url=([^&]+)", row)
-	print re.findall("<br />([^<]+)", row)
+# import re
+# for row in text.split("ds-list-item")[1:-1]:
+# 	#print row
+# 	#break
+# 	row = row.replace("\n", "")
+# 	print re.findall('title="([^"]+)"', row)
+# 	print re.findall("url=([^&]+)", row)
+# 	print re.findall("<br />([^<]+)", row)
+
+import setproperties
+setproperties.load_properties()
+new_properties = {}
+for fname in setproperties.properties:
+	p = setproperties.properties[fname]
+	p["file_name"] = fname
+	new_properties[p.get("title", fname)] = p
+
+setproperties.properties = new_properties
+setproperties.save_properties()

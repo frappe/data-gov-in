@@ -1,21 +1,26 @@
 {% extends "base.html" %}
 
+{% macro write_group(group) %}
+<div class="row">
+	<div class="span4">
+	<h3>{{ group }}</h3>
+	<p><b>Keywords: </b>{{ ", ".join(groups[group]) }}</p>
+	</div>
+	<div class="span8">
+		<p></p>
+		{% for p in group_datasets[group]|sort(attribute="title") -%}
+		<p><a href="index.py?page=dataset&fname={{ p.file_name }}">{{ p.title }}</a></p>
+		{%- endfor %}
+	</div>
+</div>
+<hr>
+{% endmacro %}
+
 {% block content %}
 
-<div class="row">
-		{% for f in files -%}
-		{% if loop.index % 2==0 %}<div class="row">{% endif %}
-			<div class="span6">
-			<a href="index.py?page=dataset&fname={{ f }}">{{ get_file_title(f) }}</a>
-			</div>
-		{% if loop.index % 2==0 %}</div>{% endif %}
-		{%- endfor %}
-</div>
-
-<script>
-	$("#file-select").change(function() {
-		window.location.href = "index.py?page=dataset&fname=" + $(this).val();
-	});
-</script>
+{% for group in group_list if group!="Other" -%}
+	{{ write_group(group) }}
+{%- endfor %}
+{{ write_group("Other") }}
 
 {% endblock %}
