@@ -5,10 +5,12 @@
 	{{ f and f[:-4].replace("_", " ").title() or "" }}
 {%- endmacro %}
 
+
 <div class="row">
 	<div class="span12" style="overflow-x: scroll;">
 		{% if file_data -%}
 		<h4>{{ get_file_title(fname) }}</h4>
+		<canvas id="canvas" height="300" width="940"></canvas>
 		<table class="table table-bordered table-striped">
 			<tbody>
 				{% for row in file_data -%}
@@ -23,4 +25,10 @@
 		{%- endif %}
 	</div>
 </div>
+
+<script>
+	var ctx = $("#canvas").get(0).getContext("2d")
+	new Chart(ctx).Line({{ chart_data }});
+</script>
+
 {% endblock %}
