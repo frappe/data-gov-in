@@ -60,8 +60,7 @@
  }, 
  "AIR_QUALITY_IN_INDUSTRIAL_AREAS_UNDER_NATIONAL_AMBIENT_AIR_QUALITY_MONITORING_PROGRAMME.csv": {
   "groups": [
-   "Environment", 
-   "Agriculture"
+   "Environment"
   ]
  }, 
  "AIR_QUALITY_IN_RESIDENTIAL_AREAS.csv": {
@@ -75,60 +74,42 @@
  "AIR_QUALITY_IN_RESIDENTIAL_AREAS_UNDER_NATIONAL_AMBIENT_AIR_QUALITY_MONITORING_PROGRAMME_FOR_A_FEW_STATES.csv": {
   "description": "This table provides State-wise data on air quality in residential areas under national ambient air quality monitoring programme for the period 2001 onwards.", 
   "groups": [
-   "Environment", 
-   "Agriculture", 
-   "Economy"
+   "Environment"
   ], 
   "title": "Air quality in residential areas under national ambient air quality monitoring programme for a few states ", 
   "url": "http://data.gov.in/sites/default/files/AIR_QUALITY_IN_RESIDENTIAL_AREAS.xls"
  }, 
  "AREA_UNDER_PRINCIPAL_CROPS-all_india.csv": {
-  "groups": [
-   "Agriculture"
-  ]
+  "groups": []
  }, 
  "AREA_UNDER_PRINCIPAL_CROPS-statewise_2009-10.csv": {
-  "groups": [
-   "Agriculture", 
-   "Economy"
-  ]
+  "groups": []
  }, 
  "AREA_UNDER_PRINCIPAL_CROPS-statewisw_2010-11.csv": {
-  "groups": [
-   "Agriculture", 
-   "Economy"
-  ]
+  "groups": []
  }, 
  "AREA_UNDER_PRINCIPAL_CROPS_0-all_india.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2009-10 and 2010-11) area under Principal Crops (food grains, cereals, oil seeds, tobacco, potato, black pepper, chillies, natural rubber, bananas, ginger, coconut and turmeric).  ", 
-  "groups": [
-   "Agriculture"
-  ], 
+  "groups": [], 
   "title": "Area Under Principal Crops - All India and State Wise ", 
   "url": "http://data.gov.in/sites/default/files/AREA_UNDER_PRINCIPAL_CROPS_0.xls"
  }, 
  "AREA_UNDER_PRINCIPAL_CROPS_0-statewise_2009-10.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2009-10 and 2010-11) area under Principal Crops (food grains, cereals, oil seeds, tobacco, potato, black pepper, chillies, natural rubber, bananas, ginger, coconut and turmeric).  ", 
-  "groups": [
-   "Agriculture", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Area Under Principal Crops - All India and State Wise ", 
   "url": "http://data.gov.in/sites/default/files/AREA_UNDER_PRINCIPAL_CROPS_0.xls"
  }, 
  "AREA_UNDER_PRINCIPAL_CROPS_0-statewise_2010-11.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2009-10 and 2010-11) area under Principal Crops (food grains, cereals, oil seeds, tobacco, potato, black pepper, chillies, natural rubber, bananas, ginger, coconut and turmeric).  ", 
-  "groups": [
-   "Agriculture", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Area Under Principal Crops - All India and State Wise ", 
   "url": "http://data.gov.in/sites/default/files/AREA_UNDER_PRINCIPAL_CROPS_0.xls"
  }, 
  "AVERAGE_GASEOUS_COMPOSITION_OF_DRY.csv": {
   "description": "This table provides average composition of gases (nitrogen, oxygen, argon, carbon dioxide, neon, helium, methane, kryton, hydrogen, ozone, xenon) in dry state.", 
   "groups": [
-   "Energy"
+   "Environment"
   ], 
   "title": "Average Gaseous Composition of Dry Air in the Troposphere ", 
   "url": "http://data.gov.in/sites/default/files/AVERAGE_GASEOUS_COMPOSITION_OF_DRY.xls"
@@ -136,7 +117,6 @@
  "AVERAGE_PER_CAPITA_ANNUAL_EARNINGS_OF_FACTORY_LABOUR-nic_2004.csv": {
   "description": "This table presents data regarding per capita annual earnings of factory workers by industry code in manufacturing sectors from 2002 onwards.", 
   "groups": [
-   "Education", 
    "Economy"
   ], 
   "title": "Average Per Capita Annual Earnings Of Factory Labour In Manufacturing Industries. ", 
@@ -145,7 +125,6 @@
  "AVERAGE_PER_CAPITA_ANNUAL_EARNINGS_OF_FACTORY_LABOUR-nic_2008.csv": {
   "description": "This table presents data regarding per capita annual earnings of factory workers by industry code in manufacturing sectors from 2002 onwards.", 
   "groups": [
-   "Education", 
    "Economy"
   ], 
   "title": "Average Per Capita Annual Earnings Of Factory Labour In Manufacturing Industries. ", 
@@ -154,27 +133,21 @@
  "AVERAGE_PER_CAPITA_ANNUAL_EARNINGS_OF_FACTORY_WORKERS.csv": {
   "description": "This table presents data regarding per capita annual earnings of factory workers by states from 2001 onwards.", 
   "groups": [
-   "Education", 
    "Economy"
   ], 
   "title": "Average Per Capita Annual Earnings Of Factory Workers ", 
   "url": "http://data.gov.in/sites/default/files/AVERAGE_PER_CAPITA_ANNUAL_EARNINGS_OF_FACTORY_WORKERS.xls"
  }, 
  "AVERAGE_YIELD_OF_PRINCIPAL_CROPS-all_india.csv": {
-  "groups": [
-   "Agriculture"
-  ]
+  "groups": []
  }, 
  "AVERAGE_YIELD_OF_PRINCIPAL_CROPS-statewise_2009-10_&_2010-11.csv": {
-  "groups": [
-   "Agriculture", 
-   "Economy"
-  ]
+  "groups": []
  }, 
  "Achievements_of_Family_Welfare_Programme-all_india.csv": {
   "description": "This table gives All India (from 2000 to 2012) and State-wise (2010-12) Achievements under Family Welfare Programme with their numbers and rates . ", 
   "groups": [
-   "Agriculture"
+   "Health"
   ], 
   "title": "Achievements of Family Welfare Programme ", 
   "url": "http://data.gov.in/sites/default/files/Achievements_of_Family_Welfare_Programme.xls"
@@ -182,8 +155,7 @@
  "Achievements_of_Family_Welfare_Programme-statewise_2010-11.csv": {
   "description": "This table gives All India (from 2000 to 2012) and State-wise (2010-12) Achievements under Family Welfare Programme with their numbers and rates . ", 
   "groups": [
-   "Agriculture", 
-   "Economy"
+   "Health"
   ], 
   "title": "Achievements of Family Welfare Programme ", 
   "url": "http://data.gov.in/sites/default/files/Achievements_of_Family_Welfare_Programme.xls"
@@ -191,35 +163,26 @@
  "Achievements_of_Family_Welfare_Programme-statewise_2011-12.csv": {
   "description": "This table gives All India (from 2000 to 2012) and State-wise (2010-12) Achievements under Family Welfare Programme with their numbers and rates . ", 
   "groups": [
-   "Agriculture", 
-   "Economy"
+   "Health"
   ], 
   "title": "Achievements of Family Welfare Programme ", 
   "url": "http://data.gov.in/sites/default/files/Achievements_of_Family_Welfare_Programme.xls"
  }, 
  "Achievements_of_Immunization_Programme-all_india.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2010-12) Achievements under various Immunization Programmes - T.T, Polio, DPT, BCG, Tetanus, Measles etc. for children and mothers. ", 
-  "groups": [
-   "Agriculture"
-  ], 
+  "groups": [], 
   "title": "Achievements of Immunization Programme ", 
   "url": "http://data.gov.in/sites/default/files/Achievements_of_Immunization_Programme.xls"
  }, 
  "Achievements_of_Immunization_Programme-statewise_2010-11.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2010-12) Achievements under various Immunization Programmes - T.T, Polio, DPT, BCG, Tetanus, Measles etc. for children and mothers. ", 
-  "groups": [
-   "Agriculture", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Achievements of Immunization Programme ", 
   "url": "http://data.gov.in/sites/default/files/Achievements_of_Immunization_Programme.xls"
  }, 
  "Achievements_of_Immunization_Programme-statewise_2011-12.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2010-12) Achievements under various Immunization Programmes - T.T, Polio, DPT, BCG, Tetanus, Measles etc. for children and mothers. ", 
-  "groups": [
-   "Agriculture", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Achievements of Immunization Programme ", 
   "url": "http://data.gov.in/sites/default/files/Achievements_of_Immunization_Programme.xls"
  }, 
@@ -240,9 +203,7 @@
  }, 
  "All_India_Index_Jan11_Dec12-rural.csv": {
   "description": "This is the New Series of Consumer Price Index for  Rural & Urban with base year 2010. Published by Central Statistical Office and released on 12th of every month. The data contains group wise all India Index.", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "All India Consumer Price Index (Rural/Urban)  ", 
   "url": "http://data.gov.in/sites/default/files/All_India_Index_Jan11_Dec12.xls"
  }, 
@@ -259,14 +220,11 @@
   "url": "http://data.gov.in/sites/default/files/All_India_Index_Jan13.xls"
  }, 
  "Animals_insured.csv": {
-  "groups": [
-   "Environment"
-  ]
+  "groups": []
  }, 
  "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-estimates_-_detail_(in_crores).csv": {
   "description": "Macro economic data on key parameters from 2004-05 onwards using the new base year are provided in this.  Besides data on Gross Domestic product, Capital Formation, Net income, Savings etc growth rates and sectoral breakups are also provided.  For details regarding concepts, definitions,...", 
   "groups": [
-   "Agriculture", 
    "Economy"
   ], 
   "title": "Annual Estimates of GDP at Constant (2004-05) Prices ", 
@@ -275,7 +233,6 @@
  "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-estimates_-_summary_(in_crores).csv": {
   "description": "Macro economic data on key parameters from 2004-05 onwards using the new base year are provided in this.  Besides data on Gross Domestic product, Capital Formation, Net income, Savings etc growth rates and sectoral breakups are also provided.  For details regarding concepts, definitions,...", 
   "groups": [
-   "Agriculture", 
    "Economy"
   ], 
   "title": "Annual Estimates of GDP at Constant (2004-05) Prices ", 
@@ -284,7 +241,6 @@
  "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-growth_rates_-_detail.csv": {
   "description": "Macro economic data on key parameters from 2004-05 onwards using the new base year are provided in this.  Besides data on Gross Domestic product, Capital Formation, Net income, Savings etc growth rates and sectoral breakups are also provided.  For details regarding concepts, definitions,...", 
   "groups": [
-   "Agriculture", 
    "Economy"
   ], 
   "title": "Annual Estimates of GDP at Constant (2004-05) Prices ", 
@@ -293,7 +249,6 @@
  "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-growth_rates_-_summary.csv": {
   "description": "Macro economic data on key parameters from 2004-05 onwards using the new base year are provided in this.  Besides data on Gross Domestic product, Capital Formation, Net income, Savings etc growth rates and sectoral breakups are also provided.  For details regarding concepts, definitions,...", 
   "groups": [
-   "Agriculture", 
    "Economy"
   ], 
   "title": "Annual Estimates of GDP at Constant (2004-05) Prices ", 
@@ -302,7 +257,6 @@
  "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-rates_of_gdp_at_market_prices.csv": {
   "description": "Macro economic data on key parameters from 2004-05 onwards using the new base year are provided in this.  Besides data on Gross Domestic product, Capital Formation, Net income, Savings etc growth rates and sectoral breakups are also provided.  For details regarding concepts, definitions,...", 
   "groups": [
-   "Agriculture", 
    "Economy"
   ], 
   "title": "Annual Estimates of GDP at Constant (2004-05) Prices ", 
@@ -335,7 +289,6 @@
  "Annual_Report_2012-13-Electronics_and_IT_Production_and_Exports-employee_structure.csv": {
   "description": "This dataset provides information about the Electronics and IT Production as well as Electronics and IT Exports for the year 2012 and 2013.", 
   "groups": [
-   "Education", 
    "Economy"
   ], 
   "title": "Annual Report on Electronics and IT Production for 2012-2013 ", 
@@ -367,41 +320,31 @@
  }, 
  "Areawise_Number_of_Projects_Received_During_2009-2012.csv": {
   "description": "The table shows area-wise number of ongoing Research and Development projects received by Department of Biotechnology in each financial year from 2009-2010 to 2011-2012. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Area-wise Number of Projects Received During 2009 to 2012 ", 
   "url": "http://data.gov.in/sites/default/files/Areawise_Number_of_Projects_Received_During_2009-2012.xls"
  }, 
  "Areawise_Ongoing_Projects_As_on_6th_March_2013.csv": {
   "description": "The table shows area-wise number of suitable ongoing Research and Development projects being funded by Department of Biotechnology as on March 6, 2013. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-economic feasibility.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Area-wise Number of Ongoing Projects as on March 6, 2013 ", 
   "url": "http://data.gov.in/sites/default/files/Areawise_Ongoing_Projects_As_on_6th_March_2013.xls"
  }, 
  "Budgetary_allocations_for_different_technology_Clusters-budgetary_allocations.csv": {
   "description": "Formulation of overall DRDO budget based on the assessment made from the analysis of demands received from labs/estts.Allocation and Priority based enhancement of allocations (where necessary) of funds to labs/estts/programmes/high value projects.Formulation of Revised Budget Estimates (RE) based...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Annual Buget for Different Technology Cluster of DRDO ", 
   "url": "http://data.gov.in/sites/default/files/Budgetary_allocations_for_different_technology_Clusters.xls"
  }, 
  "Budgetary_allocations_for_different_technology_Clusters-sheet3.csv": {
   "description": "Formulation of overall DRDO budget based on the assessment made from the analysis of demands received from labs/estts.Allocation and Priority based enhancement of allocations (where necessary) of funds to labs/estts/programmes/high value projects.Formulation of Revised Budget Estimates (RE) based...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Annual Buget for Different Technology Cluster of DRDO ", 
   "url": "http://data.gov.in/sites/default/files/Budgetary_allocations_for_different_technology_Clusters.xls"
  }, 
  "Budgetary_allocations_for_different_technology_Clusters-sheet4.csv": {
   "description": "Formulation of overall DRDO budget based on the assessment made from the analysis of demands received from labs/estts.Allocation and Priority based enhancement of allocations (where necessary) of funds to labs/estts/programmes/high value projects.Formulation of Revised Budget Estimates (RE) based...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Annual Buget for Different Technology Cluster of DRDO ", 
   "url": "http://data.gov.in/sites/default/files/Budgetary_allocations_for_different_technology_Clusters.xls"
  }, 
@@ -424,16 +367,14 @@
  "Building_Position_For_SCs_PHCs_CHCs_2-sub_centres.csv": {
   "description": "The table gives the distribution of total number of Sub Centres (SCs) / Primary Health Centres (PHCs) / Community Health Centres (CHCs) functioning according to the status of their building as per three categories i.e. a Government Building, a rented building and a rent free / panchayat / voluntary...", 
   "groups": [
-   "Economy"
+   "Health"
   ], 
   "title": "Building Position for Sub-Centres, Primary Health Centres and Community Health Centres as on March 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Building_Position_For_SCs_PHCs_CHCs_2.xls"
  }, 
  "CATEGORY-WISE_WASTELANDS_OF_INDIA.csv": {
   "description": "This table presents data on Category-wise and State-wise wastelands of India such as Gullied/ Ravinous Land, Land with/ without scrub, Water logged/ Marshy Land, Saline/ Alkaline Area, Shifting Cultivation Area, Mining/ Industrial waste- lands etc.", 
-  "groups": [
-   "Environment"
-  ], 
+  "groups": [], 
   "title": "Category-wise wastelands of India ", 
   "url": "http://data.gov.in/sites/default/files/CATEGORY-WISE_WASTELANDS_OF_INDIA.xls"
  }, 
@@ -509,7 +450,6 @@
  "COST_ESTIMATE_OF_SOME_PRINCIPAL_CROPS_IN_FIVE_MAJOR_PRODUCING_STATES_DURING_2008-09.csv": {
   "description": "This table gives cost estimates of some principal crops in Five Major Producing States During 2008-09.", 
   "groups": [
-   "Agriculture", 
    "Economy"
   ], 
   "title": "Cost Estimates of some Principal Crops in Five Major Producing States During 2008-09 ", 
@@ -593,13 +533,17 @@
  }, 
  "Cooperation_Activity_of_FIU.csv": {
   "description": "As a part of Global Anti Money Laundering and Combating of Financial Terrorism efforts, Timely dissemination of Intelligence is an essential activity of FIU and FIU receives /sends request on Money Laundering, Terrorist Financing, Corporate frauds, Organised crimes, Fake currency & Tax evasion.", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Financial Intellegence Unit India cooperation with domestic and international law enforcement agencies in 2010-11  ", 
   "url": "http://data.gov.in/sites/default/files/Cooperation_Activity_of_FIU.xls"
  }, 
  "Cooperation_Activity_of_FIU2012.csv": {
   "description": "As a part of Global Anti Money Laundering and Combating of Financial Terrorism efforts, Timely dissemination of Intelligence is an essential activity of FIU and FIU receives /sends request on Money Laundering, Terrorist Financing, Corporate frauds, Organised crimes, Fake currency & Tax evasion.", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Financial Intellegence Unit India cooperation with domestic and international law enforcement agencies in 2010-11  ", 
   "url": "http://data.gov.in/sites/default/files/Cooperation_Activity_of_FIU.xls"
  }, 
@@ -635,9 +579,7 @@
  }, 
  "Country_of_Citizenship_of_NonUS_Citizens_Awarded_Sc_And_Engg_Doctorates_By_US_Universities_1980-2005.csv": {
   "description": "The table pertains to Science And Engineering Doctorates degrees awarded by US universities to non-US citizens during 1980 to 2005. The data are taken from the Science and Engineering Indicators, NSF, USA.", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "Country of Citizenship of Non-U.S. Citizens Awarded Science And Engineering Doctorates By U.S. Universities: 1980-2005 ", 
   "url": "http://data.gov.in/sites/default/files/Country_of_Citizenship_of_NonUS_Citizens_Awarded_Sc_And_Engg_Doctorates_By_US_Universities_1980-2005.xls"
  }, 
@@ -652,8 +594,8 @@
  "Crude_Birth_Rate_1.csv": {
   "description": "The Crude Birth Rate (CBR) is defined as \u201cNumber of live births per thousand population\u201d. It is usually the dominant factor in determining the rate of population growth. Primary source of data for births and deaths is the registration of births and deaths under Civil Registration System (CRS) of...", 
   "groups": [
-   "Energy", 
-   "Health"
+   "Health", 
+   "Energy"
   ], 
   "title": "Crude Birth Rate India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Crude_Birth_Rate_1.csv"
@@ -661,8 +603,8 @@
  "Crude_Death_Rate_1.csv": {
   "description": "The Crude Death Rate (CDR) is defined as \u201cNumber of live births per thousand population\u201d. Primary source of data for births and deaths is the registration of births and deaths under Civil Registration System (CRS) of the Office of Registrar General, India (ORGI). Since the reporting of deaths under...", 
   "groups": [
-   "Energy", 
-   "Health"
+   "Health", 
+   "Energy"
   ], 
   "title": "Crude Death Rate India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Crude_Death_Rate_1.csv"
@@ -678,9 +620,7 @@
  }, 
  "DRDO_in_the_Parliament-drdo_questions_in_parliament.csv": {
   "description": "DRDO attracted attention of the parliamentarians throughout the year.Member of Parliament from both houses raised questions on subject matters such as BrahMos missile, Kaveri engine,Low Intensity Conflict (LIC), Light Combat Aircraft (LCA), Missile Development programmes, Performance of DRDO, Self-...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "DRDO in Parliament ", 
   "url": "http://data.gov.in/sites/default/files/DRDO_in_the_Parliament.xls"
  }, 
@@ -692,9 +632,7 @@
  }, 
  "Datasets_ECS-antennas.csv": {
   "description": "DRDO exhibited its capability by developing the state-of-the-art electronic systems, which include Communication, Command and Control Systems,Radars,Electronic Warfare and Electro-optical systems. There is also Significant achievement of technology development in the areas of Advanced Computing,...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Technology Developments from DRDO in the fields of Electronics and Computer Sciences (ECS) ", 
   "url": "http://data.gov.in/sites/default/files/Datasets_ECS.xls"
  }, 
@@ -742,54 +680,42 @@
  }, 
  "Dispensaries_And_Beneficiaries_Under_Central_Govt_Health_Scheme_Upto31stMarch-statewise.csv": {
   "groups": [
-   "Health", 
-   "Economy"
+   "Health"
   ]
  }, 
  "Dispensaries_Under_Ayush_Systems_As_On_1stApril-all_india.csv": {
   "description": "This table gives All India (from 2001 to 2011) and State-wise (2010-11) number of dispensaries - Ayurveda, Unani, Siddha, Naturopathy, Homoeopathy, Yoga, Sowa-Rigpa under AYUSH Systems as on 1st April.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Dispensaries Under Ayush Systems As On 1st April ", 
   "url": "http://data.gov.in/sites/default/files/Dispensaries_Under_Ayush_Systems_As_On_1stApril.xls"
  }, 
  "Dispensaries_Under_Ayush_Systems_As_On_1stApril-statewise.csv": {
   "description": "This table gives All India (from 2001 to 2011) and State-wise (2010-11) number of dispensaries - Ayurveda, Unani, Siddha, Naturopathy, Homoeopathy, Yoga, Sowa-Rigpa under AYUSH Systems as on 1st April.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Dispensaries Under Ayush Systems As On 1st April ", 
   "url": "http://data.gov.in/sites/default/files/Dispensaries_Under_Ayush_Systems_As_On_1stApril.xls"
  }, 
  "District_Wise_Rural_HealthCare_Infrastructure.csv": {
   "groups": [
-   "Health", 
    "Urban Development"
   ]
  }, 
  "District_wise_CSC_rollout_and_connectivity.csv": {
   "description": "More than 1 Lakh Community Service Centers(CSC) with Broadband Connectivity are envisaged. These are last mile kiosk for providing e-services to citizens. The CSCs have been established in PPP mode where Service Center Agencies(SCA) have been selected to run the kiosk. District Wise CSC Roll out...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "District Wise Community Service Centers(CSC) Roll out and Connectivity ", 
   "url": "http://data.gov.in/sites/default/files/District_wise_CSC_rollout_and_connectivity.csv"
  }, 
  "Doctorate_Degrees_Awarded_Faculty-Wise_1984-85_To_2005-06.csv": {
   "description": "The table presents doctorate degrees awarded faculty-wise from 1984-85 to 2005-06 in various disciplines. The data are taken from the University Grants Commission (UGC) annual report.", 
-  "groups": [
-   "Health", 
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Doctorate Degrees Awarded Faculty-Wise (1984-85 To 2005-06) ", 
   "url": "http://data.gov.in/sites/default/files/Doctorate_Degrees_Awarded_Faculty-Wise_1984-85_To_2005-06.xls"
  }, 
  "EDUCATION_ENROLLMENT-_statewise(higher_education).csv": {
   "description": "This table gives All India (2001-02 to 2009-10) and State-wise (2008-09 to 2009-10) for general courses (Arts, science, commerce) professional courses (Engineering, medicine, law etc) in Higher Education and Enrolment in Phd/phil.", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Enrolment In Higher Education According To Faculty And Stage (All India And State wise) ", 
   "url": "http://data.gov.in/sites/default/files/EDUCATION_ENROLLMENT.xls"
@@ -813,32 +739,25 @@
  "EDUCATION_ENROLLMENT-statewise_(ph_d,m.phil).csv": {
   "description": "This table gives All India (2001-02 to 2009-10) and State-wise (2008-09 to 2009-10) for general courses (Arts, science, commerce) professional courses (Engineering, medicine, law etc) in Higher Education and Enrolment in Phd/phil.", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Enrolment In Higher Education According To Faculty And Stage (All India And State wise) ", 
   "url": "http://data.gov.in/sites/default/files/EDUCATION_ENROLLMENT.xls"
  }, 
  "EDUCATION_INSTITUTIONS_SCHOOLS_AND_EXPENDITURE.csv": {
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ]
  }, 
  "ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION-capacity,_gen_and_cons_-_india.csv": {
   "description": "This table gives the statistics on electricity-installed capacity, generation and consumption (utilities only).", 
-  "groups": [
-   "Energy"
-  ], 
+  "groups": [], 
   "title": "Electricity-Installed Capacity / Generation And Consumption (Utilities Only) ", 
   "url": "http://data.gov.in/sites/default/files/ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION.xls"
  }, 
  "ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION-capacity,_gen_and_cons_-_state.csv": {
   "description": "This table gives the statistics on electricity-installed capacity, generation and consumption (utilities only).", 
-  "groups": [
-   "Energy", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Electricity-Installed Capacity / Generation And Consumption (Utilities Only) ", 
   "url": "http://data.gov.in/sites/default/files/ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION.xls"
  }, 
@@ -857,8 +776,7 @@
  }, 
  "ELECTRICITY_SOLD_TO_ULTIMATE_CONSUMERS-sales_to_customers_-_statewise.csv": {
   "groups": [
-   "Energy", 
-   "Economy"
+   "Energy"
   ]
  }, 
  "EMPLOYMENT_IN_BANKS.csv": {
@@ -880,8 +798,7 @@
  "EMPLOYMENT_IN_FACTORIES-_ADULTS_ADOLESCENTS_AND_CHILDREN_ACCORDING_TO_SEX-1-employment_in_factory_statewise.csv": {
   "description": "This table provides All India (2001 onwards) and State wise (2007 to 2009) average daily employment in factories according three broad age-categories and sex is shown in this table. The information relates to only factories submitting returns. The factories act,1948 defines adult (one who has...", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Employment In Factories-Adults Adolescents And Children According To Sex ", 
   "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_FACTORIES-_ADULTS_ADOLESCENTS_AND_CHILDREN_ACCORDING_TO_SEX-1.xls"
@@ -893,8 +810,7 @@
  }, 
  "EMPLOYMENT_IN_FACTORIES-_ADULTS_ADOLESCENTS_AND_CHILDREN_ACCORDING_TO_SEX-employment_in_factory_statewise.csv": {
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ]
  }, 
  "EMPLOYMENT_IN_INSURANCE.csv": {
@@ -908,33 +824,26 @@
  "EMPLOYMENT_IN_PLANTATIONS.csv": {
   "description": "This table gives Employment (Number of estates and average daily number of workers) in Plantations (Tea, Coffee and Rubber) for the period 2000 to 2010.", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Employment In Plantations ", 
   "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_PLANTATIONS.xls"
  }, 
  "EMPLOYMENT_IN_PORTS-major_ports_as_on_31st_march.csv": {
   "description": "These are two table which give the number persons employed in ports in India. The first one give the staff strength in major ports and second one shows the data regarding manpower at non major ports in maritime states during 2001 to 2011.", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Employments In Ports ", 
   "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_PORTS.xls"
  }, 
  "EMPLOYMENT_IN_PORTS-no._of_dock_workers.csv": {
   "description": "These are two table which give the number persons employed in ports in India. The first one give the staff strength in major ports and second one shows the data regarding manpower at non major ports in maritime states during 2001 to 2011.", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Employments In Ports ", 
   "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_PORTS.xls"
  }, 
  "EMPLOYMENT_IN_PORTS-non_major_ports_as_on_31st_mar.csv": {
   "description": "These are two table which give the number persons employed in ports in India. The first one give the staff strength in major ports and second one shows the data regarding manpower at non major ports in maritime states during 2001 to 2011.", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Employments In Ports ", 
   "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_PORTS.xls"
  }, 
@@ -949,8 +858,7 @@
  "EMPLOYMENT_IN_SHOPS_AND_COMMERCIAL_ESTABLISHMENTS-employment_in_shops_state-wise.csv": {
   "description": "This table provides All India (2001 onwards) and State-wise (2008-09) statistics of employment in respect of Shops, Commercial Establishments and restaurants and theaters.", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Employment In Shops And Commercial Establishments ", 
   "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_SHOPS_AND_COMMERCIAL_ESTABLISHMENTS.xls"
@@ -982,8 +890,7 @@
  "ESTIMATED_AVERAGE_DAILY_EMPLOYMENT_AND_WORKING_FACTORIES-state-wise.csv": {
   "description": "This table gives All India (2000 to 2009) and State-wise (2007 to 2009) estimated average daily employment and number of working factories.", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Estimated Average Daily Employment And number of working factories ", 
   "url": "http://data.gov.in/sites/default/files/ESTIMATED_AVERAGE_DAILY_EMPLOYMENT_AND_WORKING_FACTORIES.xls"
@@ -995,8 +902,7 @@
  }, 
  "ESTIMATED_EMPLOYMENT_IN_THE_PUBLIC_AND_PRIVATE_SECTORS_as_on_31st_March-estimated_employment_state-wise.csv": {
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ]
  }, 
  "ESTIMATED_EMPLOYMENT_IN_THE_PUBLIC_AND_PRIVATE_SECTORS_as_on_31st_March_1-estimated_employment_all_india.csv": {
@@ -1010,8 +916,7 @@
  "ESTIMATED_EMPLOYMENT_IN_THE_PUBLIC_AND_PRIVATE_SECTORS_as_on_31st_March_1-estimated_employment_statewise.csv": {
   "description": "This table provides All India (2000 onwards) and State-wise (2008-09 and 2009-10) estimated employment under central government, state government, Quasi government organisation and local bodies.", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Estimated Employment In The Public And Private Sectors (As On 31st March) ", 
   "url": "http://data.gov.in/sites/default/files/ESTIMATED_EMPLOYMENT_IN_THE_PUBLIC_AND_PRIVATE_SECTORS_as_on_31st_March_1.xls"
@@ -1021,9 +926,7 @@
  }, 
  "ESTIMATED_POPULATION_OF_WILD_ELEPHANTS.csv": {
   "description": "This table gives region-wise, state-wise data on estimated population of wild elephants for the period 2002 onwards.", 
-  "groups": [
-   "Environment"
-  ], 
+  "groups": [], 
   "title": "Estimated Population Of Wild Elephants ", 
   "url": "http://data.gov.in/sites/default/files/ESTIMATED_POPULATION_OF_WILD_ELEPHANTS.xls"
  }, 
@@ -1090,8 +993,7 @@
  }, 
  "ESTIMATES_OF_TREE_AND_MANGROVE_COVER-tree_&_mangrove_cover_statewise.csv": {
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ]
  }, 
  "ESTIMATES_OF_TREE_AND_MANGROVE_COVER_1-tree_&_mangrove_cover_all_india.csv": {
@@ -1105,24 +1007,20 @@
  "ESTIMATES_OF_TREE_AND_MANGROVE_COVER_1-tree_&_mangrove_cover_statewise.csv": {
   "description": "This table presents State-wise (2007 onwards), All India (2001 onwards) data on estimates of tree and mangrove cover w.r.t All India geographical area.", 
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ], 
   "title": "Estimates Of Tree And Mangrove Cover ", 
   "url": "http://data.gov.in/sites/default/files/ESTIMATES_OF_TREE_AND_MANGROVE_COVER_1.xls"
  }, 
  "ESTIMATES_OF_WASTELANDS_IN_INDIA.csv": {
   "description": "This table presents data on estimates of wastelands in India, comprising Non-forest Degraded area and Forest Degraded area. it also includes estimates of non-forest wastelands in India comprising Saline and Alkaline lands, Wind eroded area and Water eroded area.", 
-  "groups": [
-   "Environment"
-  ], 
+  "groups": [], 
   "title": "Estimates of Wastelands in India ", 
   "url": "http://data.gov.in/sites/default/files/ESTIMATES_OF_WASTELANDS_IN_INDIA.xls"
  }, 
  "EXPENDITURE_INCURRED_ON_PAY_AND_ALLOWANCES_OF_CIVILIAN_EMPLOYEES_BY_THE_CENTRAL_MINISTRIES-DEPARTMENTS-expenditure_incurred_all_india.csv": {
   "description": "This table shows department wise expenditure incurred on pay and allowances on civilian employees by the central ministries/departments.", 
   "groups": [
-   "Education", 
    "Economy"
   ], 
   "title": "Expenditure Incurred On Pay And Allowances On Civilian Employees By The Central Ministries/Departments ", 
@@ -1131,7 +1029,6 @@
  "EXPENDITURE_INCURRED_ON_PAY_AND_ALLOWANCES_OF_CIVILIAN_EMPLOYEES_BY_THE_CENTRAL_MINISTRIES-DEPARTMENTS-expenditure_incurred_dept-wise.csv": {
   "description": "This table shows department wise expenditure incurred on pay and allowances on civilian employees by the central ministries/departments.", 
   "groups": [
-   "Education", 
    "Economy"
   ], 
   "title": "Expenditure Incurred On Pay And Allowances On Civilian Employees By The Central Ministries/Departments ", 
@@ -1147,9 +1044,7 @@
  }, 
  "Electronics_IT_Exports.csv": {
   "description": "The Export Data of Electronics and IT Sector is provided in this dataset. The data is collected from Electronic and Information Technology  Annual Report 2011-12.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Electronics and IT Exports ", 
   "url": "http://data.gov.in/sites/default/files/Electronics_IT_Exports.csv"
  }, 
@@ -1178,9 +1073,7 @@
   "url": "http://data.gov.in/sites/default/files/Estimated_Stock_of_Engineering_Degree_Holders_In_The_Working_Age_Group_By_Selected_Disciplines.xls"
  }, 
  "Estimated_Stock_of_Science_and_Technology_Personnel.csv": {
-  "groups": [
-   "Education"
-  ]
+  "groups": []
  }, 
  "Expenditure_On_Education_By_Centre_And_State_Governments.csv": {
   "description": "The table presents expenditure on education by Centre and State governments from 1985-86 to 2007-08. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD.", 
@@ -1227,7 +1120,6 @@
  "Export_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2011-12.csv": {
   "description": "This table consists of product wise and year wise export of major petrochemicals products, both in quantity and value, during 2006-07 to 2011-12 in India.", 
   "groups": [
-   "Environment", 
    "Economy"
   ], 
   "title": "Export of Major Petrochemicals - Product wise / Group wise from 2006-07 to 2011-12 ", 
@@ -1244,8 +1136,7 @@
  "FACTORY_EMPLOYMENT_BY_STATES.csv": {
   "description": "This table presents industry wise figures of employment in government and Local Fund factories and in other factories. This table provides All India  data during 2000-2009 for total employment in all factories. ", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Factory Employment ", 
   "url": "http://data.gov.in/sites/default/files/FACTORY_EMPLOYMENT.xls"
@@ -1253,6 +1144,8 @@
  "FINANCIAL_OUTCOMES_UNDER_NREGA-financial_outcomes_-_all_india.csv": {
   "description": "This table shows State-wise (2010-11 to 2011), All India (2008-09 to 2011-12) data on the funds released by government and expenditure on wages, materials and administration.", 
   "groups": [
+   "Education", 
+   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Outcomes Under Mahatma Gandhi National Rural Employment Guarantee Act (NREGA) ", 
@@ -1261,6 +1154,8 @@
  "FINANCIAL_OUTCOMES_UNDER_NREGA-financial_outcomes_-_state-wise.csv": {
   "description": "This table shows State-wise (2010-11 to 2011), All India (2008-09 to 2011-12) data on the funds released by government and expenditure on wages, materials and administration.", 
   "groups": [
+   "Education", 
+   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Outcomes Under Mahatma Gandhi National Rural Employment Guarantee Act (NREGA) ", 
@@ -1273,8 +1168,7 @@
  }, 
  "FOREST_COVER_AREA-forest_cover_statewise.csv": {
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ]
  }, 
  "FOREST_COVER_AREA_1-forest_cover_all-india.csv": {
@@ -1288,8 +1182,7 @@
  "FOREST_COVER_AREA_1-forest_cover_state-wise.csv": {
   "description": "This table gives All India (1987 onwards) and State-wise (2009 and 2010) data in Sq.Kms. on forest cover estimates (first to twelveth cycle).", 
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ], 
   "title": "Forest Cover Estimates ", 
   "url": "http://data.gov.in/sites/default/files/FOREST_COVER_AREA_1.xls"
@@ -1320,17 +1213,13 @@
  }, 
  "Female_Manpower_By_Qualifications_For_Central_And_State_Sectors_As_On_1stApril2005.csv": {
   "description": "The table presents data on female Research and Development manpower by qualifications for Central And State sectors as on 1st April 2005. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
-  "groups": [
-   "Energy", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Female Research and Development Manpower By Qualifications For Central And State Sectors As On 1st April 2005 ", 
   "url": "http://data.gov.in/sites/default/files/Female_Manpower_By_Qualifications_For_Central_And_State_Sectors_As_On_1stApril2005.xls"
  }, 
  "Financial_Performance_of_SRTUs_for_the_Year_2002-03-2002-03.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2002-03. This table contains the financial performances of reported SRTUs in India in term of total revenue, total cost and various components of costs of the...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2002-03 ", 
@@ -1339,7 +1228,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2002-03-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2002-03. This table contains the financial performances of reported SRTUs in India in term of total revenue, total cost and various components of costs of the...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2002-03 ", 
@@ -1348,7 +1236,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2003-04-2003-04.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2003-04. This table contains the financial performances of reported SRTUs in India in term of total revenue, total cost and various components of costs of the...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2003-04 ", 
@@ -1357,7 +1244,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2003-04-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2003-04. This table contains the financial performances of reported SRTUs in India in term of total revenue, total cost and various components of costs of the...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2003-04 ", 
@@ -1366,7 +1252,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2004-05-2004-05.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2004-05. This table contains the financial performances of reported SRTUs in India in term of total revenue, total cost and various components of costs of the...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2004-05 ", 
@@ -1375,7 +1260,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2004-05-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2004-05. This table contains the financial performances of reported SRTUs in India in term of total revenue, total cost and various components of costs of the...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2004-05 ", 
@@ -1384,7 +1268,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2005-06-2005-06.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2005-06. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2005-06 ", 
@@ -1393,7 +1276,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2005-06-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2005-06. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2005-06 ", 
@@ -1402,7 +1284,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2006-07-2006-07.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2006-07. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2006-07 ", 
@@ -1411,7 +1292,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2006-07-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2006-07. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2006-07 ", 
@@ -1420,7 +1300,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2007-08-2007-08.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2007-08. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2007-08 ", 
@@ -1429,7 +1308,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2007-08-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2007-08. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2007-08 ", 
@@ -1438,7 +1316,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2008-09-2008-09.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2008-09. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2008-09 ", 
@@ -1447,7 +1324,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2008-09-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2008-09. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2008-09 ", 
@@ -1456,7 +1332,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2009-10-2009-10.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2009-10. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2009-10 ", 
@@ -1465,7 +1340,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2009-10-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2009-10. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2009-10 ", 
@@ -1474,7 +1348,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2010-11_1-2010-11.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2010-11. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2010-11 ", 
@@ -1483,7 +1356,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2010-11_1-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2010-11. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2010-11 ", 
@@ -1492,7 +1364,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2011-12-2011-12.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2011-12. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2011-12 ", 
@@ -1501,7 +1372,6 @@
  "Financial_Performance_of_SRTUs_for_the_Year_2011-12-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2011-12. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
   "groups": [
-   "Urban Development", 
    "Economy"
   ], 
   "title": "Financial Performance of SRTUs for the year 2011-12 ", 
@@ -1517,25 +1387,19 @@
  }, 
  "Full_Time_Equivalent_Of_Women_Employed_In_R&D_Establishments_As_On_1stApril2005.csv": {
   "description": "The table presents data on full time equivalent of women employed in Research and Development  establishments as on 1st April 2005. The data is collected and compiled as a part of National Survey on Research and Development resources by DST, New Delhi, Government of India.", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Full Time Equivalent of Women Employed In Research And Development Establishments As On 1st April 2005 ", 
   "url": "http://data.gov.in/sites/default/files/Full_Time_Equivalent_Of_Women_Employed_In_R"
  }, 
  "GDP-Growth-PercentShare-At-Current-Prices-gdp-%share-at-current-prices.csv": {
   "description": "Time Series data from 1950-51 on wards on all important macro economic variables such as Gross Domestic product, Capital Formation, Net income, Savings etc are presented in this table. The data are taken from the Central Statistical Office.  ", 
-  "groups": [
-   "Agriculture", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Time Series Data on Macro Economic Aggregates (at Current Prices) and Population Estimates ", 
   "url": "http://data.gov.in/sites/default/files/GDP-Growth-PercentShare-At-Current-Prices.xls"
  }, 
  "GDP-Growth-PercentShare-At-Current-Prices-gdp-growth-at-current-prices.csv": {
   "description": "Time Series data from 1950-51 on wards on all important macro economic variables such as Gross Domestic product, Capital Formation, Net income, Savings etc are presented in this table. The data are taken from the Central Statistical Office.  ", 
   "groups": [
-   "Agriculture", 
    "Economy"
   ], 
   "title": "Time Series Data on Macro Economic Aggregates (at Current Prices) and Population Estimates ", 
@@ -1543,26 +1407,20 @@
  }, 
  "GDP-Growth-PercentSharte-at-Constant-04-05-Price-gdp-%share-constant-04-05-price.csv": {
   "description": "Time Series data from 1950-51 on wards on all important macro economic variables such as Gross Domestic Product by Industry, Capital Formation, Net income, Savings etc are presented in this table at constant prices (2004-05). The data are taken from the Central Statistical Office. To understand the...", 
-  "groups": [
-   "Agriculture", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Time Series Macro Economic Aggregates at Constant (2004-05) Prices and Population ", 
   "url": "http://data.gov.in/sites/default/files/GDP-Growth-PercentSharte-at-Constant-04-05-Price.xls"
  }, 
  "GDP-Growth-PercentSharte-at-Constant-04-05-Price-gdp-growth-constant-04-05-price.csv": {
   "description": "Time Series data from 1950-51 on wards on all important macro economic variables such as Gross Domestic Product by Industry, Capital Formation, Net income, Savings etc are presented in this table at constant prices (2004-05). The data are taken from the Central Statistical Office. To understand the...", 
   "groups": [
-   "Agriculture", 
    "Economy"
   ], 
   "title": "Time Series Macro Economic Aggregates at Constant (2004-05) Prices and Population ", 
   "url": "http://data.gov.in/sites/default/files/GDP-Growth-PercentSharte-at-Constant-04-05-Price.xls"
  }, 
  "GLOBAL_AVERAGE_TEMPERATURE.csv": {
-  "groups": [
-   "Environment"
-  ]
+  "groups": []
  }, 
  "GLOBAL_AVERAGE_TEMPERATURE_AND_ATMOSPHERIC_CONCENTRATION_OF_CARBON_DIOXIDE.csv": {
   "groups": [
@@ -1579,44 +1437,31 @@
  }, 
  "GROUP-WISE_ESTIMATED_NUMBER_OF_CENTRAL_GOVERNMENT_CIVILIAN_REGULAR_EMPLOYEES-cg_regular_employees_all_india.csv": {
   "description": "This table shows ministry/ department wise , group wise number of sanctioned posts and position of estimated number  of central government employees during 2009-10 to 2010-11.", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Group-Wise Estimated Number Of Central Government Civilian Regular Employees. ", 
   "url": "http://data.gov.in/sites/default/files/GROUP-WISE_ESTIMATED_NUMBER_OF_CENTRAL_GOVERNMENT_CIVILIAN_REGULAR_EMPLOYEES.xls"
  }, 
  "GROUP-WISE_ESTIMATED_NUMBER_OF_CENTRAL_GOVERNMENT_CIVILIAN_REGULAR_EMPLOYEES-cg_regular_employees_dept_wise.csv": {
   "description": "This table shows ministry/ department wise , group wise number of sanctioned posts and position of estimated number  of central government employees during 2009-10 to 2010-11.", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Group-Wise Estimated Number Of Central Government Civilian Regular Employees. ", 
   "url": "http://data.gov.in/sites/default/files/GROUP-WISE_ESTIMATED_NUMBER_OF_CENTRAL_GOVERNMENT_CIVILIAN_REGULAR_EMPLOYEES.xls"
  }, 
  "Hospitals_And_Bed_Strength_Under_Ayush_Systems_As_On_1stApril-all_india.csv": {
-  "groups": [
-   "Health"
-  ]
+  "groups": []
  }, 
  "Hospitals_And_Bed_Strength_Under_Ayush_Systems_As_On_1stApril-statewise.csv": {
-  "groups": [
-   "Health", 
-   "Economy"
-  ]
+  "groups": []
  }, 
  "HotelTourismData-sheet1.csv": {
   "description": "Ministry of Tourism has voluntary scheme for Classifying/ Re-classifying the Hotels/ Restaurants/ Air Catering Units/ Time Share Resorts/Apartments/ Convention Centre/ Bed...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Approved Hotels/Restaurants/Air Catering Units/Time Share Resorts/Apartments/Convention Centre/Bed &amp; Breakfast as on 12.03.2013 ", 
   "url": "http://data.gov.in/sites/default/files/HotelTourismData.xls"
  }, 
  "HotelTourismData-sheet2.csv": {
   "description": "Ministry of Tourism has voluntary scheme for Classifying/ Re-classifying the Hotels/ Restaurants/ Air Catering Units/ Time Share Resorts/Apartments/ Convention Centre/ Bed...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Approved Hotels/Restaurants/Air Catering Units/Time Share Resorts/Apartments/Convention Centre/Bed &amp; Breakfast as on 12.03.2013 ", 
   "url": "http://data.gov.in/sites/default/files/HotelTourismData.xls"
  }, 
@@ -1659,7 +1504,8 @@
  "IMPLEMENTATION_REPORT_UNDER_NREGA-implementation_report_all_india.csv": {
   "description": "In order to design wage employment program to fight poverty more effectively, center government formulated National Rural Employment Guarantee Act (NREGA)in 2005. This table shows data on implementation report under NREGA during 2006 to 2011.", 
   "groups": [
-   "Economy"
+   "Education", 
+   "Urban Development"
   ], 
   "title": "Implementation Report Under Mahatma Gandhi National Rural Employment Guarantee Act (MNREGA) ", 
   "url": "http://data.gov.in/sites/default/files/IMPLEMENTATION_REPORT_UNDER_NREGA.xls"
@@ -1667,7 +1513,8 @@
  "IMPLEMENTATION_REPORT_UNDER_NREGA-implementation_report_statewise.csv": {
   "description": "In order to design wage employment program to fight poverty more effectively, center government formulated National Rural Employment Guarantee Act (NREGA)in 2005. This table shows data on implementation report under NREGA during 2006 to 2011.", 
   "groups": [
-   "Economy"
+   "Education", 
+   "Urban Development"
   ], 
   "title": "Implementation Report Under Mahatma Gandhi National Rural Employment Guarantee Act (MNREGA) ", 
   "url": "http://data.gov.in/sites/default/files/IMPLEMENTATION_REPORT_UNDER_NREGA.xls"
@@ -1675,7 +1522,7 @@
  "INDEX_NUMBER_OF_PRINCIPAL_CROPS.csv": {
   "description": "This table gives Index Number of production of Principal Crops for the period 2006-07 to 2010-11 (Base : Crop Years Triennium ending 1993-94=100).", 
   "groups": [
-   "Agriculture"
+   "Economy"
   ], 
   "title": "Index Number of production of Principal Crops ", 
   "url": "http://data.gov.in/sites/default/files/INDEX_NUMBER_OF_PRINCIPAL_CROPS.xls"
@@ -1684,9 +1531,7 @@
   "groups": []
  }, 
  "INDUSTRIAL_DISPUTES-industrial_disputes_state-wise.csv": {
-  "groups": [
-   "Economy"
-  ]
+  "groups": []
  }, 
  "INDUSTRIAL_DISPUTES_BY_CAUSES.csv": {
   "description": "This table shows all India figures of industrial disputes by causes of disputes during 2000 to 2010.", 
@@ -1705,29 +1550,27 @@
  "INDUSTRIAL_INJURIES_IN_FACTORIES-injuries_in_factories_statewise.csv": {
   "description": "This table gives All India (2000 onwards), State wise (2007 onwards) statistics of injuries in factories. The number of injuries is given by the number of persons receiving injuries as a result of an accident. This number is more than the actual number of accidents because one accident may result...", 
   "groups": [
-   "Health", 
-   "Economy"
+   "Health"
   ], 
   "title": "Industrial Injuries In Factories ", 
   "url": "http://data.gov.in/sites/default/files/INDUSTRIAL_INJURIES_IN_FACTORIES.XLS"
  }, 
  "INDUSTRIAL_INJURIES_IN_MINES-injuries_in_mines-_mineral-wise.csv": {
   "groups": [
-   "Energy", 
    "Health"
   ]
  }, 
  "INDUSTRIAL_INJURIES_IN_MINES-injuries_in_mines_-_all_india.csv": {
   "groups": [
-   "Energy", 
-   "Health"
+   "Health", 
+   "Energy"
   ]
  }, 
  "INDUSTRIAL_INJURIES_IN_MINES_1-injuries_in_mines-_mineral_wise.csv": {
   "description": "This table shows number of accidents and number of persons receiving injuries in mines. The data are collected under the mines act. Accidents have been classified into fatal, and serious during 2000 to 2010.", 
   "groups": [
-   "Energy", 
-   "Health"
+   "Health", 
+   "Energy"
   ], 
   "title": "Industrial Injuries In Mines ", 
   "url": "http://data.gov.in/sites/default/files/INDUSTRIAL_INJURIES_IN_MINES_1.XLS"
@@ -1735,8 +1578,8 @@
  "INDUSTRIAL_INJURIES_IN_MINES_1-injuries_in_mines_all_india.csv": {
   "description": "This table shows number of accidents and number of persons receiving injuries in mines. The data are collected under the mines act. Accidents have been classified into fatal, and serious during 2000 to 2010.", 
   "groups": [
-   "Energy", 
-   "Health"
+   "Health", 
+   "Energy"
   ], 
   "title": "Industrial Injuries In Mines ", 
   "url": "http://data.gov.in/sites/default/files/INDUSTRIAL_INJURIES_IN_MINES_1.XLS"
@@ -1744,8 +1587,7 @@
  "INDUSTRY-WISE_OFF-TAKE_OF_NATURAL_GAS.csv": {
   "description": "This table gives statistics on industry-wise off-take of Natural Gas for period 2000-01 to 2010-11 in Billion Cubic Metres.", 
   "groups": [
-   "Energy", 
-   "Economy"
+   "Energy"
   ], 
   "title": "Industry-wise Off-take of Natural Gas ", 
   "url": "http://data.gov.in/sites/default/files/INDUSTRY-WISE_OFF-TAKE_OF_NATURAL_GAS.xls"
@@ -1760,9 +1602,7 @@
  }, 
  "IUD_Insertions.csv": {
   "description": "The IUD Insertions is one of the spacing method adopted by the women to space the birth of children. The IUD Insertions done at the District Hospitals, Sub-divisional Hospitals and Community Health Centres during the reporting month are reported in the HMIS portal by all the States / UTs.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": " State-Wise Achievements in Respect of Intra Uterine Device Insertions in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/IUD_Insertions.csv"
  }, 
@@ -1777,15 +1617,13 @@
  }, 
  "Import_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2011-12.csv": {
   "groups": [
-   "Environment", 
    "Economy"
   ]
  }, 
  "Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12-exports.csv": {
   "description": "This table consists of year-wise Import/Export of Crude Oil and Petroleum Products during 2004-05 to 2011-12 in India.", 
   "groups": [
-   "Energy", 
-   "Economy"
+   "Energy"
   ], 
   "title": "Import/Export of Crude Oil and Petroleum Products: 2004-12 ", 
   "url": "http://data.gov.in/sites/default/files/Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12.xls"
@@ -1793,8 +1631,7 @@
  "Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12-gross_imports.csv": {
   "description": "This table consists of year-wise Import/Export of Crude Oil and Petroleum Products during 2004-05 to 2011-12 in India.", 
   "groups": [
-   "Energy", 
-   "Economy"
+   "Energy"
   ], 
   "title": "Import/Export of Crude Oil and Petroleum Products: 2004-12 ", 
   "url": "http://data.gov.in/sites/default/files/Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12.xls"
@@ -1802,8 +1639,7 @@
  "Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12-net_imports.csv": {
   "description": "This table consists of year-wise Import/Export of Crude Oil and Petroleum Products during 2004-05 to 2011-12 in India.", 
   "groups": [
-   "Energy", 
-   "Economy"
+   "Energy"
   ], 
   "title": "Import/Export of Crude Oil and Petroleum Products: 2004-12 ", 
   "url": "http://data.gov.in/sites/default/files/Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12.xls"
@@ -1867,8 +1703,7 @@
  "Industry-wise_Offtakes_of_Natural_Gas_in_India_2004-12.csv": {
   "description": "This table consists of Industry-wise and year-wise offtakes of natural gas during 2004-05 to 2011-12 in India.", 
   "groups": [
-   "Energy", 
-   "Economy"
+   "Energy"
   ], 
   "title": "Industry-wise Offtakes of Natural Gas in India: 2004-12 ", 
   "url": "http://data.gov.in/sites/default/files/Industry-wise_Offtakes_of_Natural_Gas_in_India_2004-12.xls"
@@ -1883,9 +1718,7 @@
  }, 
  "International_EMS_tariff_1.csv": {
   "description": "Backed by Universal Postal Union, EMS Speed Post offers economical and faster service to 97 foreign countries. International Speed Post tariff and names of the Countries can be seen from the data.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "International Speed Post (EMS) Network ", 
   "url": "http://data.gov.in/sites/default/files/International_EMS_tariff_1.csv"
  }, 
@@ -1900,8 +1733,7 @@
  "LITERACY_RATE_INDIA-literacy_rate_-_statewise(nsso).csv": {
   "description": "This table gives All India (2003-11) and State-wise (1991 and 2001) data on Literacy Rate in India for rural and urban (NSSO And RGI).", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Literacy Rate In India (NSSO And RGI) ", 
   "url": "http://data.gov.in/sites/default/files/LITERACY_RATE_INDIA.xls"
@@ -1916,9 +1748,7 @@
  }, 
  "List_of_SWAN_PoP.csv": {
   "description": "State Wide Area Network (SWAN) for providing connectivity up to Block Head Quarters is operational in 30 States. Active PoPs can be obtained from this dataset.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State Wide Area Network (SWAN) Poin of Presence (PoP) ", 
   "url": "http://data.gov.in/sites/default/files/List_of_SWAN_PoP.csv"
  }, 
@@ -1971,14 +1801,10 @@
   "url": "http://data.gov.in/sites/default/files/MASS_EMISSION_STANDARD_FOR_PETROL_AND_DIESEL_DRIVEN_VEHICLES.xls"
  }, 
  "Manpower_At_SCs_PHCs-5-female_or_anm_at_scs_&_phcs.csv": {
-  "groups": [
-   "Energy"
-  ]
+  "groups": []
  }, 
  "Manpower_At_SCs_PHCs-5-male_at_sub-centres.csv": {
-  "groups": [
-   "Energy"
-  ]
+  "groups": []
  }, 
  "MaternalMortalityRate07-09.csv": {
   "description": "Maternal Mortality Ratio (MMR) is defined as the number of maternal deaths per 100,000 live births due to causes related to pregnancy or within 42 days of termination of pregnancy, regardless of the site or duration of pregnancy.Goal-5 of the Millennium Development Goals (MDGs) relates to...", 
@@ -2015,8 +1841,7 @@
  "Month_and_Year-wise_Average_of_International_Crude_Oil_Prices_2004-12.csv": {
   "description": "This table consists of month & year-wise average of International crude oil prices (Indian Basket).", 
   "groups": [
-   "Energy", 
-   "Agriculture"
+   "Energy"
   ], 
   "title": "Month and Year-wise Average of International Crude Oil Prices (Indian Basket): 2004-12 ", 
   "url": "http://data.gov.in/sites/default/files/Month_and_Year-wise_Average_of_International_Crude_Oil_Prices_2004-12.xls"
@@ -2031,43 +1856,31 @@
  }, 
  "NUMBER_OF_RECOGNISED_EDUCATIO_AL_INSTITUTIONS-all_india_educational_institute.csv": {
   "description": "This table gives All India (2000-01 to 2009-10) and State-wise (2008-09) data of Number of Recognised Educational Institutions of Higher Learning like Universities/ Deemed to be Universities Institutions of National Importance, Research Institutions, College for General Education, Professional...", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Number Of Recognised Educational Institutions Of Higher Learning, All India And State wise ", 
   "url": "http://data.gov.in/sites/default/files/NUMBER_OF_RECOGNISED_EDUCATIO_AL_INSTITUTIONS.xls"
  }, 
  "NUMBER_OF_RECOGNISED_EDUCATIO_AL_INSTITUTIONS-statewise_educational_institute.csv": {
   "description": "This table gives All India (2000-01 to 2009-10) and State-wise (2008-09) data of Number of Recognised Educational Institutions of Higher Learning like Universities/ Deemed to be Universities Institutions of National Importance, Research Institutions, College for General Education, Professional...", 
-  "groups": [
-   "Education", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Number Of Recognised Educational Institutions Of Higher Learning, All India And State wise ", 
   "url": "http://data.gov.in/sites/default/files/NUMBER_OF_RECOGNISED_EDUCATIO_AL_INSTITUTIONS.xls"
  }, 
  "NUMBER_OF_TEACHERS_IN_EDUCATIONAL_INSTITUTIONS-teacher_in_institutionall_india.csv": {
   "description": "This table gives All India (2001-02 to 2009-10) and State-wise (2008-09 to 2009-10) Number of Teachers in Educational Institutions like primary/junior basic schools, middle/senior basic school, high/post basic school, higher secondary schools, universities and affiliated colleges.", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Number Of Teachers In Educational Institutions (All India And State wise) ", 
   "url": "http://data.gov.in/sites/default/files/NUMBER_OF_TEACHERS_IN_EDUCATIONAL_INSTITUTIONS.xls"
  }, 
  "NUMBER_OF_TEACHERS_IN_EDUCATIONAL_INSTITUTIONS-teacher_in_institutionstatewise.csv": {
   "description": "This table gives All India (2001-02 to 2009-10) and State-wise (2008-09 to 2009-10) Number of Teachers in Educational Institutions like primary/junior basic schools, middle/senior basic school, high/post basic school, higher secondary schools, universities and affiliated colleges.", 
-  "groups": [
-   "Education", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Number Of Teachers In Educational Institutions (All India And State wise) ", 
   "url": "http://data.gov.in/sites/default/files/NUMBER_OF_TEACHERS_IN_EDUCATIONAL_INSTITUTIONS.xls"
  }, 
  "NUMBER_OF_TOWNS_AND_VILLAGES_ELECTRIFIED_IN_INDIA.csv": {
   "description": "This table gives State-wise number of towns and villages electrified in India.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Number Of Towns And Villages Electrified In India ", 
   "url": "http://data.gov.in/sites/default/files/NUMBER_OF_TOWNS_AND_VILLAGES_ELECTRIFIED_IN_INDIA.xls"
  }, 
@@ -2105,25 +1918,19 @@
  }, 
  "No_Of_Newborn_Visited_Within_24hrs_of_Home_Delivery_1.csv": {
   "description": "Total number of newborns visited by health worker (Accredited Social Health Activist (ASHA)/Auxiliary Nurse Midwife (ANM) / Doctor / Staff Nurse) within 24 hours of home delivery during the reporting month. Essential newborn care, including weighing is provided. Data Source for this data element is...", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "Number of Newborn Visited Within 24 Hrs of Home Delivery in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/No_Of_Newborn_Visited_Within_24hrs_of_Home_Delivery_1.csv"
  }, 
  "No_Of_Newborns_Breastfed_Within_1hr_1.csv": {
   "description": "Total of newborns (live births) reported at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital and have been breastfed within 1st hour of delivery during the reporting month. Data Source for this data element is Delivery Register.", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "Number of Newborns Breastfed Within 1 Hour in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/No_Of_Newborns_Breastfed_Within_1hr_1.csv"
  }, 
  "No_Of_Newborns_Having_Weight_Less_Than_2.5Kgs_1.csv": {
   "description": "Total of newborns (live births) weighted at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital and found to be less than 2500g during the reporting month are reported. Data Source for this data element is Pregnancy Register/ Labour Room Register.", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "Number of Newborns Having Weight Less Than 2.5 Kgs in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/No_Of_Newborns_Having_Weight_Less_Than_2.5Kgs_1.csv"
  }, 
@@ -2137,17 +1944,13 @@
  }, 
  "No_Of_Pregnant_Women_Received_3ANC_CheckUps_1.csv": {
   "description": "Antenatal care is the healthcare received by a woman during pregnancy. Antenatal care starts with \u2018history-taking\u2019 and is followed by examination of the woman, which basically includes recording weight and height, blood test for anaemia, blood pressure measurement, regular abdominal examination etc...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Number of Pregnant Women Received 3 ANC Checkups in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/No_Of_Pregnant_Women_Received_3ANC_CheckUps_1.csv"
  }, 
  "No_Of_Still_Births_1.csv": {
   "description": "Number of still birth recorded from Pregnancy Register/Labour Room Register at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital during the reporting month. Complete expulsion or extraction of baby from its mother where the foetus does notbreathe...", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "Number of Still Births in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/No_Of_Still_Births_1.csv"
  }, 
@@ -2161,25 +1964,19 @@
  }, 
  "No_Of_Women_Discharged_Under_48hrs_Of_Delivery_1.csv": {
   "description": "Out of the total deliveries conducted in the facilities, the numbers of women discharged within 48 hours of delivery during the reporting month are reported. It is important that a woman should stay in the Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Number of Women Discharged Under 48 Hrs of Delivery From Public Facility in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/No_Of_Women_Discharged_Under_48hrs_Of_Delivery_1.csv"
  }, 
  "No_Of_Women_Given_TT2_or_Booster.csv": {
   "description": "Total number of pregnant women who have received the second dose of TT immunization (TT-2) or Booster of TT during the reporting month. This indicates number of pregnant women who have completed TT immunization for the current pregnancy. The second dose is to be given one month after the first dose...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Number of Women Given TT2/Booster in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/No_Of_Women_Given_TT2_or_Booster.csv"
  }, 
  "No_Of_Women_Having_HB_Level_Less_Than_11.csv": {
   "description": "Number of pregnant women tested during ANC visits and found with Hemoglobin (Hb) less than 11 g/dl during the reporting month. Only those cases are to be reported where the Hb was measured by a Haemoglobinometer or any other acceptable laboratory method. Cases identified only by examination of eyes...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Number of Women Having Hemoglobin (Hb) Level Less Than 11 (Tested Cases) in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/No_Of_Women_Having_HB_Level_Less_Than_11.csv"
  }, 
@@ -2189,8 +1986,7 @@
  "Number_Of_SCs_PHCs_CHCs_During_Five_Year_Plans-1-community_health_centres.csv": {
   "description": "Sub-Centre (SC) is the most peripheral and first contact point between the primary health care system and the community. One Sub Centre is to cover a population of 3000 in Hilly / Tribal / Difficult areas and 5000 in Plain areas. Each Sub-Centre is required to be manned by at least one Auxiliary...", 
   "groups": [
-   "Health", 
-   "Economy"
+   "Health"
   ], 
   "title": "Number of Sub-Centres, Primary Health Centres and Community Health Centres Established During Five Year Plans ", 
   "url": "http://data.gov.in/sites/default/files/Number_Of_SCs_PHCs_CHCs_During_Five_Year_Plans-1.xls"
@@ -2198,8 +1994,7 @@
  "Number_Of_SCs_PHCs_CHCs_During_Five_Year_Plans-1-primary_health_centres.csv": {
   "description": "Sub-Centre (SC) is the most peripheral and first contact point between the primary health care system and the community. One Sub Centre is to cover a population of 3000 in Hilly / Tribal / Difficult areas and 5000 in Plain areas. Each Sub-Centre is required to be manned by at least one Auxiliary...", 
   "groups": [
-   "Health", 
-   "Economy"
+   "Health"
   ], 
   "title": "Number of Sub-Centres, Primary Health Centres and Community Health Centres Established During Five Year Plans ", 
   "url": "http://data.gov.in/sites/default/files/Number_Of_SCs_PHCs_CHCs_During_Five_Year_Plans-1.xls"
@@ -2207,24 +2002,21 @@
  "Number_Of_SCs_PHCs_CHCs_During_Five_Year_Plans-1-sub_centres.csv": {
   "description": "Sub-Centre (SC) is the most peripheral and first contact point between the primary health care system and the community. One Sub Centre is to cover a population of 3000 in Hilly / Tribal / Difficult areas and 5000 in Plain areas. Each Sub-Centre is required to be manned by at least one Auxiliary...", 
   "groups": [
-   "Economy"
+   "Health"
   ], 
   "title": "Number of Sub-Centres, Primary Health Centres and Community Health Centres Established During Five Year Plans ", 
   "url": "http://data.gov.in/sites/default/files/Number_Of_SCs_PHCs_CHCs_During_Five_Year_Plans-1.xls"
  }, 
  "Number_of_Allopathic_Hospitals_Dispensaries_And_Beds.csv": {
   "description": "This table gives State-wise number of Allopathic Government Hospitals, Dispensaries and Beds (in ' 000) for 2010-11.", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "Number of Allopathic Hospitals / Dispensaries And Beds ", 
   "url": "http://data.gov.in/sites/default/files/Number_of_Allopathic_Hospitals_Dispensaries_And_Beds.xls"
  }, 
  "Number_of_Allopathic_Medical_and_Dental_Colleges_And_Admission.csv": {
   "description": "The table gives the number of allopathic medical and dental colleges and admission for the year 2000 on wards. Students admitted in medical colleges refers to students admitted in 1st year of MBBS. The data for some years are not provided. The source of data is the Ministry of Health and Family...", 
   "groups": [
-   "Health", 
-   "Education"
+   "Health"
   ], 
   "title": "Number of Allopathic Medical And Dental Colleges And Admission ", 
   "url": "http://data.gov.in/sites/default/files/Number_of_Allopathic_Medical_and_Dental_Colleges_And_Admission.xls"
@@ -2240,8 +2032,7 @@
  "Number_of_Cases_And_Deaths_Due_To_Diseases-statewise_2010.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2010 and 2011) number of cases and deaths due to specified diseases (Acute Diarrhoeal Diseases, Malaria, Acute Respiaratory  Infection, Japanese Encephalitis, Viral Hepatitis).", 
   "groups": [
-   "Health", 
-   "Economy"
+   "Health"
   ], 
   "title": "Number of Cases And Deaths Due To Diseases ", 
   "url": "http://data.gov.in/sites/default/files/Number_of_Cases_And_Deaths_Due_To_Diseases.xls"
@@ -2249,17 +2040,14 @@
  "Number_of_Cases_And_Deaths_Due_To_Diseases-statewise_2011.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2010 and 2011) number of cases and deaths due to specified diseases (Acute Diarrhoeal Diseases, Malaria, Acute Respiaratory  Infection, Japanese Encephalitis, Viral Hepatitis).", 
   "groups": [
-   "Health", 
-   "Economy"
+   "Health"
   ], 
   "title": "Number of Cases And Deaths Due To Diseases ", 
   "url": "http://data.gov.in/sites/default/files/Number_of_Cases_And_Deaths_Due_To_Diseases.xls"
  }, 
  "Number_of_Registered_Allopathic_Doctors_And_Dental_Surgeons.csv": {
   "description": "The table gives the number allopathic doctors and dental surgeons registered with state medical councils for 2010 and 2011 (only for 2010 for allopathic doctors).", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "Number of Registered Allopathic Doctors And Dental Surgeons ", 
   "url": "http://data.gov.in/sites/default/files/Number_of_Registered_Allopathic_Doctors_And_Dental_Surgeons.xls"
  }, 
@@ -2274,17 +2062,14 @@
  "Number_of_Registered_General_Nursing_Midwives_Auxiliary_Nurse-Midwives_And_Health_Visitors-statewise.csv": {
   "description": "The table gives the number of registered general nursing midwives, auxiliary nurse-midwives and health visitors from 2000 on wards for All India and for 2009 and 2010 for States. ", 
   "groups": [
-   "Health", 
-   "Economy"
+   "Health"
   ], 
   "title": "Number of Registered General Nursing Midwives/ Auxiliary Nurse-Midwives And Health Visitors ", 
   "url": "http://data.gov.in/sites/default/files/Number_of_Registered_General_Nursing_Midwives_Auxiliary_Nurse-Midwives_And_Health_Visitors.xls"
  }, 
  "Oral_Pill_Users.csv": {
   "description": "The another spacing method is use of Oral Pill Cycles distributed at the district hospitals, sub-divisional hospitals and community health centres to the beneficiaries under free distribution scheme and also sold by companies under social marketing scheme are recorded and reported in the Health...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-Wise Achievements in Respect of Oral Pill Users in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Oral_Pill_Users.csv"
  }, 
@@ -2300,14 +2085,10 @@
   "groups": []
  }, 
  "PATTERN_OF_LAND_UTILISATION-state_wise_(2009-10).csv": {
-  "groups": [
-   "Economy"
-  ]
+  "groups": []
  }, 
  "PATTERN_OF_LAND_UTILISATION-statewise(2008-09).csv": {
-  "groups": [
-   "Economy"
-  ]
+  "groups": []
  }, 
  "PERFORMANCE_OF_EMPLOYMENT_EXCHANGES-employment_exchange_all_india.csv": {
   "groups": [
@@ -2316,8 +2097,7 @@
  }, 
  "PERFORMANCE_OF_EMPLOYMENT_EXCHANGES-employment_exchange_statewise.csv": {
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ]
  }, 
  "PERFORMANCE_OF_EMPLOYMENT_EXCHANGES_1-employment_exchange_all_india.csv": {
@@ -2331,8 +2111,7 @@
  "PERFORMANCE_OF_EMPLOYMENT_EXCHANGES_1-employment_exchange_statewise.csv": {
   "description": "This table shows the number of applicants on the live registered on the employment exchanges which are under the control of director general of employment and training, ministry of labour and employment, register names of the person seeking employment and help them to secure employment. It gives...", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Performance Of Employment Exchanges ", 
   "url": "http://data.gov.in/sites/default/files/PERFORMANCE_OF_EMPLOYMENT_EXCHANGES_1.xls"
@@ -2377,6 +2156,7 @@
  "PHYSICAL_AND_FINANCIAL_PROGRESS_UNDER_PMGSY_1.csv": {
   "description": "This table shows State-wise (2010-11) data on amount released by the government on the development of roads.", 
   "groups": [
+   "Agriculture", 
    "Economy"
   ], 
   "title": "Physical And Financial Progress Under Pardhan Mantri Gram Sadak Yojna (PMGSY)-2010-11 ", 
@@ -2395,6 +2175,7 @@
  "PHYSICAL_AND_FINANCIAL_PROGRESS_UNDER_SGSY_As_On_18TH_MAY2011_1-financial_progress_(in_crore).csv": {
   "description": "This table shows physical and financial progress under Swarnjayanti Gram Swarozgar Yojana (SGSY) during the period 1999-2000 to 2010-11.", 
   "groups": [
+   "Agriculture", 
    "Economy"
   ], 
   "title": "Physical And Financial Progress Under Swarnjayanti Gram Swarozgar Yojana (SGSY) As On 18th May 2011 ", 
@@ -2403,6 +2184,7 @@
  "PHYSICAL_AND_FINANCIAL_PROGRESS_UNDER_SGSY_As_On_18TH_MAY2011_1-physical_progress_(in_number).csv": {
   "description": "This table shows physical and financial progress under Swarnjayanti Gram Swarozgar Yojana (SGSY) during the period 1999-2000 to 2010-11.", 
   "groups": [
+   "Agriculture", 
    "Economy"
   ], 
   "title": "Physical And Financial Progress Under Swarnjayanti Gram Swarozgar Yojana (SGSY) As On 18th May 2011 ", 
@@ -2411,7 +2193,8 @@
  "PHYSICAL_OUTCOMES_UNDER_NREGA-physical_outcome_-_all_india.csv": {
   "description": "This table shows State-wise (2010-11 to 2011-12), All india (2008-09 to 2011-12) data on the work completed under NREGA like rural connectivity, flood control and protection, water conservation and water harvesting, micro irrigation work, land development etc.", 
   "groups": [
-   "Economy"
+   "Education", 
+   "Urban Development"
   ], 
   "title": "Physical Outcomes Under Mahatma Gandhi National Rural Employment Guarantee Act (NREGA) ", 
   "url": "http://data.gov.in/sites/default/files/PHYSICAL_OUTCOMES_UNDER_NREGA.xls"
@@ -2419,7 +2202,8 @@
  "PHYSICAL_OUTCOMES_UNDER_NREGA-physical_outcome_-_state-wise.csv": {
   "description": "This table shows State-wise (2010-11 to 2011-12), All india (2008-09 to 2011-12) data on the work completed under NREGA like rural connectivity, flood control and protection, water conservation and water harvesting, micro irrigation work, land development etc.", 
   "groups": [
-   "Economy"
+   "Education", 
+   "Urban Development"
   ], 
   "title": "Physical Outcomes Under Mahatma Gandhi National Rural Employment Guarantee Act (NREGA) ", 
   "url": "http://data.gov.in/sites/default/files/PHYSICAL_OUTCOMES_UNDER_NREGA.xls"
@@ -2435,8 +2219,7 @@
  "PHYSICAL_PROGRESS_OF_RURAL_ROADS_UNDER_BHARAT_NIRMAN-state-wise.csv": {
   "description": "This table gives All India (from 2005-06 to 2010-11) and State-wise (2010-11) physical progress of rural roads under Bharat Nirman.", 
   "groups": [
-   "Urban Development", 
-   "Economy"
+   "Urban Development"
   ], 
   "title": "Physical Progress of Rural Roads Under Bharat Nirman ", 
   "url": "http://data.gov.in/sites/default/files/PHYSICAL_PROGRESS_OF_RURAL_ROADS_UNDER_BHARAT_NIRMAN.xls"
@@ -2488,34 +2271,28 @@
  }, 
  "PRODUCTION_OF_PRINCIPAL_CROPS-all_india.csv": {
   "groups": [
-   "Agriculture", 
    "Economy"
   ]
  }, 
  "PRODUCTION_OF_PRINCIPAL_CROPS-statewise_2009-10.csv": {
   "groups": [
-   "Agriculture", 
    "Economy"
   ]
  }, 
  "PRODUCTION_OF_PRINCIPAL_CROPS-statewisw_2010-11.csv": {
   "groups": [
-   "Agriculture", 
    "Economy"
   ]
  }, 
  "PROGRAMME-WISE_CUMULATIVE_ACHIEVEMENT.csv": {
   "description": "This table shows data on renewable energy programs like grid interactive renewable power, wind power, small hdro power, solar power etc. and their achievements in Mega Watts.", 
-  "groups": [
-   "Agriculture"
-  ], 
+  "groups": [], 
   "title": "Programme-Wise Cumulative Achievement ", 
   "url": "http://data.gov.in/sites/default/files/PROGRAMME-WISE_CUMULATIVE_ACHIEVEMENT.xls"
  }, 
  "PROGRESS_OF_AFFORESTATION_THROUGH_SUCCESSIVE_PLANS.csv": {
   "description": "This table provides progress of afforestation during successive plans.", 
   "groups": [
-   "Environment", 
    "Economy"
   ], 
   "title": "Progress of Afforestation through successive Plans ", 
@@ -2523,17 +2300,13 @@
  }, 
  "PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME-dpap_&_ddp.csv": {
   "description": "This table shows data upto 2006-07 projects sanctioned under drought prone area program and the second table shows state-wise (2009-10 to 2012-13) data on integrated watershed management programme (IWMP).", 
-  "groups": [
-   "Agriculture"
-  ], 
+  "groups": [], 
   "title": "Projects Sanctioned Under Drought Prone Desert Development And Integrated Watershed Management Programme ", 
   "url": "http://data.gov.in/sites/default/files/PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME.xls"
  }, 
  "PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME-iwmp.csv": {
   "description": "This table shows data upto 2006-07 projects sanctioned under drought prone area program and the second table shows state-wise (2009-10 to 2012-13) data on integrated watershed management programme (IWMP).", 
-  "groups": [
-   "Agriculture"
-  ], 
+  "groups": [], 
   "title": "Projects Sanctioned Under Drought Prone Desert Development And Integrated Watershed Management Programme ", 
   "url": "http://data.gov.in/sites/default/files/PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME.xls"
  }, 
@@ -2587,168 +2360,124 @@
  }, 
  "Philatelic_bureaux_11012013.csv": {
   "description": "The list contain the details of Post offices where Philatelic bureau is available.   Name, Pincode of Post office and the State in which the Post office is situated.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "List of Philatelic bureaux  ", 
   "url": "http://data.gov.in/sites/default/files/Philatelic_bureaux_11012013.csv"
  }, 
  "Philatelic_counters11012013.csv": {
-  "groups": [
-   "Economy"
-  ]
+  "groups": []
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2002-03-2002-03.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2002-03.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2002-03 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2002-03.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2002-03-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2002-03.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2002-03 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2002-03.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2003-04-2003-04.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2003-04.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2003-04 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2003-04.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2003-04-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2003-04.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2003-04 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2003-04.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2004-05-2004-05.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2004-05.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2004-05 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2004-05.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2004-05-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2004-05.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2004-05 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2004-05.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2005-06_1-2005-06.csv": {
-  "groups": [
-   "Urban Development"
-  ]
+  "groups": []
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2005-06_1-abbreviations.csv": {
-  "groups": [
-   "Urban Development"
-  ]
+  "groups": []
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2006-07_1-2006-07.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2006-07.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2006-07 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2006-07_1.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2006-07_1-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2006-07.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2006-07 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2006-07_1.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2007-08-2007-08.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2007-08.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2007-08 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2007-08.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2007-08-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2007-08.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2007-08 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2007-08.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2008-09-2008-09.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2008-09.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2008-09 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2008-09.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2008-09-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2008-09.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2008-09 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2008-09.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2009-10-2009-10.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2009-10.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2009-10 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2009-10.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2009-10-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2009-10.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2009-10 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2009-10.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2010-11-2010-11.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2010-11.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2010-11 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2010-11.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2010-11-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2010-11.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2010-11 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2010-11.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2011-12-2011-12.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2011-12.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2011-12 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2011-12.xls"
  }, 
  "Physical_Performance_of_SRTUs_for_the_Year_2011-12-abbreviations.csv": {
   "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2011-12.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Physical Performance of SRTUs for the year 2011-12 ", 
   "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2011-12.xls"
  }, 
@@ -2763,8 +2492,7 @@
  "Post_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems_As_On_1stApril-statewise.csv": {
   "description": "This table gives All India and State-wise number of Post Graduate Institutes and Admission Capacity under Ayush Systems .", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Post Graduate Institutes And Admission Capacity under Ayush Systems As On 1st April ", 
   "url": "http://data.gov.in/sites/default/files/Post_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems_As_On_1stApril.xls"
@@ -2815,7 +2543,6 @@
  "Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12-basic_major_petrochemicals.csv": {
   "description": "This table consists of product wise, group wise and year wise production of major petrochemicals products during 2006-07 to 2012-13 (upto September 2012) in India. Production figures have been aggregated based on Monthly Production returns received directly by the Department of Chemicals and...", 
   "groups": [
-   "Environment", 
    "Economy"
   ], 
   "title": "Production of Major Petrochemicals - Product-wise / Group-wise from 2006-07 to 2012-13 (upto September 2012) ", 
@@ -2824,7 +2551,6 @@
  "Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12-intermediates.csv": {
   "description": "This table consists of product wise, group wise and year wise production of major petrochemicals products during 2006-07 to 2012-13 (upto September 2012) in India. Production figures have been aggregated based on Monthly Production returns received directly by the Department of Chemicals and...", 
   "groups": [
-   "Environment", 
    "Economy"
   ], 
   "title": "Production of Major Petrochemicals - Product-wise / Group-wise from 2006-07 to 2012-13 (upto September 2012) ", 
@@ -2833,7 +2559,6 @@
  "Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12-other_petro-based_chemicals.csv": {
   "description": "This table consists of product wise, group wise and year wise production of major petrochemicals products during 2006-07 to 2012-13 (upto September 2012) in India. Production figures have been aggregated based on Monthly Production returns received directly by the Department of Chemicals and...", 
   "groups": [
-   "Environment", 
    "Economy"
   ], 
   "title": "Production of Major Petrochemicals - Product-wise / Group-wise from 2006-07 to 2012-13 (upto September 2012) ", 
@@ -2895,49 +2620,37 @@
  }, 
  "Quarterly_Estimates_of_GDP_at_Constant_2004-05_Prices-growth_rates.csv": {
   "groups": [
-   "Agriculture", 
    "Economy"
   ]
  }, 
  "Quarterly_Estimates_of_GDP_at_Constant_2004-05_Prices-quarterly_estimates.csv": {
   "groups": [
-   "Agriculture", 
    "Economy"
   ]
  }, 
  "RESOURCE_CENTRES_AT_BLOCK_LEVEL_SANCTIONED.csv": {
-  "groups": [
-   "Economy"
-  ]
+  "groups": []
  }, 
  "RESOURCE_CENTRES_AT_BLOCK_LEVEL_SANCTIONED_1.csv": {
   "description": "This table gives State-wise resource centres at block level sanctioned under capacity building component of Backward Regions Grant Fund (RGSY) and Rashtriya Gram Swaraj Yojana (RGSY).", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Resource Centres at Block Level Sanctioned Under Capacity Building Component of BRGF And RGSY ", 
   "url": "http://data.gov.in/sites/default/files/RESOURCE_CENTRES_AT_BLOCK_LEVEL_SANCTIONED_1.xls"
  }, 
  "Registered_Practitioners_Under_Ayush_Systems_AsOn1stJanuary-all_india.csv": {
   "description": "This table gives All India and State-wise number of Registered Ayurveda, Unani, Siddha, Naturopathy, Homoeopathy Practitioners ", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Registered Practitioners Under Ayush Systems As on 1st January ", 
   "url": "http://data.gov.in/sites/default/files/Registered_Practitioners_Under_Ayush_Systems_AsOn1stJanuary.xls"
  }, 
  "Registered_Practitioners_Under_Ayush_Systems_AsOn1stJanuary-statewise.csv": {
   "description": "This table gives All India and State-wise number of Registered Ayurveda, Unani, Siddha, Naturopathy, Homoeopathy Practitioners ", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Registered Practitioners Under Ayush Systems As on 1st January ", 
   "url": "http://data.gov.in/sites/default/files/Registered_Practitioners_Under_Ayush_Systems_AsOn1stJanuary.xls"
  }, 
  "Researchers_Per_Million_People_For_Selected_Countries_2004-06.csv": {
-  "groups": [
-   "Economy"
-  ]
+  "groups": []
  }, 
  "Reserves_of_Crude_Oil_in_India_2004-12.csv": {
   "description": "This table consists of State wise and year-wise reserves of crude oil during 2004-05 to 2011-12 in India.", 
@@ -2958,8 +2671,7 @@
  "Rural_Health_Assistants_and_Doctors_At_PHCs_2-doctors.csv": {
   "description": "As per minimum requirement, a Primary Health Centres (PHCs) is to be manned by a Medical Officer supported by 14 paramedical and other staff. The table refers to Allopathic Doctors at PHCs. The requirement is based on norm of one per each existing PHC. Sanctioned and In-Position figures are as...", 
   "groups": [
-   "Health", 
-   "Urban Development"
+   "Health"
   ], 
   "title": "Manpower at Primary Health Centres as on March 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Rural_Health_Assistants_and_Doctors_At_PHCs_2.xls"
@@ -2967,8 +2679,7 @@
  "Rural_Health_Assistants_and_Doctors_At_PHCs_2-health_assistants-female_or_lhv.csv": {
   "description": "As per minimum requirement, a Primary Health Centres (PHCs) is to be manned by a Medical Officer supported by 14 paramedical and other staff. The table refers to Allopathic Doctors at PHCs. The requirement is based on norm of one per each existing PHC. Sanctioned and In-Position figures are as...", 
   "groups": [
-   "Health", 
-   "Urban Development"
+   "Health"
   ], 
   "title": "Manpower at Primary Health Centres as on March 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Rural_Health_Assistants_and_Doctors_At_PHCs_2.xls"
@@ -2976,29 +2687,25 @@
  "Rural_Health_Assistants_and_Doctors_At_PHCs_2-health_assistants-male.csv": {
   "description": "As per minimum requirement, a Primary Health Centres (PHCs) is to be manned by a Medical Officer supported by 14 paramedical and other staff. The table refers to Allopathic Doctors at PHCs. The requirement is based on norm of one per each existing PHC. Sanctioned and In-Position figures are as...", 
   "groups": [
-   "Health", 
-   "Urban Development"
+   "Health"
   ], 
   "title": "Manpower at Primary Health Centres as on March 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Rural_Health_Assistants_and_Doctors_At_PHCs_2.xls"
  }, 
  "STATEWISE_FORESTS_COVER_OF_THE_COUNTRY-forest_cover_all_india.csv": {
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ]
  }, 
  "STATEWISE_FORESTS_COVER_OF_THE_COUNTRY-forest_cover_statewise.csv": {
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ]
  }, 
  "STATEWISE_FORESTS_COVER_OF_THE_COUNTRY_1-forest_cover_all-india.csv": {
   "description": "This table presents State-wise (2009 onwards), All India (2000 onwards) data on forest cover of the Country by type of forests w.r.t total geographical area, it has also data on actual forests cover by density classes such as dense forest, open forest, mangrove, serub, Non-forest.", 
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ], 
   "title": "State-Wise Forests Cover Of The Country ", 
   "url": "http://data.gov.in/sites/default/files/STATEWISE_FORESTS_COVER_OF_THE_COUNTRY_1.xls"
@@ -3006,8 +2713,7 @@
  "STATEWISE_FORESTS_COVER_OF_THE_COUNTRY_1-forest_cover_state-wise.csv": {
   "description": "This table presents State-wise (2009 onwards), All India (2000 onwards) data on forest cover of the Country by type of forests w.r.t total geographical area, it has also data on actual forests cover by density classes such as dense forest, open forest, mangrove, serub, Non-forest.", 
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ], 
   "title": "State-Wise Forests Cover Of The Country ", 
   "url": "http://data.gov.in/sites/default/files/STATEWISE_FORESTS_COVER_OF_THE_COUNTRY_1.xls"
@@ -3033,8 +2739,7 @@
  "STATEWISE_RECORDED_FOREST_AREA_OF_THE_COUNTRY-recorded_forestarea_-_all_india.csv": {
   "description": "This table presents data on State-wise (2009 onwards), All India (2001 onwards) actual forest cover, recorded forest area and legal status. The legal status has been categorized as \"Reserved\", \"protected\" and \"Unclassed\". Reserved forest is one which is permanently dedicated either to the...", 
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ], 
   "title": "State-Wise Recorded Forest Area Of The Country ", 
   "url": "http://data.gov.in/sites/default/files/STATEWISE_RECORDED_FOREST_AREA_OF_THE_COUNTRY.xls"
@@ -3042,8 +2747,7 @@
  "STATEWISE_RECORDED_FOREST_AREA_OF_THE_COUNTRY-recorded_forestarea_-_statewise.csv": {
   "description": "This table presents data on State-wise (2009 onwards), All India (2001 onwards) actual forest cover, recorded forest area and legal status. The legal status has been categorized as \"Reserved\", \"protected\" and \"Unclassed\". Reserved forest is one which is permanently dedicated either to the...", 
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ], 
   "title": "State-Wise Recorded Forest Area Of The Country ", 
   "url": "http://data.gov.in/sites/default/files/STATEWISE_RECORDED_FOREST_AREA_OF_THE_COUNTRY.xls"
@@ -3102,6 +2806,7 @@
  "Sector-Wise_Plan_And_Non-Plan_Budget_Estimates_For_Edu_By_Central_And_StateGovts_2007-08.csv": {
   "description": "The table presents sector-wise plan and non-plan budget estimates for education by Central and State governments for 2007-08. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD.", 
   "groups": [
+   "Education", 
    "Economy"
   ], 
   "title": "Sector-Wise Plan And Non-Plan Budget Estimates (Revenue Account) For Education By Central And State Governments 2007-08 ", 
@@ -3118,7 +2823,8 @@
  "Shortfall_In_Health_Infra_As_Per_2011_Population_Prov_In_India_2.csv": {
   "description": "The requirement of infrastructure is calculated using the prescribed norms on the basis of provisional rural population from Census, 2011 and estimated rural tribal population in 2011 using percentage of tribal population out of rural population in 2001. All India shortfall is derived by adding...", 
   "groups": [
-   "Health"
+   "Health", 
+   "Urban Development"
   ], 
   "title": "Shortfall in Health Infrastructure as per 2011 Provisional Population in India as on March 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Shortfall_In_Health_Infra_As_Per_2011_Population_Prov_In_India_2.csv"
@@ -3161,9 +2867,7 @@
  }, 
  "State-wise_Number_of_Retail_Outlets_LDO_or_SKO_As_on_1stApril_2012.csv": {
   "description": "This table consists of State-wise number of Retail outlets, LDO/SKO dealers and LPG distributors as 01.04.2012 in India.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-wise Number of Retail Outlets, LDO/SKO, Dealers and LPG Distributors as on April 2012 ", 
   "url": "http://data.gov.in/sites/default/files/State-wise_Number_of_Retail_Outlets_LDO_or_SKO_As_on_1stApril_2012.xls"
  }, 
@@ -3193,143 +2897,109 @@
  }, 
  "State-wise_and_Sex-wise_registered_practitioners_in_India.csv": {
   "description": "This table presents number of AYUSH doctors in the country as well as in States/ UTs as on 1.1.2012. The table has been prepared based on the information received from state/UT boards/councils of Indian Systems of Medicine and Homoeopathy (ISM&H).", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-wise and Sex-wise AYUSH (Ayurveda, Naturopathy, Unani, Siddha and Homoeopathy) registered practitioners (Doctors)  ", 
   "url": "http://data.gov.in/sites/default/files/State-wise_and_Sex-wise_registered_practitioners_in_India.xls"
  }, 
  "State-wise_details_of_cumulative_grid_interactive_renewable_power_installed_capacity.csv": {
   "groups": [
-   "Energy", 
-   "Economy"
+   "Energy"
   ]
  }, 
  "State-wise_details_of_cumulative_grid_interactive_renewable_power_installed_capacity_1.csv": {
   "groups": [
-   "Energy", 
-   "Economy"
+   "Energy"
   ]
  }, 
  "Statewise_General_Index_Jan11_Dec12-r+u.csv": {
   "description": "This is the New Series of Consumer Price Index for Rural & Urban with  base year 2010. Published by Central Statistical Office and released on 12th of every month", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State Level Consumer Price Index (Rural/Urban) ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_General_Index_Jan11_Dec12.xls"
  }, 
  "Statewise_General_Index_Jan11_Dec12-rural.csv": {
   "description": "This is the New Series of Consumer Price Index for Rural & Urban with  base year 2010. Published by Central Statistical Office and released on 12th of every month", 
-  "groups": [
-   "Urban Development", 
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State Level Consumer Price Index (Rural/Urban) ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_General_Index_Jan11_Dec12.xls"
  }, 
  "Statewise_General_Index_Jan11_Dec12-urban.csv": {
   "description": "This is the New Series of Consumer Price Index for Rural & Urban with  base year 2010. Published by Central Statistical Office and released on 12th of every month", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State Level Consumer Price Index (Rural/Urban) ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_General_Index_Jan11_Dec12.xls"
  }, 
  "Statewise_General_Index_Jan13_1-statewise_general_index(1).csv": {
   "description": "This is the New Series of Consumer Price Index for Rural & Urban with base year 2010. Published by Central Statistical Office and released on 12th of every month.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State Level Consumer Price Index (Rural/Urban) Upto January 2013 ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_General_Index_Jan13_1.xls"
  }, 
  "Statewise_General_Index_Jan13_1-statewise_general_index.csv": {
   "description": "This is the New Series of Consumer Price Index for Rural & Urban with base year 2010. Published by Central Statistical Office and released on 12th of every month.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State Level Consumer Price Index (Rural/Urban) Upto January 2013 ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_General_Index_Jan13_1.xls"
  }, 
  "Statewise_General_Index_Jan13_1-statewise_general_index_(2).csv": {
   "description": "This is the New Series of Consumer Price Index for Rural & Urban with base year 2010. Published by Central Statistical Office and released on 12th of every month.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State Level Consumer Price Index (Rural/Urban) Upto January 2013 ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_General_Index_Jan13_1.xls"
  }, 
  "Statewise_Number_of_Institutes_Implementing_the_Projects_during_2010-12.csv": {
   "description": "The table shows the number of institutes interacted with DBT till 2010-2011 and also after 2011-2012. The list clearly depicts that the coverage of DBT is increasing every year. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-wise Number of Institutes Interacting with DBT on R&amp;D Projects During 2010 to 2012 ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_Number_of_Institutes_Implementing_the_Projects_during_2010-12.xls"
  }, 
  "Statewise_Number_of_Projects_Not_Found_Suitable_For_Funding_During_2010-2012.csv": {
   "description": "The table shows state-wise number of project proposals not found suitable for funding by DBT in financial year 2010-2011 and 2011-2012. These number of projects are not found suitable based on scientific merit and techno-economic feasibility in biotechnology sector by the expert committee.  ", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-wise Number of Projects Not Found Suitable for Funding During 2010 to 2012 ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_Number_of_Projects_Not_Found_Suitable_For_Funding_During_2010-2012.xls"
  }, 
  "Statewise_Number_of_Projects_Received_During_2009-2012.csv": {
   "description": "The table shows state-wise number of ongoing Research and Development projects received by Department of Biotechnology in each financial year from 2009-2010 to 2011-2012. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-wise Number of Projects Received During 2009 to 2012 ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_Number_of_Projects_Received_During_2009-2012.xls"
  }, 
  "Statewise_Ongoing_Projects_As_on_6th_March_2013_1-sheet1.csv": {
   "description": "The table shows the number of suitable ongoing Research and Development projects being funded by Department of Biotechnology as on March 6, 2013. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-economic feasibility.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-wise Ongoing Projects as on March 6, 2013 ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_Ongoing_Projects_As_on_6th_March_2013_1.xls"
  }, 
  "Statewise_Ongoing_Projects_As_on_6th_March_2013_1-sheet2.csv": {
   "description": "The table shows the number of suitable ongoing Research and Development projects being funded by Department of Biotechnology as on March 6, 2013. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-economic feasibility.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-wise Ongoing Projects as on March 6, 2013 ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_Ongoing_Projects_As_on_6th_March_2013_1.xls"
  }, 
  "Statewise_Ongoing_Projects_As_on_6th_March_2013_1-sheet3.csv": {
   "description": "The table shows the number of suitable ongoing Research and Development projects being funded by Department of Biotechnology as on March 6, 2013. The schemes are implemented institutes/universities through competitive grants system based on scientific merit and techno-economic feasibility.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-wise Ongoing Projects as on March 6, 2013 ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_Ongoing_Projects_As_on_6th_March_2013_1.xls"
  }, 
  "Statewise_and_Sourcewise_Installed_Capacity_of_Grid_Interactive_Renewable_Power.csv": {
   "description": "This table gives state-wise and source-wise installed capacity of Grid Interactive Renewable Power (in MW) from 31-3-2010 to 30-3-2011.", 
   "groups": [
-   "Energy", 
-   "Economy"
+   "Energy"
   ], 
   "title": "State-wise and Source-wise Installed Capacity of Grid Interactive Renewable Power ", 
   "url": "http://data.gov.in/sites/default/files/Statewise_and_Sourcewise_Installed_Capacity_of_Grid_Interactive_Renewable_Power.xls"
  }, 
  "Statistics_of_Mental_Hospitals.csv": {
   "description": "This table gives All India and State-wise statistics of mental hospitals like number of hospitals, beds and patients.", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "Statistics on Mental Hospitals ", 
   "url": "http://data.gov.in/sites/default/files/Statistics_of_Mental_Hospitals.xls"
  }, 
  "Sterilisations.csv": {
   "description": "Family Planning methods regulate the number and spacing of children in a family through use of contraceptives or other methods of birth control. The sterilization is one of method also known as terminal method to regulate the family size preferably after two or three children. The sterilization...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-Wise Achievements in respect of Sterilisations in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Sterilisations.csv"
  }, 
@@ -3406,9 +3076,7 @@
  }, 
  "TABLE_6-sheet1.csv": {
   "description": "The table shows details of number of new species identified from different surveys of different states.", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "State-wise Status of new Specifies identified from new different surveys. ", 
   "url": "http://data.gov.in/sites/default/files/TABLE_6.xls"
  }, 
@@ -3426,17 +3094,14 @@
  }, 
  "TOTAL_EARNINGS_OF_FACTORY_WORKERS_IN_INDIA.csv": {
   "description": "This table presents state-wise data about wages and earning of factory workers in India.", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Total earnings Of Factoring Workers In India ", 
   "url": "http://data.gov.in/sites/default/files/TOTAL_EARNINGS_OF_FACTORY_WORKERS_IN_INDIA.xls"
  }, 
  "TOTAL_EXPORT_AND_IMPORT_OF_OZONE_DEPLETING_SUBSTANCES.csv": {
   "description": "This table provides total export/import of ozone depleting substances (ODS) during 2005-2010.", 
   "groups": [
-   "Environment", 
-   "Economy"
+   "Environment"
   ], 
   "title": "Total Export/Import of Ozone Depleting Substances (ODS) ", 
   "url": "http://data.gov.in/sites/default/files/TOTAL_EXPORT_AND_IMPORT_OF_OZONE_DEPLETING_SUBSTANCES.xls"
@@ -3444,56 +3109,72 @@
  "Table_1-sheet1.csv": {
   "description": "The table shows state wise distribution of contaminated dump sites in the country as identified by the Supreme Court Monitoring Committee (SCMC) and the number of such sites as reported by the Ministry.", 
   "groups": [
-   "Economy"
+   "Environment"
   ], 
   "title": "Hazardous Waste Contaminated Dump Sites ", 
   "url": "http://data.gov.in/sites/default/files/Table_1.xls"
  }, 
  "Table_1-sheet2.csv": {
   "description": "The table shows state wise distribution of contaminated dump sites in the country as identified by the Supreme Court Monitoring Committee (SCMC) and the number of such sites as reported by the Ministry.", 
-  "groups": [], 
+  "groups": [
+   "Environment"
+  ], 
   "title": "Hazardous Waste Contaminated Dump Sites ", 
   "url": "http://data.gov.in/sites/default/files/Table_1.xls"
  }, 
  "Table_1-sheet3.csv": {
   "description": "The table shows state wise distribution of contaminated dump sites in the country as identified by the Supreme Court Monitoring Committee (SCMC) and the number of such sites as reported by the Ministry.", 
-  "groups": [], 
+  "groups": [
+   "Environment"
+  ], 
   "title": "Hazardous Waste Contaminated Dump Sites ", 
   "url": "http://data.gov.in/sites/default/files/Table_1.xls"
  }, 
  "Table_1_0-sheet1.csv": {
   "description": "The table shows state wise distribution of contaminated dump sites in the country as identified by the Supreme Court Monitoring Committee (SCMC) and the number of such sites as reported by the Ministry.", 
-  "groups": [], 
+  "groups": [
+   "Environment"
+  ], 
   "title": "Hazardous Waste Contaminated Dump Sites ", 
   "url": "http://data.gov.in/sites/default/files/Table_1.xls"
  }, 
  "Table_1_0-sheet2.csv": {
   "description": "The table shows state wise distribution of contaminated dump sites in the country as identified by the Supreme Court Monitoring Committee (SCMC) and the number of such sites as reported by the Ministry.", 
-  "groups": [], 
+  "groups": [
+   "Environment"
+  ], 
   "title": "Hazardous Waste Contaminated Dump Sites ", 
   "url": "http://data.gov.in/sites/default/files/Table_1.xls"
  }, 
  "Table_1_0-sheet3.csv": {
   "description": "The table shows state wise distribution of contaminated dump sites in the country as identified by the Supreme Court Monitoring Committee (SCMC) and the number of such sites as reported by the Ministry.", 
-  "groups": [], 
+  "groups": [
+   "Environment"
+  ], 
   "title": "Hazardous Waste Contaminated Dump Sites ", 
   "url": "http://data.gov.in/sites/default/files/Table_1.xls"
  }, 
  "Table_2-sheet1.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
  "Table_2-sheet2.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
  "Table_2-sheet3.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
@@ -3507,13 +3188,17 @@
  }, 
  "Table_2.1-sheet2.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
  "Table_2.1-sheet3.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
@@ -3527,13 +3212,17 @@
  }, 
  "Table_2.2-sheet2.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
  "Table_2.2-sheet3.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
@@ -3547,13 +3236,17 @@
  }, 
  "Table_2.2a-sheet2.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
  "Table_2.2a-sheet3.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
@@ -3567,13 +3260,17 @@
  }, 
  "Table_2.3-sheet2.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
  "Table_2.3-sheet3.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
@@ -3587,39 +3284,47 @@
  }, 
  "Table_2.4-sheet2.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
  "Table_2.4-sheet3.csv": {
   "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
-  "groups": [], 
+  "groups": [
+   "Economy"
+  ], 
   "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
   "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
  }, 
  "Table_3-sheet1.csv": {
   "description": "Certain parameters such as Biological Oxygen Demand (BOD) and Dissolved Oxygen (DO) are indicators of Organic Quality of Water. The table shows Water Quality Data for stations across the river Ganga as a comparative study between 1986 and 2011 with parameters such as Dissolved Oxygen (DO) and...", 
-  "groups": [], 
+  "groups": [
+   "Environment"
+  ], 
   "title": "Water Quality Data For River Ganga (Summer Average i.e. March-June) ", 
   "url": "http://data.gov.in/sites/default/files/Table_3.xls"
  }, 
  "Table_3-sheet2.csv": {
   "description": "Certain parameters such as Biological Oxygen Demand (BOD) and Dissolved Oxygen (DO) are indicators of Organic Quality of Water. The table shows Water Quality Data for stations across the river Ganga as a comparative study between 1986 and 2011 with parameters such as Dissolved Oxygen (DO) and...", 
-  "groups": [], 
+  "groups": [
+   "Environment"
+  ], 
   "title": "Water Quality Data For River Ganga (Summer Average i.e. March-June) ", 
   "url": "http://data.gov.in/sites/default/files/Table_3.xls"
  }, 
  "Table_3-sheet3.csv": {
   "description": "Certain parameters such as Biological Oxygen Demand (BOD) and Dissolved Oxygen (DO) are indicators of Organic Quality of Water. The table shows Water Quality Data for stations across the river Ganga as a comparative study between 1986 and 2011 with parameters such as Dissolved Oxygen (DO) and...", 
-  "groups": [], 
+  "groups": [
+   "Environment"
+  ], 
   "title": "Water Quality Data For River Ganga (Summer Average i.e. March-June) ", 
   "url": "http://data.gov.in/sites/default/files/Table_3.xls"
  }, 
  "Table_5-sheet1.csv": {
   "description": "A protected area is a defined geographical space, recognized, dedicated and managed, through legal or other effective means, to achieve the long-term conservation of nature with associated ecosystem services and cultural values. The table shows state-wise details of protected area network of the...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Protected Area Network Across The Country (2011-12) ", 
   "url": "http://data.gov.in/sites/default/files/Table_5.xls"
  }, 
@@ -3637,57 +3342,43 @@
  }, 
  "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-ayurveda.csv": {
   "description": "These tables provide an overview of the Infrastructural Facilities in respect of AYUSH System of medicines in India. It contains various indicators relating to healthcare delivery system and mechanism under the AYUSH system in India. It presents an overall picture of AYUSH Hospitals and...", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "State-wise distribution of AYUSH (Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) hospitals, beds and dispensaries ", 
   "url": "http://data.gov.in/sites/default/files/Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12.xls"
  }, 
  "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-homoeopathy.csv": {
   "description": "These tables provide an overview of the Infrastructural Facilities in respect of AYUSH System of medicines in India. It contains various indicators relating to healthcare delivery system and mechanism under the AYUSH system in India. It presents an overall picture of AYUSH Hospitals and...", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "State-wise distribution of AYUSH (Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) hospitals, beds and dispensaries ", 
   "url": "http://data.gov.in/sites/default/files/Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12.xls"
  }, 
  "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-naturopathy.csv": {
   "description": "These tables provide an overview of the Infrastructural Facilities in respect of AYUSH System of medicines in India. It contains various indicators relating to healthcare delivery system and mechanism under the AYUSH system in India. It presents an overall picture of AYUSH Hospitals and...", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "State-wise distribution of AYUSH (Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) hospitals, beds and dispensaries ", 
   "url": "http://data.gov.in/sites/default/files/Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12.xls"
  }, 
  "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-siddha.csv": {
   "description": "These tables provide an overview of the Infrastructural Facilities in respect of AYUSH System of medicines in India. It contains various indicators relating to healthcare delivery system and mechanism under the AYUSH system in India. It presents an overall picture of AYUSH Hospitals and...", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "State-wise distribution of AYUSH (Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) hospitals, beds and dispensaries ", 
   "url": "http://data.gov.in/sites/default/files/Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12.xls"
  }, 
  "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-sowa-rigpa.csv": {
   "description": "These tables provide an overview of the Infrastructural Facilities in respect of AYUSH System of medicines in India. It contains various indicators relating to healthcare delivery system and mechanism under the AYUSH system in India. It presents an overall picture of AYUSH Hospitals and...", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "State-wise distribution of AYUSH (Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) hospitals, beds and dispensaries ", 
   "url": "http://data.gov.in/sites/default/files/Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12.xls"
  }, 
  "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-unani.csv": {
   "description": "These tables provide an overview of the Infrastructural Facilities in respect of AYUSH System of medicines in India. It contains various indicators relating to healthcare delivery system and mechanism under the AYUSH system in India. It presents an overall picture of AYUSH Hospitals and...", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "State-wise distribution of AYUSH (Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) hospitals, beds and dispensaries ", 
   "url": "http://data.gov.in/sites/default/files/Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12.xls"
  }, 
  "Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12-yoga.csv": {
   "description": "These tables provide an overview of the Infrastructural Facilities in respect of AYUSH System of medicines in India. It contains various indicators relating to healthcare delivery system and mechanism under the AYUSH system in India. It presents an overall picture of AYUSH Hospitals and...", 
-  "groups": [
-   "Health"
-  ], 
+  "groups": [], 
   "title": "State-wise distribution of AYUSH (Ayurveda, Yoga, Naturopathy, Unani, Siddha, Sowa-Rigpa and Homoeopathy) hospitals, beds and dispensaries ", 
   "url": "http://data.gov.in/sites/default/files/Table_based_on_AYUSH_hospital_beds_and_dispensaries_in_India-12.xls"
  }, 
@@ -3703,24 +3394,17 @@
   ]
  }, 
  "Total_No_PersonsInjured_in_RoadAccidents_in_India_2003-11.csv": {
-  "groups": [
-   "Urban Development"
-  ]
+  "groups": []
  }, 
  "Total_No_PersonsKilled_in_RoadAccidents_in_India_2003-11.csv": {
   "description": "Data on road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport...", 
-  "groups": [
-   "Education", 
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Total Number of Persons Killed in Road Accidents in India during 2003-2011 ", 
   "url": "http://data.gov.in/sites/default/files/Total_No_PersonsKilled_in_RoadAccidents_in_India_2003-11.csv"
  }, 
  "Total_No_Road_Accidents_in_India_2003-11_1.csv": {
   "description": "Data on road accidents in India are collected by Transport Research Wing (TRW) of Ministry of Road Transport...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Total Number of Road Accidents in India during 2003-2011 ", 
   "url": "http://data.gov.in/sites/default/files/Total_No_Road_Accidents_in_India_2003-11_1.csv"
  }, 
@@ -3750,9 +3434,7 @@
  }, 
  "Tourism_Statistics_Since_1991.csv": {
   "description": "Foreign tourist arrivals refer to the number of arrivals of tourists/visitors. An individual who makes multiple trips to the country is counted each time as a new arrival. Foreign Exchange Earnings from tourism are the receipts of the country as a result of consumption expenditure, i.e. payments...", 
-  "groups": [
-   "Urban Development"
-  ], 
+  "groups": [], 
   "title": "Tourism Statistics of India Since 1991 ", 
   "url": "http://data.gov.in/sites/default/files/Tourism_Statistics_Since_1991.xls"
  }, 
@@ -3849,8 +3531,7 @@
  "Under_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems-statewise_2010.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2010 and 2011) number of Under Graduate Institutes and Admission Capacity under Ayush Systems as on 1st April.", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Under Graduate Institutes And Admission Capacity Under Ayush Systems As On 1st April ", 
   "url": "http://data.gov.in/sites/default/files/Under_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems.xls"
@@ -3858,17 +3539,14 @@
  "Under_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems-statewise_2011.csv": {
   "description": "This table gives All India (from 2000 to 2011) and State-wise (2010 and 2011) number of Under Graduate Institutes and Admission Capacity under Ayush Systems as on 1st April.", 
   "groups": [
-   "Education", 
-   "Economy"
+   "Education"
   ], 
   "title": "Under Graduate Institutes And Admission Capacity Under Ayush Systems As On 1st April ", 
   "url": "http://data.gov.in/sites/default/files/Under_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems.xls"
  }, 
  "Universities_Or_Colleges_And_Their_Enrolment_From_1976-77_To_2006-07.csv": {
   "description": "Time Series data from 1976-77 on wards on important higher education sector variables such as number of universities, deemed universities, colleges along with the total enrolment of students are presented in this table. The data are taken from the University Grants Commission (UGC) annual report.", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Universities / Colleges And Their Enrolment From 1976-77 To 2006-07 ", 
   "url": "http://data.gov.in/sites/default/files/Universities_Or_Colleges_And_Their_Enrolment_From_1976-77_To_2006-07.xls"
  }, 
@@ -3918,19 +3596,13 @@
  }, 
  "WAGES_AND_EARNINGS_OF_MINING_LABOUR-avg_week_earnings_coal_mines.csv": {
   "description": "This table presents the wages and earnings of mining labour in coal and non-coal mines. The data for coal mines relate to average weekly earning of miners and loaders in december each year whereas those for other mines relate to average weekly earning of miners and loaders for the quarter ending in...", 
-  "groups": [
-   "Energy", 
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Wages And Earnings Of Mining Labour ", 
   "url": "http://data.gov.in/sites/default/files/WAGES_AND_EARNINGS_OF_MINING_LABOUR.xls"
  }, 
  "WAGES_AND_EARNINGS_OF_MINING_LABOUR-avg_week_earnings_noncoal_mines.csv": {
   "description": "This table presents the wages and earnings of mining labour in coal and non-coal mines. The data for coal mines relate to average weekly earning of miners and loaders in december each year whereas those for other mines relate to average weekly earning of miners and loaders for the quarter ending in...", 
-  "groups": [
-   "Energy", 
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Wages And Earnings Of Mining Labour ", 
   "url": "http://data.gov.in/sites/default/files/WAGES_AND_EARNINGS_OF_MINING_LABOUR.xls"
  }, 
@@ -3944,34 +3616,27 @@
  }, 
  "WORKMENS_COMPENSATION.csv": {
   "description": "This table relates to compensated injuries under the workmens compensation act. Under the act, Compensation is payable to workers employed in scheduled employment for injuries due to accident resulting in death or disablement for more than three days provided that it is not caused through the fault...", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Workmens Compensation ", 
   "url": "http://data.gov.in/sites/default/files/WORKMENS_COMPENSATION.xls"
  }, 
  "WORKMENS_COMPENSATION_1.csv": {
   "description": "This table relates to compensated injuries under the workmens compensation act. Under the act, Compensation is payable to workers employed in scheduled employment for injuries due to accident resulting in death or disablement for more than three days provided that it is not caused through the fault...", 
-  "groups": [
-   "Education"
-  ], 
+  "groups": [], 
   "title": "Workmens Compensation ", 
   "url": "http://data.gov.in/sites/default/files/WORKMENS_COMPENSATION.xls"
  }, 
  "Wholesale_Price_Indices_of_Selected_Petroleum_Products_2004-12.csv": {
   "description": "This table consists of year-wise wholesale price indices of selected petroleum products based on 2004-05=100 base year in India.", 
   "groups": [
-   "Energy", 
-   "Agriculture"
+   "Energy"
   ], 
   "title": "Wholesale Price Indices of Selected Petroleum Products: 2004-12 ", 
   "url": "http://data.gov.in/sites/default/files/Wholesale_Price_Indices_of_Selected_Petroleum_Products_2004-12.xls"
  }, 
  "Women_Rec_Post_Partum_Checkup_Within_48hrs_After_Del_1.csv": {
   "description": "Total number of women who have received first post partum check-up within 48 hours of delivery (0-48 hours) during the reporting month. This would include the post partum check-up given at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital within...", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "Number of Women Receiving Post Partum Check-Up Within 48 Hours After Delivery in India 2011 ", 
   "url": "http://data.gov.in/sites/default/files/Women_Rec_Post_Partum_Checkup_Within_48hrs_After_Del_1.csv"
  }, 
@@ -4024,9 +3689,7 @@
   "url": "http://agmarknet.nic.in/agmarkdata/agmarkrice2006.csv"
  }, 
  "agmarkrice2007.csv": {
-  "groups": [
-   "Agriculture"
-  ]
+  "groups": []
  }, 
  "agmarkrice2008.csv": {
   "description": "This dataset consists of state-wise, variety-wise  prices of Rice for the year 2008. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of...", 
@@ -4101,9 +3764,7 @@
   "url": "http://agmarknet.nic.in/agmarkdata/agmarkwheat2004.csv"
  }, 
  "agmarkwheat2005.csv": {
-  "groups": [
-   "Agriculture"
-  ]
+  "groups": []
  }, 
  "agmarkwheat2006.csv": {
   "description": "This dataset consists of state-wise, variety-wise  prices of Wheat for the year 2006. It has the wholesale maximum price, minimum price and modal price on daily basis. This dataset is generated through the AGMARKNET Portal (http://agmarknet.nic.in) which disseminates daily market information of...", 
@@ -4185,9 +3846,7 @@
  }, 
  "economyindicator_dataset-sheet3.csv": {
   "description": "Macro-Economic Indicators Summary Table based on India's Real GDP, GDP by Indystry of Origin, GFCF, M3 Growth rate, Fiscal Deficit, Inflation Rate and other valuable statistics as part of databook for DCH as on March, 2013", 
-  "groups": [
-   "Economy"
-  ], 
+  "groups": [], 
   "title": "India - Macro-economic Indicators Summary Table  ", 
   "url": "http://data.gov.in/sites/default/files/economyindicator_dataset.xls"
  }, 

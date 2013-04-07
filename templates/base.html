@@ -19,9 +19,11 @@
 		<div class="outer">
 			<div class="navbar navbar-inverse">
 			  <div class="navbar-inner">
-			    <a class="brand" href="index.py">data.gov.in</a>
+			    <a class="brand" href="index.py">
+					<span class="logo logo-data">data</span><span class="logo logo-gov">gov</span><span class="logo logo-in">in</span>
+				</a>
 			    <ul class="nav">
-			      <!-- <li><a href="#">Home</a></li> -->
+			    	<li><a href="index.py?page=about">About</a></li>
 			    </ul>
 			  </div>
 			</div>
@@ -30,7 +32,34 @@
 			{%- endmacro %}			
 			{% block content %}
 			{% endblock %}
+			<hr>
+			<p class="help">
+				<h5>A better way to visualize data.gov.in</h5>
+				<span style="font-size: 80%; color: #888;">Made by 
+					<a href="https://twitter.com/rushabh_mehta">@rushabh_mehta</a>, 
+					<a href="https://twitter.com/nabinhait">@nabinhait</a>, 
+					<a href="https://twitter.com/anandpdoshi">@anandpdoshi</a> for the Planning Commission Hackathon. 
+					<a href="https://github.com/codeformumbai/data-gov-in">View the code on GitHub</a>
+					<br />
+					<a href="http://data.gov.in/catalogs" target="_blank">View the original data.gov.in</a>
+				</span>
+			</p>
+			<div class="pull-right"><img src="img/India.png" /></div>
 		</div>
 	</div>
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-8911157-8']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+		if("{{ consolelog }}" != "[]") console.log("{{ consolelog }}");
+	</script>
 </body>
 </html>

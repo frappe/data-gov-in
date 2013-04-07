@@ -24,7 +24,7 @@ def get_file_content(fname):
 				continue
 			
 			content = unicode(content, errors="ignore")
-		return content
+		return content.encode("utf-8")
 		
 def get_hex_shade(color, percent):
 	def p(c):

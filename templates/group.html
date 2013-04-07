@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div style="background-color: #{{ group_info['color'] }}; height: 18px;">
+</div>
+<div class="row">
+	<div class="span12">
+		<ul class="breadcrumb">
+			<li><a href="index.py">Home</a> <span class="divider">/</span></li>
+			<li class="active"><i class="icon {{ group_info['icon'] }}"></i> {{ group_info["label"] }}</li>
+		</ul>		
+	</div>
+</div>
+<div class="row">
+	<div class="span12">
+		<h2 style="text-align: center;">The Datasets</h2><br />
+	</div>
+</div>
+
+<div class="row">
+	<div class="span10">
+		Title
+	</div>
+	<div class="span2">
+		# of Rows
+	</div>
+</div>
+<hr>
+
+{% for p in group_dataset|sort(attribute="title") -%}
+<div class="row">
+	<div class="span10">
+		<a class="dataset-link" href="index.py?page=dataset&fname={{ p.file_name|urlencode }}"
+			title = "{{ p.title }}"
+			data-content="{{ p.description }}">{{ p.title }}</a>
+	</div>
+	<div class="span2">
+		<div class="progress" title="{{ p['rows'] }} rows">
+			<div class="bar" style="width: {{ flt(p['rows']) * 100 / maxrows }}%;"
+				></div>
+		</div>
+	</div>
+</div>
+{%- endfor %}
+
+<script>
+	$(".progress").tooltip();
+	$(".dataset-link").popover({
+		trigger: "hover",
+		placement: "bottom"
+	})
+</script>
+
+{% endblock %}

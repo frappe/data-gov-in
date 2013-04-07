@@ -7,16 +7,20 @@
 
 <div class="row">
 	<div class="span12">
-		<a href="index.py?page=sector&group={{ group }}" style="text-decoration: none;">
-			<h5 style="color: #{{ group_info['color'] }};">
-			<i class="icon {{ group_info['icon'] }}"></i> {{ group_info["label"] }}</h5>
-		</a>
+		<ul class="breadcrumb">
+			<li><a href="index.py">Home</a> <span class="divider">/</span></li>
+			<li><a href="index.py?page=group&group={{ group }}">
+				<i class="icon {{ group_info['icon'] }}"></i> {{ group_info["label"] }}</a> 
+				<span class="divider">/</span>
+			</li>
+			<li class="active">Dataset</li>
+		</ul>
 	</div>
 </div>
 
 <div class="row">
 	<div class="span12">
-		<h4>{{ properties.title }}</h4>
+		<h3>{{ properties.title }}</h3>
 		<p style="color: #777; font-size: 80%">{{ properties.description }}</p>
 	</div>
 </div>
@@ -42,7 +46,13 @@
 
 <script>
 	var ctx = $("#canvas").get(0).getContext("2d")
-	new Chart(ctx).Line({{ chart_data }});
+
+	if({{ chart_data }}["chart_type"] == "Line") {
+		new Chart(ctx).Line({{ chart_data }});
+	}
+	else if({{ chart_data}}["chart_type"]  == "Pie") {
+		new Chart(ctx).Pie({{ chart_data }}["datasets"]);
+	}
 </script>
 
 {% endblock %}

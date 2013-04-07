@@ -5,7 +5,6 @@ import cgi, cgitb, os
 from jinja2 import Environment, FileSystemLoader
 from utils import get_file_data
 
-
 cgitb.enable()
 
 def render():
