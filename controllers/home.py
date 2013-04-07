@@ -1,4 +1,3 @@
-import os
 import properties, utils
 
 def get_args(form_dict):

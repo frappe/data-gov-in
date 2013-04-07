@@ -23,17 +23,8 @@
 
 {% block content %}
 
-<div class="row">
-	<div class='span12'>
-	<table style="width: 100%; border-collapse: collapse;" ><tbody><tr>
-	{% for group in group_list -%}
-	<td style="background-color: #{{ groups[group]['color'] }}; 
-		height: 18px; width: 12.5%;">
-	</td>
-	{% endfor %}
-	</tr></tbody></table>
-	</div>
-</div>
+{% include "header.html" %}
+
 <br />
 <h2 style="text-align: center;">Explore Government of India Datasets</h2>
 <br />
@@ -42,5 +33,11 @@
 	<hr>
 {%- endfor %}
 {{ write_group("Other") }}
+
+<div style="text-align: center;">
+	<br /><br /><br />
+	<a class="btn btn-info" href="index.py?page=about">Tell me more</a>
+	<br /><br /><br />
+</div>
 
 {% endblock %}
