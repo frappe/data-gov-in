@@ -1,3 +1,20 @@
+.logo {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.logo-data {
+	color: #BF8E30;
+}
+
+.logo-gov {
+	color: #1D766F;
+}
+
+.logo-in {
+	color: #A30008;
+}
+
 div.outer {
 	padding: 30px;
 	margin: 30px -30px 10px -30px;
