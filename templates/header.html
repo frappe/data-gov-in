@@ -1,0 +1,11 @@
+<div class="row">
+	<div class='span12'>
+	<table style="width: 100%; border-collapse: collapse;" ><tbody><tr>
+	{% for group in group_list -%}
+	<td style="background-color: #{{ groups[group]['color'] }}; 
+		height: 18px; width: 12.5%;">
+	</td>
+	{% endfor %}
+	</tr></tbody></table>
+	</div>
+</div>

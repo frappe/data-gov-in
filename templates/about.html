@@ -1,5 +1,68 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h2>A better way to visualize data.gov.in</h2>
+
+{% include "header.html" %}
+<br />
+<h2 style="text-align: center;">A better way to visualize data.gov.in</h2>
+<br />
+<div class="slide slide-problem">
+	<h2 style="color: #A30008;">The Problem</h2>
+	<p>When when we went to the site <a href="http://data.gov.in/catalog">
+		http://data.gov.in/catalog</a>, we realised that there were some shortcomings. 
+		Fo example, there is no way to quickly all the information published by the Government 
+		and zoom into your area of interest.</p>
+	<p>Here are some of the problems:</p>
+	<h4>1. You can list only a few datasets at time.</h4>
+	<img class="screenshot" src="img/problem-1.png"/>
+	<br /><br />
+	<img class="screenshot" src="img/problem-2.png"/>
+	<br /><br />
+	<h4>2. You need to open a spreadsheet application like Excel to actually view the data.</h4>
+	<img class="screenshot" src="img/problem-3.png"/>
+</div>
+<div class="slide slide-solution">
+	<h2 style="color: #1D766F;">The Solution</h2>
+	<p>We have built a new site to browse the data based on the datasets published so far. 
+		Here are the highlights:</p>
+	<h4>1. Home Page shows you the various sectors you can explore.</h4>
+	<img class="screenshot" src="img/solution-1.png"/>
+	<br /><br />
+	<h4>2. Each sector has its own page with a list of all the datasets.</h4>
+	<img class="screenshot" src="img/solution-2.png"/>
+	<br /><br />
+	<h4>3. No need to open different applications to view the data.</h4>
+	<img class="screenshot" src="img/solution-3.png"/>
+</div>
+<div class="slide slide-how">
+	<h2 style="color: #BF8E30;">How we did it</h2>
+	<h1><i class="icon-cloud-download"></i></h1>
+	<h3>1. Download all files from data.gov.in</h3>
+	<p>We wrote a small script to scrape files and descriptions from data.gov.in and download
+		all the files.</p>
+
+	<h1><i class="icon-exchange"></i></h1>
+	<h3>2. Convert all Excel (xls) files to (csv)</h3>
+	<p>Using python library xlrd, we converted all the xls files to csv.</p>
+
+	<h1><i class="icon-magic"></i></h1>
+	<h3>3. Classify the files based on keywords</h3>
+	<p>Using basic keyword matching in titles and descriptions, we classified the files by sector.</p>
+
+	<h1><i class="icon-bar-chart"></i></h1>
+	<h3>4. Guess chart type and generate charts from data</h3>
+	<p>Based on the data we generated charts using chart.js.</p>
+
+	<h1><i class="icon-globe"></i></h1>
+	<h3>5. Make a web application and publish.</h3>
+	<p>We made a basic web application using python (cgi), Twitter Bootstrap and JQuery to publish the data.</p>
+	<br /><br />
+</div>
+<div class="slide">
+	<h2>Next steps</h2>
+	<p><a class="btn" href="http://github.com/codeformumbai/data-gov-in">
+		View our code on GitHub</a></p>
+	<br />
+	<p><b>Join us to make this better:</b> Drop in a mail at rushabh at erpnext dot com</p>
+</div>
 {% endblock %}
