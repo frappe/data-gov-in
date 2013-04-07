@@ -22,16 +22,17 @@ def get_chart_data(file_data):
 	x_labels = transposed_data[0][1:]
 	
 	data_sets = []
-	i = 250
+	color_steps = int(255.0 / (len(transposed_data) - 1))
+	i = 0
 	for d in transposed_data[1:]:
+		i += color_steps
 		data_sets.append({
-			"fillColor" : "rgba(%s, %s, %s, %s)" % (i, i, i, .5),
-			"strokeColor" : "rgba(%s, %s, %s, %s)" % (i, i, i, 1),
-			"pointColor" : "rgba(%s, %s, %s, %s)" % (i, i, i, 1),
+			"fillColor" : "rgba(%i, %i, %i, %s)" % (i, i/1.2, i/4, .3),
+			"strokeColor" : "rgba(%i, %i, %i, %s)" % (i, i/1.2, i/4, 1),
+			"pointColor" : "rgba(%i, %i, %i, %s)" % (i, i, i/1.2, 1),
 			"pointStrokeColor" : "#fff",
 			"data": [utils.flt(val) for val in d[1:]]
 		})
-		i -= 30
 	
 	chart_data = {
 		"labels": x_labels,

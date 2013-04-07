@@ -75,9 +75,10 @@ def set_properties():
 	load_properties()
 		
 	for fname in os.listdir(os.path.join("data", "csv")):
-		#data = get_file_data(fname)
-		data = None
-		set_property_for(fname, data)
+		if not fname.startswith("."):
+			data = get_file_data(fname)
+			#data = None
+			set_property_for(fname, data)
 	
 	save_properties()
 	make_group_datasets()
@@ -94,8 +95,10 @@ def load_properties():
 	
 def set_property_for(fname, data):
 	global properties
+	print fname
 	fproperty = properties.get(fname, {})
 	set_groups(fname, data, fproperty)
+	fproperty["rows"] = data and len(data) or 0
 	properties[fname] = fproperty
 
 def update_for_file(raw_fname, for_update):
@@ -112,8 +115,7 @@ def set_groups(fname, data, fproperty):
 			fgroups.append(group)
 				
 	if not fgroups:
-		file_data = get_file_content(fname)
-		if has_keyword(file_data, group):
+		if has_keyword(fproperty.get("description", ""), group):
 			fgroups.append(group)
 		
 	fproperty["groups"] = fgroups
