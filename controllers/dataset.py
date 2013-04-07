@@ -17,13 +17,13 @@ def get_args(form_dict):
 def get_chart_data(file_data):
 	if not file_data:
 		return
-	y_labels = file_data[0][1:]
-	transposed_data = map(list, zip(*file_data))
-	x_labels = transposed_data[0][1:]
+	x_labels = file_data[0][1:]
+	# transposed_data = map(list, zip(*file_data))
+	# x_labels = transposed_data[0][1:]
 	
 	data_sets = []
 	i = 250
-	for d in transposed_data[1:]:
+	for d in file_data[1:]:
 		data_sets.append({
 			"fillColor" : "rgba(%s, %s, %s, %s)" % (i, i, i, .5),
 			"strokeColor" : "rgba(%s, %s, %s, %s)" % (i, i, i, 1),
@@ -31,7 +31,7 @@ def get_chart_data(file_data):
 			"pointStrokeColor" : "#fff",
 			"data": [utils.flt(val) for val in d[1:]]
 		})
-		i -= 30
+		i -= 20
 	
 	chart_data = {
 		"labels": x_labels,
