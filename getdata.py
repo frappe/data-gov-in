@@ -1,6 +1,6 @@
 from __future__ import unicode_literals
 import requests, re, os, xlrd, csv, cStringIO
-import setproperties
+import properties
 
 sources = [
 	"http://data.gov.in/hackathon/sectors",
@@ -8,25 +8,25 @@ sources = [
 ]
 
 def download():
-	setproperties.load_properties()
+	properties.load_properties()
 
 	for i in xrange(35):
 		print "page %s" % i
 		response = requests.get(sources[1] + "?page=%s" % i, verify=False)
-		properties = get_url_title_and_description_from_html(response.text)
+		page_properties = get_url_title_and_description_from_html(response.text)
 		
-		for filename in properties:
+		for filename in page_properties:
 			print filename
 			filepath = os.path.join("data", "raw", filename)
 			if not os.path.exists(filepath):
 				with open(filepath, "wb") as datafile:
-					r = requests.get(properties[filename]["url"])
+					r = requests.get(page_properties[filename]["url"])
 					for chunk in r.iter_content(1024):
 						datafile.write(chunk)
 			
-			setproperties.update_for_file(filename, properties[filename])
+			properties.update_for_file(filename, page_properties[filename])
 			
-	setproperties.save_properties()
+	properties.save_properties()
 	
 def get_url_title_and_description_from_html(text):
 	properties = {}

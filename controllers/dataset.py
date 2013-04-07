@@ -1,17 +1,17 @@
 import json
-import utils, setproperties
+import utils, properties
 
 def get_args(form_dict):
-	setproperties.load_properties()
-	properties = setproperties.properties[form_dict["fname"]]
+	properties.load_properties()
+	file_properties = properties.properties[form_dict["fname"]]
 	file_data = utils.get_file_data(form_dict["fname"])
-	group = properties.get("groups", ["Other"])[0]
+	group = file_properties.get("groups", ["Other"])[0]
 	return {
 		"file_data": file_data,
 		"chart_data": get_chart_data(file_data),
-		"properties": properties,
+		"properties": file_properties,
 		"group": group,
-		"group_info": setproperties.groups[group]
+		"group_info": properties.groups[group]
 	}
 	
 def get_chart_data(file_data):

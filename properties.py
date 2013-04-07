@@ -59,6 +59,7 @@ groups = {
 	},
 	"Other": {
 		"label": "Other",
+		"keywords": [],
 		"description": "Uncategorized",
 		"icon": "icon-question-sign",
 		"color": "AAAAAA"
@@ -79,6 +80,7 @@ def set_properties():
 		set_property_for(fname, data)
 	
 	save_properties()
+	make_group_datasets()
 	
 def save_properties():
 	with open(propertypath, "w") as propertyfile:
@@ -122,6 +124,10 @@ def has_keyword(text, group):
 	return set(t).intersection(set(groups[group]["keywords"]))
 
 def get_group_datasets():
+	with open(os.path.join("data", "groups.json"), "r") as groupfile:
+		return json.loads(groupfile.read())
+		
+def make_group_datasets():	
 	group_datasets = {}
 	for group in groups:
 		group_datasets[group] = []
@@ -136,7 +142,9 @@ def get_group_datasets():
 				group_datasets[group].append(p)
 		else:
 			group_datasets["Other"].append(p)
-	return group_datasets
+	
+	with open(os.path.join("data", "groups.json"), "w") as groupfile:
+		groupfile.write(json.dumps(group_datasets, indent=1, sort_keys=True))
 
 def print_no_group():
 	global properties
