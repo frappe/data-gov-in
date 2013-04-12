@@ -17,8 +17,8 @@ def get_args(form_dict):
 		"consolelog": consolelog,
 		"json": json,
 		"len": len,
-		"title": file_properties["title"],
-		"description": file_properties["description"]
+		"title": file_properties.get("title", form_dict["fname"]),
+		"description": file_properties.get("description", form_dict["fname"])
 	}
 	
 def get_chart_data(file_data, file_properties):
