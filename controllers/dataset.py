@@ -32,16 +32,17 @@ def get_chart_data(file_data, file_properties):
 		map_dataset = [[val for val in row] for row in file_data]
 
 	map_dataset = exclude_total_type_columns(map_dataset, 1)
-	map_dataset, start_row, start_column = get_numeric_dataset(map_dataset)
+	start_row, start_column = get_start_row_and_column(map_dataset)
+	value_map_dataset = get_numeric_dataset(map_dataset, start_row, start_column)
 
 	x_labels = file_data[0][1:]
-	x_labels = [label[:15] for label in file_data[0][start_column:]]
+	x_labels = [label[:15] for label in map_dataset[0][start_column:]]
 	x_label_color = []
 	
 	data_sets = []
-	color_steps = int(255.0 / (len(map_dataset) - 1))
+	color_steps = int(255.0 / (len(value_map_dataset)))
 	i = 0
-	for row in map_dataset:
+	for row in value_map_dataset:
 		i += color_steps
 		if chart_type == "Line":
 			data_set_row = {
@@ -86,8 +87,11 @@ def exclude_total_type_columns(map_dataset, start_row):
 	return new_dataset
 		
 
-def get_numeric_dataset(file_data):
-	map_dataset = file_data
+def get_numeric_dataset(map_dataset, start_row, start_column):
+	map_dataset = [row[start_column:] for row in map_dataset[start_row:]]
+	return map_dataset
+
+def get_start_row_and_column(map_dataset):
 	start_column = 1
 	start_row = 1
 	
@@ -107,7 +111,5 @@ def get_numeric_dataset(file_data):
 		if start_column > 20:
 			break
 			
-	map_dataset = [row[start_column:] for row in map_dataset[start_row:]]
-	
-	return map_dataset, start_row, start_column
+	return start_row, start_column
 	
