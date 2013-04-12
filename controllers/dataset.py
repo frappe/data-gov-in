@@ -16,7 +16,9 @@ def get_args(form_dict):
 		"group_info": properties.groups[group],
 		"consolelog": consolelog,
 		"json": json,
-		"len": len
+		"len": len,
+		"title": file_properties["title"],
+		"description": file_properties["description"]
 	}
 	
 def get_chart_data(file_data, file_properties):

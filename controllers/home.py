@@ -16,5 +16,7 @@ def get_args(form_dict):
 		"group_datasets": group_datasets,
 		"get_hex_shade": utils.get_hex_shade,
 		"maxsets": maxsets,
-		"int": int
+		"int": int,
+		"title": "data.gov.in",
+		"description": "A better way to visualize data.gov.in. Featuring all the datasets from data.gov.in in CSV format and with graphs"
 	}
