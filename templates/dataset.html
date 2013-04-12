@@ -31,12 +31,26 @@
 		<canvas id="canvas" height="300" width="940"></canvas>
 		<table class="table table-bordered table-striped" style="font-size: 80%">
 			<tbody>
+				{% set row_idx = 0 %}
 				{% for row in file_data -%}
+				{% if loop.first %}
 				<tr>
 					{% for col in row -%}
-					<td>{{ col }}</td>
+					<th>{{ col }}</th>
 					{%- endfor %}
 				</tr>
+				{% else %}
+				<tr>
+					{% for col in row -%}
+					{% if loop.first %}
+					<td style="color: {{ chart_data.datasets[len(chart_data.datsets) - row_idx].strokeColor }};">{{ col }}</td>
+					{% else %}
+					<td>{{ col }}</td>
+					{% endif %}
+					{%- endfor %}
+				</tr>
+				{% endif %}
+				{% set row_idx = row_idx + 1 %}
 				{%- endfor %}
 			</tbody>
 		</table>
@@ -46,12 +60,13 @@
 
 <script>
 	var ctx = $("#canvas").get(0).getContext("2d")
+	var chart_data = {{ json.dumps(chart_data) }};
 
-	if({{ chart_data }}["chart_type"] == "Line") {
-		new Chart(ctx).Line({{ chart_data }});
+	if(chart_data["chart_type"] == "Line") {
+		new Chart(ctx).Line(chart_data);
 	}
-	else if({{ chart_data}}["chart_type"]  == "Pie") {
-		new Chart(ctx).Pie({{ chart_data }}["datasets"]);
+	else if(chart_data["chart_type"]  == "Pie") {
+		new Chart(ctx).Pie(chart_data["datasets"]);
 	}
 </script>
 

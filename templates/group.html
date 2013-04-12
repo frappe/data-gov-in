@@ -33,6 +33,9 @@
 		<a class="dataset-link" href="index.py?page=dataset&fname={{ p.file_name|urlencode }}"
 			title = "{{ p.title }}"
 			data-content="{{ p.description }}">{{ p.title }}</a>
+		{% if p['rows'] > 500 %}
+			<br><span class="label label-important">Large Dataset</span>
+		{% endif %}
 	</div>
 	<div class="span2">
 		<div class="progress" title="{{ p['rows'] }} rows">
