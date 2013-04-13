@@ -8,10 +8,12 @@ def get_args(form_dict):
 	file_properties = properties.properties[form_dict["fname"]]
 	file_data = utils.get_file_data(form_dict["fname"])
 	group = file_properties.get("groups", ["Other"])[0]
-	return {
+	chart_type = file_properties.get("chart_type") or "Line"
+	
+	args = {
 		"file_data": file_data,
-		"chart_data": get_chart_data(file_data, file_properties),
 		"properties": file_properties,
+		"chart_type": chart_type,
 		"group": group,
 		"group_info": properties.groups[group],
 		"consolelog": consolelog,
@@ -21,14 +23,18 @@ def get_args(form_dict):
 		"description": file_properties.get("description", form_dict["fname"])
 	}
 	
-def get_chart_data(file_data, file_properties):
-	# global consolelog
-	# chart_type = file_properties.get("chart_type")
-	# if not chart_type:
-	# 	return
-	chart_type="Line"
+	if chart_type == "Map":
+		args["map_data"] = get_map_data(file_data, file_properties)
+		args["legend"] = file_properties.get("legend") or ""
+	else:
+		args["chart_data"] = get_chart_data(file_data, file_properties, chart_type)
+	
+	return args
+	
+def get_chart_data(file_data, file_properties, chart_type):
+	global consolelog
 
-	if False: #transpose
+	if file_properties.get("transpose"):
 		map_dataset = map(list, zip(*file_data))
 	else:
 		map_dataset = [[val for val in row] for row in file_data]
@@ -69,7 +75,29 @@ def get_chart_data(file_data, file_properties):
 	}
 		
 	return chart_data
-
+	
+def get_map_data(file_data, file_properties):
+	global consolelog
+	map_dataset = [[val for val in row] for row in file_data]
+	start_row, start_column = get_start_row_and_column(map_dataset)
+	
+	value_function = file_properties.get("value_function")
+	if value_function:
+		value_function = eval(value_function)
+	
+	map_labels_column = file_properties.get("map_labels_column") or (start_column - 1)
+	
+	data_sets = {}
+	for i, row in enumerate(map_dataset):
+		if i < start_row: continue
+		label = row[map_labels_column]
+		if value_function:
+			data_sets[label] = value_function(row)
+		else:
+			data_sets[label] = row[start_column]
+	
+	return data_sets
+	
 def exclude_total_type_columns(map_dataset, start_row):
 	global consolelog
 	
@@ -84,7 +112,7 @@ def exclude_total_type_columns(map_dataset, start_row):
 		for cidx in xrange(original_col_len):
 			if not cidx in excluded:
 				new_row.append(row[cidx])
-		consolelog.append(new_row)
+		# consolelog.append(new_row)
 				
 	return new_dataset
 		

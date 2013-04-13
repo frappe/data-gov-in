@@ -10,7 +10,7 @@
   "chart_type": "Line",
   "x_axis": 0,
   "y_axis": 0,
-  "transpose": "False",
+  "transpose": false,
   "data_index": 1
  }, 
  "ACTIVITYWISE_CLASSIFICATION-ACTUAL_2011-12_BUDGET_ESTIMATE_2012-13_REVISED_ESTIMATE_2012-13-sheet1.csv": {
@@ -287,7 +287,7 @@
   "chart_type": "Line",
   "x_axis": 0,
   "y_axis": 0,
-  "transpose": "False",
+  "transpose": false,
   "data_index": 1
  }, 
  "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1-growth_rates_-_summary.csv": {
@@ -3223,7 +3223,7 @@
   "chart_type": "Line",
   "x_axis": 0,
   "y_axis": 0,
-  "transpose": 1,
+  "transpose": false,
   "data_index": 1
  }, 
  "STR_Trend_Analysis_Report_2010_1-trends_by_category.csv": {
@@ -3279,7 +3279,11 @@
   ], 
   "rows": 37, 
   "title": "Shortfall in Health Infrastructure as per 2011 Provisional Population in India as on March 2011 ", 
-  "url": "http://data.gov.in/sites/default/files/Shortfall_In_Health_Infra_As_Per_2011_Population_Prov_In_India_2.csv"
+  "url": "http://data.gov.in/sites/default/files/Shortfall_In_Health_Infra_As_Per_2011_Population_Prov_In_India_2.csv",
+  "chart_type": "Map",
+  "map_labels_column": 1,
+  "value_function": "lambda row: (utils.flt(row[6]) + 3*utils.flt(row[9]) + 5*utils.flt(row[12]))",
+  "legend": "Colour's Weight = Sub Centers Shortfall + 3 x Primary Health Centres Shortfall + 5 x Community Health Centres Shortfall"
  }, 
  "State-wise_Gross_Production_of_Natural_Gas_in_India_2004-12-calender_years-offshore.csv": {
   "description": "This table consists of State-wise and year-wise gross production of natural gas during 2004-05 to 2011-12 in India.", 

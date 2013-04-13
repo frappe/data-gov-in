@@ -8,7 +8,14 @@
 	<meta name="generator" content="wnframework">
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	{% if chart_type == "Map" -%}
+	<script type="text/javascript" src="js/d3.v3.min.js"></script>
+	<script type="text/javascript" src="js/topojson.v0.min.js"></script>
+	<script type="text/javascript" src="js/colorbrewer.js"></script>
+	<link type="text/css" rel="stylesheet" href="css/map.css">
+	{% else -%}
 	<script type="text/javascript" src="js/Chart.min.js"></script>
+	{%- endif %}
 	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
 	<link type="text/css" rel="stylesheet" href="css/bootstrap-responsive.min.css">
 	<link type="text/css" rel="stylesheet" href="css/font-awesome.min.css">

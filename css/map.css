@@ -1,0 +1,5 @@
+#svg-map g.states path {
+	stroke: #aaa;
+	stroke-width: 0.5;
+	stroke-linecap: round;
+}

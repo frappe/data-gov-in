@@ -3,20 +3,21 @@
 from __future__ import unicode_literals
 import cgi, cgitb, os
 from jinja2 import Environment, FileSystemLoader
-from utils import get_file_data
 
+# enable traceback manager for cgi
 cgitb.enable()
 
 def render():
 	form_dict = get_cgi_fields()
-
+	
+	# prepare jinja environment
 	jenv = Environment(loader = FileSystemLoader("templates"))
 	set_jenv_filters(jenv)
 	
+	# get template and arguments to be passed to it
 	template = form_dict.get("page", "home")
 	args = get_method("controllers." + template + ".get_args")(form_dict)
 	args.update(form_dict)
-
 	html = jenv.get_template(template + ".html").render(args)
 
 	print "Content-Type: text/html"
@@ -42,6 +43,7 @@ def get_cgi_fields():
 	return form	
 	
 def set_jenv_filters(jenv):
+	"""import these python functions as jinja filters"""
 	from utils import urlencode
 	jenv.filters["urlencode"] = urlencode
 	

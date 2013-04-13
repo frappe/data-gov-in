@@ -28,7 +28,13 @@
 <div class="row">
 	<div class="span12" style="overflow-x: scroll;">
 		{% if file_data -%}
+		{% if chart_type == "Map" -%}
+		<svg id="svg-map"></svg>
+		<blockquote><p>{{ legend }}</p></blockquote>
+		{% else -%}
 		<canvas id="canvas" height="300" width="940"></canvas>
+		{%- endif %}
+		
 		<table class="table table-bordered table-striped" style="font-size: 80%">
 			<tbody>
 				{% set row_idx = 0 %}
@@ -42,7 +48,7 @@
 				{% else %}
 				<tr>
 					{% for col in row -%}
-					{% if loop.first %}
+					{% if loop.first and chart_type != "Map" %}
 					<td style="color: {{ chart_data.datasets[len(chart_data.datsets) - row_idx].strokeColor }};">{{ col }}</td>
 					{% else %}
 					<td>{{ col }}</td>
@@ -58,6 +64,57 @@
 	</div>
 </div>
 
+{% if chart_type == "Map" -%}
+<script>
+	var map_opts = {};
+	var render_map = function(map_data, india) {
+		$("#svg-map").empty();
+		
+		var width = $("#svg-map").parent().width(),
+			aspect_ratio = 1.78,
+			height = width / aspect_ratio,
+			svg = d3.select("#svg-map")
+				.attr("width", width)
+				.attr("height", height),
+			projection = d3.geo.mercator()
+							.translate([-0.9*width, 1.2*height])
+							.scale(width),
+			geo_path = d3.geo.path().projection(projection),
+			subunits = topojson.object(india, india.objects.subunits),
+			states = topojson.object(india, india.objects.states).geometries,
+			fill = d3.scale.quantize()
+				.domain([0, Math.max.apply(Math, 
+					$.map(map_data, function(v) { return v; }))])
+				.range(colorbrewer["YlOrBr"][9]);
+		
+		svg.append("path")
+			.datum(subunits)
+			.attr("d", geo_path);
+		var state_groups = svg.selectAll("g.states").data(states)
+			.enter().append("g").attr("class", "states")
+			.append("path")
+				.attr("d", geo_path)
+				.attr("fill", function(d) { 
+					return fill(map_data[d.properties.name]); })
+			.append("title").text(function(d) {
+				return d.properties.name 
+					+ (map_data[d.properties.name]
+					? (" [" + map_data[d.properties.name] + "]") : "");
+			});
+	};
+	
+	d3.json("data/india.json", function(error, india) {
+		map_opts.map_data = {{ json.dumps(map_data) }};
+		map_opts.india = india;
+		render_map(map_opts.map_data, map_opts.india);
+	});
+	
+	d3.select(window).on("resize", function() { 
+		render_map(map_opts.map_data, map_opts.india);
+	});
+	
+</script>
+{% else -%}
 <script>
 	var ctx = $("#canvas").get(0).getContext("2d")
 	var chart_data = {{ json.dumps(chart_data) }};
@@ -69,5 +126,6 @@
 		new Chart(ctx).Pie(chart_data["datasets"]);
 	}
 </script>
+{%- endif %}
 
 {% endblock %}
