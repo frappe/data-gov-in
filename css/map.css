@@ -3,3 +3,11 @@
 	stroke-width: 0.5;
 	stroke-linecap: round;
 }
+
+#svg-map g.disputed path {
+	stroke: #000;
+	stroke-width: 0.5;
+	stroke-linecap: round;
+	stroke-dasharray: 10, 5;
+	fill-opacity: 0.0;
+}

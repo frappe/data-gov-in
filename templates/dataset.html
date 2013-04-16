@@ -71,7 +71,7 @@
 		$("#svg-map").empty();
 		
 		var width = $("#svg-map").parent().width(),
-			aspect_ratio = 1.78,
+			aspect_ratio = 1.72,
 			height = width / aspect_ratio,
 			svg = d3.select("#svg-map")
 				.attr("width", width)
@@ -81,16 +81,28 @@
 							.scale(width),
 			geo_path = d3.geo.path().projection(projection),
 			subunits = topojson.object(india, india.objects.subunits),
+			disputed_subunits = topojson.object(india, india.objects.disputed).geometries,
 			states = topojson.object(india, india.objects.states).geometries,
 			fill = d3.scale.quantize()
 				.domain([0, Math.max.apply(Math, 
 					$.map(map_data, function(v) { return v; }))])
 				.range(colorbrewer["YlOrBr"][9]);
 		
+		// india
 		svg.append("path")
 			.datum(subunits)
 			.attr("d", geo_path);
-		var state_groups = svg.selectAll("g.states").data(states)
+		
+		// disputed areas
+		svg.selectAll("g.disputed").data(disputed_subunits)
+			.enter().append("g").attr("class", "disputed")
+			// .filter(function(d) { console.log(d); return true; })
+			.append("path")
+				.attr("d", geo_path)
+			.append("title").text(function(d) { return d.properties.note_brk; });
+		
+		// states of india
+		svg.selectAll("g.states").data(states)
 			.enter().append("g").attr("class", "states")
 			.append("path")
 				.attr("d", geo_path)
