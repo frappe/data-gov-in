@@ -9,7 +9,7 @@ make scripts to convert this data in to a web friendly format and also give APIs
 ### Technology
 
 The scripting is in Python and the site is generated using simple cgi scripts without
-and back-end framework. The datasets at the moment are in csv and the metadata is in json.
+any back-end framework. The datasets at the moment are in csv and the metadata is in json.
 
 We plan to shift this to databases at a later point.
 

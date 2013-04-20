@@ -1,0 +1,194 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div style="background-color: #000; height: 18px;">
+</div>
+
+<div class="row">
+	<div class="span12">
+		<ul class="breadcrumb">
+			<li><a href="index.py">Home</a> <span class="divider">/</span></li>
+			<li class="active">{{ log_type }}</li>
+		</ul>
+	</div>
+</div>
+
+<div class="row">
+	<div class="span12">
+		<h3>{{ properties.title }}</h3>
+		<!-- <p style="color: #777; font-size: 80%">{{ properties.description }}</p> -->
+	</div>
+</div>
+
+<div class="row">
+	<div class="span12" style="overflow-x: scroll;">
+		<blockquote><p><span id="active_visitors_count">0</span> active visitor(s)</p></blockquote>
+		<svg id="svg-map"></svg>
+	</div>
+</div>
+
+<script>
+var map_opts = {};
+var render_map = function(india, india_cities) {
+	$("#svg-map").empty();
+	
+	var width = $("#svg-map").parent().width(),
+		aspect_ratio = 1.72,
+		height = width / aspect_ratio,
+		svg = d3.select("#svg-map")
+			.attr("width", width)
+			.attr("height", height)
+			.append("g"),
+		width_translate_factor = -0.9,
+		height_translate_factor = 1.2,
+		projection = d3.geo.mercator()
+						.translate([width_translate_factor*width, height_translate_factor*height])
+						.scale(width),
+		geo_path = d3.geo.path().projection(projection),
+		subunits = topojson.object(india, india.objects.subunits),
+		disputed_subunits = topojson.object(india, india.objects.disputed).geometries,
+		states = topojson.object(india, india.objects.states).geometries
+		cities = topojson.object(india_cities, india_cities.objects.places).geometries;
+	
+	// india
+	svg.append("path")
+		.datum(subunits)
+		.attr("d", geo_path);
+	
+	// disputed areas
+	svg.selectAll("g.disputed").data(disputed_subunits)
+		.enter().append("g").attr("class", "disputed")
+		.append("path")
+			.attr("d", geo_path)
+		.append("title").text(function(d) { return d.properties.brk_name 
+			+ " [" + d.properties.note_brk + "]"; });
+	
+	// states of india
+	svg.selectAll("g.states").data(states)
+		.enter().append("g").attr("class", "states")
+		.append("path")
+			.attr("d", geo_path)
+			.attr("fill", "#eee")
+		.append("title").text(function(d) {
+			return d.properties.name;
+		});
+		
+	map_opts.projection = projection;
+	map_opts.city_geometries = cities;
+	
+	map_opts.city_by_name = {};
+	$.each(cities, function(i, v) {
+		map_opts.city_by_name[v.properties.name] = v;
+	});
+};
+
+d3.json("data/india.json", function(error, india) {
+	d3.json("data/india_cities.json", function(error, india_cities) {
+		map_opts.india = india;
+		map_opts.india_cities = india_cities;
+		render_map(map_opts.india, map_opts.india_cities);
+		
+		get_new_cities();
+		setInterval(get_new_cities, 10000);
+	});
+});
+
+d3.select(window).on("resize", function() { 
+	render_map(map_opts.india, map_opts.india_cities);
+});
+
+var show_active = function(active_cities) {
+	if(!active_cities) active_cities = {};
+	
+	var active_visitors_count = 0;
+	
+	var cities = $.map(map_opts.city_geometries,
+		function(v) { return active_cities[v.properties.name] ? v : null; });
+	
+	var place_circle = d3.select("#svg-map g").selectAll(".place-circle")
+		.data(cities, function(d) { return d.properties.name; });
+
+	var place_circle_group = place_circle.enter().append("g").attr("class", "place-circle");
+
+	place_circle_group
+		.append("circle")
+		.attr("cx", function(d) { d.coordinates[0]; })
+		.attr("cy", function(d) { d.coordinates[1]; })
+		.attr("transform", function(d) { 
+			return "translate(" + map_opts.projection(d.coordinates) + ")" })
+		.attr("r", 0)
+		.transition()
+			.duration(750)
+			.attr("r", 10);
+	
+	place_circle_group
+		.append("text")
+		.attr("transform", function(d) { 
+			return "translate(" + map_opts.projection(d.coordinates) + ")" })
+		.attr("dy", ".35em")
+		.attr("fill-opacity", 0)
+		.style("text-anchor", "middle")
+		.text(function(d) { active_visitors_count += active_cities[d.properties.name];
+			return active_cities[d.properties.name]; })
+		.transition()
+			.duration(750)
+			.attr("fill-opacity", 1);
+		
+	place_circle_group
+		.append("text")
+		.attr("transform", function(d) { 
+			return "translate(" + map_opts.projection(d.coordinates) + ")"; })
+		.attr("dy", ".35em")
+		.attr("x", function(d) { return d.coordinates[0] > 73 ? "1.1em" : "-1.1em"; })
+		.style("text-anchor", function(d) { return d.coordinates[0] > 73 ? "start" : "end"; })
+		.attr("fill-opacity", 0)
+		.text(function(d) { return d.properties.name; })
+		.transition()
+			.duration(750)
+			.attr("fill-opacity", 1);
+
+	place_circle.exit()
+		.transition()
+			.duration(750)
+			.selectAll("circle").attr("r", 0)
+			
+	place_circle.exit()
+		.transition()
+			.delay(100)
+			.duration(750)
+			.selectAll("text").attr("fill-opacity", 0)
+	
+	place_circle.exit()
+		.transition()
+		.duration(750)
+			.remove()
+			
+	$("#active_visitors_count").text(active_visitors_count);
+	
+}
+
+var get_new_cities = function() {
+	// show_active({"Mumbai": 5, "Surat": 10});
+	// setTimeout('show_active({"Mumbai": 3, "Hyderabad": 12})', 1000)
+	$.ajax({
+		url: "index.py",
+		data: {
+			page: "log", 
+			log_type: "Apache Access Log",
+			format: "json"
+		},
+		type: 'POST',
+		dataType: 'json',
+		success: function(r, xhr) {
+			show_active(r.city_analytics);
+		},
+		error: function(xhr, textStatus) {
+			console.log(["error", xhr, textStatus])
+		}
+	});
+}
+
+</script>
+
+{% endblock %}

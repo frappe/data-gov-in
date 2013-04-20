@@ -11,3 +11,17 @@
 	stroke-dasharray: 5, 3;
 	fill-opacity: 0.0;
 }
+
+#svg-map .place-circle text {
+	font-family: inherit;
+	font-size: 12px !important;
+	pointer-events: none;
+}
+
+#svg-map .place-circle circle {
+	stroke: #000;
+	stroke-width: 1;
+	stroke-linecap: round;
+	fill: #A30008;
+	fill-opacity: 0.5;
+}

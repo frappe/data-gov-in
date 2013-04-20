@@ -60,3 +60,26 @@ def flt(val):
 def urlencode(txt):
 	import urllib2
 	return urllib2.quote((txt or "").encode("utf-8"))
+    
+def execute_in_shell(cmd, verbose=0):
+	# using Popen instead of os.system - as recommended by python docs
+	from subprocess import Popen
+	import tempfile
+	
+	# using tempfile.TemporaryFile since PIPE buffer is only of 65K
+	with tempfile.TemporaryFile() as stdout:
+		with tempfile.TemporaryFile() as stderr:
+			p = Popen(cmd, shell=True, stdout=stdout, stderr=stderr)
+			p.wait()
+			
+			stdout.seek(0)
+			out = stdout.read()
+			
+			stderr.seek(0)
+			err = stderr.read()
+
+	if verbose:
+		if err: print err
+		if out: print out
+
+	return err, out
