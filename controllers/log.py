@@ -27,6 +27,9 @@ def get_apache_access_log(args):
 	
 	apache_access_log_path = getattr(conf, "apache_access_log_path")
 	if apache_access_log_path:
+		if not os.path.exists(os.path.join("data", "logs")):
+			os.makedirs(os.path.join("data", "logs"))
+		
 		new_access_log_path = os.path.join("data", "logs", "apache_access_log.new")
 		old_access_log_path = os.path.join("data", "logs", "apache_access_log.old")
 	
@@ -89,5 +92,7 @@ def get_geoip_record(ip_addr):
 import unittest
 class TestLog(unittest.TestCase):
 	def test_access_log(self):
-		print get_args({"page": "log", "log_type": "Apache Access Log"})
+		access_log = get_args({"page": "log", "log_type": "Apache Access Log"})
+		# print access_log
+		self.assertTrue("city_analytics" in (access_log or {}))
 		
