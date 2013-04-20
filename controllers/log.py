@@ -1,3 +1,4 @@
+from __future__ import unicode_literals
 import os
 from utils import execute_in_shell
 

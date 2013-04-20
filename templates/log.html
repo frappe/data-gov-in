@@ -101,8 +101,6 @@ d3.select(window).on("resize", function() {
 var show_active = function(active_cities) {
 	if(!active_cities) active_cities = {};
 	
-	var active_visitors_count = 0;
-	
 	var cities = $.map(map_opts.city_geometries,
 		function(v) { return active_cities[v.properties.name] ? v : null; });
 	
@@ -110,7 +108,7 @@ var show_active = function(active_cities) {
 		.data(cities, function(d) { return d.properties.name; });
 
 	var place_circle_group = place_circle.enter().append("g").attr("class", "place-circle");
-
+	
 	place_circle_group
 		.append("circle")
 		.attr("cx", function(d) { d.coordinates[0]; })
@@ -129,8 +127,7 @@ var show_active = function(active_cities) {
 		.attr("dy", ".35em")
 		.attr("fill-opacity", 0)
 		.style("text-anchor", "middle")
-		.text(function(d) { active_visitors_count += active_cities[d.properties.name];
-			return active_cities[d.properties.name]; })
+		.text(function(d) { return active_cities[d.properties.name]; })
 		.transition()
 			.duration(750)
 			.attr("fill-opacity", 1);
@@ -163,9 +160,12 @@ var show_active = function(active_cities) {
 		.transition()
 		.duration(750)
 			.remove()
-			
-	$("#active_visitors_count").text(active_visitors_count);
 	
+	var active_visitors_count = 0;
+	$.each(cities, function(i, d) {
+		active_visitors_count += active_cities[d.properties.name];
+	});
+	$("#active_visitors_count").text(active_visitors_count);
 }
 
 var get_new_cities = function() {
