@@ -38,13 +38,13 @@ def get_apache_access_log(args):
 			# touch the file
 			with file(new_access_log_path, "a"):
 				os.utime(new_access_log_path, None)
-			
+				
 		# sync "new" into "old"
 		args["error_log"].append(execute_in_shell("exec ssh-agent rsync %s %s" % (new_access_log_path, old_access_log_path)))
-	
+			
 		# sync current apache access log to "new"
-		args["error_log"].append(execute_in_shell("exec ssh-agent rsync -P -z %s %s" % (apache_access_log_path, new_access_log_path)))
-	
+		args["error_log"].append(execute_in_shell("exec ssh-agent rsync -P %s %s" % (apache_access_log_path, new_access_log_path)))
+			
 		args["city_analytics"] = get_city_wise_count(old_access_log_path, new_access_log_path)
 		
 	return args

@@ -106,7 +106,7 @@ var show_active = function(active_cities) {
 	
 	var place_circle = d3.select("#svg-map g").selectAll(".place-circle")
 		.data(cities, function(d) { return d.properties.name; });
-
+		
 	var place_circle_group = place_circle.enter().append("g").attr("class", "place-circle");
 	
 	place_circle_group
@@ -122,12 +122,12 @@ var show_active = function(active_cities) {
 	
 	place_circle_group
 		.append("text")
+		.attr("class", "circle-text")
 		.attr("transform", function(d) { 
 			return "translate(" + map_opts.projection(d.coordinates) + ")" })
 		.attr("dy", ".35em")
 		.attr("fill-opacity", 0)
 		.style("text-anchor", "middle")
-		.text(function(d) { return active_cities[d.properties.name]; })
 		.transition()
 			.duration(750)
 			.attr("fill-opacity", 1);
@@ -144,6 +144,9 @@ var show_active = function(active_cities) {
 		.transition()
 			.duration(750)
 			.attr("fill-opacity", 1);
+			
+	place_circle.selectAll(".circle-text")
+		.text(function(d) { return active_cities[d.properties.name]; });
 
 	place_circle.exit()
 		.transition()
@@ -165,12 +168,13 @@ var show_active = function(active_cities) {
 	$.each(cities, function(i, d) {
 		active_visitors_count += active_cities[d.properties.name];
 	});
+	
 	$("#active_visitors_count").text(active_visitors_count);
 }
 
 var get_new_cities = function() {
 	// show_active({"Mumbai": 5, "Surat": 10});
-	// setTimeout('show_active({"Mumbai": 3, "Hyderabad": 12})', 1000)
+	// setTimeout('show_active({"Mumbai": 8, "Hyderabad": 12})', 1000)
 	$.ajax({
 		url: "index.py",
 		data: {
