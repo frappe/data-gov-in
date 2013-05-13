@@ -1,0 +1,45 @@
+-----
+{
+ "description": "This data provides state-wise percentage distribution of rural and urban households by type of latrine as per NSSO Survey Report (65th Round).", 
+ "file_name": "PERCENTAGE_DISTRIBUTION_OF_URBAN_HOUSEHOLDS_BY_TYPE_OF_LATRINE.XLS", 
+ "title": "State-wise Percentage Distribution Of Rural And Urban Households By Type Of Latrine ", 
+ "url": "http://data.gov.in/sites/default/files/PERCENTAGE_DISTRIBUTION_OF_URBAN_HOUSEHOLDS_BY_TYPE_OF_LATRINE.XLS"
+}
+-----
+"State/U.T.","No Latrine","Service Laterine","Pit","Septic tank/flush","others","All (including not known and not reported)"
+"All-India",11.3,1.6,8.0,77.3,1.0,100.0
+"Andhra Pradesh",11.2,0.7,1.5,85.3,0.6,100.0
+"Arunachal Pradesh",0.1,11.6,12.5,61.5,13.2,100.0
+"Assam",0.9,0.2,12.2,84.8,1.4,100.0
+" Bihar",27.7,2.1,3.3,61.9,4.2,100.0
+"Chattisgarh",31.5,0.5,1.2,64.3,1.9,100.0
+"Delhi",1.2,1.2,3.2,92.8,0.9,100.0
+"Goa",9.6,0.2,1.4,87.6,"NA",100.0
+"Gujarat",7.3,0.7,11.5,79.5,0.6,100.0
+"Haryana",8.4,1.9,13.3,73.5,2.9,100.0
+"Himachal Pradesh",8.8,1.0,2.7,87.5,"NA",100.0
+"Jammu & Kashmir",11.8,3.2,7.8,71.3,5.7,100.0
+"Jharkhand",24.5,0.9,3.1,70.6,0.4,100.0
+"Karnataka",11.3,1.1,13.6,72.8,0.4,100.0
+"Kerala",1.5,0.1,46.6,50.6,0.2,100.0
+"Madhya Pradesh",24.3,1.4,6.4,66.2,0.3,100.0
+"Maharashtra",5.9,1.4,1.9,89.4,0.9,100.0
+"Manipur","NA",9.3,31.1,51.6,8.0,100.0
+"Meghalaya",0.2,5.1,15.3,79.1,0.3,100.0
+"Mizoram","NA",0.2,16.7,82.3,0.9,100.0
+"Nagaland",1.3,1.5,17.5,70.1,6.3,100.0
+"Orissa",29.1,3.6,7.3,56.2,1.1,100.0
+"Punjab",5.0,2.3,7.8,84.1,0.6,100.0
+"Rajasthan",12.6,0.8,14.8,70.3,1.5,100.0
+"Sikkim","NA","NA",1.1,98.9,"NA",100.0
+"Tamil Nadu","NA",1.3,0.8,79.1,0.3,100.0
+"Tripura",0.9,"NA",45.7,48.6,4.8,100.0
+"Uttarakhand",3.3,0.9,24.9,70.6,"NA",100.0
+"Uttar Pradesh",14.2,4.4,6.5,72.8,1.6,100.0
+"West Bengal",5.6,2.2,16.5,73.4,1.1,100.0
+"A & N  Island",6.1,"NA","NA",93.9,"NA",100.0
+"Chandigarh",0.6,"NA","NA",99.4,"NA",100.0
+"Dadra & Nagar Haveli",7.1,"NA",6.1,87.1,"NA",100.0
+"Daman & Diu ",6.4,6.3,0.7,86.7,"NA",100.0
+"Lakshdweep",1.0,0.9,32.7,62.0,1.2,100.0
+"Puducherry",9.1,3.7,0.9,84.8,1.1,100.0

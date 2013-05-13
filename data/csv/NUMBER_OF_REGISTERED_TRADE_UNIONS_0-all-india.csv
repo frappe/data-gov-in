@@ -1,0 +1,18 @@
+-----
+{
+ "description": "Data provides all India (from 2000 to 2008) and state-wise (2007 and 2008) details on the number of registered trade unions (such as workers unions and employers unions).", 
+ "file_name": "NUMBER_OF_REGISTERED_TRADE_UNIONS_0.xls", 
+ "title": "Number of Registered Trade Unions ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_REGISTERED_TRADE_UNIONS_0.xls"
+}
+-----
+"Year","Workers Unions - On register","Workers Unions - Submitting returns","Employers Unions - On register","Employers Unions - Submitting returns","All Unions - On register","All Unions - Submitting returns"
+2000.0,41136.0,7231.0,409.0,22.0,41545.0,7253.0
+2001.0,41563.0,6513.0,416.0,18.0,41984.0,6531.0
+2002.0,37903.0,7734.0,189.0,78.0,38092.0,7812.0
+2003.0,42207.0,7229.0,419.0,29.0,46215.0,7258.0
+2004.0,30009.0,5217.0,382.0,25.0,30391.0,5242.0
+2005.0,45842.0,8255.0,464.0,62.0,46306.0,8317.0
+2006.0,42448.0,8411.0,469.0,60.0,42917.0,8471.0
+2007.0,40175.0,7405.0,74.0,3.0,40249.0,7408.0
+2008.0,27063.0,9702.0,74.0,7.0,27137.0,9709.0

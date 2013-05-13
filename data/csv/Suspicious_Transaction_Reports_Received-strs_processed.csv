@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Every banking company, financial institution and intermediary shall furnish to Financial Intelligence Unit-India (FIU-IND) information of all suspicious transactions whether or not made in cash. Suspicions transaction, including an attempted transaction, whether or not made in cash which, to a...", 
+ "file_name": "Suspicious_Transaction_Reports_Received.xls", 
+ "title": "Suspicious Transaction Report Statistics of 2010-11 under Prevention of Money Laundering Act ", 
+ "url": "http://data.gov.in/sites/default/files/Suspicious_Transaction_Reports_Received.xls"
+}
+-----
 "Category","STRs Analysed 2007-08","STRs Analysed 2008-09","STRs Analysed 2009-10","STRs Analysed 2010-11","STRs Analysed Till 31st March 2011"
 "STRs Received",1916.0,4409.0,10067.0,20698.0,37907.0
 "STRs Brought Forward from Previous Year",171.0,86.0,476.0,1118.0,""

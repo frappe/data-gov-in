@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2000 to 2009) and State-wise (2007 to 2009) estimated average daily employment and number of working factories.", 
+ "file_name": "ESTIMATED_AVERAGE_DAILY_EMPLOYMENT_AND_WORKING_FACTORIES.xls", 
+ "title": "Estimated Average Daily Employment And number of working factories ", 
+ "url": "http://data.gov.in/sites/default/files/ESTIMATED_AVERAGE_DAILY_EMPLOYMENT_AND_WORKING_FACTORIES.xls"
+}
+-----
 " State/Union Territory","Number of working factories - 2007","Number of working factories - 2008","Number of working factories - 2009","Estimated average daily employment - 2007","Estimated average daily employment - 2008","Estimated average daily employment - 2009","","","",""," ","",""
 " Andhra Pradesh",18736.0,19408.0,20599.0,753.0,820.0,877.0,"","","","","","",""
 " Assam",2024.0,1590.0,2360.0,108.0,91.0,117.0,"","","","","","",""

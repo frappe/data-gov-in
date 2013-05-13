@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents data from 1998-99 to 2005-06 on enrolment of women in higher education sector by Science & Technology disciplines. The data are taken from the University Grants Commission (UGC) annual report.", 
+ "file_name": "Enrolment_of_Women_In_Higher_Education_By_Science_And_Technology_Disciplines.xls", 
+ "title": "Enrolment of Women In Higher Education By Science And Technology Disciplines ", 
+ "url": "http://data.gov.in/sites/default/files/Enrolment_of_Women_In_Higher_Education_By_Science_And_Technology_Disciplines.xls"
+}
+-----
 "Discipline","Year       ","1998-99","1999-00","2001-02","2002-03","2003-04","2004-05","2005-06"
 "Science & Technology Disciplines","Science ",494.2,520.9,699.4,736.9,809.0,850.2,901.3
 "Science & Technology Disciplines","Engg. ",54.1,63.1,131.8,154.0,165.3,175.7,185.9

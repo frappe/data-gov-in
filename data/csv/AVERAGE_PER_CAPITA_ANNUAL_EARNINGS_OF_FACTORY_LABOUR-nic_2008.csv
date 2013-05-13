@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents data regarding per capita annual earnings of factory workers by industry code in manufacturing sectors from 2002 onwards.", 
+ "file_name": "AVERAGE_PER_CAPITA_ANNUAL_EARNINGS_OF_FACTORY_LABOUR.xls", 
+ "title": "Average Per Capita Annual Earnings Of Factory Labour In Manufacturing Industries. ", 
+ "url": "http://data.gov.in/sites/default/files/AVERAGE_PER_CAPITA_ANNUAL_EARNINGS_OF_FACTORY_LABOUR.xls"
+}
+-----
 "Industry           ","2010 (') 000"
 "  10.MANUFACTURE OF FOOD PRODUCTS","79132"
 "  11.MANUFACTURE OF BEVERAGES","56410"

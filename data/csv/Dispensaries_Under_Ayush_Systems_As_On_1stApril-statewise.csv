@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (from 2001 to 2011) and State-wise (2010-11) number of dispensaries - Ayurveda, Unani, Siddha, Naturopathy, Homoeopathy, Yoga, Sowa-Rigpa under AYUSH Systems as on 1st April.", 
+ "file_name": "Dispensaries_Under_Ayush_Systems_As_On_1stApril.xls", 
+ "title": "Dispensaries Under Ayush Systems As On 1st April ", 
+ "url": "http://data.gov.in/sites/default/files/Dispensaries_Under_Ayush_Systems_As_On_1stApril.xls"
+}
+-----
 "Year/States","Ayurveda 2010","Ayurveda 2011","Unani 2010","Unani 2011","Siddha 2010","Siddha 2011","Yoga 2010","Yoga 2011","Naturopathy 2010","Naturopathy 2011","Homoeopathy 2010","Homoeopathy 2011","Sowa-Rigpa (Amchi) 2010","Sowa-Rigpa (Amchi) 2011","Total 2010","Total 2011"
 "GRAND TOTAL",15353.0,15017.0,1146.0,1021.0,541.0,821.0,59.0,140.0,97.0,97.0,6958.0,7049.0,135.0,135.0,24289.0,24146.0
 "Andhra Pradesh",1003.0,1003.0,269.0,269.0,"NA","NA","NA","NA",47.0,47.0,518.0,518.0,1.0,1.0,1838.0,1837.0

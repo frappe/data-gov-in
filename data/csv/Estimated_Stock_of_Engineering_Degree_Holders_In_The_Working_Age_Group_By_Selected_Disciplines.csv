@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents estimated stock of engineering degree holders in the working age group by selected disciplines since 1994 onwards. The data are taken from the National Technical Manpower Information System (NTMIS) and AICTE, Govt. of India.", 
+ "file_name": "Estimated_Stock_of_Engineering_Degree_Holders_In_The_Working_Age_Group_By_Selected_Disciplines.xls", 
+ "title": "Estimated Stock of Engineering Degree Holders In The Working Age Group By Selected Disciplines ", 
+ "url": "http://data.gov.in/sites/default/files/Estimated_Stock_of_Engineering_Degree_Holders_In_The_Working_Age_Group_By_Selected_Disciplines.xls"
+}
+-----
 "S No.","Discipline",1994.0,1995.0,1996.0,1997.0,1998.0,1999.0,2000.0,2001.0,2002.0,2003.0
 "1.","Civil",146790.0,153690.0,160470.0,166750.0,172830.0,178860.0,184860.0,190760.0,196560.0,200544.0
 "2.","Mechanical",162870.0,172860.0,184810.0,194810.0,204620.0,214430.0,224210.0,233820.0,243280.0,256518.0

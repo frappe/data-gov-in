@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Year wise Data of Electronics and IT Production in the country is provided in this dataset. This data is collected from Electronic and Information Technology  Annual Report 2011-12.", 
+ "file_name": "Electronic_IT_Production.csv", 
+ "title": "Electronics and IT Production ", 
+ "url": "http://data.gov.in/sites/default/files/Electronic_IT_Production.csv"
+}
+-----
 Item,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-11,2011-12 (Estimated),,,,,,,,,,,,,,,,,
 Consumer Electronics    ,"11,950","12,700","13,800","15,200","16,800","18,000","20,000","22,600","25,550","29,000","32,000","34,300",,,,,,,,,,,,,,,,,
 Industrial Electronics ,"4,000","4,500","5,550","6,100","8,300","8,800","10,400","11,910","12,740","15,160","17,000","18,700",,,,,,,,,,,,,,,,,

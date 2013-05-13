@@ -1,0 +1,24 @@
+-----
+{
+ "description": "This data provides figures of Liabilities and Assets Of Banking Department and Issue Department of The Reserve Bank of India (RBI) as on 30th June from 2001 to 2011.", 
+ "file_name": "LIABILITIES_AND_ASSETS_OF_THE_RESERVE_BANK_OF_INDIA.XLS", 
+ "title": "Liabilities And Assets of Banking Department And Issue Department of The Reserve Bank of India As On 30th June From 2001 To 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/LIABILITIES_AND_ASSETS_OF_THE_RESERVE_BANK_OF_INDIA.XLS"
+}
+-----
+"Heads","Group",2001.0,2002.0,2003.0,2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0
+"Paid-up capital and reserves","Liabilities",6505.0,6505.0,6505.0,6505.0,6505.0,6505.0,6505.0,6505.0,6505.0,6505.0,6505.0
+"Deposits: Central Government #","Liabilities",101.0,101.0,100.0,37912.0,72081.0,33395.0,81237.0,191626.0,22990.0,36457.0,101.0
+"Deposits: State Governments","Liabilities",41.0,41.0,41.0,41.0,41.0,41.0,41.0,41.0,41.0,41.0,42.0
+"Deposits: Scheduled Commercial Banks","Liabilities",74108.0,55012.0,78614.0,80069.0,101362.0,126130.0,206613.0,298810.0,250664.0,307759.0,381206.0
+"Deposits: Bills Payable","Liabilities",652.0,53.0,49.0,77.0,378.0,429.0,419.0,319.0,196.0,79.0,833.0
+"Deposits: Other Liabilities","Liabilities",74488.0,109244.0,118356.0,129929.0,100356.0,172374.0,129200.0,322968.0,395708.0,328809.0,414197.0
+"Total Liabilities or Assets","Liabilities",181098.0,194487.0,227304.0,277084.0,304349.0,367831.0,495392.0,850659.0,706539.0,711017.0,835390.0
+"Cash","Assets",17.0,12.0,29.0,26.0,16.0,16.0,17.0,16.0,21.0,33.0,15.0
+"Balance held abroad","Assets",84392.0,98169.0,109831.0,194673.0,195675.0,278498.0,329695.0,688343.0,512321.0,339226.0,303531.0
+"Investments","Assets",52805.0,63037.0,86514.0,57668.0,90087.0,65538.0,118166.0,129209.0,151675.0,310069.0,458606.0
+"Loans and advances to Governments @","Assets",12617.0,13337.0,12842.0,7432.0,345.0,106.0,19595.0,0.0,0.0,73.0,847.0
+"Scheduled commercial Banks ","Assets",3616.0,336.0,1.0,0.0,100.0,2.0,581.0,2102.0,280.0,2623.0,1747.0
+"State Co-op. Banks","Assets",2.0,5.0,7.0,3.0,2.0,0.0,10.0,0.0,0.0,0.0,0.0
+"Others","Assets",3285.0,1044.0,1005.0,40.0,37.0,34.0,33.0,133.0,11103.0,275.0,795.0
+"Other Assets","Assets",13382.0,12715.0,12425.0,14460.0,14404.0,20624.0,27244.0,30806.0,31139.0,58677.0,69848.0

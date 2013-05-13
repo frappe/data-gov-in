@@ -1,0 +1,44 @@
+-----
+{
+ "description": "This Table give State-wise (2008-09 to 2009-10) and All India (2000-01 to 2010-11) data on net area under irrigation by sources like Canals (Government and Private), Tanks, Tube Wells and Other Wells and Other Sources.", 
+ "file_name": "NET_AREA_UNDER_IRRIGATION_BY_SOURCES.xls", 
+ "title": "Net Area Under Irrigation by Sources ", 
+ "url": "http://data.gov.in/sites/default/files/NET_AREA_UNDER_IRRIGATION_BY_SOURCES.xls"
+}
+-----
+"Year/State/Union Territory","Canals Government 2008-09 ('000 hectare)","Canals Government 2009-10 ('000 hectare)","Canals Private 2008-09 ('000 hectare)","Canals Private 2009-10 ('000 hectare)","Canals Total 2008-09 ('000 hectare)","Canals Total 2009-10 ('000 hectare)","Tanks 2008-09 ('000 hectare)","Tanks 2009-10 ('000 hectare)","Tube Wells and other Wells 2008-09 ('000 hectare)","Tube Wells and other Wells 2009-10 ('000 hectare)","Othersources 2008-09 ('000 hectare)","Othersources 2009-10 ('000 hectare)","Total 2008-09 ('000 hectare)","Total 2009-10 ('000 hectare)"
+" Andhra Pradesh",1669.0,1445.0,"NA","NA",1669.0,1445.0,648.0,332.0,2323.0,2284.0,180.0,153.0,4820.0,4214.0
+" Arunachal Pradesh","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",56.0,56.0,56.0,56.0
+" Assam",33.0,162.0,"NA","NA",33.0,162.0,3.0,2.0,2.0,7.0,101.0,26.0,140.0,197.0
+" Bihar",887.0,852.0,"NA","NA",887.0,852.0,132.0,127.0,2441.0,2344.0,75.0,72.0,3536.0,3394.0
+"Chhattisgarh",886.0,870.0,1.0,"NA",887.0,870.0,51.0,50.0,316.0,324.0,84.0,79.0,1339.0,1323.0
+" Goa",8.0,8.0,"NA","NA",8.0,8.0,1.0,12.0,20.0,6.0,7.0,2.0,35.0,29.0
+" Gujarat* ",835.0,835.0,"NA","NA",835.0,835.0,50.0,50.0,3340.0,3340.0,111.0,111.0,4336.0,4336.0
+" Haryana",1274.0,1282.0,"NA","NA",1274.0,1282.0,"NA","NA",1601.0,1785.0,2.0,2.0,2877.0,3069.0
+" Himachal Pradesh* ",4.0,4.0,0.0,"NA",4.0,4.0,1.0,1.0,18.0,19.0,85.0,85.0,108.0,108.0
+" Jammu & Kashmir",161.0,162.0,127.0,125.0,288.0,288.0,5.0,5.0,4.0,4.0,17.0,20.0,314.0,317.0
+" Jharkhand",8.0,5.0,"NA","NA",8.0,5.0,21.0,19.0,63.0,58.0,17.0,20.0,110.0,102.0
+" Karnataka",1061.0,1105.0,"NA","NA",1061.0,1105.0,206.0,196.0,1546.0,1677.0,424.0,413.0,3238.0,3390.0
+" Kerala",96.0,95.0,6.0,3.0,102.0,97.0,40.0,41.0,151.0,144.0,96.0,104.0,390.0,386.0
+" Madhya Pradesh ",1065.0,1109.0,1.0,"NA",1067.0,1109.0,130.0,157.0,4370.0,4675.0,941.0,950.0,6506.0,6892.0
+" Maharashtra*",1083.0,1083.0,"NA","NA",1083.0,1083.0,"NA","NA",2171.0,2171.0,"NA","NA",3254.0,3254.0
+" Manipur *","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",52.0,52.0,52.0,52.0
+" Meghalaya ",17.0,18.0,45.0,44.0,62.0,62.0,"NA","NA","NA","NA","NA","NA",62.0,62.0
+" Mizoram",2.0,2.0,9.0,8.0,11.0,10.0,"NA","NA","NA","NA","NA","NA",11.0,10.0
+" Nagaland ","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",77.0,73.0,77.0,73.0
+" Orissa",1418.0,1411.0,"NA","NA",1418.0,1411.0,"NA","NA",432.0,430.0,341.0,340.0,2192.0,2180.0
+" Punjab",1109.0,1111.0,4.0,3.0,1112.0,1115.0,"NA","NA",2963.0,2956.0,4.0,2.0,4079.0,4073.0
+" Rajasthan",1583.0,1424.0,"NA","NA",1583.0,1424.0,31.0,17.0,4559.0,4338.0,73.0,71.0,6245.0,5850.0
+" Sikkim* ",2.0,"NA","NA","NA",2.0,"NA","NA","NA","NA","NA",14.0,14.0,14.0,14.0
+" Tamil Nadu",765.0,757.0,1.0,"NA",766.0,757.0,540.0,503.0,1614.0,1594.0,11.0,9.0,2931.0,2864.0
+" Tripura* ",9.0,9.0,"NA","NA",9.0,9.0,2.0,2.0,8.0,8.0,40.0,40.0,58.0,58.0
+" Uttarakhand",93.0,80.0,3.0,4.0,95.0,84.0,1.0,"NA",214.0,228.0,30.0,26.0,340.0,338.0
+" Uttar Pradesh",2667.0,2671.0,"NA","NA",2667.0,2671.0,125.0,125.0,10599.0,10617.0,45.0,45.0,13435.0,13457.0
+" West Bengal *","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",3135.0,3112.0,3135.0,3112.0
+" A. & N. Islands","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Chandhigarh* ","NA","NA","NA","NA","NA","NA","NA","NA",1.0,1.0,"NA","NA",1.0,1.0
+" D. & N. Haveli ",1.0,1.0,"NA","NA",1.0,1.0,"NA","NA",1.0,1.0,2.0,2.0,4.0,4.0
+" Daman and Diu","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Delhi",2.0,2.0,"NA","NA",2.0,2.0,"NA","NA",20.0,20.0,"NA","NA",23.0,22.0
+" Lakshadweep","NA","NA","NA","NA","NA","NA","NA","NA",1.0,1.0,"NA","NA",1.0,1.0
+" Puducherry",6.0,6.0,"NA","NA",6.0,6.0,"NA","NA",10.0,10.0,"NA","NA",16.0,16.0

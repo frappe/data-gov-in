@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2000-01 to 2010-11) of Consumption Of Petroleum Products (in million tonnes) like LPG, petrol, naptha, kerosene, ATF, HSDo, LDO, fuel oils, lubricants, bitumen, petroleum coke, refinery fuel and others.", 
+ "file_name": "CONSUMPTION_OF_PETROLEUM_PRODUCTS_2.xls", 
+ "title": "Consumption Of Petroleum Products ", 
+ "url": "http://data.gov.in/sites/default/files/CONSUMPTION_OF_PETROLEUM_PRODUCTS_2.xls"
+}
+-----
 "Year ","Light Distillates - Liquified Petroleum Gas","Light Distillates - Petrol","Light Distillates - Naphtha","Middle Distillates - Kerosene","Middle Distillates - Aviation Turbine Fuel","Middle Distillates - High Speed Diesel Oil","Middle Distillates - Light Diesel Oil","Heavy Ends - Fuel Oils","Heavy Ends - Lubricants","Heavy Ends - Bitumen","Heavy Ends - Petroleum Coke","Refinery Fuel","Others*","Total"
 "2000-01",7.016,6.613,11.673,11.307,2.249,37.958,1.399,12.653,1.115,2.774,0.448,6.9,4.869,106.974
 "2001-02 ",7.73,7.01,11.73,10.43,2.26,36.55,1.59,12.98,1.14,2.58,1.8,7.27,4.64,107.71

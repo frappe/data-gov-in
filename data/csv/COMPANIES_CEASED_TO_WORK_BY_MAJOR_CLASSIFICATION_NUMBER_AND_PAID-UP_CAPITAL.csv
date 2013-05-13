@@ -1,0 +1,44 @@
+-----
+{
+ "description": "This data provides State-wise number and paid-up capital of Public Companies and Private Companies ceased to work as on 31st March from 2009 to 2010.", 
+ "file_name": "COMPANIES_CEASED_TO_WORK_BY_MAJOR_CLASSIFICATION_NUMBER_AND_PAID-UP_CAPITAL.xls", 
+ "title": "State-wise Number And Paid-up Capital of Public Companies and Private Companies Ceased To Work As On 31st March From 2009 To 2010 ", 
+ "url": "http://data.gov.in/sites/default/files/COMPANIES_CEASED_TO_WORK_BY_MAJOR_CLASSIFICATION_NUMBER_AND_PAID-UP_CAPITAL.xls"
+}
+-----
+"State/U.T./","Public No.-2009","Public-Paid-up capital-2009","Public No.-2010","Paid-up capital-2010","Private No.-2009","Private Paid-up capital-2009","Private No.-2009","Private Paid-up capital-2009","Total No.","Paid-up capital","Total No.","Paid-up capital"
+"Andhra Pradesh","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Arunachal Pradesh","NA","NA",1.0,"NA","NA","NA",3.0,0.54,"NA","NA",4.0,0.54
+"Assam","NA","NA",1.0,0.05,1.0,0.01,38.0,0.58,1.0,0.01,39.0,0.63
+"Bihar",7.0,0.02,42.0,1.07,19.0,0.55,205.0,4.92,26.0,0.57,247.0,5.99
+"Chhatisgarh","NA","NA",4.0,0.39,"NA","NA",88.0,2.02,"NA","NA",92.0,2.41
+"Goa",1.0,"NA",1.0,0.05,2.0,0.2,11.0,0.17,3.0,0.2,12.0,0.22
+"Gujarat","NA","NA",7.0,1.78,3.0,0.55,418.0,5.18,3.0,0.55,425.0,6.96
+"Haryana",5.0,"NA",5.0,0.04,19.0,0.12,48.0,0.39,24.0,0.12,53.0,0.43
+"Himachal Pradesh",10.0,1.08,17.0,1.63,31.0,0.72,100.0,2.89,41.0,1.8,117.0,4.52
+"Jammu & Kashmir","NA","NA",2.0,"NA","NA","NA",47.0,0.48,"NA","NA",49.0,0.48
+"Jharkhand",1.0,"NA",5.0,1.04,5.0,0.03,118.0,3.78,6.0,0.03,123.0,4.82
+"Karnataka",8.0,1.23,10.0,4.8,92.0,3.96,1214.0,14.27,100.0,5.19,1224.0,19.07
+"Kerala",5.0,0.28,132.0,13.79,191.0,4.26,1263.0,32.57,196.0,4.54,1395.0,46.36
+"Madhya Pradesh","NA","NA",16.0,4.02,"NA","NA",278.0,4.33,"NA","NA",294.0,8.35
+"Maharashtra ",8.0,"NA",284.0,23.67,6988.0,11.05,5504.0,127.39,6996.0,11.05,5788.0,151.06
+"Manipur","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Meghalaya","NA","NA","NA","NA","NA","NA",2.0,0.01,"NA","NA",2.0,0.01
+"Mizoram","NA","NA","NA","NA","NA","NA",2.0,0.02,"NA","NA",2.0,0.02
+"Nagaland","NA","NA","NA","NA","NA","NA",4.0,0.04,"NA","NA",4.0,0.04
+"Orissa",12.0,0.6,37.0,1.05,108.0,1.57,594.0,14.08,120.0,2.17,631.0,15.13
+"Punjab",84.0,22.16,63.0,7.18,234.0,17.71,630.0,24.57,318.0,39.87,693.0,31.75
+"Rajasthan",48.0,1.69,54.0,2.31,406.0,3.52,844.0,13.5,454.0,5.21,898.0,15.81
+"Sikkim","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Tamil Nadu",104.0,3.72,180.0,30.71,638.0,5.27,515.0,17.22,742.0,8.99,695.0,47.93
+"Tripura","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Uttar Pradesh",7.0,6.41,554.0,2.01,35.0,3.8,2661.0,6.72,42.0,10.21,3215.0,8.73
+"Uttrakhand","NA","NA",38.0,0.88,4.0,0.81,206.0,0.24,4.0,0.81,244.0,1.12
+"West Bengal",656.0,47.26,298.0,263.26,2890.0,460.04,2388.0,1342.97,3546.0,507.3,2686.0,1606.23
+"A. & N. Islands","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Chandigarh",67.0,3.53,36.0,24.87,127.0,3.1,358.0,11.71,194.0,6.63,394.0,36.58
+"D. & N. Haveli","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Delhi",7.0,2.18,93.0,9.57,66.0,0.95,593.0,12.26,73.0,3.13,686.0,21.83
+"Daman & Diu","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Lakshadweep","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Puducherry","NA","NA",1.0,0.1,1.0,0.01,36.0,1.82,1.0,0.01,37.0,1.92

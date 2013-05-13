@@ -1,0 +1,15 @@
+-----
+{
+ "description": "Data provide all India (2001, 2002, 2004, 2006, 2008 and 2009) and state-wise (2009) details on the number of elected representatives of Panchayati Raj institutions.", 
+ "file_name": "NUMBER_OF_ELECTED_REPRESENTATIVES_OF_PANCHAYATI_RAJ_INSTITUTIONS.xls", 
+ "title": "Number of Elected Representatives of Panchayati Raj Institutions ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_ELECTED_REPRESENTATIVES_OF_PANCHAYATI_RAJ_INSTITUTIONS.xls"
+}
+-----
+"Year","Gram Panchayat(GP)- Total","Gram Panchayat(GP)- SC","Gram Panchayat(GP)- ST","Gram Panchayat(GP)- Women","Intermediate Panchayat(IP)- Total","Intermediate Panchayat(IP)- SC","Intermediate Panchayat(IP)- ST","Intermediate Panchayat(IP)- Women","District Panchayat(DP)- Total","District Panchayat(DP)- SC","District Panchayat(DP)- ST","District Panchayat(DP)- Women"
+2001.0,2739666.0,371868.0,258998.0,685155.0,140200.0,18517.0,7252.0,"NA",14617.0,1830.0,1197.0,3460.0
+2002.0,1630327.0,238437.0,231984.0,548794.0,72156.0,12495.0,8302.0,23596.0,10927.0,1690.0,1368.0,3605.0
+2004.0,2065882.0,346002.0,233765.0,838227.0,109324.0,22333.0,8210.0,47455.0,11708.0,2201.0,1322.0,4923.0
+2006.0,2656476.0,490986.0,314324.0,975116.0,156609.0,32898.0,11340.0,58094.0,15694.0,2734.0,1649.0,5779.0
+2008.0,2645883.0,485825.0,304350.0,975057.0,156794.0,32968.0,11406.0,58191.0,15613.0,2729.0,1723.0,5810.0
+"2009*",2645880.0,478808.0,304345.0,974255.0,156557.0,32690.0,11364.0,58012.0,15581.0,2690.0,1716.0,5778.0

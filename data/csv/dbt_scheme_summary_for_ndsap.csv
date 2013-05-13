@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Scheme-wise data pertaining to Direct Benefit Transfer (DBT) for 08 Departments and 43 districts Month-wise data provides list of beneficiaries, total no. of beneficiaries with bank account, no. of beneficiaries with Aadhaar no. and bank account and no. of beneficiaries seeded with aadhaar nos.", 
+ "file_name": "dbt_scheme_summary_for_ndsap.xls", 
+ "title": "Scheme-wise data pertaining to Direct Benefit Transfer (DBT) for 08 Departments and 43 districts Month-wise ", 
+ "url": "http://data.gov.in/sites/default/files/dbt_scheme_summary_for_ndsap.xls"
+}
+-----
 "Periodicity - ending Month & Year","Scheme_No.","Ministry_Department_Name","Name of the Scheme","Total No. of beneficiaries","Total no. of beneficiaries with bank account","Total no. of beneficiaries with Aadhaar no. and bank account","Total no. of beneficiaries with bank account and databases seeded with Aadhar no."
 41275.0,1.0,"Social Justice and Empowerment","Post-Matric Scholarship for SC Students",167499.0,130585.0,90599.0,"NA"
 41275.0,2.0,"Social Justice and Empowerment","Pre-Matric Scholarship for SC Students",54840.0,17885.0,28578.0,"NA"

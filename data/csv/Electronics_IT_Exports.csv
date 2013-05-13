@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The Export Data of Electronics and IT Sector is provided in this dataset. The data is collected from Electronic and Information Technology  Annual Report 2011-12.", 
+ "file_name": "Electronics_IT_Exports.csv", 
+ "title": "Electronics and IT Exports ", 
+ "url": "http://data.gov.in/sites/default/files/Electronics_IT_Exports.csv"
+}
+-----
 Item,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-11,2011-12 (Estimated),,,,,,,,,,,,,,,,,
 Consumer Electronics    ,648,700,750,825,1150,2000,1500,1600,2600,3000,1400,NA,,,,,,,,,,,,,,,,,
 Industrial Electronics ,500,950,1400,1515,1500,2300,3000,3885,4200,3500,4500,NA,,,,,,,,,,,,,,,,,

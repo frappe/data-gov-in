@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table shows state-wise data on renewable energy systems such as biogas plants, biomass gasifiers, solar photovolatic systems, SVP pumps, water pumping wind mills, solar cookers in rural and industrial areas.", 
+ "file_name": "Decentralised_Off-grid_Renewable_Energy_Systems_Devices.xls", 
+ "title": "Decentralised / Off-grid Renewable Energy Systems / Devices ", 
+ "url": "http://data.gov.in/sites/default/files/Decentralised_Off-grid_Renewable_Energy_Systems_Devices.xls"
+}
+-----
 "STATES / UT","Biogas Plants  31.03.2010 (Nos.)","Biogas Plants  31.03.2011 (Nos.)","Biomass Gasifiers (rural) 31.03.2010 (kW)","Biomass Gasifiers (rural) 31.03.2011 (kW)","Biomass Gasifiers (industrial) 31.03.2010 (kW)","Biomass Gasifiers (industrial) 31.03.2011 (kW)","Waste to Energy  31.03.2010 (MW)","Waste to Energy  31.03.2011 (MW)","Solar Photovoltaic (SPV) Systems   SLS 31.03.2010 (Nos.)","Solar Photovoltaic (SPV) Systems   SLS 31.03.2011 (Nos.)","Solar Photovoltaic (SPV) Systems   HLS 31.03.2010 (Nos.)","Solar Photovoltaic (SPV) Systems   HLS 31.03.2011 (Nos.)","Solar Photovoltaic (SPV) Systems   SL 31.03.2010 (Nos.)","Solar Photovoltaic (SPV) Systems   SL 31.03.2011 (Nos.)","Solar Photovoltaic (SPV) Systems   PP 31.03.2010 (kWp)","Solar Photovoltaic (SPV) Systems   PP 31.03.2011 (kWp)","SPV Pumps  31.03.2010 (Nos)","SPV Pumps  31.03.2011 (Nos)","Waterpumping Windmills  31.03.2010 (Nos)","Waterpumping Windmills  31.03.2011 (Nos)","Aerogen/hybrid systems  31.03.2010 (kW)","Aerogen/hybrid systems  31.03.2011 (kW)","Solar Cooker  31.03.2010 (Nos)","Solar Cooker  31.03.2011 (Nos)","Remote Village Electrificatgion Village 31.03.2010 (Nos)","Remote Village Electrificatgion Village 31.03.2011 (Nos)","Remote Village Electrificatgion Hamlet 31.03.2010 (Nos)","Remote Village Electrificatgion Hamlet 31.03.2011 (Nos)"
 "Andhra Pradesh",457938.0,474213.0,"NULL","NULL",16681.0,18114.0,4.95,6.55,35799.0,4186.0,1957.0,1958.0,3914.0,38215.0,213.3,493.04,613.0,613.0,6.0,6.0,16.0,16.0,13395.0,13395.0,"NULL",297.0,"NULL","NULL"
 "Arunachal Pradesh",2957.0,3132.0,1800.0,1800.0,"NULL","NULL","NULL","NULL",13937.0,1071.0,7120.0,10178.0,1071.0,13937.0,17.1,17.1,15.0,15.0,"NULL","NULL",6.8,6.8,530.0,530.0,246.0,"NULL","NULL",13.0

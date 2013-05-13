@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents the wages and earnings of mining labour in coal and non-coal mines. The data for coal mines relate to average weekly earning of miners and loaders in december each year whereas those for other mines relate to average weekly earning of miners and loaders for the quarter ending in...", 
+ "file_name": "WAGES_AND_EARNINGS_OF_MINING_LABOUR.xls", 
+ "title": "Wages And Earnings Of Mining Labour ", 
+ "url": "http://data.gov.in/sites/default/files/WAGES_AND_EARNINGS_OF_MINING_LABOUR.xls"
+}
+-----
 "Year","Mica - Andhra Pradesh","Mica - Bihar","Mica - Jharkhand","Manganese - Madhya Pradesh","Limestone - Madhya Pradesh","China Clay* - Jharkhand"
 2000.0,310.0,336.0,"435","392","888","338"
 2001.0,419.0,349.0,"426",1016.0,1044.0,392.0

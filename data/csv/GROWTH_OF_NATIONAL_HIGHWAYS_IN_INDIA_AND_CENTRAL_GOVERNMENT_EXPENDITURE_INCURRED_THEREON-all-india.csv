@@ -1,0 +1,21 @@
+-----
+{
+ "description": "This data provides all India (2000-01 to 2011-12) and state-wise (2010-11 to 2011-12) details on growth of National Highways and Central Government expenditure on development and maintenance of National Highways.", 
+ "file_name": "GROWTH_OF_NATIONAL_HIGHWAYS_IN_INDIA_AND_CENTRAL_GOVERNMENT_EXPENDITURE_INCURRED_THEREON.XLS", 
+ "title": "All India And State-wise Growth Of National Highways In India And Central Government Expenditure Incurred Thereon ", 
+ "url": "http://data.gov.in/sites/default/files/GROWTH_OF_NATIONAL_HIGHWAYS_IN_INDIA_AND_CENTRAL_GOVERNMENT_EXPENDITURE_INCURRED_THEREON.XLS"
+}
+-----
+"Year","Length of National highways (km.)","Expenditure on National highways- Development (Crore)","Expenditure on National highways- Maintenance (Crore)"
+"2000-01",57737.0,1211.0,63.49
+"2001-02",58112.0,1611.4,67.74
+"2002-03",58112.0,5144.8,639.1
+"2003-04",65569.0,5190.2,731.6
+"2004-05",65569.0,4963.5,679.0
+"2005-06",66590.0,8746.6,834.8
+"2006-07",66590.0,13942.6,779.4
+"2007-08",66754.0,11374.0,978.4
+"2008-09",70548.0,13868.1,965.9
+"2009-10",70934.0,13783.1,798.9
+"2010-11",70934.0,16868.8,1488.0
+"2011-12",76818.0,25287.03,1082.46

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives statistics on gross generation of electricity in utilities (Thermal, Hydro, Nuclear) and non-utilities.", 
+ "file_name": "GROSS_GENERATION_OF_ELECTRICITY_IN_UTILITIES_AND_NON-UTILITIES.xls", 
+ "title": "Gross Generation of Electricity in Utilities and Non-Utilities ", 
+ "url": "http://data.gov.in/sites/default/files/GROSS_GENERATION_OF_ELECTRICITY_IN_UTILITIES_AND_NON-UTILITIES.xls"
+}
+-----
 "Year","Thermal *","Hydro","Nuclear","Total","Non-utilities","Grand
 Total","% Share of generation 
 of electricity in utility to total electricity generation","% Annual growth electricity generation"

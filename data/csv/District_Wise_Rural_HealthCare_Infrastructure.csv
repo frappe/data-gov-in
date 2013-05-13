@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The number of state-wise and district-wise availability of Sub-Centres, Primary Health Centres, Community Health Centres, Sub Divisional Hospitals and District hospitals In India.", 
+ "file_name": "District_Wise_Rural_HealthCare_Infrastructure.csv", 
+ "title": "District-Wise Availability Of Health Centres In India as of March 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/District_Wise_Rural_HealthCare_Infrastructure.csv"
+}
+-----
 States/Union Territory,   Name of the District,Number of Sub Centres,Number of  Primary Health Centres,Number of Community Health Centres,Sub Divisional Hospital,District Hospital
 A & N Islands ,Nicobar,36,3,1,0,1
 A & N Islands ,North & Middle Andaman,41,7,2,0,1

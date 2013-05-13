@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives State-wise number of Allopathic Government Hospitals, Dispensaries and Beds (in ' 000) for 2010-11.", 
+ "file_name": "Number_of_Allopathic_Hospitals_Dispensaries_And_Beds.xls", 
+ "title": "Number of Allopathic Hospitals / Dispensaries And Beds ", 
+ "url": "http://data.gov.in/sites/default/files/Number_of_Allopathic_Hospitals_Dispensaries_And_Beds.xls"
+}
+-----
 "State/U.T.","Reference Period 2010","Reference Period 2011","Number of Government Hospitals 2010","Number of Government Hospitals 2011","Number of Doctors # 2010","Number of Doctors # 2011","Number of beds of Government Hospitals (in 000) 2010","Number of beds of Government Hospitals (in 000) 2011"
 "Andhra Pradesh","01.01.2011","01.01.2011",475.0,475.0,320.0,320.0,38.0,38.0
 "Arunachal Pradesh","01.01.2009","01.01.2009",161.0,161.0,62.0,80.0,2.218,2.218

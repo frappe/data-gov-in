@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives Employment In Insurance sector (Life insurance and General insurance) for the period 2001-01 to 2010-11.", 
+ "file_name": "EMPLOYMENT_IN_INSURANCE.xls", 
+ "title": "Employment In Insurance sector ", 
+ "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_INSURANCE.xls"
+}
+-----
 " Year","Life Insurance    ('000 number)","General  Insurance* ('000 number)","Total ('000 number)"
 " 2000-01",120.2,83.0,203.2
 " 2001-02",118.5,82.6,201.1

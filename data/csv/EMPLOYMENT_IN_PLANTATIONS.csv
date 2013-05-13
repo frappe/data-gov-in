@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives Employment (Number of estates and average daily number of workers) in Plantations (Tea, Coffee and Rubber) for the period 2000 to 2010.", 
+ "file_name": "EMPLOYMENT_IN_PLANTATIONS.xls", 
+ "title": "Employment In Plantations ", 
+ "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_PLANTATIONS.xls"
+}
+-----
 "Year","Tea - No. of Estates"," Tea - Average daily no. of workers","Coffee (1) - No. of Estates","Coffee (1) - Average daily no. of workers","Rubber(2) - No. of Estates","Rubber(2) - Average daily no. of workers","Total - No. of Estates","Total - Average daily no. of workers"," "
 " 2000",112010.0,1210055.0,156811.0,535156.0,991876.0,347700.0,1260697.0,2092911.0,""
 " 2001",116659.0,1232150.0,156811.0,551777.0,1004489.0,348700.0,1277959.0,2168627.0,""

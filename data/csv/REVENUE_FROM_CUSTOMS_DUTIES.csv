@@ -1,0 +1,14 @@
+-----
+{
+ "description": "Data provides details on revenue from customs duties (import duties, export duties, export cess duties and other receipts) from 2000-01 to 2011-12.", 
+ "file_name": "REVENUE_FROM_CUSTOMS_DUTIES.xls", 
+ "title": "Revenue From Customs Duties From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/REVENUE_FROM_CUSTOMS_DUTIES.xls"
+}
+-----
+"Commodity","2000-01","2001-02","2002-03","2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10*","2010-11","2011-12 (P)"
+"Import Duties",46569.0,39406.0,44137.0,48002.0,56745.0,64201.0,85440.0,100636.0,94580.0,80866.0,130109.0,139610.0
+"Export Duties",3.0,8.0,-12.0,0.0,0.0,0.0,286.0,1834.0,3183.0,1035.0,3140.0,6414.0
+"Export Cess Duties ",123.0,127.0,154.0,163.0,188.0,141.0,112.0,409.0,434.0,81.0,133.0,66.0
+"Other Receipts ",914.0,555.0,633.0,433.0,632.0,568.0,732.0,1268.0,1875.0,2533.0,3434.0,3783.0
+"Customs Revenue ",47616.0,40097.0,44912.0,48600.0,57565.0,64911.0,86569.0,104145.0,100072.0,84515.0,136817.0,149873.0

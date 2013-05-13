@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The list contain the names of Post offices having Philatelic Counter.  The name, Pincode of the Post office and the State in which the Post office is situated are available in the list.", 
+ "file_name": "Philatelic_counters11012013.csv", 
+ "title": "List of Post offices having Philatelic Counters ", 
+ "url": "http://data.gov.in/sites/default/files/Philatelic_counters11012013.csv"
+}
+-----
 officename,pincode,statename
 Adilabad H.O,504001,ANDHRA PRADESH
 Adoni H.O,518301,ANDHRA PRADESH

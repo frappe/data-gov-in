@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table provides the information of all under graduate colleges existing in the country as well as in States/ UTs as on 1.4.2012. There were only 24 states/ UTs imparting medical education at under graduate level. It also includes the admission capacity of colleges from respective states and the...", 
+ "file_name": "UG_Colleges_in_AYUSH.xls", 
+ "title": "State-wise distribution of Under Graduate AYUSH colleges and their admission capacity ", 
+ "url": "http://data.gov.in/sites/default/files/UG_Colleges_in_AYUSH.xls"
+}
+-----
 "S. No. ","State or Union Territory","No. of Colleges - Govt","Admission Capacity - Govt","No. of Colleges - Others","Admission Capacity - Others","Per College Average 
 admission capacity"
 1.0," Andhra Pradesh ",3.0,180.0,0.0,0.0,60.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table shows data upto 2006-07 projects sanctioned under drought prone area program and the second table shows state-wise (2009-10 to 2012-13) data on integrated watershed management programme (IWMP).", 
+ "file_name": "PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME.xls", 
+ "title": "Projects Sanctioned Under Drought Prone Desert Development And Integrated Watershed Management Programme ", 
+ "url": "http://data.gov.in/sites/default/files/PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME.xls"
+}
+-----
 "State","Drought Prone Area Programme- DPAP # (In number)","Desert Development Programme - DDP # (In number)"
 "Andhra Pradesh",4242.0,1054.0
 "Bihar (RWD)",543.0,"NA"

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table gives the number allopathic doctors and dental surgeons registered with state medical councils for 2010 and 2011 (only for 2010 for allopathic doctors).", 
+ "file_name": "Number_of_Registered_Allopathic_Doctors_And_Dental_Surgeons.xls", 
+ "title": "Number of Registered Allopathic Doctors And Dental Surgeons ", 
+ "url": "http://data.gov.in/sites/default/files/Number_of_Registered_Allopathic_Doctors_And_Dental_Surgeons.xls"
+}
+-----
 "State Medical Councils/ States/UTs","Allopathic Doctors (in '00) - 2010","Allopathic Doctors (in '00) - 2011","Dental Surgeons - 2010","Dental Surgeons - 2011"
 "Andhra Pradesh",623.0,"NULL",6510.0,6510.0
 "Arunachal Pradesh",2.53,"NULL","NULL","NULL"

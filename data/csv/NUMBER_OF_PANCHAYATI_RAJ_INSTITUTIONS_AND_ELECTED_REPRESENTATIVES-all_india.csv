@@ -1,0 +1,15 @@
+-----
+{
+ "description": "Data provide all India (2001, 2002, 2004, 2006. 2008 and 2009) and state-wise (2009) details on the number of Panchayati Raj institutions and elected representatives.", 
+ "file_name": "NUMBER_OF_PANCHAYATI_RAJ_INSTITUTIONS_AND_ELECTED_REPRESENTATIVES.xls", 
+ "title": "Number of Panchayati Raj Institutions And Elected Representatives ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_PANCHAYATI_RAJ_INSTITUTIONS_AND_ELECTED_REPRESENTATIVES.xls"
+}
+-----
+"Year","Village Panchayats - Number","Village Panchayats-Elected Representatives","Intermediate Panchayats - Number","Intermediate Panchayats - Elected Representatives","District Panchayats -  Number","District Panchayats - Elected Representatives"
+2001.0,227590.0,2739666.0,5906.0,147701.0,474.0,15389.0
+2002.0,234251.0,1630327.0,6007.0,72156.0,534.0,10927.0
+2004.0,234676.0,2073715.0,6097.0,110070.0,537.0,11825.0
+2006.0,233251.0,2657112.0,6105.0,157175.0,539.0,15459.0
+2008.0,232855.0,2645883.0,6094.0,156794.0,633.0,15613.0
+"2009*",232855.0,2645880.0,6094.0,156557.0,633.0,15581.0

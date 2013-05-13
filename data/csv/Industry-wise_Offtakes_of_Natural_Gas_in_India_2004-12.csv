@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of Industry-wise and year-wise offtakes of natural gas during 2004-05 to 2011-12 in India.", 
+ "file_name": "Industry-wise_Offtakes_of_Natural_Gas_in_India_2004-12.xls", 
+ "title": "Industry-wise Offtakes of Natural Gas in India: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Industry-wise_Offtakes_of_Natural_Gas_in_India_2004-12.xls"
+}
+-----
 "Energy/Non-Energy","Industry","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12*"
 "Energy Purposes","Power Generation",12099.0,11878.0,11963.0,12037.0,12603.0,21365.0,27415.0,20333.0
 "Energy Purposes","Industrial Fuel",3569.0,3780.0,3205.0,3323.0,5912.0,2322.0,2317.0,1618.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents number of AYUSH doctors in the country as well as in States/ UTs as on 1.1.2012. The table has been prepared based on the information received from state/UT boards/councils of Indian Systems of Medicine and Homoeopathy (ISM&H).", 
+ "file_name": "State-wise_and_Sex-wise_registered_practitioners_in_India.xls", 
+ "title": "State-wise and Sex-wise AYUSH (Ayurveda, Naturopathy, Unani, Siddha and Homoeopathy) registered practitioners (Doctors)  ", 
+ "url": "http://data.gov.in/sites/default/files/State-wise_and_Sex-wise_registered_practitioners_in_India.xls"
+}
+-----
 "S.No.","State  or UT","Ayurveda - Male","Ayurveda-Female","Unani -Male","Unani -Female","Siddha -Male","Siddha -Female"," Naturopathy -Male"," Naturopathy -Female","Homoeopathy -Male","Homoeopathy -Female"
 1.0," Andhra Pradesh ",9836.0,1559.0,3103.0,1672.0,0.0,0.0,185.0,168.0,3450.0,1986.0
 2.0," Arunachal Pradesh  ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,102.0,70.0

@@ -1,0 +1,58 @@
+-----
+{
+ "description": "This data provides commodity head-wise index numbers of exports of the unit values and of quantum of exports from 2000-01 to 2011-12.", 
+ "file_name": "INDEX_NUMBERS_OF_EXPORTS_OF_THE_UNIT_VALUES_AND_OF_QUANTUM_OF_EXPORTS_1.xls", 
+ "title": "Index Numbers Of Exports Of The Unit Values And Of Quantum Of Exports From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/INDEX_NUMBERS_OF_EXPORTS_OF_THE_UNIT_VALUES_AND_OF_QUANTUM_OF_EXPORTS_1.xls"
+}
+-----
+"Commodity Heads","2000-01","  2001-02","  2002-03","2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Food and Live Animals",107.0,113.0,134.0,129.0,133.0,144.0,157.0,195.0,183.0,157.0,198.0,269.0
+"Meat and Meat Preparations",160.0,131.0,162.0,198.0,184.0,243.0,262.0,262.0,272.0,299.0,404.0,537.0
+"Fish, Crustaceans, Molluscs and Aquatic Invertebrates and preparations Thereof",107.0,98.0,117.0,103.0,112.0,124.0,120.0,95.0,89.0,114.0,130.0,159.0
+" Cereals and cereal  preparations",113.0,145.0,242.0,208.0,223.0,169.0,172.0,263.0,200.0,194.0,225.0,416.0
+"Vegetables and fruit & Nuts",99.0,92.0,103.0,101.0,112.0,138.0,141.0,133.0,158.0,147.0,135.0,159.0
+"Coffee, Tea, Cocoa, Spices,  & Manufactrues Thereof",97.0,85.0,84.0,81.0,84.0,81.0,97.0,112.0,118.0,112.0,136.0,173.0
+"Oilseed Cake (Feeding Stuff for Animals)",126.0,142.0,89.0,173.0,168.0,265.0,270.0,392.0,408.0,265.0,416.0,428.0
+"Beverages and Tobacco",85.0,78.0,98.0,108.0,119.0,127.0,137.0,153.0,185.0,189.0,189.0,191.0
+"Tobacco  and Tobacco Manufactures",81.0,74.0,93.0,103.0,110.0,117.0,131.0,145.0,177.0,186.0,179.0,177.0
+"Crude Materials,Inedible, except Fuels",123.0,130.0,191.0,208.0,318.0,347.0,246.0,229.0,199.0,241.0,210.0,218.0
+"Taxtile Fibres & Their Wastes",143.0,77.0,118.0,363.0,243.0,790.0,1477.0,1905.0,838.0,2028.0,2697.0,2913.0
+"Minerals (Exc coal, Petroleum, Crude fertiliser, Sulphur & Precious Stones)",124.0,133.0,148.0,154.0,213.0,207.0,240.0,238.0,324.0,288.0,314.0,349.0
+"Metalliferous Ores & Metal Scrap",126.0,158.0,338.0,301.0,620.0,601.0,467.0,355.0,266.0,306.0,177.0,147.0
+"Crude Animal & Vegetable Materials",98.0,101.0,110.0,117.0,122.0,134.0,138.0,138.0,142.0,133.0,222.0,309.0
+"Mineral Fuels, Lubricants,& Related Materials",1856.0,1912.0,1950.0,2457.0,3489.0,4257.0,5960.0,7688.0,7919.0,9820.0,12962.0,13480.0
+"Coal, Coke & Briquettes",119.0,176.0,132.0,148.0,164.0,177.0,138.0,159.0,568.0,227.0,774.0,503.0
+"Petroleum, Petroleum Products & Related Materials",100.0,122.0,126.0,160.0,229.0,279.0,391.0,504.0,509.0,636.0,833.0,875.0
+"Gas, Natural & Manufactured",100.0,100.0,100.0,93.0,205.0,484.0,368.0,280.0,353.0,272.0,408.0,449.0
+"Animal and Vegetable Oils, Fats & Waxes ",97.0,76.0,61.0,63.0,100.0,83.0,97.0,134.0,133.0,145.0,152.0,179.0
+"Fixed Vegetable Fats & Oils, Crude, Refined or Fractionated",94.0,74.0,51.0,54.0,96.0,82.0,93.0,125.0,126.0,140.0,148.0,173.0
+"Chemicals & Related Products",125.0,135.0,173.0,190.0,220.0,244.0,290.0,299.0,362.0,329.0,385.0,370.0
+"Organic Chemicals",101.0,98.0,128.0,150.0,180.0,218.0,246.0,273.0,330.0,224.0,278.0,300.0
+"Dyeing, Tanning & Colouring Materials",123.0,129.0,157.0,170.0,168.0,207.0,226.0,269.0,256.0,310.0,344.0,368.0
+"Medicinal & Pharmaceutical Products",140.0,160.0,222.0,235.0,282.0,302.0,405.0,441.0,609.0,664.0,764.0,596.0
+"Plastics in Primary & Non-Primary form",205.0,242.0,312.0,415.0,523.0,476.0,614.0,534.0,459.0,588.0,764.0,856.0
+"Insecticides, rodenticides, Fungicides, Herbicides",121.0,131.0,149.0,173.0,202.0,244.0,281.0,149.0,"..",168.0,173.0,192.0
+"Starches, Inulin & Wheat gluten, albuminoidal substances, glues",176.0,167.0,180.0,194.0,204.0,243.0,258.0,439.0,373.0,358.0,390.0,355.0
+"Manufactured Goods Classified Chiefly By Material",117.0,116.0,145.0,142.0,153.0,168.0,173.0,185.0,204.0,204.0,257.0,226.0
+"Leather, Leather Manufactures & Dressed Furskins",172.0,174.0,181.0,116.0,129.0,139.0,153.0,185.0,174.0,193.0,245.0,279.0
+"Textile yearn, Fabrics, Made-Up Articles & Related Products",122.0,116.0,135.0,150.0,149.0,167.0,184.0,180.0,189.0,181.0,217.0,234.0
+"Pearls & Precious Or Sempirecious Stones, Unworked or  Worked",100.0,102.0,109.0,121.0,134.0,147.0,112.0,142.0,170.0,197.0,232.0,158.0
+"Iron & Steel",123.0,116.0,211.0,243.0,289.0,295.0,384.0,380.0,399.0,303.0,494.0,529.0
+"Tools for use in the hand or in machines",133.0,128.0,136.0,162.0,162.0,211.0,209.0,171.0,185.0,159.0,224.0,354.0
+"Machinery & transport Equipment",148.0,164.0,174.0,219.0,258.0,348.0,414.0,451.0,586.0,463.0,639.0,818.0
+"Power-Generating Machinery & Equipment",143.0,149.0,155.0,184.0,302.0,353.0,378.0,480.0,398.0,342.0,339.0,509.0
+"Machinery Specialized for Particular Industries",157.0,179.0,215.0,327.0,399.0,527.0,632.0,695.0,883.0,874.0,1058.0,1301.0
+"Metalworking Machinery",150.0,168.0,225.0,315.0,337.0,421.0,484.0,557.0,836.0,301.0,322.0,332.0
+"General Industrial Machinery & Equipment & machine Parts",135.0,144.0,176.0,239.0,277.0,379.0,485.0,548.0,553.0,470.0,611.0,813.0
+"Office Machines & Automatic Data Processing Machines",204.0,273.0,205.0,254.0,239.0,275.0,275.0,264.0,351.0,432.0,557.0,724.0
+"Telecommunications & Sound recording &  Reproducing Apparatus & Equipment",121.0,146.0,171.0,280.0,294.0,356.0,431.0,349.0,2373.0,1542.0,2390.0,2916.0
+"Electrical Machinery, Appartus & Appliances, and Electrical Parts Thereof",150.0,174.0,176.0,206.0,237.0,303.0,370.0,363.0,534.0,470.0,611.0,446.0
+"Road Vehicles & Parts & Accessories",144.0,144.0,163.0,215.0,258.0,335.0,412.0,408.0,481.0,500.0,730.0,905.0
+"Other Transport Equipment",115.0,145.0,222.0,213.0,345.0,987.0,1194.0,2281.0,3764.0,2635.0,4717.0,6887.0
+"Miscellaneous Manufactured Articles",123.0,114.0,129.0,154.0,146.0,172.0,224.0,215.0,247.0,245.0,196.0,229.0
+"Travel Goods, Handbags & Similar Containers",119.0,112.0,115.0,141.0,147.0,148.0,147.0,146.0,158.0,142.0,165.0,205.0
+"Articles of Apparel and Clothing Accessories",123.0,108.0,124.0,129.0,120.0,155.0,157.0,152.0,167.0,162.0,170.0,141.0
+"Footwear",108.0,107.0,101.0,110.0,118.0,136.0,155.0,174.0,184.0,190.0,222.0,229.0
+"Miscellaneous Manufactured Articles",131.0,143.0,160.0,246.0,246.0,248.0,308.0,271.0,352.0,352.0,296.0,488.0
+"General Index",125.0,126.0,150.0,161.0,179.0,206.0,227.0,245.0,267.0,264.0,304.0,331.0

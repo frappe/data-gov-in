@@ -1,3 +1,11 @@
+-----
+{
+ "description": "More than 1 Lakh Community Service Centers(CSC) with Broadband Connectivity are envisaged. These are last mile kiosk for providing e-services to citizens. The CSCs have been established in PPP mode where Service Center Agencies(SCA) have been selected to run the kiosk. District Wise CSC Roll out...", 
+ "file_name": "District_wise_CSC_rollout_and_connectivity.csv", 
+ "title": "District Wise Community Service Centers(CSC) Roll out and Connectivity ", 
+ "url": "http://data.gov.in/sites/default/files/District_wise_CSC_rollout_and_connectivity.csv"
+}
+-----
  State , Service Centre Agency, Divisions / Zones , Name of Districts  , Total CSCs to be set up , Roll Out as on 30th Sept 2012 , CSCs Connected  , BSNL, VSAT, Data Card, Others
 Andaman & Nicobar,Calance / Hughes,Andaman & Nicobar,Andaman,29,10,10,8,0,2,0
 Andaman & Nicobar,Calance / Hughes,Andaman & Nicobar,Nicobar,16,0,0,0,0,0,0

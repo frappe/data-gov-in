@@ -1,0 +1,44 @@
+-----
+{
+ "description": "Data provides details on registration of new government companies limited by shares during 2011-12 (region / state-wise distribution). This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956 for year ended 31st March, 2012. Report has been published...", 
+ "file_name": "Registration_of_New_Govt_Companies_Ltd_by_Shares_During_2011-12_Region_State_Wise.xls", 
+ "title": "Registration of New Government Companies Limited By Shares During 2011-12 - Region / State-wise Distribution ", 
+ "url": "http://data.gov.in/sites/default/files/Registration_of_New_Govt_Companies_Ltd_by_Shares_During_2011-12_Region_State_Wise.xls"
+}
+-----
+"Region","State","No. of Companies - Public","No. of Companies - Private","No. of Companies - Total","Authorised Capital - Public","Authorised Capital - Private","Authorised Capital - Total"
+"NORTHERN REGION","HARYANA",1.0,0.0,1.0,100.0,0.0,100.0
+"NORTHERN REGION","HIMACHAL PRADESH",0.0,0.0,0.0,0.0,0.0,0.0
+"NORTHERN REGION","JAMMU & KASHMIR",0.0,0.0,0.0,0.0,0.0,0.0
+"NORTHERN REGION","PUNJAB",1.0,0.0,1.0,5.0,0.0,5.0
+"NORTHERN REGION","RAJASTHAN",3.0,0.0,3.0,10.05,0.0,10.05
+"NORTHERN REGION","UTTAR PRADESH",0.0,1.0,1.0,0.0,0.1,0.1
+"NORTHERN REGION","UTTRAKHAND",0.0,0.0,0.0,0.0,0.0,0.0
+"NORTHERN REGION","CHANDIGARH",0.0,0.0,0.0,0.0,0.0,0.0
+"NORTHERN REGION","DELHI",11.0,5.0,16.0,3101.45,1.22,3102.67
+"EASTERN REGION","ARUNACHAL PRADESH",0.0,0.0,0.0,0.0,0.0,0.0
+"EASTERN REGION","ASSAM",0.0,0.0,0.0,0.0,0.0,0.0
+"EASTERN REGION","BIHAR",0.0,1.0,1.0,0.0,0.05,0.05
+"EASTERN REGION","JHARKHAND",1.0,1.0,2.0,0.05,25.0,25.05
+"EASTERN REGION","MANIPUR",0.0,0.0,0.0,0.0,0.0,0.0
+"EASTERN REGION","MEGHALAYA",0.0,0.0,0.0,0.0,0.0,0.0
+"EASTERN REGION","MIZORAM",1.0,0.0,1.0,25.0,0.0,25.0
+"EASTERN REGION","NAGALAND",0.0,0.0,0.0,0.0,0.0,0.0
+"EASTERN REGION","ORISSA",2.0,0.0,2.0,10.05,0.0,10.05
+"EASTERN REGION","TRIPURA",0.0,0.0,0.0,0.0,0.0,0.0
+"EASTERN REGION","WEST BENGAL",1.0,0.0,1.0,5.0,0.0,5.0
+"WESTERN REGION","CHHATISGARH",2.0,0.0,2.0,2.05,0.0,2.05
+"WESTERN REGION","GUJARAT",5.0,1.0,6.0,300.2,50.0,350.2
+"WESTERN REGION","MADHYA PRADESH",3.0,0.0,3.0,50.1,0.0,50.1
+"WESTERN REGION","MAHARASHTRA",2.0,0.0,2.0,11.0,0.0,11.0
+"WESTERN REGION","DADRA & N HAVELI",0.0,0.0,0.0,0.0,0.0,0.0
+"WESTERN REGION","DAMAN & DIU",0.0,0.0,0.0,0.0,0.0,0.0
+"WESTERN REGION","GOA",1.0,0.0,1.0,5.0,0.0,5.0
+"SOUTHERN REGION","A & N ISLAND",0.0,0.0,0.0,0.0,0.0,0.0
+"SOUTHERN REGION","ANDHRA PRADESH",1.0,0.0,1.0,2.5,0.0,2.5
+"SOUTHERN REGION","KARNATAKA",1.0,0.0,1.0,0.1,0.0,0.1
+"SOUTHERN REGION","KERALA",3.0,3.0,6.0,2015.0,30.6,2045.6
+"SOUTHERN REGION","TAMIL NADU",1.0,0.0,1.0,0.05,0.0,0.05
+"SOUTHERN REGION","PUDUCHERRY",0.0,0.0,0.0,0.0,0.0,0.0
+"SOUTHERN REGION","LAKSHDWEEP",0.0,0.0,0.0,0.0,0.0,0.0
+"Grand Total","Grand Total",40.0,12.0,52.0,5642.6,106.97,5749.57

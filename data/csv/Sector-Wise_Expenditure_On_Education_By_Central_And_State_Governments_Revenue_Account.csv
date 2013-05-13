@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents sector-wise expenditure on education by Central and State governments from 1985-86 to 2005-06. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD.", 
+ "file_name": "Sector-Wise_Expenditure_On_Education_By_Central_And_State_Governments_Revenue_Account.xls", 
+ "title": "Sector-Wise Expenditure on Education By Central And State Governments (Revenue Account) ", 
+ "url": "http://data.gov.in/sites/default/files/Sector-Wise_Expenditure_On_Education_By_Central_And_State_Governments_Revenue_Account.xls"
+}
+-----
 "Sl. No.","Sector","1985-86+","1990-91","1995-96","1998-99","1999-00","2000-01","2001-02","2002-03","2003-04","2004-05","2005-06"
 1.0,"Elementary Education",3310.01,7955.53,15217.76,25114.68,27905.1,29758.13,32493.85,33474.33,36365.97,41874.17,50181.99
 2.0,"Secondary Education",2349.36,5531.11,10344.07,16721.54,20844.76,19743.17,20431.3,22049.21,23349.72,25110.62,27804.63

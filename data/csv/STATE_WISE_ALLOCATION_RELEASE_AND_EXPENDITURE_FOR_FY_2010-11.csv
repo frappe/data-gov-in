@@ -1,0 +1,48 @@
+-----
+{
+ "description": "This data provides state-wise allocation, release and expenditure of National Rural Drinking Water Programme (NRDWP) fund all over India for 2010-11.", 
+ "file_name": "STATE_WISE_ALLOCATION_RELEASE_AND_EXPENDITURE_FOR_FY_2010-11.xls", 
+ "title": "State-wise Allocation / Release And Expenditure of NRDWP Fund: 2010-2011 ", 
+ "url": "http://data.gov.in/sites/default/files/STATE_WISE_ALLOCATION_RELEASE_AND_EXPENDITURE_FOR_FY_2010-11.xls"
+}
+-----
+"S.No.","State","Latest Reported Month Programme / Support","Opening Balance (Central)(01/04/2010)","Allocation Total (Rs. in Crores)
+[Allocation Central + Allocation State]","Allocation Central (Rs. in Crores)","Allocation State (Rs. in Crores)","Release Total (Rs. in Crores)
+[Release Central + Release State]","Release Central (Rs. in Crores)","Release State (Rs. in Crores)","Expenditure Total (Rs. in Crores)
+[Expenditure Central + Expenditure State]","Expenditure Central (Rs. in Crores)","%age against the Central Fund [ Expenditure Central /(Opening Balance Central + Release Central] * 100","Expenditure State (Rs. in Crores)","Other Deposits / Recoveries"
+1.0,"ANDHRA PRADESH","March / March",149.79,1340.26,491.02,849.24,931.28,558.78,372.5,790.06,423.38,59.75,366.68,0.0
+2.0,"BIHAR","March / March",578.1,614.37,341.46,272.91,348.6,170.73,177.87,548.53,425.91,56.88,122.62,0.0
+3.0,"CHATTISGARH","March / March",56.36,257.07,130.27,126.8,246.28,122.01,124.27,191.41,97.77,54.81,93.64,0.0
+4.0,"GOA","February / February",3.08,6.5,5.34,1.16,1.16,0.0,1.16,2.32,1.16,37.64,1.16,0.0
+5.0,"GUJARAT","March / March",70.1,2097.67,542.67,1555.0,2159.1,609.1,1550.0,2018.36,527.29,77.63,1491.06,0.0
+6.0,"HARYANA","March / March",75.62,512.62,233.69,278.93,523.39,276.9,246.49,416.22,201.57,57.18,214.65,0.0
+7.0,"HIMACHAL PRADESH","March / March",31.6,312.84,133.71,179.13,373.49,194.36,179.13,270.72,165.59,73.28,105.13,0.0
+8.0,"JAMMU AND KASHMIR","March / March",258.66,525.01,449.22,75.79,522.67,468.91,53.75,543.5,506.52,69.62,36.98,0.0
+9.0,"JHARKHAND","March / March",89.82,402.41,165.93,236.48,249.79,129.95,119.84,205.69,128.19,58.33,77.5,0.0
+10.0,"KARNATAKA","March / March",191.39,1167.07,644.92,522.15,1225.95,703.8,522.15,947.53,573.93,64.11,373.6,0.0
+11.0,"KERALA","March / March",4.15,720.18,144.28,575.9,444.5,159.83,284.67,418.83,137.97,84.14,280.87,0.0
+12.0,"MADHYA PRADESH","March / March",58.95,750.1,399.04,351.06,730.06,388.32,341.74,622.11,324.94,72.65,297.17,0.0
+13.0,"MAHARASHTRA","March / March",232.44,1384.06,733.27,650.79,1279.17,718.42,560.75,1275.49,713.79,75.07,561.69,0.0
+14.0,"ORISSA","March / March",61.62,449.15,204.88,244.27,534.74,294.76,239.98,391.84,211.11,59.24,180.73,0.0
+15.0,"PUNJAB","March / March",4.02,432.21,82.21,350.0,379.06,106.59,272.47,389.95,108.93,98.48,281.02,0.0
+16.0,"RAJASTHAN","March / March",348.43,2107.39,1165.44,941.95,1845.28,1099.49,745.79,1526.94,852.82,58.9,674.11,0.0
+17.0,"TAMIL NADU","March / March",5.93,906.62,316.91,589.71,776.12,393.53,382.59,656.44,303.41,75.96,353.03,0.0
+18.0,"UTTAR PRADESH","March / March",189.78,1565.91,899.12,666.79,1513.31,848.68,664.63,1577.31,933.28,89.87,644.03,0.0
+19.0,"UTTARAKHAND","March / March",103.92,344.54,139.39,205.15,343.15,136.41,206.74,294.15,55.44,23.07,238.72,0.0
+20.0,"WEST BENGAL","March / March",375.75,731.55,418.03,313.52,709.29,499.19,210.1,573.41,363.31,41.52,210.1,0.0
+21.0,"ARUNACHAL PRADESH","February / February",12.5,132.25,123.35,8.9,208.9,200.0,8.9,94.28,94.28,44.37,0.0,0.0
+22.0,"ASSAM","March / March",59.32,650.05,449.64,200.41,652.25,487.48,164.78,644.75,480.55,87.88,164.2,0.0
+23.0,"MANIPUR","March / March",25.22,102.18,54.61,47.57,82.31,52.77,29.54,87.9,69.27,88.82,18.63,0.0
+24.0,"MEGHALAYA","March / March",11.56,142.79,63.48,79.3,164.18,84.88,79.3,149.65,70.47,73.08,79.18,0.0
+25.0,"MIZORAM","March / March",21.38,55.69,46.0,9.69,71.27,61.58,9.69,67.71,58.02,69.93,9.69,0.0
+26.0,"NAGALAND","March / March",5.1,92.03,79.51,12.53,88.87,77.52,11.35,91.98,80.63,97.59,11.35,0.0
+27.0,"SIKKIM","March / March",0.59,36.24,26.24,10.0,27.96,23.2,4.76,23.99,19.27,81.01,4.72,0.0
+28.0,"TRIPURA","March / March",19.18,64.99,57.17,7.81,82.47,74.66,7.81,73.9,67.2,71.61,6.7,0.0
+29.0,"ANDAMAN and NICOBAR","- / -",0.0,1.01,1.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30.0,"CHANDIGARH","- / -",0.0,0.4,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+31.0,"DADRA and NAGAR HAVELI","- / -",0.0,1.09,1.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32.0,"DAMAN and DIU","- / -",0.0,0.61,0.61,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+33.0,"DELHI","- / -",0.0,4.31,4.31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+34.0,"LAKSHADWEEP","- / -",0.0,0.24,0.24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35.0,"PUDUCHERRY","March / March",0.0,1.54,1.54,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Total","","",3044.36,17912.95,8550.0,9362.94,16514.6,8941.85,7572.75,14894.97,7996.0,66.71,6898.96,0.0

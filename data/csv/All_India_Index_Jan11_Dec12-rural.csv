@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This is the New Series of Consumer Price Index for  Rural & Urban with base year 2010. Published by Central Statistical Office and released on 12th of every month. The data contains group wise all India Index.", 
+ "file_name": "All_India_Index_Jan11_Dec12.xls", 
+ "title": "All India Consumer Price Index (Rural/Urban)  ", 
+ "url": "http://data.gov.in/sites/default/files/All_India_Index_Jan11_Dec12.xls"
+}
+-----
 "Year","Month","Cereal and Products","Pulses and Pulse Products","Oils and Fats","Meat - Fish etc","Milk and Milk Products","Spices and Condiments","Vegetables","Fruits","Sugar - Honey etc","Non Alcoholic Beverages","Prepared Meals","Pan - Supari etc","Food - beverages and tobacco ","Fuel and Lighting","Clothing and Bedding","Footwear","Clothing - bedding and footwear","Medical Care","Education","Recreation and Amusement","Transport and Communication","Personal Care Items","Household Requisites","Others","Miscellaneous","General index"
 2011.0,"January",104.73,98.2,109.05,106.38,106.38,110.07,128.51,114.02,97.87,105.79,106.45,106.45,108.08,106.63,107.61,106.41,107.44,104.31,103.65,103.52,105.79,104.17,106.09,107.99,105.02,107.13
 2011.0,"February",105.15,98.78,110.44,106.71,107.69,111.89,107.74,116.28,95.99,106.96,107.48,108.15,106.49,107.25,108.98,107.74,108.8,104.98,104.11,104.0,106.72,104.74,107.07,109.21,105.79,106.52

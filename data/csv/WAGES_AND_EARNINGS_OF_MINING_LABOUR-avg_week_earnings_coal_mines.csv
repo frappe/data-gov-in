@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents the wages and earnings of mining labour in coal and non-coal mines. The data for coal mines relate to average weekly earning of miners and loaders in december each year whereas those for other mines relate to average weekly earning of miners and loaders for the quarter ending in...", 
+ "file_name": "WAGES_AND_EARNINGS_OF_MINING_LABOUR.xls", 
+ "title": "Wages And Earnings Of Mining Labour ", 
+ "url": "http://data.gov.in/sites/default/files/WAGES_AND_EARNINGS_OF_MINING_LABOUR.xls"
+}
+-----
 "Year"," Assam - Under ground","Assam - Open Working","West bengal - Under ground","West bengal - Open Working","Jharkhand - Under ground","Jharkhand - Open Working"," Madhya Pradesh - Under ground"," Madhya Pradesh - Open Working","All Coalfields- Under ground","All Coalfields - Open Working","Mica - Andhra Pradesh","Mica - Bihar","Mica - Jharkhand","Manganese - Madhya Pradesh","Limestone - Madhya Pradesh","China Clay* - Jharkhand"
 2000.0,"1424.00","NA","1690.00","NA","1652.00","1810.00","2116.00","NA",1897.0,1743.0,310.0,336.0,"435","392","888","338"
 2001.0,1765.0," NA",1950.0," NA",2019.0,2409.0,2802.0," NA",2362.0,2275.0,419.0,349.0,"426",1016.0,1044.0,392.0

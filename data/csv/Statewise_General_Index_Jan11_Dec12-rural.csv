@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This is the New Series of Consumer Price Index for Rural & Urban with  base year 2010. Published by Central Statistical Office and released on 12th of every month", 
+ "file_name": "Statewise_General_Index_Jan11_Dec12.xls", 
+ "title": "State Level Consumer Price Index (Rural/Urban) ", 
+ "url": "http://data.gov.in/sites/default/files/Statewise_General_Index_Jan11_Dec12.xls"
+}
+-----
 "Year"," Name ","January","February","March","April","May","June","July","August","September","October","November","December","Latitude","Longitude"
 2011.0,"Jammu and Kashmir",104.9,105.41,106.55,107.2,108.9,108.8,109.6,111.6,112.8,113.7,115.6,115.8,32.7081,74.8526
 2011.0,"Himachal Pradesh",105.58,104.74,104.53,105.2,105.7,107.0,107.8,109.2,110.0,111.4,111.4,111.0,31.4833,76.2833

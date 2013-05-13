@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents expenditure on education by Centre and State governments from 1985-86 to 2007-08. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD.", 
+ "file_name": "Expenditure_On_Education_By_Centre_And_State_Governments.xls", 
+ "title": "Expenditure on Education By Centre And State Governments ", 
+ "url": "http://data.gov.in/sites/default/files/Expenditure_On_Education_By_Centre_And_State_Governments.xls"
+}
+-----
 "Source ","1985-86+","1990-91","1995-96","1998-99","1999-00","2000-01","2001-02","2002-03","2003-04","2004-05","2005-06","2006-07+","2007-08*"
 "Central Government",942.1,2420.45,5551.02,9676.52,10907.63,10196.06,14135.74,16156.61,17100.97,18025.96,23211.13,30638.25,39345.08
 "State Government",8269.76,18340.88,33217.67,52342.98,64242.25,72683.1,66370.23,69732.78,72630.66,79348.81,91177.69,109084.13,119892.27

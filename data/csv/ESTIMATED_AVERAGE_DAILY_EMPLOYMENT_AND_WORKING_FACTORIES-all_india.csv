@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2000 to 2009) and State-wise (2007 to 2009) estimated average daily employment and number of working factories.", 
+ "file_name": "ESTIMATED_AVERAGE_DAILY_EMPLOYMENT_AND_WORKING_FACTORIES.xls", 
+ "title": "Estimated Average Daily Employment And number of working factories ", 
+ "url": "http://data.gov.in/sites/default/files/ESTIMATED_AVERAGE_DAILY_EMPLOYMENT_AND_WORKING_FACTORIES.xls"
+}
+-----
 " Year","Number of Working factories","Estimated average daily employment "
 " 2000",73419.0,3789.0
 " 2001",112140.0,5656.0

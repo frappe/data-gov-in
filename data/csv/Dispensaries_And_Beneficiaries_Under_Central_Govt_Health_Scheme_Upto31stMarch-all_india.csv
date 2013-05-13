@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives different types and number of dispensaries and beneficiaries under Central Government Health Scheme (CGHS) for 2001 to 2011 for All India and 2010 and 2011 for States", 
+ "file_name": "Dispensaries_And_Beneficiaries_Under_Central_Govt_Health_Scheme_Upto31stMarch.xls", 
+ "title": "Dispensaries And Beneficiaries Under Central Government Health Scheme (CGHS) ", 
+ "url": "http://data.gov.in/sites/default/files/Dispensaries_And_Beneficiaries_Under_Central_Govt_Health_Scheme_Upto31stMarch.xls"
+}
+-----
 "Year/City","Type of Dispensaries - Allopathic","Type of Dispensaries - AYUSH","Beneficiaries - Total No. of Cards","Beneficiaries - Total No. of beneficiaries"
 2001.0,241.0,79.0,1003537.0,4354410.0
 2002.0,244.0,79.0,1045024.0,4385271.0

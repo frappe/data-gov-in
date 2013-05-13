@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Ministry of Tourism has voluntary scheme for Classifying/ Re-classifying the Hotels/ Restaurants/ Air Catering Units/ Time Share Resorts/Apartments/ Convention Centre/ Bed...", 
+ "file_name": "HotelTourismData.xls", 
+ "title": "Approved Hotels/Restaurants/Air Catering Units/Time Share Resorts/Apartments/Convention Centre/Bed &amp; Breakfast as on 12.03.2013 ", 
+ "url": "http://data.gov.in/sites/default/files/HotelTourismData.xls"
+}
+-----
 "HOTEL NAME","ADDRESS","STATE","PHONE","FAX","EMAIL ID","WEBSITE","TYPE","Rooms"
 "The Oberoi Cecil","""Ambedkar ChowkChaura Maidan, Shimla - 171004, HIMACHAL PRADESH""","HIMACHAL PRADESH","0177-2804848 ","0177-2811024","reservations@oberoigroup.com","www.oberoihotels.com","Heritage Grand",75.0
 "The Lalit Grand Palace","""Gupkar Road, Srinagar, JAMMU AND KASHMIR""","JAMMU AND KASHMIR",1942501001.0,1942501003.0,"srinagar@thelalit.com","NA","Heritage Grand",112.0

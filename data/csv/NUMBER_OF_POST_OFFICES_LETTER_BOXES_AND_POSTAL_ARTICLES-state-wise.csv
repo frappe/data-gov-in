@@ -1,0 +1,48 @@
+-----
+{
+ "description": "Data provides circle-wise details on the number of post offices, letter boxes and estimated number of postal articles handled (excluding money orders) for 2009-10 and 2010-11.", 
+ "file_name": "NUMBER_OF_POST_OFFICES_LETTER_BOXES_AND_POSTAL_ARTICLES.xls", 
+ "title": "Number of Post Offices / Letter Boxes And Postal Articles For 2009-10 And 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_POST_OFFICES_LETTER_BOXES_AND_POSTAL_ARTICLES.xls"
+}
+-----
+"Circle","No. of Post Offices 2009-10","No. of Post Offices 2010-11","No. of Letter boxes 2009-10","No. of Letter boxes 2010-11","Unregistered Articles 2009-10 (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Unregistered Articles 2010-11 (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Registered Articles 2009-10 Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Registered Articles 2010-11 Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Speed Posts and Expres Parcel Posts 2009-10 (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Speed Posts and Expres Parcel Posts 2010-11 (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Total Mail Traffic 2009-10 (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Total Mail Traffic 2010-11 (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))"
+"Andhra Pradesh",16147.0,16141.0,51033.0,49722.0,551385.0,569586.0,13338.0,11777.0,12874.0,14287.0,577597.0,595650.0
+"Assam",3996.0,4004.0,18486.0,16386.0,116033.0,112771.0,4257.0,4514.0,1441.0,1387.0,121731.0,118672.0
+"Bihar ",9057.0,9055.0,25010.0,25010.0,123685.0,108739.0,3253.0,4067.0,5277.0,5706.0,132215.0,118512.0
+"Chhattisgarh",3123.0,3125.0,17067.0,14988.0,40780.0,48306.0,1299.0,1502.0,2664.0,2345.0,44743.0,52153.0
+"Delhi  ",573.0,575.0,3102.0,2819.0,150217.0,171441.0,8851.0,8696.0,29576.0,37332.0,188644.0,217469.0
+"Gujarat",8976.0,8983.0,28138.0,27774.0,581908.0,567623.0,12522.0,12201.0,6179.0,7713.0,600609.0,587537.0
+"Haryana",2655.0,2661.0,8949.0,8980.0,120296.0,116368.0,2040.0,2049.0,8007.0,8399.0,130343.0,126816.0
+"Himachal Pradesh",2777.0,2777.0,7628.0,7629.0,56076.0,56302.0,1881.0,1654.0,1694.0,1688.0,59651.0,59644.0
+"Jammu & Kashmir  ",1693.0,1693.0,4039.0,4308.0,21497.0,34931.0,908.0,889.0,879.0,851.0,23284.0,36671.0
+"Jharkhand",3094.0,3095.0,13072.0,13073.0,45065.0,41618.0,3019.0,2923.0,2497.0,2930.0,50581.0,47471.0
+"Karnataka",9814.0,9772.0,31068.0,31171.0,437230.0,481199.0,9502.0,9609.0,13227.0,26655.0,459959.0,517463.0
+"Kerala",5070.0,5067.0,18851.0,19179.0,681691.0,710419.0,13716.0,13519.0,8048.0,8691.0,703455.0,732629.0
+"Madhya Pradesh",8316.0,8310.0,40750.0,40750.0,195423.0,196784.0,4135.0,4102.0,6570.0,6794.0,206128.0,207680.0
+"Maharashtra",12853.0,12860.0,52745.0,52552.0,917407.0,993710.0,20046.0,19320.0,56701.0,57123.0,994154.0,1070153.0
+"North Eastern",2935.0,2932.0,6370.0,6323.0,127160.0,57246.0,1816.0,2021.0,834.0,890.0,129810.0,60157.0
+"Orissa",8161.0,8161.0,26764.0,26764.0,96146.0,91106.0,6057.0,5333.0,3272.0,3703.0,105475.0,100142.0
+"Punjab",3877.0,3853.0,15508.0,15512.0,218910.0,215419.0,4862.0,5099.0,5524.0,4780.0,229296.0,225298.0
+"Rajasthan ",10313.0,10321.0,29097.0,28984.0,226601.0,225889.0,8436.0,7088.0,7390.0,7801.0,242427.0,240778.0
+"Tamil Nadu",12111.0,12065.0,43907.0,43441.0,782971.0,738304.0,18534.0,17304.0,25793.0,27706.0,827298.0,783314.0
+"Uttar Pradesh ",17666.0,17640.0,86249.0,86571.0,367822.0,350611.0,18511.0,19156.0,3497.0,28658.0,389830.0,398425.0
+"Uttarakhand",2715.0,2715.0,11548.0,11548.0,62424.0,56662.0,2557.0,2739.0,27405.0,3203.0,92386.0,62604.0
+"West Bengal",9057.0,9061.0,40214.0,40265.0,225792.0,212577.0,36277.0,22310.0,17556.0,23395.0,279625.0,258282.0
+"APS","",0.0,"",0.0,"",0.0,"",0.0,"",670.0,"",670.0

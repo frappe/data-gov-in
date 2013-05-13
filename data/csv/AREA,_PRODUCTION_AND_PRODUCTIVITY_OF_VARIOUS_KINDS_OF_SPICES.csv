@@ -1,0 +1,27 @@
+-----
+{
+ "description": "This table provides All India (2008-09 to 2010-11) data on Area, Production and Productivity of various kinds of Spices such as Chilies, Garlic, Turmeric, Ginger, Coriander, Tamarind, Cumin, Fenugreek, Fennel, Pepper, Ajwan, Cardamom, Nutmeg, Other seed spices, Tejpat/Cinnamon, Clove and Others.", 
+ "file_name": "AREA,_PRODUCTION_AND_PRODUCTIVITY_OF_VARIOUS_KINDS_OF_SPICES.xls", 
+ "title": "Area/ Production and Productivity of various kinds of Spices ", 
+ "url": "http://data.gov.in/sites/default/files/AREA,_PRODUCTION_AND_PRODUCTIVITY_OF_VARIOUS_KINDS_OF_SPICES.xls"
+}
+-----
+"Spices","2008-09 Area (in '000 Hectare)","2008-09 Production (in  '000 Tonne)","2008-09 Productivity (= MT/HA)","2009-10 Area (in '000 Hectare)","2009-10 Production (in  '000 Tonne)","2009-10 Productivity (= MT/HA)","2010-11 Area (in '000 Hectare)","2010-11 Production (in  '000 Tonne)","2010-11 Productivity (= MT/HA)"
+"Chilies",779.05,1269.85,1.6,767.23,1202.94,1.6,792.1,1223.4,1.5
+"Garlic",166.21,831.1,5.0,164.86,833.97,5.1,200.6,1057.8,5.3
+"Turmeric",181.09,821.16,4.5,180.96,792.98,4.4,195.1,992.9,5.1
+"Ginger",108.64,380.1,3.5,107.54,385.33,3.6,149.1,702.0,4.7
+"Coriander",396.85,242.13,0.6,360.0,236.72,0.7,530.5,482.0,0.9
+"Tamarind",54.63,177.68,3.3,57.99,185.46,3.2,59.6,206.3,3.5
+"Cumin",429.38,172.47,0.4,377.01,156.33,0.4,507.8,314.2,0.6
+"Fenugreek",68.29,76.58,1.1,43.25,57.44,1.3,81.2,118.4,1.5
+"Fennel",47.16,64.29,1.4,50.67,56.55,1.1,61.8,105.4,1.7
+"Pepper",238.71,47.4,0.2,195.92,51.02,0.3,183.8,52.0,0.3
+"Ajwan",19.59,16.41,0.8,17.06,10.27,0.6,25.8,22.2,0.9
+"Cardamom",91.99,15.45,0.2,90.2,15.72,0.2,86.7,15.7,0.2
+"Nutmeg",15.27,11.37,0.7,15.05,8.0,0.5,16.1,11.4,0.7
+"Other seed spices",17.71,10.71,0.6,19.36,13.04,0.7,0.0,0.0,0.0
+"Tejpat/Cinnamon",3.31,6.65,3.9,4.24,8.75,3.9,2.9,5.0,1.7
+"Clove",2.57,1.33,0.5,2.6,1.16,0.4,2.4,1.2,0.5
+"Others",9.01,0.23,0.03,9.34,0.24,0.03,44.7,40.6,0.9
+"Total",2629.46,4144.91,1.6,2463.28,4015.92,1.6,2940.2,5350.5,1.8

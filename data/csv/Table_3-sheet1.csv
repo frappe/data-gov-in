@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Certain parameters such as Biological Oxygen Demand (BOD) and Dissolved Oxygen (DO) are indicators of Organic Quality of Water. The table shows Water Quality Data for stations across the river Ganga as a comparative study between 1986 and 2011 with parameters such as Dissolved Oxygen (DO) and...", 
+ "file_name": "Table_3.xls", 
+ "title": "Water Quality Data For River Ganga (Summer Average i.e. March-June) ", 
+ "url": "http://data.gov.in/sites/default/files/Table_3.xls"
+}
+-----
 "Sr. No.","Station-Location","Distance in Kms.","Dissolved Oxygen during 1986 (mg/l)","Biological Oxygen Demand in 1986 (mg/l)","Dissolved Oxygen during 2011 (mg/l)","Biological Oxygen demand during 2011 (mg/l)"
 1.0,"Rishikesh",0.0,8.1,1.7,7.6,1.4
 2.0,"Hardwar D/s",30.0,8.1,1.8,7.4,1.6

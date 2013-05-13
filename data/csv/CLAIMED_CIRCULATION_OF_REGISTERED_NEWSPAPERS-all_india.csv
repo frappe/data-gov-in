@@ -1,0 +1,18 @@
+-----
+{
+ "description": "Data provides all India (from 2001-02 to 2009-10) and language-wise (2008-09 and 2009-10) details on the claimed circulation of registered newspapers and publications.", 
+ "file_name": "CLAIMED_CIRCULATION_OF_REGISTERED_NEWSPAPERS.xls", 
+ "title": "Claimed Circulation of Registered Newspapers and Publications ", 
+ "url": "http://data.gov.in/sites/default/files/CLAIMED_CIRCULATION_OF_REGISTERED_NEWSPAPERS.xls"
+}
+-----
+"Year","Dailies","Bi/Tri Weekly","Weekly","Fortnightly","Monthly","Quarterly","Annuals","Others","Total"
+"2001-02",57844.0,516.0,32417.0,8453.0,13421.0,670.0,888.0,1046.0,115255.0
+"2002-03",72939.0,548.0,40979.0,8888.0,16344.0,646.0,1005.0,657.0,142006.0
+"2003-04",73537.0,1177.0,34542.0,7727.0,13395.0,558.0,1522.0,630.0,133088.0
+"2004-05",78689.0,554.0,42164.0,10331.0,20231.0,1616.0,937.0,2197.0,156719.0
+"2005-06",88863.0,566.0,50581.0,12310.0,21137.0,1552.0,2986.0,2744.0,180739.0
+"2006-07",98837.0,738.0,52082.0,12941.0,22131.0,1489.0,1581.0,2278.0,192077.0
+"2007-08",105791.0,655.0,57996.0,13074.0,23760.0,1635.0,2917.0,1280.0,207108.0
+"2008-09",135805.0,575.0,69181.0,16545.0,30742.0,1860.0,1311.0,1935.0,257954.0
+"2009-10",162313.0,636.0,83790.0,18521.0,30185.0,1818.0,8979.0,2575.0,308817.0

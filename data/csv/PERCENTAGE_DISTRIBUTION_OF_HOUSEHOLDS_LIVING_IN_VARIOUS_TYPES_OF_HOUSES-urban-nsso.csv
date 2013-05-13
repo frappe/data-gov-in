@@ -1,0 +1,47 @@
+-----
+{
+ "description": "This data provides state-wise percentage distribution of households living in various types of houses such as pucca, semi-pucca and kutcha houses. The details are given in three different worksheets for combined, rural and urban households respectively.", 
+ "file_name": "PERCENTAGE_DISTRIBUTION_OF_HOUSEHOLDS_LIVING_IN_VARIOUS_TYPES_OF_HOUSES.XLS", 
+ "title": "State-wise Percentage Distribution Of Combined/Rural And Urban Households Living In Various Types Of Houses ", 
+ "url": "http://data.gov.in/sites/default/files/PERCENTAGE_DISTRIBUTION_OF_HOUSEHOLDS_LIVING_IN_VARIOUS_TYPES_OF_HOUSES.XLS"
+}
+-----
+"All-India/State/Union Territory","Pucca- NSS 64th Round July 2007- June 2008","Semi-Pucca- NSS 64th Round July 2007- June 2008","Katcha- NSS 64th Round July 2007- June 2008","Pucca- NSS 65th Round July 2008- June 2009","Semi-Pucca- NSS 65th Round July 2008- June 2009","Katcha- NSS 65th Round July 2008- June 2009"
+"All-India ",88.0,9.1,2.9,91.7,6.2,2.1
+"Andhra Pradesh",90.1,6.2,3.7,92.8,3.4,3.9
+"Arunachal Pradesh","NA","NA","NA",62.0,17.2,20.8
+"Assam",63.9,27.5,8.6,75.5,22.1,2.4
+"Bihar",81.7,9.0,8.3,79.4,10.0,10.3
+"Chattisgarh",76.2,23.3,0.5,79.9,18.8,1.1
+"Delhi",96.2,2.4,1.2,94.4,2.8,2.8
+"Goa","NA","NA","NA",94.6,3.1,2.4
+"Gujarat",95.0,4.2,0.8,96.1,2.9,1.0
+"Haryana",97.6,0.8,1.3,98.8,0.7,0.5
+"Himachal Pradesh","NA","NA","NA",98.0,1.7,0.3
+"Jammu and Kashmir",87.2,9.2,3.6,93.6,3.4,3.1
+"Jharkhand",84.0,13.7,2.3,90.4,7.7,1.9
+"Karnataka",86.7,11.9,1.5,89.3,9.2,1.5
+"Kerala",92.2,5.4,2.4,88.7,10.1,1.2
+"Madhya Pradesh",77.1,20.1,2.8,88.6,10.4,1.0
+"Maharashtra",90.8,7.6,1.5,95.5,4.1,0.4
+"Manipur",21.5,70.8,7.6,29.1,64.3,6.6
+"Meghalaya","NA","NA","NA",88.3,11.0,0.7
+"Mizoram",56.5,42.9,0.6,92.1,7.0,0.9
+"Nagaland","NA","NA","NA",72.7,24.7,2.6
+"Odisha",75.6,11.9,12.5,79.8,14.8,5.4
+"Punjab",96.4,2.7,0.9,98.2,1.3,0.5
+"Rajasthan",96.2,3.4,0.3,96.9,1.8,1.3
+"Sikkim","NA","NA","NA",99.9,0.1,"NA"
+"Tamil Nadu",83.3,11.9,4.8,87.7,8.6,3.6
+"Tripura","NA","NA","NA",57.6,40.9,1.5
+"Uttar Pradesh",2.2,5.4,2.2,94.0,3.8,0.2
+"Uttarakhand","NA","NA","NA",98.0,1.8,2.1
+"West Bengal",4.1,15.9,4.1,90.9,7.9,1.1
+"North Eastern States",10.9,41.1,10.9,"NA","NA","NA"
+"Union Territories$",89.6,7.3,3.1,"NA","NA","NA"
+"A. & N. Islands","NA","NA","NA",93.4,6.5,0.1
+"Chandigarh","NA","NA","NA",97.5,2.3,0.2
+"Daman and Diu","NA","NA","NA",97.5,1.4,1.1
+"D. & N. Haveli","NA","NA","NA",94.4,5.6,"NA"
+"Lakshadweep","NA","NA","NA",92.9,4.7,2.3
+"Puducherry","NA","NA","NA",88.2,4.6,7.2

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India and State-wise number of Registered Ayurveda, Unani, Siddha, Naturopathy, Homoeopathy Practitioners ", 
+ "file_name": "Registered_Practitioners_Under_Ayush_Systems_AsOn1stJanuary.xls", 
+ "title": "Registered Practitioners Under Ayush Systems As on 1st January ", 
+ "url": "http://data.gov.in/sites/default/files/Registered_Practitioners_Under_Ayush_Systems_AsOn1stJanuary.xls"
+}
+-----
 "Year/State"," Ayurveda  ","Unani","Siddha","Naturopathy","Homoeopathy","Total"
 2000.0,427504.0,42445.0,16599.0,429.0,194147.0,681124.0
 2001.0,430890.0,43108.0,17097.0,455.0,197252.0,688802.0

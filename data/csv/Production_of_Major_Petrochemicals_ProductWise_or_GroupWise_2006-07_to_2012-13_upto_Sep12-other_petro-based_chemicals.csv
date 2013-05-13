@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of product wise, group wise and year wise production of major petrochemicals products during 2006-07 to 2012-13 (upto September 2012) in India. Production figures have been aggregated based on Monthly Production returns received directly by the Department of Chemicals and...", 
+ "file_name": "Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12.xls", 
+ "title": "Production of Major Petrochemicals - Product-wise / Group-wise from 2006-07 to 2012-13 (upto September 2012) ", 
+ "url": "http://data.gov.in/sites/default/files/Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12.xls"
+}
+-----
 "Major Groups","Products","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13 (April to Sep.)"
 "Other Petro-based Chemicals","Butanol",14.0,14.0,11.0,8.0,18.0,22.0,6.0
 "Other Petro-based Chemicals","C4-Raffinate",76.0,77.0,55.0,65.0,71.0,209.0,201.0

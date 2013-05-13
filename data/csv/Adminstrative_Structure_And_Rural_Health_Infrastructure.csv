@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives state-wise number of administrative units and rural health infrastructure (DHs, CHCs, PHCs and Sub-Centres).", 
+ "file_name": "Adminstrative_Structure_And_Rural_Health_Infrastructure.xls", 
+ "title": "Adminstrative Structure And Rural Health Infrastructure ", 
+ "url": "http://data.gov.in/sites/default/files/Adminstrative_Structure_And_Rural_Health_Infrastructure.xls"
+}
+-----
 "State/Year","Administrative Structure* - No. of Districts","Administrative Structure* - No. of Blocks#","No. of Villages","Rural Health Infrastructure (As on March 2011) - DH - 2010","Rural Health Infrastructure (As on March 2011) - DH - 2011","Rural Health Infrastructure (As on March 2011) - CHC - 2010","Rural Health Infrastructure (As on March 2011) - CHC - 2011","Rural Health Infrastructure (As on March 2011) - PHC - 2010","Rural Health Infrastructure (As on March 2011) - PHC - 2011","Rural Health Infrastructure (As on March 2011) - Sub-Centre - 2010","Rural Health Infrastructure (As on March 2011) - Sub-Centre - 2011"
 "GRAND TOTAL",638.0,6345.0,640930.0,635.0,635.0,4535.0,4809.0,23673.0,23887.0,147069.0,148124.0
 "Andhra Pradesh",23.0,1127.0,27800.0,17.0,17.0,167.0,281.0,1570.0,1624.0,12522.0,12522.0

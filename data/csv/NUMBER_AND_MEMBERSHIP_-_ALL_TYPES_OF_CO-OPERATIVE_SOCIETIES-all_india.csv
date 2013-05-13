@@ -1,0 +1,14 @@
+-----
+{
+ "description": "Data provides all India and state-wise details on the number and membership - all types of co-operative societies as on 31st March.", 
+ "file_name": "NUMBER_AND_MEMBERSHIP_-_ALL_TYPES_OF_CO-OPERATIVE_SOCIETIES.xls", 
+ "title": "Number And Membership - All Types of Co-operative Societies As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_AND_MEMBERSHIP_-_ALL_TYPES_OF_CO-OPERATIVE_SOCIETIES.xls"
+}
+-----
+"Year","No. of societies - Credit","No. of societies - Non-credit","No. of societies - Total","Membership -  Credit","Membership - Non-credit","  Membership - Total"
+"2000-01",142723.0,408290.0,551013.0,152882.0,66057.0,218939.0
+"2001-02",146206.0,243874.0,390080.0,158488.0,50834.0,209322.0
+"2002-03",122475.0,251849.0,374324.0,149974.0,50680.0,200654.0
+"2003-04",120803.0,266581.0,387384.0,139502.0,51404.0,190906.0
+"2004-05",121866.0,266053.0,387919.0,144928.0,51284.0,196212.0

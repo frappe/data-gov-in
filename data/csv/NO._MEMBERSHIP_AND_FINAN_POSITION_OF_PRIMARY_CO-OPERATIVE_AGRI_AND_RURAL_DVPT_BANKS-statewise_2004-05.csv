@@ -1,0 +1,25 @@
+-----
+{
+ "description": "Data provides all India and state-wise details on the number, membership and financial (such as Share Capital, Reserves, Deposits, Borrowings, Working Capital and Loans issued during the year) position of primary co-operative agriculture and rural development banks (Amount in ` Million) as on 31st...", 
+ "file_name": "NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CO-OPERATIVE_AGRI_AND_RURAL_DVPT_BANKS.xls", 
+ "title": "Number / Membership / Financial Position of Primary Co-operative Agriculture And Rural Development Banks As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CO-OPERATIVE_AGRI_AND_RURAL_DVPT_BANKS.xls"
+}
+-----
+"State","Societies","Membership ('000 no.)","Share capital","Reserves","Deposits","Borrowings","Working Capital","Loans issued during the year"
+"Andhra Pradesh","NA","NA","NA","NA","NA","NA","NA","NA"
+"Assam(1)",15.0,22.0,479.0,5.0,1.0,763.0,971.0,53.0
+"Chattisgarh","NA","NA","NA","NA","NA","NA","NA","NA"
+"Gujarat","NA","NA","NA","NA","NA","NA","NA","NA"
+"Haryana(1)",86.0,659.0,1188.0,303.0,6.0,17934.0,23417.0,4793.0
+"Himachal Pradesh (3)",1.0,13.0,39.0,1.0,0.0,467.0,562.0,210.0
+"Karnataka",177.0,1106.0,912.0,1593.0,822.0,13017.0,16120.0,2005.0
+"Kerala ",56.0,944.0,1238.0,3160.0,7.0,13456.0,33409.0,3826.0
+"Madhya Pradesh (2)",38.0,440.0,842.0,1507.0,1250.0,9918.0,14079.0,2780.0
+"Maharashtra",29.0,1103.0,696.0,3658.0,220.0,10790.0,14475.0,63.0
+"Orissa",52.0,1.0,125.0,45.0,107.0,1581.0,1653.0,76.0
+"Punjab",87.0,804.0,1334.0,1393.0,1.0,18834.0,21937.0,8555.0
+"Rajasthan",36.0,1272.0,1103.0,2688.0,28.0,13851.0,17733.0,3234.0
+"Tamil Nadu",181.0,2013.0,818.0,5049.0,158.0,11689.0,16975.0,465.0
+"Uttar Pradesh","NA","NA","NA","NA","NA","NA","NA","NA"
+"West Bengal","NA","NA","NA","NA","NA","NA","NA","NA"

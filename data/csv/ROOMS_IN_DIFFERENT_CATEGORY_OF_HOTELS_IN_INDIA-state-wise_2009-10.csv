@@ -1,0 +1,44 @@
+-----
+{
+ "description": "Data provide all India (from 2002 to 2010) and state-wise (2009-10) details on rooms in different category of hotels (One Star, Two Star, Three Star, Four Star, Five Star and Others) in India as on 31st December.", 
+ "file_name": "ROOMS_IN_DIFFERENT_CATEGORY_OF_HOTELS_IN_INDIA.xls", 
+ "title": "Rooms In Different Category of Hotels In India As On 31st December 2010 ", 
+ "url": "http://data.gov.in/sites/default/files/ROOMS_IN_DIFFERENT_CATEGORY_OF_HOTELS_IN_INDIA.xls"
+}
+-----
+"States\Chief of Ports Town","One Star-Hotels","One Star-Rooms","Two Star-Hotels","Two Star-Rooms","Three Star-Hotels","Three Star-Rooms","Four Star-Hotels","Four Star-Rooms","Five Star-Hotels","Five Star-Rooms","Others-Hotels","Others-Rooms"
+" Andhra Pradesh",2.0,49.0,10.0,262.0,106.0,6137.0,8.0,863.0,7.0,991.0,5.0,1021.0
+" Arunachal Pradesh","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Assam","NA","NA",8.0,225.0,20.0,720.0,2.0,148.0,"NA","NA",2.0,6.0
+" Bihar","NA","NA","NA","NA",4.0,196.0,4.0,214.0,"NA","NA","NA","NA"
+" Chhattisgarh","NA","NA",1.0,13.0,1.0,31.0,"NA","NA","NA","NA","NA","NA"
+" Goa",1.0,26.0,13.0,737.0,13.0,847.0,4.0,480.0,13.0,1662.0,24.0,3605.0
+" Gujarat",1.0,10.0,9.0,461.0,30.0,1521.0,5.0,279.0,9.0,742.0,6.0,114.0
+" Haryana",1.0,136.0,3.0,60.0,48.0,2816.0,12.0,1080.0,2.0,212.0,161.0,1431.0
+" Himachal Pradesh","NA","NA",5.0,135.0,7.0,207.0,1.0,41.0,3.0,213.0,19.0,500.0
+" Jammu & Kashmir","NA","NA","NA","NA",3.0,190.0,1.0,44.0,"NA","NA",2.0,237.0
+" Jharkhand","NA","NA",1.0,28.0,4.0,148.0,1.0,25.0,"NA","NA","NA","NA"
+" Karnataka",7.0,384.0,6.0,332.0,34.0,1946.0,4.0,351.0,10.0,1474.0,19.0,1921.0
+" Kerala",8.0,273.0,98.0,1888.0,305.0,7480.0,31.0,1793.0,14.0,1184.0,28.0,944.0
+" Madhya Pradesh ",2.0,118.0,4.0,120.0,32.0,1551.0,1.0,52.0,6.0,500.0,11.0,499.0
+" Maharashtra",8.0,249.0,38.0,1274.0,55.0,3009.0,27.0,2210.0,30.0,3626.0,57.0,10887.0
+" Manipur ","NA","NA","NA","NA",1.0,59.0,"NA","NA","NA","NA","NA","NA"
+" Meghalaya ","NA","NA","NA","NA","NA","NA",2.0,100.0,"NA","NA","NA","NA"
+" Mizoram","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Nagaland ",1.0,19.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Odisha",3.0,102.0,2.0,61.0,6.0,386.0,3.0,179.0,"NA","NA",2.0,123.0
+" Punjab",2.0,29.0,44.0,717.0,55.0,1588.0,7.0,358.0,2.0,178.0,2.0,365.0
+" Rajasthan",1.0,19.0,16.0,639.0,30.0,1528.0,3.0,138.0,18.0,1685.0,122.0,3574.0
+" Sikkim","NA","NA",8.0,130.0,5.0,117.0,"NA","NA",1.0,58.0,1.0,25.0
+" Tamil Nadu",18.0,804.0,14.0,554.0,37.0,2459.0,12.0,1525.0,10.0,1291.0,13.0,1427.0
+" Tripura","NA","NA","NA","NA",1.0,101.0,"NA","NA","NA","NA","NA","NA"
+" Uttarakhand",2.0,34.0,6.0,115.0,17.0,869.0,2.0,125.0,"NA","NA",15.0,146.0
+" Uttar Pradesh",2.0,76.0,6.0,240.0,35.0,1321.0,5.0,270.0,13.0,1919.0,179.0,2646.0
+" West Bengal ","NA","NA",5.0,135.0,11.0,433.0,5.0,411.0,3.0,349.0,9.0,1378.0
+" A. & N. Islands",1.0,13.0,"NA","NA",2.0,48.0,1.0,45.0,1.0,45.0,"NA","NA"
+" Chandigarh","NA","NA",1.0,12.0,4.0,92.0,"NA","NA",1.0,155.0,"NA","NA"
+" D. & N. Haveli ","NA","NA","NA","NA",4.0,173.0,2.0,194.0,"NA","NA","NA","NA"
+" Daman and Diu","NA","NA","NA","NA",1.0,42.0,"NA","NA","NA","NA","NA","NA"
+" Delhi",8.0,196.0,9.0,308.0,18.0,570.0,14.0,1134.0,6.0,860.0,233.0,10647.0
+" Lakshadweep","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Puducherry","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",3.0,33.0

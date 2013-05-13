@@ -1,0 +1,46 @@
+-----
+{
+ "description": "This data provides All India (2000-01 to 2010-11) and Zone-wise (2009-10 to 2010-11) details on number of passengers originating, load of goods carried and earnings derived therefrom by Railways.", 
+ "file_name": "PASSENGERS_AND_GOODS_CARRIED_AND_EARNINGS_1.XLS", 
+ "title": "All India and Zone-wise Passengers / Goods Carried And Earnings Derived By Railways ", 
+ "url": "http://data.gov.in/sites/default/files/PASSENGERS_AND_GOODS_CARRIED_AND_EARNINGS_1.XLS"
+}
+-----
+"Railway","Number of passengers originating (1) (in Million) - 2009-10","Number of passengers originating (1) (in Million) - 2010-11","Earnings from passengers carried (in Million) - 2009-10","Earnings from passengers carried (in Million) - 2010-11","Load of goods (3) carried (1) (in Million Tonnes) - 2009-10","Load of goods (3) carried (1) (in Million Tonnes) - 2010-11","Earnings from goods carried (in Million) - 2009-10","Earnings from goods carried (in Million) - 2010-11"
+"Broad Gauge (1.676 m)(2)",7083.0,7480.0,231408.0,253710.0,890.0,924.0,568582.0,606276.0
+"Central",1556.0,1629.0,28196.0,30734.0,124.0,128.0,34936.0,36857.0
+"Eastern",1018.0,1113.0,11555.0,12450.0,106.0,116.0,18805.0,20905.0
+"East Central",242.0,200.0,11712.0,12642.0,153.0,164.0,35341.0,39090.0
+"East Coast",71.0,79.0,5282.0,6484.0,155.0,162.0,63116.0,80243.0
+"Northern",631.0,649.0,30400.0,35109.0,170.0,171.0,43643.0,45002.0
+"North Central",164.0,169.0,23212.0,25306.0,167.0,170.0,49890.0,52019.0
+"North Eastern",142.0,152.0,6515.0,6526.0,24.0,27.0,5768.0,7022.0
+"Northeast Frontier",36.0,63.0,4952.0,5529.0,24.0,28.0,10861.0,12275.0
+"North Western",123.0,134.0,7659.0,8389.0,51.0,58.0,19488.0,22963.0
+"Southern",688.0,731.0,21524.0,23164.0,70.0,62.0,18178.0,18695.0
+"South Central",299.0,348.0,21173.0,24069.0,148.0,150.0,58779.0,56390.0
+"South Eastern",226.0,246.0,7758.0,8316.0,200.0,206.0,61411.0,63797.0
+"South East Central",103.0,110.0,5123.0,5596.0,181.0,191.0,46734.0,50774.0
+"South Western",154.0,171.0,7298.0,8095.0,70.0,67.0,18401.0,17051.0
+"Western",1508.0,1559.0,23666.0,25250.0,115.0,120.0,44573.0,45962.0
+"West Central",121.0,127.0,14275.0,16051.0,129.0,123.0,38658.0,37231.0
+"Metre Gauge (1.000 m)(2)",143.0,150.0,2456.0,3114.0,3.0,3.0,533.0,594.0
+"East Central",7.0,6.0,202.0,258.0,"NA","NA",12.0,17.0
+"North Central","NA","NA","NA","NA","NA","NA","NA","NA"
+"North Eastern",86.0,88.0,1111.0,1887.0,1.0,1.0,106.0,54.0
+"Northeast Frontier",9.0,12.0,404.0,306.0,3.0,3.0,377.0,518.0
+"North Western",11.0,13.0,249.0,232.0,"NA","NA",28.0,5.0
+"Southern",21.0,3.0,"NA",13.0,"NA","NA",3.0,"NA"
+"South Central",2.0,1.0,48.0,26.0,"NA","NA","NA","NA"
+"South Western","NA","NA","NA","NA","NA","NA",5.0,"NA"
+"Western",26.0,27.0,419.0,392.0,"NA","NA",2.0,"NA"
+"Narrow Gauge (0.762 m and 0.610 m)(2)",20.0,21.0,281.0,232.0,"NA","NA","NA","NA"
+"Central",2.0,1.0,21.0,59.0,"NA","NA","NA","NA"
+"Eastern",1.0,"NA",6.0,3.0,"NA","NA","NA","NA"
+"East Coast","NA","NA","NA","NA","NA","NA","NA","NA"
+"Northern",4.0,4.0,52.0,54.0,"NA","NA","NA","NA"
+"North Central","NA",3.0,20.0,18.0,"NA","NA","NA","NA"
+"Northeast Frontier","NA","NA",74.0,33.0,"NA","NA","NA","NA"
+"South Eastern","NA","NA","NA","NA","NA","NA","NA","NA"
+"South East Central",9.0,10.0,70.0,56.0,"NA","NA","NA","NA"
+"Western",2.0,3.0,7.0,9.0,"NA","NA","NA","NA"

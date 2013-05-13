@@ -1,0 +1,44 @@
+-----
+{
+ "description": "Data provide all India (2001, 2002, 2004, 2006. 2008 and 2009) and state-wise (2009) details on the number of Panchayati Raj institutions and elected representatives.", 
+ "file_name": "NUMBER_OF_PANCHAYATI_RAJ_INSTITUTIONS_AND_ELECTED_REPRESENTATIVES.xls", 
+ "title": "Number of Panchayati Raj Institutions And Elected Representatives ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_PANCHAYATI_RAJ_INSTITUTIONS_AND_ELECTED_REPRESENTATIVES.xls"
+}
+-----
+"State","Village Panchayats - Number","Village Panchayats-Elected Representatives","Intermediate Panchayats - Number","Intermediate Panchayats - Elected Representatives","District Panchayats -  Number","District Panchayats - Elected Representatives"
+"Andhra Pradesh",21825.0,208291.0,1098.0,14617.0,22.0,1095.0
+"Arunachal Pradesh ",1639.0,6485.0,136.0,1639.0,14.0,136.0
+"Assam ",2223.0,22898.0,188.0,2148.0,20.0,390.0
+"Bihar",8471.0,117397.0,531.0,11537.0,38.0,1157.0
+"Chhattisgarh",9820.0,157250.0,146.0,2977.0,16.0,321.0
+"Goa (b)",189.0,1509.0,0.0,0.0,2.0,50.0
+"Gujarat",13819.0,109209.0,224.0,4161.0,25.0,817.0
+"Haryana",6187.0,66588.0,119.0,2833.0,19.0,384.0
+"Himachal Pradesh",3243.0,22654.0,75.0,1676.0,12.0,251.0
+"Jammu & Kashmir","NA","NA","NA","NA","NA","NA"
+"Jharkhand (a)",3746.0,0.0,211.0,0.0,22.0,0.0
+"Karnataka",5628.0,91402.0,176.0,3683.0,29.0,1005.0
+"Kerala",999.0,16139.0,152.0,2004.0,14.0,339.0
+"Madhya Pradesh",23051.0,388829.0,313.0,6851.0,48.0,836.0
+"Maharashtra",27893.0,223857.0,351.0,3922.0,33.0,1961.0
+"Manipur (b)",165.0,1675.0,0.0,0.0,4.0,61.0
+"Meghalaya (d)","NA","NA","NA","NA","NA","NA"
+"Mizoram (d)","NA","NA","NA","NA","NA","NA"
+"Nagaland (d)","NA","NA","NA","NA","NA","NA"
+"Orissa",6234.0,85367.0,314.0,6233.0,30.0,854.0
+"Punjab ",12443.0,88132.0,141.0,2622.0,20.0,209.0
+"Rajasthan",9188.0,113710.0,237.0,5257.0,32.0,1008.0
+"Sikkim (b)",163.0,891.0,0.0,0.0,95.0,95.0
+"Tamil Nadu",12618.0,109308.0,385.0,6524.0,28.0,656.0
+"Tripura",513.0,5352.0,23.0,299.0,4.0,82.0
+"Uttar Pradesh",52000.0,703294.0,820.0,65669.0,70.0,2698.0
+"Uttarakhand",7227.0,53988.0,95.0,3152.0,13.0,360.0
+"West Bengal",3354.0,49545.0,341.0,8563.0,18.0,720.0
+"A & N Islands",67.0,759.0,7.0,67.0,1.0,30.0
+"Chandigarh ",17.0,162.0,1.0,15.0,1.0,10.0
+"D & N Haveli (b)",11.0,114.0,0.0,0.0,1.0,11.0
+"Daman & Diu (b)",14.0,77.0,0.0,0.0,1.0,20.0
+"NCT Delhi (e)","NA","NA",0.0,0.0,"NA","NA"
+"Lakshadweep (b)",10.0,85.0,0.0,0.0,1.0,25.0
+"Puducherry (c) ",98.0,913.0,10.0,108.0,"NA","NA"

@@ -1,0 +1,23 @@
+-----
+{
+ "description": "The table presents data on R&D expenditure by cooperative research associations in the country from 2002-03 to 2005-06. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "Expenditure_On_Research_And_Development_By_Cooperative_Research_Associations.xls", 
+ "title": "Expenditure On Research &amp; Development By Cooperative Research Associations From 2002-03 To 2005-06 ", 
+ "url": "http://data.gov.in/sites/default/files/Expenditure_On_Research_And_Development_By_Cooperative_Research_Associations.xls"
+}
+-----
+"Sl. No.","Name","2002-03","2003-04","2004-05","2005-06"
+1.0,"Ahmedabad Textile Industry's Research Association",427.528,338.896,33.248,349.224
+2.0,"Automotive Research Association of India",2536.386,6194.855,4907.881,8907.704
+3.0,"Bombay Textile Research Association",124.2045,136.766,148.141,119.784
+4.0,"Electrical Research and Development Association",751.5,952.218,1165.869,1173.591
+5.0,"Indian Jute Industries Research Association",513.144,529.569,546.246,222.507
+6.0,"Indian Rubber Manufacturer's Research Association",120.75,480.0,300.0,320.25
+7.0,"Man Made Textile Research Association",117.46,99.393,85.344,85.344
+8.0,"Northern India Textile Research Association",253.134,323.874,303.444,318.504
+9.0,"Petroleum Conservation Research Association ",1766.02,2491.17,2417.55,2433.87
+10.0,"South Indian Textile Industry's Research Association",279.905,321.42,334.375,309.745
+11.0,"Tea Research Association",961.092,1013.553,1210.518,1353.429
+12.0,"The Synthetic and Art Silk Mills Research Association",490.032,446.202,383.805,406.404
+13.0,"Wool Research Association",148.835,129.5485,102.476,97.0785
+"Total","Total",8489.9905,13457.4645,11938.897,16097.4345

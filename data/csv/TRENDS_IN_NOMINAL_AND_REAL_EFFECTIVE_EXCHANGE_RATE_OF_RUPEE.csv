@@ -1,0 +1,17 @@
+-----
+{
+ "description": "Data provides trends in nominal and real effective exchange rate of rupee (Trade Based Weights) from 2004-05 to 2011-12 (Base: 2004-05 =100).", 
+ "file_name": "TRENDS_IN_NOMINAL_AND_REAL_EFFECTIVE_EXCHANGE_RATE_OF_RUPEE.xls", 
+ "title": "Trends In Nominal And Real Effective Exchange Rate of Rupee - Trade Based Weights From 2004-05 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/TRENDS_IN_NOMINAL_AND_REAL_EFFECTIVE_EXCHANGE_RATE_OF_RUPEE.xls"
+}
+-----
+"Year","Nominal Effective Exchange Rate (NEER) 6-Currency Index","Real Effective Exchange Rate (REER) 6-Currency Index","Nominal Effective Exchange Rate (NEER) 36-Currency Index","Real Effective Exchange Rate (REER) 36-Currency Index"
+"2004-05 ",100.0,100.0,100.0,100.0
+"2005-06 ",103.04,105.17,102.24,103.1
+"2006-07",98.09,104.03,97.63,101.29
+"2007-08",104.62,112.76,104.75,108.52
+"2008-09",90.42,102.32,93.34,97.8
+"2009-10",87.07,101.97,90.94,94.74
+"2010-11",91.83,114.91,93.66,102.34
+"2011-12",84.86,111.86,87.61,99.15

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This statement gives state-wise information on key indicators relating to Population, fertility, mortality and current use of family planning methods.", 
+ "file_name": "Demographic_Indicators_1.csv", 
+ "title": "Demographic Indicators As On 18th October 2012 ", 
+ "url": "http://data.gov.in/sites/default/files/Demographic_Indicators_1.csv"
+}
+-----
 Sl.No.,State/UT (1),Population (in 000's) 2011 (2),Annual Exponential Growth Rate(%) 2001-2011 (3),Literacy Rate Female (7 Yrs & above) 2011 (4),Sex Ratio(Females per 1000 males) 2011 (5),Sex Ratio(0-6 years) 2011 (6),C.B.R. (Crude Birth Rate) 2011 (7),C.D.R. (Crude Death Rate) 2011 (8),Natural Increase (CBR-CDR) 2011 (9),I.M.R. (Infant Mortality Rate) 2011 (10),Under 5 Mortality Rate 2010 (11),Maternal Maternity Ratio (MMR) 2007-09 (12),T.F.R. (Total Fertility Rate) 2010 (13),Mean age at effective marriage (Females) 2010 (14),Current use of contraceptive by any modern family planning methods(%) (DLHS-III 2007-08) (15)
 1,Andhra Pradesh,"84,666",1.06,67.66,992,943,17.5,7.5,10,43,48,134,1.8,20.6,65.1
 2,Assam ,"31,169",1.58,73.18,954,957,22.8,8,14.8,55,83,390,2.5,21.6,31.2

@@ -1,0 +1,47 @@
+-----
+{
+ "description": "This data provides state-wise percentage distribution of households living in various types of houses such as pucca, semi-pucca and kutcha houses. The details are given in three different worksheets for combined, rural and urban households respectively.", 
+ "file_name": "PERCENTAGE_DISTRIBUTION_OF_HOUSEHOLDS_LIVING_IN_VARIOUS_TYPES_OF_HOUSES.XLS", 
+ "title": "State-wise Percentage Distribution Of Combined/Rural And Urban Households Living In Various Types Of Houses ", 
+ "url": "http://data.gov.in/sites/default/files/PERCENTAGE_DISTRIBUTION_OF_HOUSEHOLDS_LIVING_IN_VARIOUS_TYPES_OF_HOUSES.XLS"
+}
+-----
+"All-India/State/Union Territory","Pucca- NSS 62nd Round July 2005 - June 2006","Semi-pucca-NSS 62nd Round July 2005 - June 2006","Kutcha- NSS 62nd Round July 2005 - June 2006","Pucca- NSS 63rd Round July 2006 - June 2007","Semi-pucca- NSS 63rd Round July 2006 - June 2007","Kutcha- NSS 63rd Round July 2006 - June 2007","Pucca- NSS 64th Round July 2007- June 2008","Semi-pucca- NSS 64th Round July 2007- June 2008","Kutcha- NSS 64th Round July 2007- June 2008","Pucca- NSS 65th Round July 2008- June 2009","Semi-pucca- NSS 65th Round July 2008- June 2009","Katcha- NSS 65th Round July 2008- June 2009"
+"All-India ",49.8,30.9,19.2,48.8,28.5,22.5,49.7,21.4,18.8,55.4,27.6,17.0
+" Andhra Pradesh",61.2,19.2,19.7,61.9,19.1,18.9,64.3,20.4,15.2,70.2,16.2,13.6
+" Arunachal Pradesh",4.6,20.6,74.7,5.8,22.3,70.2,10.0,20.7,69.0,26.2,19.9,53.7
+" Assam",18.0,43.0,38.8,17.1,37.1,43.2,15.6,47.3,36.9,20.6,42.7,36.6
+" Bihar",44.1,27.2,28.5,38.9,25.0,35.9,36.0,31.4,32.4,44.5,20.0,35.5
+" Chattisgarh",8.7,88.6,2.6,15.9,77.9,5.7,16.7,80.0,2.7,30.1,67.7,2.3
+" Goa","NA","NA","NA","NA","NA","NA","NA","NA","NA",77.4,22.2,0.4
+" Gujarat",63.4,29.2,7.4,62.3,24.0,13.6,57.0,28.2,14.5,62.3,29.2,8.5
+" Haryana",86.8,8.9,4.3,86.9,5.4,7.6,83.0,13.0,4.0,92.9,4.9,2.2
+" Himachal Pradesh",68.5,28.3,3.2,70.8,25.0,4.2,73.4,23.4,3.2,78.5,20.7,0.8
+" Jammu and Kashmir",35.3,43.4,20.6,42.1,38.9,18.0,40.6,39.2,20.2,61.0,22.7,16.3
+" Jharkhand",30.1,60.3,9.6,33.1,48.7,18.2,24.3,61.3,14.4,34.1,51.5,14.3
+" Karnataka",56.1,36.8,7.1,66.9,30.4,2.7,60.5,36.0,3.5,48.3,45.1,6.6
+" Kerala",80.6,14.0,5.2,86.5,8.4,4.9,88.8,6.9,4.3,77.3,19.2,3.5
+" Madhya Pradesh",31.6,53.3,15.1,22.8,44.3,32.9,34.4,49.9,15.7,46.5,47.5,6.0
+" Maharashtra",59.3,34.1,6.4,54.9,37.4,7.7,62.7,29.5,7.9,65.6,29.9,4.5
+" Manipur",2.5,69.4,27.3,4.1,77.1,18.8,3.7,68.6,27.3,12.1,59.7,28.1
+" Meghalaya","NA","NA","NA",39.2,37.7,23.1,37.4,40.7,22.0,42.6,22.9,34.4
+" Mizoram",41.9,43.1,12.3,"NA","NA","NA","NA","NA","NA",47.0,27.8,25.1
+" Nagaland","NA","NA","NA","NA","NA","NA",32.7,37.7,29.6,48.1,39.0,12.8
+" Orissa",28.4,23.8,47.5,22.8,26.7,50.4,22.4,25.5,51.9,32.8,26.6,40.6
+" Punjab",85.8,10.3,3.8,89.3,10.2,0.5,93.1,4.5,2.4,90.4,6.4,3.2
+" Rajasthan",55.0,21.9,23.1,62.9,16.1,20.9,60.2,20.4,19.4,65.3,19.3,15.4
+" Sikkim","NA","NA","NA","NA","NA","NA",60.4,33.0,6.5,55.9,35.1,9.0
+" Tamil Nadu",52.9,24.3,22.8,58.2,25.1,16.7,59.2,26.4,14.4,61.0,20.3,18.6
+" Tripura",2.5,54.9,42.6,6.3,54.3,39.4,5.5,51.5,42.5,10.6,74.6,14.8
+" Uttar Pradesh",53.1,25.0,21.8,48.1,25.2,26.7,52.7,28.5,18.7,92.7,4.1,3.1
+" Uttarakhand","NA","NA","NA","NA","NA","NA",86.8,7.3,4.9,60.5,19.3,20.2
+" West Bengal",32.7,39.9,27.2,31.4,37.1,31.5,23.8,44.0,32.1,36.3,38.5,25.3
+" North Eastern States",19.3,48.0,32.4,22.5,47.4,30.0,18.8,47.3,33.6,"NA","NA","NA"
+" Union Territories@",63.1,16.1,20.7,72.3,11.5,16.2,56.5,13.8,29.7,"NA","NA","NA"
+" A. & N. Islands","NA","NA","NA","NA","NA","NA","NA","NA","NA",56.2,34.0,9.8
+" Chandigarh","NA","NA","NA","NA","NA","NA","NA","NA","NA",99.7,0.3,0.0
+" Daman and Diu","NA","NA","NA","NA","NA","NA","NA","NA","NA",90.7,6.5,2.9
+" D. & N. Haveli","NA","NA","NA","NA","NA","NA","NA","NA","NA",37.2,48.1,14.7
+" Delhi","NA","NA","NA","NA","NA","NA","NA","NA","NA",98.2,1.5,0.3
+" Lakshadweep","NA","NA","NA","NA","NA","NA","NA","NA","NA",94.5,2.7,2.8
+" Puducherry","NA","NA","NA","NA","NA","NA","NA","NA","NA",56.6,13.4,30.0

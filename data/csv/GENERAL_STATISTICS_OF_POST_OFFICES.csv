@@ -1,0 +1,15 @@
+-----
+{
+ "description": "Data provides general statistics of post offices (including letter boxes, total strength of establishments, total postal mail traffic, number of money orders and number of value payable articles sent) from 2000-01 to 2010-11.", 
+ "file_name": "GENERAL_STATISTICS_OF_POST_OFFICES.xls", 
+ "title": "General Statistics of Post Offices From 2000-01 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/GENERAL_STATISTICS_OF_POST_OFFICES.xls"
+}
+-----
+"Particular","Unit","2000-01","2001-02","2002-03"," 2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11"
+"Post offices","no.",154919.0,155295.0,155618.0,155669.0,155516.0,155333.0,155204.0,155305.0,155015.0,154979.0,154866.0
+"Letter boxes (permanent)","no.",595286.0,588996.0,590952.0,597149.0,584006.0,601319.0,589666.0,591054.0,585087.0,579595.0,573749.0
+"Total strength  of establishments (1)","no.",593878.0,579694.0,565922.0,549285.0,540334.0,520191.0,500883.0,494589.0,483385.0,475454.0,466903.0
+"Total Postal Mail Traffic","Crore",1424.34,1108.77,916.33,872.47,746.29,681.48,681.13,657.48,675.95,658.98,661.82
+"No. of money orders (2)","lakh no.",1095.71,1122.29,1050.78,1101.95,1016.44,958.3,991.3,910.69,867.11,813.59,577.14
+"No. of value payable articles sent","'000 no.",9242.0,9286.0,17044.0,10043.0,9372.0,8044.0,8556.0,7818.0,7469.0,7386.0,6499.0

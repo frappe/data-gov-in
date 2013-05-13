@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Time Series data from 1976-77 on wards on important higher education sector variables such as number of universities, deemed universities, colleges along with the total enrolment of students are presented in this table. The data are taken from the University Grants Commission (UGC) annual report.", 
+ "file_name": "Universities_Or_Colleges_And_Their_Enrolment_From_1976-77_To_2006-07.xls", 
+ "title": "Universities / Colleges And Their Enrolment From 1976-77 To 2006-07 ", 
+ "url": "http://data.gov.in/sites/default/files/Universities_Or_Colleges_And_Their_Enrolment_From_1976-77_To_2006-07.xls"
+}
+-----
 "Year","Universities","Institutions Deemed to be Universities","Colleges","Total Enrolment"
 "1976-77","105",9.0,4317.0,2431563.0
 "1977-78","108",9.0,4375.0,2564972.0

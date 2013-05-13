@@ -1,0 +1,44 @@
+-----
+{
+ "description": "Data provide all India (1999, 2004 and 2009) and state-wise (2009) details on status of political parties in election to the Lok Sabha (House of People).", 
+ "file_name": "STATUS_OF_POLITICAL_PARTIES_IN_ELECTION_TO_THE_LOK_SABHA.xls", 
+ "title": "Status of Political Parties In Election To The Lok Sabha - House of People ", 
+ "url": "http://data.gov.in/sites/default/files/STATUS_OF_POLITICAL_PARTIES_IN_ELECTION_TO_THE_LOK_SABHA.xls"
+}
+-----
+"States","Indian  National Congress (National Parties)","Bahujan Samaj Party (National Parties)","Communist Party of India - CPI  (National Parties)","Communist party of India- Marxist (National Parties)","Indian National Party- NCP (National Parties)","Bhartiya Janta Party- BJP (National Parties)","Rashtriya Janta Dal-RJD (National Parties)","Total (National Parties)","State Parties","Registered (Unorgnised) Parties","Indepedents","Total Constituencies"
+"Andhra Pradesh",33.0,"NA","NA","NA","NA","NA","NA",33.0,8.0,8.0,"NA",49.0
+"Arunachal Pradesh",2.0,"NA","NA","NA","NA","NA","NA",2.0,"NA",8.0,"NA",10.0
+"Assam",7.0,"NA","NA","NA","NA",4.0,"NA",4.0,2.0,8.0,"NA",14.0
+"Bihar",2.0,"NA","NA","NA","NA",12.0,4.0,16.0,20.0,2.0,2.0,40.0
+"Chhattisgarh",1.0,"NA","NA","NA","NA",10.0,"NA",10.0,"NA",1.0,"NA",11.0
+"Goa",1.0,"NA","NA","NA","NA",1.0,"NA",1.0,"NA",1.0,"NA",2.0
+"Gujarat",11.0,"NA","NA","NA","NA",15.0,"NA",15.0,"NA",11.0,"NA",26.0
+"Haryana",9.0,"NA","NA","NA","NA","NA","NA",9.0,"NA",1.0,"NA",10.0
+"Himachal Pradesh",1.0,"NA","NA","NA","NA",3.0,"NA",3.0,"NA",1.0,"NA",4.0
+"Jammu & Kashmir",2.0,"NA","NA","NA","NA","NA","NA",2.0,3.0,"NA",1.0,6.0
+"Jharkhand",1.0,"NA","NA","NA","NA",8.0,"NA",9.0,"NA","NA",2.0,11.0
+"Karnataka",6.0,"NA","NA","NA","NA",19.0,"NA",25.0,3.0,"NA","NA",28.0
+"Kerala",13.0,"NA","NA",4.0,"NA","NA","NA",17.0,3.0,"NA","NA",20.0
+"Madhya Pradesh",12.0,1.0,"NA","NA","NA",16.0,"NA",29.0,"NA","NA","NA",29.0
+"Maharashtra",17.0,"NA","NA","NA",8.0,9.0,"NA",34.0,"NA",13.0,1.0,48.0
+"Manipur ",2.0,"NA","NA","NA","NA","NA","NA",2.0,"NA","NA","NA",2.0
+"Meghalaya",1.0,"NA","NA",1.0,"NA","NA","NA",2.0,"NA","NA","NA",2.0
+"Mizoram",1.0,"NA","NA","NA","NA","NA","NA",1.0,"NA","NA","NA",1.0
+"Nagaland","NA","NA","NA","NA","NA","NA","NA","NA",1.0,"NA","NA",1.0
+"Orissa",6.0,"NA",1.0,"NA","NA","NA","NA",7.0,14.0,"NA","NA",21.0
+"Punjab ",8.0,"NA","NA","NA","NA",1.0,"NA",9.0,4.0,"NA","NA",13.0
+"Rajasthan",20.0,"NA","NA","NA","NA",4.0,"NA",24.0,"NA","NA",1.0,25.0
+"Sikkim","NA","NA","NA","NA","NA","NA","NA","NA",1.0,"NA","NA",1.0
+"Tamil Nadu",8.0,"NA",1.0,1.0,"NA","NA","NA",10.0,28.0,1.0,"",39.0
+"Tripura ","NA","NA","NA",2.0,"NA","NA","NA",2.0,"NA","NA","NA",2.0
+"Uttar Pradesh",21.0,20.0,"NA","NA","NA",10.0,"NA",51.0,28.0,"NA",1.0,80.0
+"Uttarakhand",5.0,"NA","NA","NA","NA","NA","NA",5.0,"NA","NA","NA",5.0
+"West Bengal",6.0,"NA",2.0,9.0,"NA",1.0,"NA",18.0,21.0,2.0,1.0,42.0
+"A. & N. Islands","NA","NA","NA","NA","NA",1.0,"NA",1.0,"NA","NA","NA",1.0
+"Chandigarh ",1.0,"NA","NA","NA","NA","","NA",1.0,"NA","NA","NA",1.0
+"Dadra & Nagar Haveli","NA","NA","NA","NA","NA",1.0,"NA",1.0,"NA","NA","NA",1.0
+"Daman & Diu","NA","NA","NA","NA","NA",1.0,"NA",1.0,"NA","NA","NA",1.0
+"Delhi",7.0,"NA","NA","NA","NA","NA","NA",7.0,"NA","NA","NA",7.0
+"Lakshadweep",1.0,"NA","NA","NA","NA","NA","NA",1.0,"NA","NA","NA",1.0
+"Puducherry",1.0,"NA","NA","NA","NA","NA","NA",1.0,"NA","NA","NA",1.0

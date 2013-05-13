@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This dataset provides information about the actual and estimated budget for year 2011, 2012 and 2013 of various organisations under DeitY.", 
+ "file_name": "ACTIVITYWISE_CLASSIFICATION-ACTUAL_2011-12_BUDGET_ESTIMATE_2012-13_REVISED_ESTIMATE_2012-13.xls", 
+ "title": "Actual, Estimated Budget from year 2011 to 2012  ", 
+ "url": "http://data.gov.in/sites/default/files/ACTIVITYWISE_CLASSIFICATION-ACTUAL_2011-12_BUDGET_ESTIMATE_2012-13_REVISED_ESTIMATE_2012-13.xls"
+}
+-----
 "Programme/Scheme","Type","Actual-Plan (2011-12)","Actual-N-Plan (2011-12)","Actual-Total (2011-12)","Budget Estimates-Plan (2012-13)","Budget Estimates-N-Plan (2012-13)","Budget Estimates-Total (2012-13)","Revised Estimate-Plan (2012-13)","Revised Estimate-N-Plan (2012-13)","Revised Estimate-Total (2012-13)"
 "Electronic Governance","e-Government",254.34,0.0,254.34,975.0,0.0,975.0,450.0,0.0,450.0
 "National Informatics Centre","e-Government",730.58,0.0,730.58,754.0,0.0,754.0,754.0,0.0,754.0

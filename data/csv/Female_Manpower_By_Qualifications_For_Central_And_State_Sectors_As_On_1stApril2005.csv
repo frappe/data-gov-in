@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents data on female Research and Development manpower by qualifications for Central And State sectors as on 1st April 2005. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "Female_Manpower_By_Qualifications_For_Central_And_State_Sectors_As_On_1stApril2005.xls", 
+ "title": "Female Research and Development Manpower By Qualifications For Central And State Sectors As On 1st April 2005 ", 
+ "url": "http://data.gov.in/sites/default/files/Female_Manpower_By_Qualifications_For_Central_And_State_Sectors_As_On_1stApril2005.xls"
+}
+-----
 "Sector","Field","PhD","Post Graduate","Graduate","Diploma","Others","Total"
 "CENTRAL SECTOR (A)","NATURAL SCIENCE",661.0,744.0,103.0,12.0,18.0,1538.0
 "CENTRAL SECTOR (A)","AGRICULTURAL SCIENCE",297.0,103.0,16.0,3.0,7.0,426.0

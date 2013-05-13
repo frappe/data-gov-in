@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table provides All India (2001 onwards) and State-wise (2008-09) statistics of employment in respect of Shops, Commercial Establishments and restaurants and theaters.", 
+ "file_name": "EMPLOYMENT_IN_SHOPS_AND_COMMERCIAL_ESTABLISHMENTS.xls", 
+ "title": "Employment In Shops And Commercial Establishments ", 
+ "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_SHOPS_AND_COMMERCIAL_ESTABLISHMENTS.xls"
+}
+-----
 " Year","Shops No. ('000 number)","Shops Workers ('000 number)","Commercial establishment No. ('000 number)","Commercial establishment Workers ('000 number)","Restaurants,  No. ('000 number)","Restaurants,  Workers ('000 number)","All establishment No. ('000 number)","All establishment Workers ('000 number)"
 " 2000","4782","3137","837","2958","217","784","5836","6878"
 " 2001",4866.0,3013.0,901.0,3045.0,255.0,871.0,6023.0,6928.0

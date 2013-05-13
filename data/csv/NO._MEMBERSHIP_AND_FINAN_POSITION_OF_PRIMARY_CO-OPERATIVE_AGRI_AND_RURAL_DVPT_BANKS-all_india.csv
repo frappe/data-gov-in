@@ -1,0 +1,14 @@
+-----
+{
+ "description": "Data provides all India and state-wise details on the number, membership and financial (such as Share Capital, Reserves, Deposits, Borrowings, Working Capital and Loans issued during the year) position of primary co-operative agriculture and rural development banks (Amount in ` Million) as on 31st...", 
+ "file_name": "NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CO-OPERATIVE_AGRI_AND_RURAL_DVPT_BANKS.xls", 
+ "title": "Number / Membership / Financial Position of Primary Co-operative Agriculture And Rural Development Banks As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CO-OPERATIVE_AGRI_AND_RURAL_DVPT_BANKS.xls"
+}
+-----
+"Year","Societies","Membership ('000 no.)","Share capital","Reserves","Deposits","Borrowings","Working Capital","Loans issued during the year"
+"2000-01",754.0,7269.0,6680.7,5567.0,1105.7,70514.4,92952.9,16340.2
+"2001-02",770.0,7254.0,6804.7,6613.9,1273.2,72767.6,98159.1,15722.2
+"2002-03",765.0,7443.0,7246.5,12514.3,2364.3,87256.7,121601.7,20968.8
+"2003-04",729.0,7334.0,8134.813,14567.108,2452.908,98589.258,142400.715,23380.442
+"2004-05",758.0,8377.0,8774.0,19402.0,2600.0,112300.0,161331.0,26060.0

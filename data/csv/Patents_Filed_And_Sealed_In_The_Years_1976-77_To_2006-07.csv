@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Time Series data from 1976-77 to 2006-07 on patents filed and sealed at the Indian Patent Office. The data are taken from the annual reports of the Controller General of Patents, Designs and Trade Marks.", 
+ "file_name": "Patents_Filed_And_Sealed_In_The_Years_1976-77_To_2006-07.xls", 
+ "title": "Patents Filed And Sealed In The Years 1976-77 To 2006-07 ", 
+ "url": "http://data.gov.in/sites/default/files/Patents_Filed_And_Sealed_In_The_Years_1976-77_To_2006-07.xls"
+}
+-----
 "Year","No.of applications made","No. of applications brought forward from preceding year","Total No.of applications to be examined","No. of applications examined","No. of applications deemed to have been abandoned filling of complete specifications","Total No. of complete specifications notified as accepted the year","No. of applications deemed to have been abandoned non-acceptance of Complete Specifications","No. of patents sealed - Indian","No. of patents sealed - Foreign","No. of patents in force - Indian","No. of patents in force - Foreign"
 "1976-77",3104.0,3876.0,6980.0,3612.0,295.0,2840.0,533.0,928.0,1964.0,2746.0,19780.0
 "1977-78",2870.0,3067.0,5937.0,2369.0,378.0,2507.0,577.0,657.0,1857.0,3065.0,19795.0

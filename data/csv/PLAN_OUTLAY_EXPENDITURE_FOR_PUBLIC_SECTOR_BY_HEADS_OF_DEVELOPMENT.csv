@@ -1,0 +1,31 @@
+-----
+{
+ "description": "This data provides details on plan outlay and expenditure for public sector by heads of development of Central government, and States and Union Territories for Tenth and Eleventh Five Year Plan.", 
+ "file_name": "PLAN_OUTLAY_EXPENDITURE_FOR_PUBLIC_SECTOR_BY_HEADS_OF_DEVELOPMENT.XLS", 
+ "title": "Plan Outlay And Expenditure For Public Sector By Heads Of Development ", 
+ "url": "http://data.gov.in/sites/default/files/PLAN_OUTLAY_EXPENDITURE_FOR_PUBLIC_SECTOR_BY_HEADS_OF_DEVELOPMENT.XLS"
+}
+-----
+"Head of Development","Group Name","Tenth Plan Outlay(2002-07) At 2001-02 Prices","Tenth Plan  Expenditure (2002-07) At 2001-02 Prices","Eleventh Plan Outlay (2007-12) At 2006-07 Prices","Annual Plan (2007-08) Actual","Annual Plan (2008-09) Actual","Annual Plan (2009-10) Actual","Annual Plan (2010-11)* (RE)","Annual Plan (2011-12)* (RE)","Annual Plan (2012-13)* (RE)"
+"Agriculture and allied activities","Central Government",21068.0,24993.0,50924.0,8865.0,10134.0,10971.0,15651.0,14718.0,17515.0
+"Rural development","Central Government",79724.0,62974.0,190330.0,19897.0,40267.0,38569.0,42060.0,39132.0,40763.0
+"Special area programmes","Central Government",0.0,0.0,"NA","NA","NA","NA","NA","NA","NA"
+"Irrigation and flood control","Central Government",3600.0,1990.0,6747.0,481.0,456.0,423.0,476.0,489.0,1275.0
+"Energy","Central Government",318183.0,118115.0,628739.0,6202.0,8241.0,9274.0,10389.0,9268.0,12743.0
+"Industry and minerals","Central Government",40372.0,118115.0,121579.0,6621.0,8627.0,9622.0,12381.0,13201.0,17259.0
+"Transport ","Central Government",147448.0,118115.0,386306.0,28794.0,30215.0,44632.0,61692.0,62304.0,72764.0
+"Communications,information and broadcasting","Central Government",98956.0,36255.0,95337.0,794.0,981.0,845.0,621.0,2067.0,4980.0
+"Science,technology and environment","Central Government",27570.0,25685.0,75446.0,7322.0,8797.0,9862.0,11921.0,12713.0,16592.0
+"Social services","Central Government",139002.0,199043.0,578864.0,60394.0,84274.0,89452.0,115720.0,142568.0,173658.0
+"Others","Central Government",17260.0,11985.0,22300.0,4098.0,6168.0,5251.0,15039.0,24945.0,33478.0
+"Agriculture and allied activities","States and Union Territories",37865.0,27075.0,85458.0,11227.0,16959.0,18483.0,25356.0,31416.0,"NA"
+"Rural development","States and Union Territories",42204.0,51964.0,110739.0,14508.0,18821.0,20046.0,25227.0,29269.0,"NA"
+"Special area programmes","States and Union Territories",20879.0,14828.0,26329.0,6578.0,6999.0,7875.0,9638.0,12414.0,"NA"
+"Irrigation and flood control","States and Union Territories",99715.0,100036.0,203579.0,37851.0,40704.0,42430.0,48102.0,63334.0,"NA"
+"Energy","States and Union Territories",85744.0,89017.0,225385.0,27474.0,31675.0,34064.0,43519.0,50213.0,"NA"
+"Industry and minerals","States and Union Territories",18567.0,14440.0,32021.0,4756.0,4716.0,8351.0,10748.0,11142.0,"NA"
+"Transport ","States and Union Territories",78529.0,75685.0,186137.0,31481.0,37659.0,40903.0,44787.0,50052.0,"NA"
+"Communications,information and broadcasting","States and Union Territories",12.0,202.0,43.0,"NA","NA","NA","NA","NA","NA"
+"Science,technology and environment","States and Union Territories",2854.0,1954.0,12487.0,2581.0,3064.0,3405.0,4810.0,5769.0,"NA"
+"Social services","States and Union Territories",208389.0,203456.0,523463.0,80873.0,106547.0,120362.0,8986.0,19260.0,"NA"
+"Others","States and Union Territories",37698.0,34349.0,82506.0,10770.0,11930.0,14204.0,169031.0,213618.0,"NA"

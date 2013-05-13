@@ -1,0 +1,31 @@
+-----
+{
+ "description": "Data provides details on achievement of policy, sum assured, premium income and growth of postal life insurance (PLI) and rural postal life insurance (RPLI) from 2001-02 to 2011-12.", 
+ "file_name": "GROWTH_OF_POSTAL_LIFE_INSURANCE_AND_RURAL_POSTAL_LIFE_INSURANCE.xls", 
+ "title": "Growth of Postal Life Insurance And Rural Postal Life Insurance From 2001-02 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/GROWTH_OF_POSTAL_LIFE_INSURANCE_AND_RURAL_POSTAL_LIFE_INSURANCE.xls"
+}
+-----
+"Year","Group","Premium Income","Increase over previous year","Percentage growth over Previous year"
+"2001-02","Postal Life Insurance(PLI)","NA","NA","NA"
+"2002-03","Postal Life Insurance(PLI)","NA","NA","NA"
+"2003-04","Postal Life Insurance(PLI)","NA","NA","NA"
+"2004-05","Postal Life Insurance(PLI)","NA","NA","NA"
+"2005-06","Postal Life Insurance(PLI)","NA","NA","NA"
+"2006-07","Postal Life Insurance(PLI)",1211.78,"NA","NA"
+"2007-08","Postal Life Insurance(PLI)",1480.34,268.56,22.16
+"2008-09","Postal Life Insurance(PLI)",1860.52,380.18,25.68
+"2009-10","Postal Life Insurance(PLI)",2412.75,552.23,26.98
+"2010-11","Postal Life Insurance(PLI)",3003.33,590.58,24.47
+"2011-12","Postal Life Insurance(PLI)",3681.03,677.7,22.56
+"2001-02","Rural Postal Life Insurance(RPLI)","NA","NA","NA"
+"2002-03","Rural Postal Life Insurance(RPLI)","NA","NA","NA"
+"2003-04","Rural Postal Life Insurance(RPLI)","NA","NA","NA"
+"2004-05","Rural Postal Life Insurance(RPLI)","NA","NA","NA"
+"2005-06","Rural Postal Life Insurance(RPLI)","NA","NA","NA"
+"2006-07","Rural Postal Life Insurance(RPLI)",601.02,"NA","NA"
+"2007-08","Rural Postal Life Insurance(RPLI)",664.7,63.68,10.6
+"2008-09","Rural Postal Life Insurance(RPLI)",879.24,214.54,32.27
+"2009-10","Rural Postal Life Insurance(RPLI)",1357.31,478.07,54.37
+"2010-11","Rural Postal Life Insurance(RPLI)",1111.48,-245.83,-18.11
+"2011-12","Rural Postal Life Insurance(RPLI)",1558.94,447.46,40.26

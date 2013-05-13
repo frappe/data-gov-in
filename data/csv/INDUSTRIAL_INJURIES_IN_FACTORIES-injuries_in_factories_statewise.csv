@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2000 onwards), State wise (2007 onwards) statistics of injuries in factories. The number of injuries is given by the number of persons receiving injuries as a result of an accident. This number is more than the actual number of accidents because one accident may result...", 
+ "file_name": "INDUSTRIAL_INJURIES_IN_FACTORIES.XLS", 
+ "title": "Industrial Injuries In Factories ", 
+ "url": "http://data.gov.in/sites/default/files/INDUSTRIAL_INJURIES_IN_FACTORIES.XLS"
+}
+-----
 "State/ Union Territory"," Fatal Number 2007"," Fatal Number 2008"," Fatal Number 2009"," Fatal Incidence rate(#) 2007"," Fatal Incidence rate(#) 2008"," Fatal Incidence rate(#) 2009","Non-Fatal Number 2007","Non-Fatal Number 2008","Non-Fatal Number 2009","Non-Fatal Incidence rate(#) 2007","Non-Fatal Incidence rate(#) 2008","Non-Fatal Incidence rate(#) 2009"," Total Number 2007"," Total Number 2008"," Total Number 2009"," Total Incidence rate(#) 2007"," Total Incidence rate(#) 2008"," Total Incidence rate(#) 2009"
 " Andhra Pradesh",162.0,170.0,139.0,0.19,0.19,0.15,1593.0,1600.0,1061.0,1.91,1.83,1.11,1765.0,1770.0,1200.0,2.11,2.03,1.26
 " Assam",11.0,15.0,5.0,0.09,0.14,0.04,65.0,67.0,47.0,0.54,0.62,0.34,76.0,82.0,52.0,0.63,0.76,0.38

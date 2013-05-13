@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table shows data upto 2006-07 projects sanctioned under drought prone area program and the second table shows state-wise (2009-10 to 2012-13) data on integrated watershed management programme (IWMP).", 
+ "file_name": "PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME.xls", 
+ "title": "Projects Sanctioned Under Drought Prone Desert Development And Integrated Watershed Management Programme ", 
+ "url": "http://data.gov.in/sites/default/files/PROJECTS_SANCTIONED_UNDER_DROUGHT_PRONE_PROGRAMME.xls"
+}
+-----
 "State","2009-10 No. of Projects","2009-10 Area Covered (m.ha)","2009-10 Central funds released (Rs. In crore)","2010-11 No. of Projects","2010-11 Area Covered (m.ha)","2010-11 Central funds released (Rs. In crore)","2011-12 No. of Projects","2011-12 Area Covered (m.ha)","2011-12 Central funds released (Rs. In crore)","2012-13 No. of Projects","2012-13 Area Covered (m.ha)","2012-13 Central funds released (Rs. In crore)","Total No. of Projects","Total Area Covered (m.ha)","Total Central funds released (Rs. In crore)"
 "Andhra Pradesh",110.0,0.473,30.68,171.0,0.741,119.8,173.0,0.747,160.94,"NA","NA","NA",454.0,1.961,311.42
 "Bihar","NA","NA","NA","NA","NA","NA",40.0,0.192,3.0,"NA","NA",9.43,40.0,0.192,12.43

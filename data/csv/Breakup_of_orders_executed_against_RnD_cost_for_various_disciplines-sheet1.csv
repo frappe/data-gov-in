@@ -1,0 +1,18 @@
+-----
+{
+ "description": "The total defence budget in 2006-2007 was Rs 89000 crores, out of which the Defence R...", 
+ "file_name": "Breakup_of_orders_executed_against_RnD_cost_for_various_disciplines.xls", 
+ "title": "Breakup of Orders executed Against R&amp;D Cost for Various Disciplines ", 
+ "url": "http://data.gov.in/sites/default/files/Breakup_of_orders_executed_against_RnD_cost_for_various_disciplines.xls"
+}
+-----
+"Systems","RnD Cost (Rs in crores)","Orders executed  (Rs in crores) ","Under execution  (Rs in crores)"
+"Missile System",2127.56,987.56,3585.84
+"Naval Systems",66.34,332.43,130.5
+"Electronic Systems",2059.54,1968.51,3766.3
+"Combat Vehicles & Engineering",338.18,117.84,2338.0
+"Aero Systems",2576.63,812.58,3444.6
+"Armament Systems",74.42,5550.0,3399.0
+"Life Sciences Systems",3.35,48.72,70.0
+"Materials",119.58,2158.04,42.25
+"Total",7365.6,"11975.68*","16776.49*"

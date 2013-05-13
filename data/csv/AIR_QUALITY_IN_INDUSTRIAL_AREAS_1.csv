@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table provides State-wise data on air quality in industrial areas under national ambient air quality monitoring programme for the period 2001 onwards.", 
+ "file_name": "AIR_QUALITY_IN_INDUSTRIAL_AREAS_1.xls", 
+ "title": "Air quality in industrial areas under national ambient air quality monitoring programme for a few states ", 
+ "url": "http://data.gov.in/sites/default/files/AIR_QUALITY_IN_INDUSTRIAL_AREAS_1.xls"
+}
+-----
 "State ","2001 SO2","2001 NO2","2001 RSPM","2005 SO2","2005 NO2","2005 RSPM","2008 SO2","2008 NO2","2008 RSPM","2009 SO2","2009 NO2","2009 PM","2010 SO2","2010 NO2","2010 PM"
 " Andhra Pradesh",12.0,30.0,75.0,6.0,28.0,82.0,6.0,27.0,87.0,7.0,20.0,86.0,5.0,17.0,73.0
 " Chandigarh",4.0,19.0,"NA",2.0,2.0,121.0,2.0,20.0,123.0,2.0,15.0,81.0,2.0,16.0,92.0

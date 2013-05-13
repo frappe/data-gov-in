@@ -1,0 +1,22 @@
+-----
+{
+ "description": "CVRDE has been entrusted with abinitio design and development of an Aircraft Mounted Accessory Gear Box (AMAGB) for LCA. The project was sanctioned by Aeronautical Development Agency (ADA) Min. of Defence Bangalore, the Nodal agency for design and development of LCA. AMAGB is a single input, multi...", 
+ "file_name": "Airecraft_Mounted_Accessory_Gearbox_for_LIGHT_COMBAT_AIRCRAFT-_TEJAS_1.xls", 
+ "title": "Airecraft Mounted Accessory Gearbox for LIGHT COMBAT AIRCRAFT TEJAS ", 
+ "url": "http://data.gov.in/sites/default/files/Airecraft_Mounted_Accessory_Gearbox_for_LIGHT_COMBAT_AIRCRAFT-_TEJAS_1.xls"
+}
+-----
+"Specifaicatons / UNIT ","Value"
+"No. Of Hydraulic pump ",2.0
+"Hydraulic pump Power (kW)",60.0
+"Hydraulic pump  speed (rpm)",6000.0
+"Genrator Power (kVA)",40.0
+"Genrator Power speed (rpm)",7950.0
+"Jet fuel Starter Power (kW)",96.0
+"Jet fuel Starter speed (rpm)"," 0 to 9700"
+"Power transmitted (kW)",185.0
+"Speed (rpm)",16810.0
+"Weight (kg)",38.0
+"Overall Dimension Length (mm)",720.0
+"Overall Dimension Height (mm)",450.0
+"Overall Dimension Widht (mm)",120.0

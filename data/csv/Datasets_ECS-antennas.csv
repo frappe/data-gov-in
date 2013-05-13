@@ -1,3 +1,11 @@
+-----
+{
+ "description": "DRDO exhibited its capability by developing the state-of-the-art electronic systems, which include Communication, Command and Control Systems,Radars,Electronic Warfare and Electro-optical systems. There is also Significant achievement of technology development in the areas of Advanced Computing,...", 
+ "file_name": "Datasets_ECS.xls", 
+ "title": "Technology Developments from DRDO in the fields of Electronics and Computer Sciences (ECS) ", 
+ "url": "http://data.gov.in/sites/default/files/Datasets_ECS.xls"
+}
+-----
 "ANTENNAS","VSWR","Beam-width(E x H planes) ","Gain(dB)","Axial Ratio(dB)","Size (mm)","Weight (kg)","Omni variation(dB)"
 "CAVITY BACKED SPIRAL ANTENNA",0.125694444444,"75° x 75°",0.0,4.0,"142 x 47 (Dia x H)",0.76,"NA"
 "BASELINE INTERFEROMETER ARRAY","2.5:1","NA","NA","NA","154 x 55 x 30 (L x W x H)",0.325,"NA"

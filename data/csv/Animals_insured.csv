@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This is a Centrally Sponsored Plan Scheme with the objective to provide protection mechanism to the farmers & cattle rearers against any eventual loss of their animals due to death and to demonstrate the benefit of the insurance of livestock to the people.", 
+ "file_name": "Animals_insured.csv", 
+ "title": "Animals Insured under Livestock Insurance Scheme of GoI in India from 2006-07 onwards ", 
+ "url": "http://data.gov.in/sites/default/files/Animals_insured.csv"
+}
+-----
 S.No., State,Insured Animals in Nos. FY 2006-07,Insured Animals in Nos. FY 2007-08,Insured Animals in Nos. FY 2008-09,Insured Animals in Nos. FY 2009-10 ,Insured Animals in Nos. FY 2010-11    ,Insured Animals in Nos. FY 2011-12,Insured Animals in Nos. FY 2012-13,,,,,,,,,
 1,Andhra Pradesh,117455,67324,71937,262338,203970,115738,117670,,,,,,,,,
 2,Arunchal Pradesh,1012,891,955,150,80,181,,,,,,,,,,

@@ -1,0 +1,21 @@
+-----
+{
+ "description": "The table give details on the production of man-made fibre fabrics (000 sq. metre) from 2000-01 to 2011-12 by handlooms, powerlooms & hoisery and by textile mills.", 
+ "file_name": "PRODUCTION_OF_MAN-MADE_FIBRE_FABRICS.xls", 
+ "title": "Production of Man-Made Fibre Fabrics ", 
+ "url": "http://data.gov.in/sites/default/files/PRODUCTION_OF_MAN-MADE_FIBRE_FABRICS.xls"
+}
+-----
+" Year","By  handlooms, powerlooms & Hosiery (000 sq.metre)","By textile  mills (000 sq.metre)","Total (000 sq.metre)"
+"2000-01",12966000.0,232000.0,13198000.0
+"2001-02",14486000.0,214000.0,14700000.0
+"2002-03",15262000.0,214000.0,15476000.0
+"2003-04",16746000.0,212000.0,16958000.0
+"2004-05",17787000.0,211000.0,17998000.0
+"2005-06",18425000.0,212000.0,18637000.0
+"2006-07",19434000.0,111000.0,19545000.0
+"2007-08",21063000.0,110000.0,21173000.0
+"2008-09",20423000.0,111000.0,20534000.0
+"2009-10",22771000.0,69000.0,22840000.0
+"2010-11",21690000.0,75000.0,21765000.0
+"2011-12 (P)",21509000.0,70000.0,21579000.0

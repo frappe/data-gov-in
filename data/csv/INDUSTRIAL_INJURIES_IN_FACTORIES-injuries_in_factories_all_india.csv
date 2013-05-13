@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2000 onwards), State wise (2007 onwards) statistics of injuries in factories. The number of injuries is given by the number of persons receiving injuries as a result of an accident. This number is more than the actual number of accidents because one accident may result...", 
+ "file_name": "INDUSTRIAL_INJURIES_IN_FACTORIES.XLS", 
+ "title": "Industrial Injuries In Factories ", 
+ "url": "http://data.gov.in/sites/default/files/INDUSTRIAL_INJURIES_IN_FACTORIES.XLS"
+}
+-----
 " Year"," Fatal Number"," Fatal Incidencerate(#)","Non-Fatal Number","Non-Fatal Incidencerate(#)"," Total Number"," Total Incidencerate(#)"
 " 2000","486","0.22","23490","10.70","23976","10.93"
 " 2001",627.0,0.29,27737.0,12.64,28364.0,12.93

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives the statistics on electricity-installed capacity, generation and consumption (utilities only).", 
+ "file_name": "ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION.xls", 
+ "title": "Electricity-Installed Capacity / Generation And Consumption (Utilities Only) ", 
+ "url": "http://data.gov.in/sites/default/files/ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION.xls"
+}
+-----
 " Year/State/ Union Territory","                      Installed Capacity (1) Hydro","                      Installed Capacity (1) Steam","                      Installed Capacity (1)  Diesel and Wind","                      Installed Capacity (1) Gas","                      Installed Capacity (1) Nuclear","                      Installed Capacity (1) Total","  Electricity gener  ated (gross) Hydro","  Electricity gener  ated (gross) Steam","  Electricty generated(gross)-Concld. Diesel and Wind","  Electricty generated(gross)-Concld. Gas","  Electricty generated(gross)-Concld. Nuclear","  Electricty generated(gross)-Concld. Total","Consumption in power station auxiliaries","Electricity generated  (net)","Consumption","Utilities/
 Non Utilities","Non-Utilities","Total@"
 " Andhra Pradesh",3573.0,3343.0,705.0,1603.0,"NA",9224.0,7755.0,25678.0,2303.0,6703.0,"NA",42439.0,2638.0,39801.0,54241.1,928.2,"NA",928.2

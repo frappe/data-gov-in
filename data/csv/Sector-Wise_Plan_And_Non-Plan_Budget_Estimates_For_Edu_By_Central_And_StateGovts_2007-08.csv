@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents sector-wise plan and non-plan budget estimates for education by Central and State governments for 2007-08. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD.", 
+ "file_name": "Sector-Wise_Plan_And_Non-Plan_Budget_Estimates_For_Edu_By_Central_And_StateGovts_2007-08.xls", 
+ "title": "Sector-Wise Plan And Non-Plan Budget Estimates (Revenue Account) For Education By Central And State Governments 2007-08 ", 
+ "url": "http://data.gov.in/sites/default/files/Sector-Wise_Plan_And_Non-Plan_Budget_Estimates_For_Edu_By_Central_And_StateGovts_2007-08.xls"
+}
+-----
 "Sl. No.","SECTOR","PLAN States","PLAN Central","PLAN Total","NON - PLAN States","NON - PLAN Central","NON - PLAN Total","TOTAL States","TOTAL Central","TOTAL"
 1.0,"Elementary Education",6523.53,18626.0,25149.53,43730.73,3.0,43733.73,50254.26,18629.0,68883.26
 2.0,"Secondary Education",2230.51,3164.0,5394.51,31408.39,946.0,32354.39,33638.9,4110.0,37748.9

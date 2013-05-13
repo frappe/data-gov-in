@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Over 17000 Suspicious Transaction Reports were received by FIU-IND during the first four Financial years of its operation. An analysis of these reports were made to decipher Trends in distribution over  Sectors, Geographies & Type of Suspicion", 
+ "file_name": "STR_Trend_Analysis_Report_2010_1.xls", 
+ "title": " Trend Analysis  of Suspicious Transaction Report received by Financial Intelligence Unit-India  ", 
+ "url": "http://data.gov.in/sites/default/files/STR_Trend_Analysis_Report_2010_1.xls"
+}
+-----
 "Category of Suspicion","STRs Received 2006-07","STRs Received 2007-08","STRs Received 2008-09","STRs Received 2009-10","Total Suspicious Transaction Reports Received till 31st March 2010"
 "Identity of Client",107.0,395.0,180.0,350.0,1032.0
 "Background of Client",80.0,98.0,201.0,501.0,880.0

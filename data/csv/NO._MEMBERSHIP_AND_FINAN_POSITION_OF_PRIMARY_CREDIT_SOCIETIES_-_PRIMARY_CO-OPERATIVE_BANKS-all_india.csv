@@ -1,0 +1,14 @@
+-----
+{
+ "description": "Data provides all India and state-wise details on the number, membership and financial (such as Share Capital, Reserves, Deposits, Borrowings, Working Capital and Loans issued during the year) position of primary credit societies (non-agricultural credit societies), primary co-operative banks as on...", 
+ "file_name": "NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CREDIT_SOCIETIES_-_PRIMARY_CO-OPERATIVE_BANKS.xls", 
+ "title": "Number / Membership / Financial Position of Primary Credit Societies (Non-agricultural Credit Societies) - Primary Co-operative Banks As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CREDIT_SOCIETIES_-_PRIMARY_CO-OPERATIVE_BANKS.xls"
+}
+-----
+"Year","Number of Societies ","Membership","Share capital","Reserves","Deposits","Total Borrowing","Total working Capital","Loans issued during the year"
+"2000-01",1987.0,19002.0,18737.2,72549.5,684830.7,16759.7,947298.4,472298.8
+"2001-02",1997.0,19862.082,20801.392,79141.177,739582.509,18959.304,998519.718,634761.608
+"2002-03",2107.0,18104.0,25365.5,119704.1,803879.5,21765.7,1084298.6,570945.4
+"2003-04",2097.0,14698.999,25795.713,140571.4,810931.4,19042.6,1210977.5,616016.5
+"2004-05",2059.0,14509.0,31117.0,155370.1,839077.0,15739.0,1180969.0,595052.0

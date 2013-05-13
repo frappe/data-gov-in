@@ -1,3 +1,11 @@
+-----
+{
+ "description": "DRDO exhibited its capability by developing the state-of-the-art electronic systems, which include Communication, Command and Control Systems,Radars,Electronic Warfare and Electro-optical systems. There is also Significant achievement of technology development in the areas of Advanced Computing,...", 
+ "file_name": "Datasets_ECS.xls", 
+ "title": "Technology Developments from DRDO in the fields of Electronics and Computer Sciences (ECS) ", 
+ "url": "http://data.gov.in/sites/default/files/Datasets_ECS.xls"
+}
+-----
 "Saw (SURFACE ACOUSTIC WAVE) Discrete Chemical Sensors","Sensitivity(Hz/ppm)","Response Time(sec)","Reset Time(sec)","Min. Detected Level(Hz/min)","Drift(min)","Warm-Up time(min)","Power(watt)"
 "Parameters: Sensor 1; Test Vapors: SARIN",1400.0,15.0,60.0,"3 (60)",0.5,20.0,0.5
 "Parameters: Sensor 1; Test Vapors: DMPP",1300.0,15.0,60.0,"120 (50)",0.5,20.0,0.5

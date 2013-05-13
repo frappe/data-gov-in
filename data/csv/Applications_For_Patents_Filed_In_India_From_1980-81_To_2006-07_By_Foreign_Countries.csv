@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Data on patent applications filed in India from 1980-81 to 2006-07 by foreign countries. The data are taken from the annual reports of the Controller General of Patents, Designs and Trade Marks.", 
+ "file_name": "Applications_For_Patents_Filed_In_India_From_1980-81_To_2006-07_By_Foreign_Countries.xls", 
+ "title": "Applications For Patents Filed In India From 1980-81 To 2006-07 By Foreign Countries ", 
+ "url": "http://data.gov.in/sites/default/files/Applications_For_Patents_Filed_In_India_From_1980-81_To_2006-07_By_Foreign_Countries.xls"
+}
+-----
 "Sl. No.","Country  ","1980-81","1985-86","1990-91","1995-96","1998-99","1999-00","2000-01","2001-02","2002-03","2003-04","2004-05","2005-06","2006-07"
 "1.","U.S.A.",570.0,968.0,1130.0,2239.0,2807.0,936.0,2271.0,2916.0,2416.0,3165.0,5265.0,8048.0,8389.0
 "2.","Germany*",274.0,277.0,294.0,676.0,912.0,317.0,829.0,1072.0,857.0,959.0,1614.0,1736.0,2329.0

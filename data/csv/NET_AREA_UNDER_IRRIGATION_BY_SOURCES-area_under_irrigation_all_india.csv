@@ -1,0 +1,19 @@
+-----
+{
+ "description": "This Table give State-wise (2008-09 to 2009-10) and All India (2000-01 to 2010-11) data on net area under irrigation by sources like Canals (Government and Private), Tanks, Tube Wells and Other Wells and Other Sources.", 
+ "file_name": "NET_AREA_UNDER_IRRIGATION_BY_SOURCES.xls", 
+ "title": "Net Area Under Irrigation by Sources ", 
+ "url": "http://data.gov.in/sites/default/files/NET_AREA_UNDER_IRRIGATION_BY_SOURCES.xls"
+}
+-----
+"Year/State/Union Territory","Canals Government ('000 hectare)","Canals Private ('000 hectare)","Canals Total ('000 hectare)","Tanks ('000 hectare)","Tube Wells and other Wells ('000 hectare)","Other sources ('000 hectare)","Total ('000 hectare)"
+" 2000-01",15809.0,203.0,16012.0,2466.0,33818.0,2909.0,55205.0
+" 2001-02",14992.0,209.0,15200.0,2186.0,35183.0,4350.0,56920.0
+" 2002-03",13865.0,206.0,14071.0,1803.0,34348.0,3662.0,53884.0
+" 2003-04 ",14248.0,206.0,14455.0,1916.0,36383.0,4292.0,57046.0
+" 2004-05 ",14550.0,214.0,14763.0,1734.0,35189.0,7531.0,59218.0
+" 2005-06 ",16489.0,227.0,16716.0,2083.0,36070.0,5962.0,60831.0
+" 2006-07 ",16802.0,224.0,17026.0,2078.0,37641.0,5998.0,62744.0
+" 2007-08 ",16595.0,217.0,16812.0,1978.0,38400.0,6103.0,63291.0
+" 2008-09 ",16750.0,195.0,16945.0,1985.0,38795.0,6015.0,63740.0
+" 2009-10",16508.0,188.0,16697.0,1638.0,39042.0,5880.0,63256.0

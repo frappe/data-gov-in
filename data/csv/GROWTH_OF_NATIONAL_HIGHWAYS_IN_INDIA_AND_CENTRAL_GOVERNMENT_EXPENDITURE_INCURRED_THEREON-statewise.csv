@@ -1,0 +1,47 @@
+-----
+{
+ "description": "This data provides all India (2000-01 to 2011-12) and state-wise (2010-11 to 2011-12) details on growth of National Highways and Central Government expenditure on development and maintenance of National Highways.", 
+ "file_name": "GROWTH_OF_NATIONAL_HIGHWAYS_IN_INDIA_AND_CENTRAL_GOVERNMENT_EXPENDITURE_INCURRED_THEREON.XLS", 
+ "title": "All India And State-wise Growth Of National Highways In India And Central Government Expenditure Incurred Thereon ", 
+ "url": "http://data.gov.in/sites/default/files/GROWTH_OF_NATIONAL_HIGHWAYS_IN_INDIA_AND_CENTRAL_GOVERNMENT_EXPENDITURE_INCURRED_THEREON.XLS"
+}
+-----
+"State","Length of National highways (km.) - 2010-11","Length of National highways (km.) - 2011-12","Expenditure on National highways- Development (Crore) - 2010-11","Expenditure on National highways- Development (Crore) - 2011-12","Expenditure on National highways- Maintenance (Crore) - 2010-11","Expenditure on National highways- Maintenance (Crore) - 2011-12"
+"Andhra Pradesh",4537.0,4537.0,254.8,119.8,41.1,62.33
+"Arunachal Pradesh",1992.0,2027.0,"NA","NA",24.7,4.89
+"Assam",2836.0,2940.0,177.6,200.18,83.0,43.91
+"Bihar",3642.0,4106.0,199.2,232.31,37.2,50.6
+"Chhattisgarh",2184.0,2289.0,53.5,52.95,16.3,12.65
+"Goa",269.0,269.0,30.1,4.79,1.3,3.6
+"Gujarat",3245.0,4032.0,111.6,88.82,42.7,61.88
+"Haryana",1518.0,1633.0,143.7,98.16,18.7,21.6
+"Himachal Pradesh",1409.0,1506.0,95.7,121.15,20.7,35.79
+"Jammu & Kashmir **",1245.0,1245.0,"NA","NA","NA","NA"
+"Jharkhand",1805.0,2170.0,112.7,97.14,26.6,16.23
+"Karnataka",4396.0,4396.0,276.7,313.06,54.2,46.4
+"Kerala",1457.0,1457.0,109.0,153.66,37.2,22.27
+"Madhya Pradesh",5027.0,5064.0,134.2,76.07,29.9,19.04
+"Maharashtra",4191.0,4257.0,265.5,304.9,49.0,94.96
+"Manipur",959.0,1317.0,63.9,47.09,10.2,13.71
+"Meghalaya",810.0,1171.0,79.1,82.76,27.1,34.7
+"Mizoram",927.0,1027.0,24.2,40.81,8.7,17.98
+"Nagaland",494.0,494.0,26.9,19.63,7.0,49.51
+"Orissa",3704.0,3704.0,230.7,272.94,61.6,32.18
+"Punjab",1557.0,1557.0,115.0,117.23,14.0,14.84
+"Rajasthan",5585.0,7130.0,147.3,116.93,49.3,97.42
+"Sikkim **",62.0,149.0,"NA","NA","NA","NA"
+"Tamil Nadu",4832.0,4943.0,182.1,159.99,34.1,33.74
+"Tripura  **",400.0,400.0,"NA","NA","NA","NA"
+"Uttar Pradesh",2042.0,7818.0,452.6,323.75,66.5,84.2
+"Uttarakhand",6774.0,2042.0,130.8,51.72,28.0,34.8
+"West Bengal",2578.0,2681.0,120.6,282.93,38.2,22.14
+"A. & N. Islands",300.0,300.0,1.9,2.13,"NA","NA"
+"Chandigarh",24.0,24.0,8.8,0.81,0.3,0.37
+"D. & N. Haveli","NA","NA","NA","NA","NA","NA"
+"Daman and Diu","NA","NA","NA","NA","NA","NA"
+"Delhi",80.0,80.0,52.6,5.7,"NA","NA"
+"Lakshadweep","NA","NA","NA","NA","NA","NA"
+"Puducherry",53.0,53.0,3.9,4.73,1.5,0.3
+"National Highways Authority of India *","NA","NA",12563.9,21379.89,617.7,95.42
+"Border Roads Organization *","NA","NA",700.0,515.0,41.5,55.0
+"TOTAL",70934.0,76818.0,16868.78,25287.03,1488.0,1082.46

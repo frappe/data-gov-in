@@ -1,0 +1,40 @@
+-----
+{
+ "description": "Data provides all India (from 2000 to 2008) and state-wise (2007 and 2008) details on general funds of registered trade unions (workers' unions, employers' unions, workers' central union and workers' state union).", 
+ "file_name": "GENERAL_FUNDS_OF_REGISTERED_TRADE_UNIONS.xls", 
+ "title": "General Funds of Registered Trade Unions ", 
+ "url": "http://data.gov.in/sites/default/files/GENERAL_FUNDS_OF_REGISTERED_TRADE_UNIONS.xls"
+}
+-----
+"Central/StateUnion","No. of unions submitting returns- 2007","No. of unions submitting returns- 2008","Opening balance- 2007","Opening balance- 2008","Income- 2007","Income- 2008","Expenditure- 2007","Expenditure- 2008","Closing balance- 2007","Closing balance- 2008"
+"State Union",6825.0,8943.0,526359.30335,660828.0,332552.28,690216.0,309857.27926,568921.0,549054.65892,782128.0
+"Andhra Pradesh","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Assam",571.0,547.0,90101.006,36030.0,40142.003,62066.0,46731.78,62344.0,83511.229,35752.0
+"Bihar","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Chattisgarh","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Goa",58.0,65.0,7559.0,16593.0,12054.51,12983.0,10267.289,10939.0,9346.39,18636.0
+"Gujarat","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Haryana",249.0,259.0,15531.09085,17335.0,8562.0,14104.0,6233.436,13200.0,17859.95512,18239.0
+"Himachal Pradesh",156.0," NA",3524.0," NA",11967.34609," NA",9349.83214," NA",6141.47643," NA"
+"Jammu & Kashmir","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Karnataka",186.0,693.0,99580.68075,141831.0,47480.27199,101260.0,61159.45131,101770.0,85901.50143,141322.0
+"Kerala",1249.0," NA",73733.787," NA",80702.691," NA",86445.043," NA",67991.435," NA"
+"Madhya Pradesh","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Maharashtra","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Manipur",66.0," NA",1564.61263," NA",3432.161," NA",3480.34589,"NA",1516.42774,"NA"
+"Meghalaya",22.0,24.0,3202.301,427.0,715.528,849.0,640.51,650.0,3277.319,625.0
+"Mizoram",15.0,5.0,182.124,242.0,4351.757,329.0,576.31,59.0,3957.571,512.0
+"Nagaland",20.0,20.0,130.0,220.0,2125.962,3197.0,2088.878,3170.0,167.28908,247.0
+"Orissa",54.0," NA",6424.0,"NA",7070.99,"NA",5509.872,"NA",7985.226,"NA"
+"Punjab",460.0,450.0,11079.0,37520.0,20241.577,27203.0,16608.497,23358.0,14711.825,41365.0
+"Rajasthan",484.0,177.0,34827.0,4502.0,27197.296,8402.0,28119.859,7400.0,33904.578,5505.0
+"Tamil Nadu",3090.0,3282.0,173460.0,141435.0,61039.0,251007.0,28165.724,152132.0,206333.0,240309.0
+"Tripura",34.0," NA",2400.8814,"NA",2005.54616,"NA",1586.03266,"NA",2820.3949,"NA"
+"Uttar Pradesh","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Uttrakhand","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"West Bengal","NA",3359.0,"NA",261991.0,"NA",206229.0,"NA",192794.0,"NA",275426.0
+"A.& N.Islands",21.0,"NA",57.2,"NA",107.0,"NA",124.7,"NA",39.5,"NA"
+"Chandigarh",89.0,61.0,3002.61972,2702.0,3244.38476,2452.0,2657.46326,970.0,3589.54122,4190.0
+"D & N Haveli",1.0,1.0,"NA","NA",112.256,135.0,112.256,135.0,"NA","NA"
+"Delhi","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Puducherry","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"

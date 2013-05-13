@@ -1,0 +1,14 @@
+-----
+{
+ "description": "Data provides all India and state-wise details on the number, membership and financial (Share Capital, Reserves, Deposits, Loans, Working Capital and Loans issued during the year) position of primary credit societies (primary non-agricultural credit societies) as on 31st March.", 
+ "file_name": "NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CREDIT_SOCIETIES_-_NON-AGRI_CREDIT_SOCIETIES.xls", 
+ "title": "Number / Membership / Financial Position of Primary Credit Societies - Primary Non-Agricultural Credit Societies As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CREDIT_SOCIETIES_-_NON-AGRI_CREDIT_SOCIETIES.xls"
+}
+-----
+"Year","Number of Societies ","Membership","Share capital","Reserves","Deposits","Loans from Government","Loans from Central Financing agencies","Loans from Others","Total","Total working Capital","Loans issued during the year"
+"2000-01",45438.0,18486.0,36366.6,14723.3,86867.1,62.3,21803.1,4842.7,28708.2,193493.4,120690.8
+"2001-02",48035.0,17662.0,40824.1,16005.9,110563.7,89.5,21359.8,5327.3,26776.6,237402.3,144656.3
+"2002-03",40596.0,24276.0,46964.0,24080.6,130893.7,78.7,23730.6,5596.3,29405.6,291208.1,180892.6
+"2003-04",40420.0,19387.744,50649.283,27028.763,132218.181,53.125,23359.28,5420.725,28833.13,327682.884,201957.409
+"2004-05",40579.0,19031.452,55246.078,31166.253,142697.138,128.355,19864.919,5617.317,25611.0,376401.227,225823.272

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of product wise, group wise and year wise production of major chemicals products during 2006-07 to 2012-13 (upto September 2012) in India. Production figures have been aggregated based on Monthly Production returns received directly by the Department of Chemicals and...", 
+ "file_name": "Production_of_Major_Chemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12.xls", 
+ "title": "Production of Major Chemicals - Product-wise / Group-wise from 2006-07 to 2012-13 (upto September 2012) ", 
+ "url": "http://data.gov.in/sites/default/files/Production_of_Major_Chemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12.xls"
+}
+-----
 "Major Groups","Products","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13 (April to Sep.)"
 "ALKALI CHEMICALS","SODA ASH",2078.06,2005.51,1989.05,2058.34,2298.75,2410.82,1184.54
 "ALKALI CHEMICALS","CAUSTIC SODA",1914.22,2050.69,2050.03,2103.75,2178.45,2215.66,1058.65

@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This data provides details on receipts and payments of post office life insurance fund account from 2000-01 to 2011-12.", 
+ "file_name": "POST_OFFICE_LIFE_INSURANCE_FUND_ACCOUNT_1.xls", 
+ "title": "Post Office Life Insurance Fund Account From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/POST_OFFICE_LIFE_INSURANCE_FUND_ACCOUNT_1.xls"
+}
+-----
+"Particular","Group","2000-01","2001-02","2002-03","2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Balance at the beginning of the year(as on Ist April)","Receipts","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Subscriptions realised","Receipts","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Interest on balance","Receipts","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Total","","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Postal establishment including printing etc.","Payments","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Balance at the end of the year","Payments","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"

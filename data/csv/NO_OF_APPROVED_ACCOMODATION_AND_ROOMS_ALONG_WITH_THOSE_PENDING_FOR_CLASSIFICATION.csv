@@ -1,0 +1,21 @@
+-----
+{
+ "description": "Data provide details on the number of approved and unclassified accommodation and rooms as on 31st December 2010.", 
+ "file_name": "NO_OF_APPROVED_ACCOMODATION_AND_ROOMS_ALONG_WITH_THOSE_PENDING_FOR_CLASSIFICATION.xls", 
+ "title": "Number of Approved And Unclassified Accommodation And Rooms As On 31st December 2010 ", 
+ "url": "http://data.gov.in/sites/default/files/NO_OF_APPROVED_ACCOMODATION_AND_ROOMS_ALONG_WITH_THOSE_PENDING_FOR_CLASSIFICATION.xls"
+}
+-----
+"Category","Approved","Approved Rooms","Pending for classification","Rooms - Pending for classification"
+"0ne Star Hotel",67.0,2537.0,26.0,832.0
+"Two Star Hotel",307.0,8446.0,47.0,1238.0
+"Three Star Hotel",869.0,36585.0,80.0,3293.0
+"Four Star Hotel",157.0,12059.0,34.0,2024.0
+"Five Star Hotel",149.0,17144.0,13.0,1597.0
+"Five Star Delux Hotel",153.0,34187.0,10.0,1374.0
+"Heritage",146.0,3879.0,18.0,419.0
+"Apartment Hotels",8.0,756.0,2.0,144.0
+"Time Share Resorts",1.0,62.0,1.0,25.0
+"Silver B&B Establishment",469.0,1540.0,2.0,10.0
+"Guest House ",1.0,40.0,"NA","NA"
+"TOTAL",2483.0,117815.0,233.0,10956.0

@@ -1,0 +1,41 @@
+-----
+{
+ "description": "This data provides details on capital formation by type of assets and by type of institutions at constant (2004-05) prices from 2004-05 to 2010-11.", 
+ "file_name": "CAPITAL_FORMATION_BY_TYPE_OF_ASSETS_AND_BY_TYPE_OF_INSTITUTIONS_AT_CONSTANT_PRICES.xls", 
+ "title": "Capital Formation By Type Of Assets And By Type Of Institutions At Constant Prices From 2004-05 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/CAPITAL_FORMATION_BY_TYPE_OF_ASSETS_AND_BY_TYPE_OF_INSTITUTIONS_AT_CONSTANT_PRICES.xls"
+}
+-----
+"Item","Group Name","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11"
+"gross capital formation -Total","gross capital formation ",1052231.49682,1223717.1782,1410754.15634,1653438.00914,1626220.41728,1814641.06683,2015836.51989
+"public sector","gross capital formation ",240580.0,281995.0,324020.0,382431.0,429285.0,448485.0,477165.0
+"private corporate sector","gross capital formation ",334868.717327,485556.0,578377.0,768352.0,541902.0,671349.0,725167.0
+"household sector","gross capital formation ",435728.847417,415752.0,462424.0,455392.0,595046.0,600283.0,688313.0
+"valuables+","gross capital formation ",41053.9320781,40414.1781972,45933.1563376,47263.0091404,59987.4172815,94524.0668253,125191.519889
+"gross fixed capital formation - Total","gross fixed capital formation",931027.564744,1081792.0,1231265.0,1430764.0,1480943.0,1580944.0,1699387.0
+"public sector- total","gross fixed capital formation",224108.0,260750.0,308594.0,347221.0,389039.0,410212.0,435106.0
+"public sector - construction","gross fixed capital formation",144108.0,174449.0,203057.0,225145.0,242008.0,249354.0,269209.0
+"public sector - machinery & equipment","gross fixed capital formation",80000.0,86301.0,105537.0,122076.0,147031.0,160858.0,165897.0
+"private corporate sector","gross fixed capital formation",295620.717327,422992.0,498904.0,637139.0,497396.0,572934.0,599790.0
+"private corporate sector - construction","gross fixed capital formation",74652.9021694,129761.0,143654.0,176678.0,92096.0,135879.0,143736.0
+"private corporate sector- machinery & equipment","gross fixed capital formation",220967.815157,293231.0,355250.0,460461.0,405300.0,437055.0,456054.0
+"household sector","gross fixed capital formation",411298.847417,398050.0,423767.0,446404.0,594508.0,597798.0,664491.0
+"household sector - construction","gross fixed capital formation",295002.691139,285930.0,313478.0,348997.0,438209.0,441767.0,484457.0
+"household sector - machinery & equipment","gross fixed capital formation",116296.156278,112120.0,110289.0,97407.0,156299.0,156031.0,180034.0
+"change in stocks - Total","change in stocks",80150.0,101511.0,133556.0,175411.0,85290.0,139173.0,191258.0
+"public sector","change in stocks",16472.0,21245.0,15426.0,35210.0,40246.0,38273.0,42059.0
+"private corporate sector","change in stocks",39248.0,62564.0,79473.0,131213.0,44506.0,98415.0,125377.0
+"household sector","change in stocks",24430.0,17702.0,38657.0,8988.0,538.0,2485.0,23822.0
+"Valuables+","Valuables+",41053.9320781,40414.1781972,45933.1563376,47263.0091404,59987.4172815,94524.0668253,125191.519889
+"less consumption of fixed capital**- Total","less consumption of fixed capital**",319891.0,350894.0,385699.0,427630.0,468903.0,520320.0,564463.0
+"public sector","less consumption of fixed capital**",109005.0,114712.0,120486.0,127670.0,134815.0,147854.0,149749.0
+"private corporate sector","less consumption of fixed capital**",99850.0,115233.0,134269.0,159646.0,177411.0,199018.0,224027.0
+"household sector","less consumption of fixed capital**",111036.0,120949.0,130944.0,140314.0,156677.0,173448.0,190687.0
+"net capital formation - Total","net capital formation ",732340.496822,872823.178197,1025055.15634,1225808.00914,1157317.41728,1294321.06683,1451373.51989
+"public sector","net capital formation ",131575.0,167283.0,203534.0,254761.0,294470.0,300631.0,327416.0
+"private corporate sector","net capital formation ",235018.717327,370323.0,444108.0,608706.0,364491.0,472331.0,501140.0
+"household sector","net capital formation ",324692.847417,294803.0,331480.0,315078.0,438369.0,426835.0,497626.0
+"valuables+","net capital formation ",41053.9320781,40414.1781972,45933.1563376,47263.0091404,59987.4172815,94524.0668253,125191.519889
+"errors & omissions","errors & omissions",11809.4631782,13210.1882044,-8385.61987382,3453.75294476,-55887.002847,24229.0146265,-41664.5926519
+"net capital formation adjusted for errors & omissions","net capital formation adjusted for errors & omissions",744149.96,886033.366402,1016669.53646,1229261.76209,1101430.41443,1318550.08145,1409708.92724
+"gross capital formation adjusted for errors & omissions","gross capital formation adjusted for errors & omissions",1064040.96,1236927.3664,1402368.53646,1656891.76209,1570333.41443,1838870.08145,1974171.92724

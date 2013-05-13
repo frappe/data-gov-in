@@ -1,0 +1,19 @@
+-----
+{
+ "description": "This data provides the percentage of distribution of rural and urban census houses according to the uses to which they are put for 2001 and 2011.", 
+ "file_name": "DISTRIBUTION_OF_CENSUS_HOUSES_ACCORDING_TO_THE_USES_TO_WHICH_THEY_ARE_PUT.XLS", 
+ "title": "Percentage Of Distribution Of Rural And Urban Census Houses According To The Uses To Which They Are Put ", 
+ "url": "http://data.gov.in/sites/default/files/DISTRIBUTION_OF_CENSUS_HOUSES_ACCORDING_TO_THE_USES_TO_WHICH_THEY_ARE_PUT.XLS"
+}
+-----
+"Occupied Census Houses used as","Total-2001","Rural-2001","Urban-2001","Total-2011","Rural-2011","Urban-2011"
+"Residence",71.97,72.69,70.18,77.1,77.2,76.9
+"Residence cum others",3.17,3.4,2.57,2.8,3.0,2.4
+"Shop - office",5.38,3.14,10.93,5.8,3.4,10.8
+"School - College etc.",0.6,0.69,0.38,0.7,0.8,0.4
+"Hotel - Lodge - Guest house etc.",0.21,0.15,0.36,0.2,0.2,0.4
+"Hospital - Dispensary etc.",0.24,0.19,0.37,0.2,0.2,0.3
+"Factory - workshop etc.",0.89,0.56,1.71,0.8,0.5,1.5
+"Place of worship",0.96,1.12,0.58,1.0,1.2,0.6
+"Other non residential",10.23,12.79,3.9,11.0,13.3,6.0
+"Vacant census houses",6.35,5.27,9.02,0.4,0.2,0.7

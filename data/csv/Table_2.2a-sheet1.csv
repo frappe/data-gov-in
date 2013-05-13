@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Annual real growth rate of Consumption Expenditure at constant 2004-05 prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17) \u2013 (in per cent)", 
+ "file_name": "Table_2.2a.xls", 
+ "title": "Annual growth rate of Consumption Expenditure at constant 2004-05 prices  ", 
+ "url": "http://data.gov.in/sites/default/files/Table_2.2a.xls"
+}
+-----
 "No.","Component","2007-08","2008-09","2010-11","2011-12","2011-12","Average Eleventh Plan","2012-13","2013-14","2014-15","2015-16","2016-17","Average Twelfth Plan"
 1.0,"Private consumption exp",9.4,7.2,7.4,8.6,8.0,8.1,6.5,7.5,7.5,8.0,8.0,7.5
 2.0,"Govt consumption exp",9.6,10.4,13.9,5.9,8.6,9.7,5.1,5.5,5.5,5.5,5.5,5.4

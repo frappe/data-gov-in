@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of company-wise and year-wise production of crude oil during 2004-05 to 2011-12 in India.", 
+ "file_name": "Company-wise_Production_of_Crude_Oil_in_India-2004-12.xls", 
+ "title": "Company-wise Production of Crude Oil in India: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Company-wise_Production_of_Crude_Oil_in_India-2004-12.xls"
+}
+-----
 "Year","ONGC","JVC","Total"
 "2004-05",18164.0,4226.0,22390.0
 "2005-06",16309.0,4451.0,20760.0

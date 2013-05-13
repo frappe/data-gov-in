@@ -1,0 +1,21 @@
+-----
+{
+ "description": "Data provides details on exchange rate of rupee vis-a vis selected currencies (US Dollar, Pound Sterling, Euro, Yen, Canadian Dollar and Brazillian Dollar) of the world from 2000-01 to 2011-12. ", 
+ "file_name": "EXCHANGE_RATE_OF_RUPEE_VIS-A-VIS_SELECTED_CURRENCIES_OF_THE_WORLD.xls", 
+ "title": "Exchange Rate of Rupee vis-a vis Selected Currencies of The World ", 
+ "url": "http://data.gov.in/sites/default/files/EXCHANGE_RATE_OF_RUPEE_VIS-A-VIS_SELECTED_CURRENCIES_OF_THE_WORLD.xls"
+}
+-----
+"Year","US Doller","Pound Sterling","Euro","Yen","Canadian Doller","Brazillian Real","Special Drawing Rights (SDR)"
+"2000-01",45.684,67.552,41.483,0.414,30.383,24.153,59.546
+"2001-02",47.692,68.319,42.181,0.382,30.473,19.549,60.215
+"2002-03",48.395,74.819,48.09,0.397,31.253,15.489,64.126
+"2003-04",45.952,77.739,53.99,0.407,33.991,15.713,65.684
+"2004-05 ",44.932,82.864,56.513,0.418,35.205,15.707,66.928
+"2005-06",44.273,79.047,53.912,0.391,37.137,19.17,64.49
+"2006-07",42.25,85.643,58.111,0.387,39.765,21.044,67.254
+"2007-08",40.261,80.841,56.991,0.354,39.042,21.762,62.651
+"2008-09",45.993,78.316,65.135,0.462,40.875,23.569,71.277
+"2009-10",47.417,75.886,67.084,0.511,43.488,25.351,73.733
+"2010-11",45.577,70.885,60.218,0.532,44.77,26.37,69.723
+"2011-12",47.923,76.391,65.48,0.603,48.21,28.18,75.313

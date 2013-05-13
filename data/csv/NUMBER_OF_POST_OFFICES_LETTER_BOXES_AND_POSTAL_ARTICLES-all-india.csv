@@ -1,0 +1,28 @@
+-----
+{
+ "description": "Data provides circle-wise details on the number of post offices, letter boxes and estimated number of postal articles handled (excluding money orders) for 2009-10 and 2010-11.", 
+ "file_name": "NUMBER_OF_POST_OFFICES_LETTER_BOXES_AND_POSTAL_ARTICLES.xls", 
+ "title": "Number of Post Offices / Letter Boxes And Postal Articles For 2009-10 And 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_POST_OFFICES_LETTER_BOXES_AND_POSTAL_ARTICLES.xls"
+}
+-----
+"Year","No. of Post Offices","No. of Letter boxes","Unregistered Articles (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Registered Articles (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Speed Posts & Expres Parcel Posts (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))","Total Mail Traffic (Estimated Number of Postal articles handled                                                
+(excluding money orders)
+('000))"
+"2000-01",154919.0,595286.0,13958080.0,245195.0,40160.0,14243435.0
+"2001-02",155295.0,588996.0,10813450.0,217219.0,57084.0,11087753.0
+"2002-03",155618.0,590952.0,8871649.0,222420.0,69169.0,9163238.0
+"2003-04",155669.0,597149.0,8421644.0,213593.0,89413.0,8724650.0
+"2004-05",155516.0,584006.0,7146187.0,214176.0,102559.0,7462922.0
+"2005-06",155333.0,601319.0,6492154.0,208557.0,114167.0,6814878.0
+"2006-07",155204.0,589666.0,6459870.0,217307.0,134200.0,6811377.0
+"2007-08",155305.0,591054.0,6191308.0,199844.0,183653.0,6574805.0
+"2008-09",155015.0,585087.0,6342757.0,198272.0,218604.0,6759633.0
+"2009-10",154979.0,579595.0,6146519.0,195817.0,247495.0,6589831.0
+"2010-11",154866.0,573749.0,6157610.0,177872.0,282707.0,6618189.0

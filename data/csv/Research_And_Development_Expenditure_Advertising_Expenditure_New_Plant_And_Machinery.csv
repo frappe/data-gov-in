@@ -1,0 +1,13 @@
+-----
+{
+ "description": "The table presents data on R&D expenditure, advertising expenditure, new plant and machinery expenditure from 2002-03 to 2005-06. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "Research_And_Development_Expenditure_Advertising_Expenditure_New_Plant_And_Machinery.xls", 
+ "title": "Research And Development Expenditure / Advertising Expenditure / New Plant And Machinery From 2002-03 To 2005-06 ", 
+ "url": "http://data.gov.in/sites/default/files/Research_And_Development_Expenditure_Advertising_Expenditure_New_Plant_And_Machinery.xls"
+}
+-----
+"Year","Research and Development Expenditure Public Sector","Research and Development Expenditure Private Sector","Advertising Expenditure Public Sector","Advertising Expenditure Private Sector","New Plant and Machinery Expenditure Public Sector","New Plant and Machinery Expenditure Private Sector","Public Sector Sales Turnover","Private Sector Sales Turnover"
+"2002-03",1078.07,2784.69,344.52,11587.97,10677.87,13054.82,286242.8,599988.93
+"2003-04",1091.03,3642.54,530.42,11452.85,13702.66,12123.01,311134.64,677074.0
+"2004-05",1257.88,5075.82,461.81,11909.98,11961.14,20231.28,382882.6,814533.64
+"2005-06",1304.26,6268.43,527.07,14697.47,17600.61,22781.7,436961.09,943123.27

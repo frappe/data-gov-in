@@ -1,0 +1,34 @@
+-----
+{
+ "description": "Data provides all India and state-wise details on the number, membership and financial (such as Share Capital, Reserves, Deposits, Borrowings, Working Capital and Loans issued during the year) position of primary credit societies (non-agricultural credit societies), primary co-operative banks as on...", 
+ "file_name": "NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CREDIT_SOCIETIES_-_PRIMARY_CO-OPERATIVE_BANKS.xls", 
+ "title": "Number / Membership / Financial Position of Primary Credit Societies (Non-agricultural Credit Societies) - Primary Co-operative Banks As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_CREDIT_SOCIETIES_-_PRIMARY_CO-OPERATIVE_BANKS.xls"
+}
+-----
+"State","Number of Societies ","Membership","Share capital","Reserves","Deposits","Total Borrowing","Total working Capital","Loans issued during the year"
+"Andhra Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Arunachal Pradesh",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Assam",251.0,149.0,506.9,27.4,114.0,30.8,2192.1,157.8
+"Bihar",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Goa",7.0,0.0,233.0,1165.0,537.0,0.0,10254.0,1524.0
+"Gujarat",323.0,3.0,7806.0,58433.0,116446.0,2849.0,211140.0,51969.0
+"Haryana (2)",9.0,55.0,76.0,117.1,1495.0,13.0,1744.0,1577.3
+"Himachal Pradesh",5.0,13.0,18.0,36.8,818.0,2.0,960.0,1465.3
+"Jammu & Kashmir",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Karnataka",287.0,1967.0,3197.0,8731.0,67738.0,1104.0,107773.0,48468.0
+"Kerala ",62.0,1294.0,783.0,2434.0,18658.0,316.0,28572.0,22023.0
+"Madhya Pradesh",72.0,298.0,462.0,139.0,973.0,66.0,2726.0,857.0
+"Maharashtra",635.0,7986.0,15411.0,73156.0,583316.0,9889.0,745798.0,431245.0
+"Manipur ",2.0,14.0,14.0,19.1,568.8,0.0,643.0,0.0
+"Meghalaya ",66.0,26.0,34.0,6.0,11.0,10.0,244.0,13.1
+"Nagaland",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Orissa",8.0,141.0,192.0,290.0,4661.0,0.0,6024.0,7157.0
+"Punjab ",4.0,24.0,113.0,274.0,2836.0,0.0,3365.0,4002.0
+"Rajasthan ",167.0,478.0,1135.0,1435.0,13281.0,128.0,17918.0,7690.0
+"Sikkim",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Tamil Nadu",123.0,1762.0,1013.0,8921.0,25270.0,1315.0,38631.0,16509.0
+"Tripura",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Uttar Pradesh (3)",38.0,299.0,124.0,185.7,2354.4,17.0,2985.0,394.5
+"West Bengal",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Puducherry",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

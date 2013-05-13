@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents data on number of job seekers on the live registers on the employment exchanges during the period 1971-2006 by various Science & Technology fields. The data are taken from the publication - Analysis of Budgeted Expenditure on Education, Department of Education, MHRD.", 
+ "file_name": "No_of_Job_Seekers_On_The_Live_Registers_of_Emp_Exch_During_The_Period_1971-2006.xls", 
+ "title": "Number of Job Seekers on The Live Registers of Employment Exchange During The Period 1971-2006 ", 
+ "url": "http://data.gov.in/sites/default/files/No_of_Job_Seekers_On_The_Live_Registers_of_Emp_Exch_During_The_Period_1971-2006.xls"
+}
+-----
 "Year","Engineering Diploma Holders","Graduates - Medical*","Graduates - Agriculture*","Graduates  - Veterinary*","Graduates - Science*","Graduates - Engineering*","Graduates - Total","Post-graduates - Medical","Post-graduates - Agriculture","Post-graduates - Veterinary","Post-graduates - Science","Post-graduates - Total"
 1971.0,54056.0,3848.0,7325.0,361.0,99189.0,19050.0,129773.0,105.0,682.0,31.0,10114.0,10932.0
 1972.0,59847.0,5127.0,9092.0,200.0,160644.0,22808.0,197871.0,128.0,810.0,7.0,13642.0,14587.0

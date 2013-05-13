@@ -1,0 +1,33 @@
+-----
+{
+ "description": "The table presents data on R&D expenditure by state governments in the country from 2002-03 to 2005-06. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "Expenditure_On_Research_And_Development_By_State_Governments.xls", 
+ "title": "Expenditure On Research And Development By State Governments From 2002-03 To 2005-06 ", 
+ "url": "http://data.gov.in/sites/default/files/Expenditure_On_Research_And_Development_By_State_Governments.xls"
+}
+-----
+"Sl. No.","State","2002-03","2003-04","2004-05","2005-06"
+1.0,"Andhra Pradesh",10746.12,10602.65,11013.99,11881.31
+2.0,"Assam",5851.1,6180.37,5674.11,7284.68
+3.0,"Bihar",3239.94,3466.73,3709.4,3969.06
+4.0,"Chandigarh",28.67,30.02,34.77,37.86
+5.0,"Chhattisgarh",1311.88,1366.3,1679.37,1815.72
+6.0,"Gujarat",4825.13,4988.26,13786.77,17613.08
+7.0,"Haryana",9429.13,10078.72,10460.49,11926.13
+8.0,"Himachal Pradesh",6122.33,6581.15,7068.33,9879.63
+9.0,"Jammu & Kashmir",5080.42,5879.5,7250.11,9802.06
+10.0,"Jharkhand",3069.27,3284.12,4287.15,6199.02
+11.0,"Karnataka",13297.85,14953.66,15858.79,18095.22
+12.0,"Kerala",8799.28,9617.17,10239.5,11871.27
+13.0,"Madhya Pradesh",7074.79,8082.4,9089.94,10376.15
+14.0,"Maharashtra",22595.64,23845.02,25102.42,27369.84
+15.0,"Manipur",776.8,1142.54,1343.27,2681.31
+16.0,"Meghalaya",10.33,2.5,15.0,0.0
+17.0,"Orissa",4392.98,5641.02,4591.09,5114.53
+18.0,"Punjab",12800.02,13045.61,14365.55,15543.71
+19.0,"Rajasthan",6860.88,7341.14,7604.72,9134.8
+20.0,"Tamil Nadu ",11532.62,12043.07,12959.65,14667.82
+21.0,"Uttar Pradesh",8348.48,8814.49,9112.41,10956.75
+22.0,"Uttaranchal",8018.02,9159.92,14369.46,10871.87
+23.0,"West Bengal ",4603.67,2831.4,4536.85,5649.81
+"Total","Total",158815.35,168977.76,194153.14,222741.63

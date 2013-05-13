@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table shows number of accidents and number of persons receiving injuries in mines. The data are collected under the mines act. Accidents have been classified into fatal, and serious during 2000 to 2010.", 
+ "file_name": "INDUSTRIAL_INJURIES_IN_MINES_1.XLS", 
+ "title": "Industrial Injuries In Mines ", 
+ "url": "http://data.gov.in/sites/default/files/INDUSTRIAL_INJURIES_IN_MINES_1.XLS"
+}
+-----
 "Year"," No. of accidents Fatal"," No. of accidents Serious"," No. of Injuries Fatal"," No. of Injuries Serious","  Rate of Injuries per 1000  persons employed Fatal","  Rate of Injuries per 1000  persons employed Serious"
 2000.0,168.0,848.0,199.0,901.0,0.31,1.41
 2001.0,176.0,866.0,222.0,928.0,0.37,1.55

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of State wise and year-wise production of crude oil during 2004-05 to 2011-12 in India.", 
+ "file_name": "State-wise_Production_of_Crude_Oil_in_India_2004-12.xls", 
+ "title": "State-wise Production of Crude Oil in India: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/State-wise_Production_of_Crude_Oil_in_India_2004-12.xls"
+}
+-----
 "Year","Arunachal Pradesh","T. Nadu/Andhra Pradesh","Assam","Gujarat/Rajasthan","Total"
 2004.0,82.0,617.0,4679.0,6166.0,11544.0
 2005.0,97.0,609.0,4565.0,6199.0,11470.0

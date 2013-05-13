@@ -1,0 +1,186 @@
+-----
+{
+ "description": "The table provide annual survey of industries (Factory Sector) on selected characteristics on all India basis by industry group for 2008-09 and 2009-10.", 
+ "file_name": "ANNUAL_SURVEY_OF_INDUSTRIES_FACTORY_SECTOR_II.xls", 
+ "title": "All India - Annual Survey of Industries (Factory Sector) by Industry Group ", 
+ "url": "http://data.gov.in/sites/default/files/ANNUAL_SURVEY_OF_INDUSTRIES_FACTORY_SECTOR_II.xls"
+}
+-----
+"Industry Code","Industry Group","Industry description","No of factories 2008-09","Productive capital 2008-09","No. of Employees 2008-09","Total 
+output 2008-09","Net value added 2008-09","No of factories 2009-10","Productive capital 2009-10","No. of Employees 2009-10","Total 
+output 2009-10","Net value added 2009-10"
+"0163","016","Post-harvest crop activities",2902.0,3840.08,106798.0,15206.88,840.26,2771.0,5521.0,92437.0,27496.0,2718.0
+"0893","089","Extraction of salt. ",80.0,148.75,5423.0,203.65,102.32,101.0,610.0,7117.0,668.0,139.0
+1010.0,101.0,"Processing and preserving of meat",90.0,1576.68,14546.0,6611.66,757.93,85.0,1466.0,15052.0,6775.0,846.0
+1020.0,102.0,"Processing and preserving of fish, crustaceans and molluscs and products thereof ",352.0,1430.78,33061.0,7293.14,636.02,359.0,2776.0,37637.0,8896.0,788.0
+1030.0,103.0,"Processing and preserving of fruit and vegetables",709.0,3479.03,45001.0,5722.83,449.78,832.0,4263.0,54733.0,6614.0,837.0
+1040.0,104.0,"Manufacture of Vegetable and animal oils and fats ",2429.0,12160.19,106800.0,118857.9,5807.76,2421.0,16239.0,106560.0,100940.0,4693.0
+1050.0,105.0,"Manufacture of dairy product",1100.0,6968.83,102245.0,42647.21,3655.29,1112.0,12573.0,110014.0,51849.0,4322.0
+1061.0,"NA","Manufacture of grain mill products ",13464.0,15227.24,329589.0,88033.8,7365.04,13397.0,21235.0,327938.0,99134.0,6972.0
+1062.0,"NA","Manufacture of starches and starch products",589.0,1150.13,17190.0,2989.13,340.79,670.0,2365.0,20540.0,4873.0,617.0
+"NA",106.0,"Manufacture of grain mill products, starches and starch products",14053.0,16377.37,346779.0,91022.93,7705.83,14067.0,23600.0,348478.0,104007.0,7589.0
+1071.0,"NA","Manufacture of bakery products",993.0,2897.79,60671.0,11951.95,2031.19,1056.0,3425.0,61558.0,12395.0,2110.0
+1072.0,"NA","Manufacture of sugar ",733.0,32572.94,261931.0,38639.37,2482.68,744.0,39040.0,259979.0,60090.0,5387.0
+1073.0,"NA","Manufacture of cocoa, chocolate and sugar confectionery",456.0,1984.48,28384.0,5617.82,1368.13,466.0,1903.0,29536.0,5798.0,1485.0
+1074.0,"NA","Manufacture of macaroni, noodles, couscous and similar farinaceous products",61.0,376.95,3717.0,625.71,120.65,51.0,571.0,3658.0,1265.0,335.0
+1075.0,"NA","Manufacture of prepared meals and dishes",45.0,289.2,5688.0,452.69,138.34,139.0,1358.0,18828.0,2988.0,811.0
+1079.0,"NA","Manufacture of other food products n.e.c.",4290.0,9249.3,402402.0,32408.28,5761.75,4225.0,10957.0,397068.0,38476.0,6219.0
+"NA",107.0,"Manufacture of other food products",6578.0,47370.66,762793.0,89695.82,11902.74,6681.0,57254.0,770627.0,121011.0,16347.0
+1080.0,108.0,"Manufacture of prepared animal feeds",547.0,1584.65,28395.0,10392.57,687.26,606.0,2435.0,30888.0,13011.0,1193.0
+1101.0,"NA","Distilling, rectifying and blending of spirits; ethyl alcohol production from fermented materials",291.0,5399.17,43265.0,12315.37,3103.46,296.0,7097.0,42501.0,12292.0,2712.0
+1102.0,"NA","Manufacture of wines",79.0,1560.52,8153.0,2593.04,853.11,69.0,626.0,6611.0,2227.0,1019.0
+1103.0,"NA","Manufacture of malt liquors and malt",96.0,3932.64,24160.0,6553.02,1288.55,117.0,4898.0,27348.0,8203.0,1743.0
+1104.0,"NA","Manufacture of soft drinks; production of mineral waters and other bottled waters",896.0,6194.25,48321.0,11661.74,3977.19,834.0,6747.0,55505.0,10867.0,1754.0
+"NA",110.0,"Manufacture of beverages",1362.0,17086.58,123899.0,33123.17,9222.31,1316.0,19368.0,131965.0,33589.0,7228.0
+1200.0,120.0,"Manufacture of tobacco products ",3280.0,5321.67,452026.0,20192.6,9050.4,3120.0,6452.0,419736.0,22165.0,7131.0
+1311.0,"NA","Preparation and spinning of textile fibers",4082.0,54142.02,612789.0,82096.52,7705.2,4432.0,72159.0,672597.0,106218.0,13614.0
+1312.0,"NA","Weaving of textiles",2420.0,19799.3,227483.0,28986.91,3733.0,2313.0,18730.0,190015.0,29437.0,4363.0
+1313.0,"NA","Finishing of textiles",3115.0,14406.05,252650.0,24807.12,3236.36,3129.0,17382.0,249146.0,26427.0,3254.0
+"NA",131.0,"Spinning, weaving and finishing of textiles.",9617.0,88347.37,1092922.0,135890.55,14674.56,9874.0,108271.0,1111758.0,162082.0,21231.0
+1391.0,"NA","Manufacture of knitted and crocheted fabrics",1310.0,7487.93,136192.0,14125.83,2091.54,736.0,3646.0,67745.0,8793.0,1235.0
+1392.0,"NA","Manufacture of made-up textile articles, except apparel",766.0,4700.15,64723.0,9994.06,1191.53,822.0,6736.0,83701.0,12483.0,1707.0
+1393.0,"NA","Manufacture of carpets and rugs",354.0,1429.37,28795.0,3672.98,401.16,355.0,1644.0,24319.0,3990.0,407.0
+1394.0,"NA","Manufacture of cordage, rope, twine and netting",603.0,1181.1,36211.0,2674.84,726.87,638.0,1459.0,47837.0,3486.0,679.0
+1399.0,"NA","Manufacture of other textiles n.e.c.",709.0,2674.53,41365.0,5341.83,735.91,919.0,3159.0,49528.0,6874.0,1075.0
+"NA",139.0,"Manufacture of other textiles",3742.0,17473.08,307286.0,35809.54,5147.01,3470.0,16634.0,273130.0,35626.0,5103.0
+1410.0,141.0,"Manufacture of wearing apparel, except fur apparel",3959.0,17728.25,624664.0,40005.1,8868.18,3760.0,18341.0,643204.0,45318.0,8928.0
+1420.0,142.0,"Manufacture of articles of fur",44.0,255.97,2884.0,231.8,64.83,14.0,260.0,694.0,120.0,45.0
+1430.0,143.0,"Manufacture of knitted and crocheted apparel",1758.0,4340.14,170330.0,13520.16,1966.94,2370.0,6338.0,221164.0,18269.0,2990.0
+1511.0,"NA","Tanning and dressing of leather; dressing and dyeing of fur",789.0,1573.32,33579.0,5816.86,613.45,987.0,1806.0,39347.0,6769.0,810.0
+1512.0,"NA","Manufacture of luggage, handbags and the like, saddlery and harness",439.0,965.14,36926.0,3597.07,544.11,527.0,1386.0,48157.0,4559.0,821.0
+"NA",151.0,"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur",1228.0,2538.46,70505.0,9413.93,1157.56,1514.0,3192.0,87504.0,11328.0,1631.0
+1520.0,152.0,"Manufacture of footwear.",1331.0,5417.31,180478.0,15167.45,2252.67,1307.0,6042.0,167591.0,19227.0,2976.0
+1610.0,161.0,"Saw milling and planing of wood",1127.0,523.48,9924.0,1391.25,79.23,1100.0,253.0,9230.0,1087.0,76.0
+1621.0,"NA","Manufacture of veneer sheets; manufacture of plywood, laminboard, particle board and other panels and board",1355.0,2617.79,41540.0,5477.49,497.62,1518.0,3357.0,42907.0,6655.0,964.0
+1622.0,"NA","Manufacture of builders’ carpentry and joinery",171.0,312.39,6077.0,562.12,107.22,151.0,321.0,5771.0,794.0,156.0
+1623.0,"NA","Manufacture of wooden containers",201.0,227.32,4778.0,493.31,-61.4,209.0,345.0,5920.0,621.0,-185.0
+1629.0,"NA","Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",249.0,285.55,6043.0,571.26,156.99,397.0,496.0,11786.0,1455.0,257.0
+"NA",162.0,"Manufacture of products of wood, cork, straw and plaiting materials",1976.0,3443.05,58438.0,7104.18,700.43,2275.0,4519.0,66384.0,9525.0,1192.0
+1701.0,"NA","Manufacture of pulp, paper and paperboard",887.0,13578.63,87760.0,18274.15,3050.83,921.0,23954.0,97940.0,21866.0,1789.0
+1702.0,"NA","Manufacture of corrugated paper and paperboard and containers of paper and paperboard",2859.0,5086.28,82911.0,9248.16,1415.56,2906.0,6850.0,85846.0,12985.0,1963.0
+1709.0,"NA","Manufacture of other articles of paper and paperboard",891.0,12246.04,60744.0,13554.86,2312.74,771.0,8254.0,44727.0,9453.0,1663.0
+"NA",170.0,"Manufacture of paper and paper products",4637.0,30910.95,231415.0,41077.17,6779.13,4598.0,39088.0,228513.0,44304.0,5415.0
+1811.0,"NA","Printing",2790.0,11193.55,114364.0,17949.4,3464.28,2776.0,9963.0,123155.0,18952.0,4533.0
+1812.0,"NA","Service activities related to printing",482.0,818.05,14261.0,1354.69,185.31,384.0,699.0,8530.0,1429.0,259.0
+"NA",181.0,"Printing and service activites related to printing",3272.0,12011.6,128625.0,19304.09,3649.59,3160.0,10662.0,131685.0,20381.0,4792.0
+1820.0,182.0,"Reproduction of recorded media ",18.0,125.97,743.0,204.88,74.11,14.0,308.0,2216.0,923.0,345.0
+1910.0,191.0,"Manufacture of coke oven products",515.0,6919.77,40136.0,15153.85,2703.65,550.0,7780.0,29881.0,11729.0,1974.0
+1920.0,192.0,"Manufacture of refined petroleum products",438.0,87862.74,73031.0,465744.7,67503.15,617.0,157125.0,92574.0,527824.0,59988.0
+2011.0,"NA","Manufacture of basic chemicals",2316.0,33384.09,133379.0,52708.87,8693.75,2332.0,35470.0,131192.0,61941.0,12779.0
+2012.0,"NA","Manufacture of fertilizers and nitrogen compounds",542.0,24509.69,66318.0,83240.14,9778.23,573.0,28847.0,65954.0,60050.0,6672.0
+2013.0,"NA","Manufacture of plastics and synthetic rubber in primary forms",371.0,38079.32,32242.0,47803.59,6111.92,315.0,36540.0,35952.0,48300.0,9052.0
+"NA",201.0,"Manufacture of basic chemicals, fertilizer and nitrogen compounds, plastics and synthetic rubber in primary forms",3229.0,95973.1,231939.0,183752.6,24583.9,3220.0,100857.0,233098.0,170291.0,28503.0
+2021.0,"NA","Manufacture of pesticides and other agrochemical products",498.0,8698.47,43327.0,15764.28,3145.33,459.0,8259.0,48177.0,21944.0,5510.0
+2022.0,"NA","Manufacture of paints, varnishes and similar coatings, printing ink and mastics",911.0,5275.32,36611.0,15659.43,3068.4,901.0,5796.0,43389.0,19755.0,4011.0
+2023.0,"NA","Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",1246.0,10795.09,90276.0,34735.16,9295.91,1323.0,11796.0,98806.0,29217.0,7290.0
+2029.0,"NA","Manufacture of other chemical products n.e.c.",2482.0,11721.59,153667.0,29803.2,5235.42,2442.0,11211.0,145897.0,29670.0,6902.0
+"NA",202.0,"Manufacture of other chemical products",5137.0,36490.47,323881.0,95962.07,20745.06,5125.0,37062.0,336269.0,100586.0,23713.0
+2030.0,203.0,"Manufacture of man-made fibers",90.0,6558.74,25233.0,9681.88,591.79,72.0,5672.0,19303.0,8238.0,1138.0
+2100.0,210.0,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",3420.0,65514.14,379083.0,102000.34,31801.05,3477.0,80119.0,414703.0,111629.0,34184.0
+2211.0,"NA","Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres",555.0,10413.08,79662.0,28333.69,6162.05,529.0,14800.0,90659.0,32635.0,7170.0
+2219.0,"NA","Manufacture of other rubber products",1422.0,4164.72,69663.0,9352.7,1386.71,1555.0,5846.0,82444.0,12948.0,1996.0
+"NA",221.0,"Manufacture of rubber products",1977.0,14577.8,149325.0,37686.39,7548.76,2084.0,20646.0,173103.0,45583.0,9166.0
+2220.0,222.0,"Manufacture of plastics products",6357.0,28368.26,281655.0,61673.38,10109.84,6260.0,38982.0,304404.0,80333.0,12051.0
+2310.0,231.0,"Manufacture of glass and glass products",622.0,11190.15,58548.0,9276.34,1460.68,596.0,8052.0,56113.0,8963.0,1908.0
+2391.0,"NA","Manufacture of refractory products",820.0,4692.16,56565.0,7370.96,1600.77,904.0,7072.0,58790.0,10870.0,2984.0
+2392.0,"NA","Manufacture of clay building materials",5888.0,3877.84,271565.0,5331.45,1499.11,6237.0,3293.0,298976.0,4845.0,1690.0
+2393.0,"NA","Manufacture of other porcelain and ceramic products",629.0,4318.72,52290.0,6820.23,1376.76,698.0,4248.0,52995.0,7909.0,1750.0
+2394.0,"NA","Manufacture of cement, lime and plaster",970.0,55194.15,126930.0,65101.32,23874.88,984.0,65352.0,118668.0,66180.0,24218.0
+2395.0,"NA","Manufacture of articles of concrete, cement and plaster",1812.0,3287.61,73015.0,8774.91,1420.2,1928.0,6111.0,82148.0,13143.0,3432.0
+2396.0,"NA","Cutting, shaping and finishing of stone",5187.0,6038.78,105165.0,11253.67,3008.77,5416.0,6360.0,96936.0,9251.0,1927.0
+2399.0,"NA","Manufacture of other non-metallic mineral products n.e.c.",659.0,3860.7,35707.0,7473.84,1961.2,707.0,3760.0,35043.0,6558.0,1809.0
+"NA",239.0,"Manufacture of non-metallic mineral products n.e.c.",15965.0,81269.96,721237.0,112126.38,34741.69,16874.0,96196.0,743556.0,118756.0,37810.0
+2410.0,241.0,"Manufacture of basic iron and steel",4167.0,203542.58,600966.0,360828.73,52394.21,4575.0,254292.0,600029.0,396952.0,60843.0
+2420.0,242.0,"Manufacture of basic precious and other non-ferrous metals",1144.0,38018.25,86620.0,72840.8,12815.55,1243.0,58429.0,87839.0,99348.0,7971.0
+2431.0,"NA","Casting of iron and steel",2923.0,19035.74,187597.0,48334.18,6244.5,2690.0,20442.0,184757.0,41039.0,6486.0
+2432.0,"NA","Casting of non-ferrous metals",422.0,2112.68,23371.0,3565.37,408.47,412.0,1993.0,21848.0,3717.0,701.0
+"NA",243.0,"Casting of metals",3345.0,21148.42,210968.0,51899.55,6652.97,3102.0,22435.0,206605.0,44756.0,7187.0
+2511.0,"NA","Manufacture of structural metal products",1811.0,13000.02,138393.0,35173.72,4979.56,1822.0,16023.0,132224.0,33350.0,6075.0
+2512.0,"NA","Manufacture of tanks, reservoirs and containers of metal",826.0,2934.14,36279.0,6700.12,1035.15,927.0,3859.0,55514.0,10293.0,1655.0
+2513.0,"NA","Manufacture of steam generators, except central heating hot water boilers",357.0,1523.6,48382.0,13324.35,4324.8,297.0,2501.0,53178.0,17131.0,5734.0
+"NA",251.0,"Manufacture of structural metal products, tanks, reservoirs and steam generators",2994.0,17457.76,223054.0,55198.19,10339.51,3046.0,22383.0,240916.0,60774.0,13664.0
+2520.0,252.0,"Manufacture of weapons and ammunition",40.0,144.72,2074.0,290.83,65.09,75.0,309.0,3798.0,570.0,156.0
+2591.0,"NA","Forging, pressing, stamping and roll-forming of metal; powder metallurgy",699.0,7191.63,49443.0,12600.67,1897.05,917.0,6973.0,53271.0,9458.0,1161.0
+2592.0,"NA","Machining; treatment and coating of metals",1087.0,1635.77,32252.0,3782.69,693.1,1404.0,2391.0,33576.0,4419.0,897.0
+2593.0,"NA","Manufacture of cutlery, hand tools and general hardware",1083.0,4036.5,53801.0,7110.53,1412.17,1360.0,4145.0,61250.0,6869.0,3148.0
+2599.0,"NA","Manufacture of other fabricated metal products n.e.c.",3870.0,7720.34,147432.0,21114.51,3357.07,4052.0,11512.0,166735.0,23680.0,3864.0
+"NA",259.0,"Manufacture of other fabricated metal products; metalworking service activities",6739.0,20584.24,282928.0,44608.4,7359.39,7733.0,25021.0,314832.0,47426.0,9070.0
+2610.0,261.0,"Manufacture of electronic components",758.0,6787.9,70487.0,15072.28,3041.75,702.0,10663.0,86139.0,20726.0,4348.0
+2620.0,262.0,"Manufacture of computers and peripheral equipment",158.0,4295.05,19670.0,11198.44,1387.82,128.0,12156.0,21895.0,13464.0,1986.0
+2630.0,263.0,"Manufacture of communication equipment",251.0,10309.38,38384.0,23254.11,6464.38,212.0,13834.0,85533.0,25414.0,3938.0
+2640.0,264.0,"Manufacture of consumer electronics",245.0,7223.42,26988.0,22451.71,2357.34,234.0,13330.0,30821.0,28551.0,3419.0
+2651.0,"NA","Treatment and coating of metals; general mechanical engineering on a fee or contract basis",413.0,2542.67,35614.0,7153.65,1994.87,342.0,2367.0,167076.0,6183.0,1950.0
+2652.0,"NA","Manufacture of cutlery, hand tools and general hardware",129.0,476.21,10086.0,1222.71,577.86,125.0,682.0,10320.0,2875.0,1061.0
+"NA",265.0,"Manufacture of measuring, testing, navigating and control equipment; watches and clocks",542.0,3018.88,45700.0,8376.36,2572.73,467.0,3049.0,177396.0,9058.0,3011.0
+2660.0,266.0,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",69.0,473.84,3360.0,932.55,208.22,65.0,1315.0,5224.0,2212.0,680.0
+2670.0,267.0,"Manufacture of optical instruments and equipment",61.0,374.9,3574.0,455.41,159.12,64.0,338.0,2662.0,362.0,130.0
+2680.0,268.0,"Manufacture of magnetic and optical media",20.0,59.83,1170.0,208.44,46.24,5.0,730.0,1795.0,1106.0,606.0
+2710.0,271.0,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",2078.0,18751.33,164615.0,64807.27,12774.93,2245.0,24804.0,182370.0,65790.0,13282.0
+2720.0,272.0,"Manufacture of batteries and accumulators",307.0,5327.3,30103.0,9945.78,2106.02,337.0,17414.0,50307.0,15967.0,4071.0
+2731.0,"NA","Manufacture of fiber optic cables for data transmission or live transmission of images",115.0,1244.49,9743.0,3458.26,200.79,112.0,2936.0,17201.0,7251.0,657.0
+2732.0,"NA","Manufacture of other electronic and electric wires and cables",585.0,5891.3,37167.0,19489.22,1926.23,579.0,6654.0,42846.0,20955.0,2455.0
+2733.0,"NA","Manufacture of wiring devices",312.0,2342.94,21049.0,5444.55,1501.73,363.0,2731.0,28216.0,7666.0,2090.0
+"NA",273.0,"Manufacture of wiring and wiring devices",1012.0,9478.73,67959.0,28392.03,3628.75,1054.0,12321.0,88263.0,35872.0,5202.0
+2740.0,274.0,"Manufacture of electric lighting equipment",466.0,2977.53,40959.0,6555.09,1154.22,383.0,3395.0,38773.0,6699.0,1314.0
+2750.0,275.0,"Manufacture of domestic appliances",658.0,4223.03,37473.0,11081.91,2195.29,633.0,4210.0,43783.0,19323.0,3369.0
+2790.0,279.0,"Manufacture of other electrical equipment",730.0,4574.99,40226.0,10201.63,1929.81,835.0,3357.0,40275.0,8910.0,1268.0
+2811.0,"NA","Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",402.0,4729.03,159187.0,14280.54,3173.95,456.0,4593.0,57871.0,32009.0,10559.0
+2812.0,"NA","Manufacture of fluid power equipment",433.0,3195.76,30044.0,7712.69,2220.9,447.0,3324.0,29467.0,7370.0,1497.0
+2813.0,"NA","Manufacture of other pumps, compressors, taps and valves",869.0,5520.85,60695.0,14796.73,2997.94,842.0,5080.0,55394.0,13651.0,3450.0
+2814.0,"NA","Manufacture of bearings, gears, gearing and driving elements",610.0,6627.12,54019.0,11413.89,2293.4,622.0,7950.0,51371.0,11942.0,2899.0
+2815.0,"NA","Manufacture of ovens, furnaces and furnace burners",98.0,938.46,6446.0,2106.33,537.26,120.0,1634.0,8534.0,2757.0,531.0
+2816.0,"NA","Manufacture of lifting and handling equipment",310.0,2207.66,21197.0,7534.62,780.07,379.0,2957.0,29591.0,9754.0,1811.0
+2817.0,"NA","Manufacture of office machinery and equipment",25.0,97.27,979.0,242.45,58.6,54.0,43.0,1249.0,230.0,43.0
+2818.0,"NA","Manufacture of power-driven hand tools",81.0,146.43,3035.0,573.22,104.77,62.0,71.0,1767.0,169.0,45.0
+2819.0,"NA","Manufacture of other general-purpose machinery",1645.0,6812.86,114325.0,32348.37,12726.91,1499.0,6413.0,79508.0,18234.0,3541.0
+"NA",281.0,"Manufacture of general purpose machinery",4473.0,30275.44,449927.0,91008.84,24893.8,4481.0,32065.0,314752.0,96116.0,24376.0
+2821.0,"NA","Manufacture of agricultural and forestry machinery",735.0,6749.05,51901.0,19832.97,3139.78,797.0,6835.0,57076.0,24528.0,4581.0
+2822.0,"NA","Manufacture of metal-forming machinery and machine tools",718.0,2928.28,34637.0,5923.02,1211.63,801.0,2492.0,31445.0,4489.0,761.0
+2823.0,"NA","Manufacture of machinery for metallurgy",148.0,915.71,7754.0,1940.18,155.11,112.0,568.0,5353.0,1092.0,205.0
+2824.0,"NA","Manufacture of machinery for mining, quarrying and construction",434.0,5798.25,34757.0,11949.3,2412.14,417.0,4856.0,35822.0,13043.0,2894.0
+2825.0,"NA","Manufacture of machinery for food, beverage and tobacco processing",486.0,2010.35,27811.0,7635.35,1844.92,473.0,2103.0,25367.0,5688.0,1130.0
+2826.0,"NA","Manufacture of machinery for textile, apparel and leather production",726.0,2759.56,32442.0,4376.54,848.16,712.0,2124.0,28619.0,5422.0,1198.0
+2829.0,"NA","Manufacture of other special-purpose machinery",1196.0,6200.43,74944.0,27516.73,4421.68,1217.0,10918.0,63732.0,19469.0,5048.0
+"NA",282.0,"Manufacture of special-purpose machinery",4443.0,27361.63,264246.0,79174.09,14033.42,4529.0,29896.0,247414.0,73731.0,15817.0
+2910.0,291.0,"Manufacture of motor vehicles",154.0,38899.28,112757.0,95418.79,9592.02,136.0,30951.0,113058.0,124909.0,14481.0
+2920.0,292.0,"Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers",481.0,4259.93,39584.0,4526.14,882.85,438.0,1897.0,43497.0,4963.0,883.0
+2930.0,293.0,"Manufacture of parts and accessories for motor vehicles",3026.0,31832.41,357401.0,75012.7,10792.93,3612.0,49021.0,463033.0,105352.0,18669.0
+3011.0,"NA","Building of ships and floating structures",73.0,11000.54,22569.0,7538.86,2638.28,75.0,20916.0,27871.0,8548.0,3187.0
+3012.0,"NA","Building of pleasure and sporting boats",10.0,-12.7,3540.0,851.19,249.4,5.0,8.0,131.0,8.0,2.0
+"NA",301.0,"Building of ships and boats",83.0,10987.84,26109.0,8390.05,2887.68,80.0,20924.0,28002.0,8556.0,3189.0
+3020.0,302.0,"Manufacture of railway locomotives and rolling stock",298.0,1992.51,26676.0,5364.26,1031.82,297.0,2272.0,28077.0,7763.0,2223.0
+3030.0,303.0,"Manufacture of air and spacecraft and related machinery",54.0,641.33,6210.0,1147.62,327.54,57.0,517.0,3171.0,320.0,112.0
+3040.0,304.0,"Manufacture of weapons and ammunition",40.0,51.6,1238.0,42.15,9.65,35.0,43.0,1005.0,36.0,8.0
+3091.0,"NA","Manufacture of motorcycles",747.0,7154.31,125889.0,45436.69,7822.48,684.0,6592.0,130147.0,56917.0,11117.0
+3092.0,"NA","Manufacture of bicycles and invalid carriages",591.0,1157.86,29674.0,6203.59,626.01,607.0,2014.0,29990.0,6992.0,752.0
+3099.0,"NA","Manufacture of other transport equipment n.e.c.",38.0,112.96,3337.0,440.78,51.0,44.0,212.0,1747.0,407.0,58.0
+"NA",309.0,"Manufacture of transport equipment n.e.c.",1376.0,8425.13,158900.0,52081.06,8499.49,1335.0,8818.0,161884.0,64316.0,11927.0
+3100.0,310.0,"Manufacture of furniture",948.0,2309.38,40371.0,6091.52,1063.87,1071.0,3158.0,50565.0,9222.0,1592.0
+3211.0,"NA","Manufacture of jewellery and related articles",975.0,9247.25,133446.0,57096.45,2491.49,761.0,-9611.0,115451.0,153584.0,4803.0
+3212.0,"NA","Manufacture of imitation jewellery and related articles",62.0,134.25,2586.0,140.63,40.88,64.0,126.0,3318.0,270.0,57.0
+"NA",321.0,"Manufacture of jewellery, bijouterie and related articles",1037.0,9381.5,136032.0,57237.08,2532.37,825.0,-9485.0,118769.0,153854.0,4860.0
+3220.0,322.0,"Manufacture of musical instruments",21.0,22.57,527.0,38.02,8.15,21.0,128.0,1051.0,145.0,31.0
+3230.0,323.0,"Manufacture of sports goods",115.0,340.29,7621.0,763.31,148.86,142.0,280.0,7241.0,746.0,149.0
+3240.0,324.0,"Manufacture of games and toys",131.0,14.45,4036.0,493.59,73.66,91.0,-89.0,2936.0,360.0,103.0
+3250.0,325.0,"Manufacture of medical and dental instruments and supplies",349.0,2268.84,26249.0,3677.83,1291.6,284.0,2379.0,25579.0,3596.0,1138.0
+3290.0,329.0,"Other manufacturing n.e.c.",761.0,3826.15,51370.0,7301.16,1236.51,672.0,3227.0,48232.0,5607.0,1199.0
+"3311","NA","Repair of fabricated metal products",121.0,91.59,2870.0,279.91,52.1,88.0,796.0,5238.0,1824.0,377.0
+"3312","NA","Repair of machinery",238.0,377.15,11550.0,1108.77,389.37,156.0,403.0,7448.0,1265.0,463.0
+"3313","NA","Repair of electronic and optical equipment",14.0,29.69,303.0,38.21,11.64,20.0,20.0,353.0,37.0,10.0
+"3314","NA","Repair of electrical equipment",134.0,518.3,3545.0,1068.89,126.44,39.0,260.0,1133.0,212.0,34.0
+"3315","NA","Repair of transport equipment, except motor vehicles",160.0,1158.43,6208.0,3999.27,1238.02,104.0,1439.0,11046.0,4029.0,410.0
+"3319","NA","Repair of other equipment",22.0,12.0,873.0,63.57,23.87,37.0,70.0,1765.0,188.0,30.0
+"NA",331.0,"Repair of fabricated metal products, machinery and equipment",689.0,2187.16,25349.0,6558.62,1841.44,444.0,2988.0,26983.0,7555.0,1324.0
+"3320",332.0,"Installation of industrial machinery and equipment",110.0,519.77,8562.0,1852.51,401.22,50.0,330.0,6970.0,1441.0,275.0
+"3811","NA","Collection of non-hazardous waste",4.0,-21.03,542.0,112.85,17.74,3.0,101.0,375.0,100.0,24.0
+"3812","NA","Collection of hazardous waste",6.0,79.57,361.0,55.64,20.4,36.0,188.0,0.0,87.0,23.0
+"NA",381.0,"Waste collection",10.0,58.54,903.0,168.49,38.14,39.0,289.0,375.0,187.0,48.0
+"3821","NA","Treatment and disposal of non-hazardous waste",20.0,155.9,595.0,29.07,6.49,18.0,121.0,1534.0,59.0,12.0
+3822.0,"NA","Treatment and disposal of hazardous waste",14.0,116.44,447.0,39.32,3.6,124.0,72.0,1044.0,2299.0,44.0
+"NA",382.0,"Waste treatment and disposal",34.0,272.34,1042.0,68.39,10.09,142.0,193.0,2578.0,2358.0,56.0
+3830.0,383.0,"Materials recovery",146.0,343.62,5704.0,1916.17,227.6,52.0,385.0,6083.0,713.0,166.0
+"5811","NA","Book publishing",63.0,384.3,3933.0,829.24,129.65,5.0,1.0,3842.0,2.0,1.0
+5813.0,"NA","Publishing of newspapers, journals and periodicals",112.0,3303.19,15938.0,3995.36,917.07,191.0,3781.0,22021.0,3401.0,929.0
+5819.0,"NA","Other publishing activities",30.0,31.87,514.0,25.03,5.68,34.0,27.0,527.0,40.0,11.0
+"NA",581.0,"Publishing of books, periodicals and other publishing activities",205.0,3719.36,20385.0,4849.63,1052.4,230.0,3809.0,26390.0,3443.0,941.0
+"Other","NA","Others",6613.0,73249.97,268962.0,117867.94,17213.4,6875.0,132688.0,283788.0,138429.0,24044.0

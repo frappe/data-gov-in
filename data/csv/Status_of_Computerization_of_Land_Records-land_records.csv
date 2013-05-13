@@ -1,0 +1,45 @@
+-----
+{
+ "description": "The Department is implementing the scheme of National Land Records Modernization Programme (NLRMP) since the year 2008. Different States/UTs are at various stages of computerization of land records. As per the information provided by the States/UTs, the status as on 31st March, 2013 has been...", 
+ "file_name": "Status_of_Computerization_of_Land_Records.xls", 
+ "title": "Status of Computerization of Land Records ", 
+ "url": "http://data.gov.in/sites/default/files/Status_of_Computerization_of_Land_Records.xls"
+}
+-----
+"Sl. No.","States/UTs","RoRs Completed","Stopped Manual Issue of RoRs","Accorded Legal Sanctity to Computerized Copy of RoR","Started Mutation Using Computers","Placed RoR Data on Website","Digitized Cadastral Maps","Issuance of Records of Rights (RoR) from Tehsil Computer Centre","Issuance RoR through Kiosks/Common Service Centres at Town/Village level","Issuance of Digitally Signed RoRs"
+1.0,"Andhra Pradesh","Yes","No","Yes","Yes","Yes","Under progress","Yes","Yes","Yes"
+2.0,"Arunachal Pradesh","No","No","No","No","No","No","No","No","No"
+3.0,"Assam","Under progress","No","Yes","No","Yes","No","No","No","No"
+4.0,"Bihar","Under progress","No","No","No","Under progress ","Under progress","No","No","No"
+5.0,"Chhattisgarh","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+6.0,"Gujarat","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+7.0,"Goa","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+8.0,"Haryana","Yes","Yes","Yes","Yes","Yes","Under progress","Yes","Yes","No"
+9.0,"Himachal Pradesh","Yes","No","Yes","Yes","No","Under progress ","Yes","Yes","No"
+10.0,"Jammu & Kashmir","Under progress","No","No","No","No","Under progress ","No","No","No"
+11.0,"Jharkhand","Under progress","No","No","Under progress","No","No","No","No","No"
+12.0,"Karnataka","Yes","Yes","Yes","Yes","Yes","Under progress","Yes","Yes","Yes"
+13.0,"Kerala","Under progress","No","No","Under progress","No","No","No","Yes","No"
+14.0,"Madhya Pradesh","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+15.0,"Maharashtra","Yes","No","Yes","Yes","Yes","Under progress","Yes","Yes","Yes"
+16.0,"Manipur","Yes","No","No","Yes","No","No","No","No","No"
+17.0,"Meghalaya","No","No","No","No","No","No","No","No","No"
+18.0,"Mizoram","No","No","No","Under progress","No","No","No","No","No"
+19.0,"Nagaland","No","No","No","No","No","No","No","No","No"
+20.0,"Orissa","Yes","Yes","Yes","Yes","Yes","Under progress","Yes","No","No"
+21.0,"Punjab","Yes","Yes","Yes","Yes","Yes","Under progress","Yes","Yes","No"
+22.0,"Rajasthan","Yes","No","Yes","Yes","Yes","No","Yes","Yes","Yes"
+23.0,"Sikkim","Yes","Yes","Yes","Yes","No","Under progress ","Yes","No","No"
+24.0,"Tamil Nadu","Yes","Yes","Yes","Yes","Yes","Under progress ","Yes","No","No"
+25.0,"Tripura","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+26.0,"Uttar Pradesh","Yes","Yes","Yes","Yes","Yes","Under progress","Yes","Yes","Yes"
+27.0,"Uttarakhand","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No"
+28.0,"West Bengal","Yes","Yes","Yes","Yes","No","Yes","Yes","No","No"
+29.0,"Andaman & Nicobar Islands","Under progress","Yes","Yes","No","Yes","No","No","No","No"
+30.0,"Chandigarh","No","Yes","No","No","No","No","No","No","No"
+31.0,"Dadra Nagar Haveli","Under progress ","No","No","No","No","No","No","No","No"
+32.0,"Delhi","No","No","No","Under progress","No","No","No","No","No"
+33.0,"Daman & Diu","Under progress","No","No","No","No","No","No","No","No"
+34.0,"Lakshadweep","Under progress","No","No","No","No","No","No","No","No"
+35.0,"Puducherry","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"Total","Total",20.0,17.0,21.0,20.0,18.0,7.0,19.0,12.0,6.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of Company-wise and year-wise pipelines of crude oil, natural gas and product in India.", 
+ "file_name": "CrudeOil__NaturalGas_and_Product_Pipelines_in_India_2004-12.xls", 
+ "title": "Crude Oil, Natural Gas and Product Pipelines in India: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/CrudeOil__NaturalGas_and_Product_Pipelines_in_India_2004-12.xls"
+}
+-----
 "Type of Pipeline","Owner",2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0,"2012*"
 "Crude Pipelines (Onshore)","ONGC ",431.88,431.88,431.88,431.88,431.88,435.38,435.38,643.45,643.45
 "Crude Pipelines (Onshore)","OIL",1192.9,1192.9,1192.9,1192.9,1192.9,1192.9,1192.9,1192.9,1192.9

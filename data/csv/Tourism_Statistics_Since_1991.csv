@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Foreign tourist arrivals refer to the number of arrivals of tourists/visitors. An individual who makes multiple trips to the country is counted each time as a new arrival. Foreign Exchange Earnings from tourism are the receipts of the country as a result of consumption expenditure, i.e. payments...", 
+ "file_name": "Tourism_Statistics_Since_1991.xls", 
+ "title": "Tourism Statistics of India Since 1991 ", 
+ "url": "http://data.gov.in/sites/default/files/Tourism_Statistics_Since_1991.xls"
+}
+-----
 "Year","Foreign Tourist Ariivals in Numbers","Foreign Exchange Earnings in Crores","Foreign Exchange Earnings in USD Millions","Domestic Tourist Visits in Numbers"
 1991.0,1677508.0,4318.0,1861.0,66670303.0
 1992.0,1867651.0,5951.0,2126.0,81455861.0

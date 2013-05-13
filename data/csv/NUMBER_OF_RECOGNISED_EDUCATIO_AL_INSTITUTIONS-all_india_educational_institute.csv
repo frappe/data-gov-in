@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2000-01 to 2009-10) and State-wise (2008-09) data of Number of Recognised Educational Institutions of Higher Learning like Universities/ Deemed to be Universities Institutions of National Importance, Research Institutions, College for General Education, Professional...", 
+ "file_name": "NUMBER_OF_RECOGNISED_EDUCATIO_AL_INSTITUTIONS.xls", 
+ "title": "Number Of Recognised Educational Institutions Of Higher Learning, All India And State wise ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_RECOGNISED_EDUCATIO_AL_INSTITUTIONS.xls"
+}
+-----
 " Year/State/  Union Territory","Universities/ Deemed to be Universities Institutions of National Importance","Research Institutions","College for General Education","Professional Education Engg. Tech., Arch, Medical & Education College","Other  Colleges (Law, Mana- Management,  Agriculture etc.)","Polytechnics","Board of Sr. Secondary/ Secondary Education","   Schools for general education Pre-  Primary","   Schools for general education Primary/ Jr.Basic Schools","   Schools for general education Middle/ Sr.Basic Schools","   Schools for general education   High/   Higher Secondary","Total for Schools for General Education","Technical/ Industrial/ Arts & Craft","Teacher Training Schools"," Grand total for all the School level"
 " 2001-02",272.0,79.0,8737.0,2409.0,1926.0,1160.0,39.0,60840.0,664041.0,219626.0,133492.0,1077999.0,4302.0,1175.0,1083476.0
 " 2002-03",304.0,81.0,9166.0,2610.0,1982.0,1173.0,39.0,64712.0,651382.0,245274.0,137207.0,1098575.0,4647.0,1202.0,1104424.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table relates to compensated injuries under the workmens compensation act. Under the act, Compensation is payable to workers employed in scheduled employment for injuries due to accident resulting in death or disablement for more than three days provided that it is not caused through the fault...", 
+ "file_name": "WORKMENS_COMPENSATION.xls", 
+ "title": "Workmens Compensation ", 
+ "url": "http://data.gov.in/sites/default/files/WORKMENS_COMPENSATION.xls"
+}
+-----
 "Year","Number of compensated injuries Death","Number of compensated injuries Disability - Permanent","Number of compensated injuries Disability - Temporary","Number of compensated injuries     Total","Number of compensated injuries    Death","Amount of compensation paid Disability - Permanent","Amount of compensation paid Disability - Temporary","Amount of compensation paid Total"
 2000.0,1377.0,1507.0,4765.0,7649.0,193004.0,104783.0,32016.0,329802.0
 2001.0,1346.0,1520.0,4381.0,7247.0,221595.0,126183.0,32923.0,380701.0

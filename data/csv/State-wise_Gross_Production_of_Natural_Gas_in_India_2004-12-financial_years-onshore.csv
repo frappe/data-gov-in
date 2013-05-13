@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of State-wise and year-wise gross production of natural gas during 2004-05 to 2011-12 in India.", 
+ "file_name": "State-wise_Gross_Production_of_Natural_Gas_in_India_2004-12.xls", 
+ "title": "State-wise Gross Production of Natural Gas in India: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/State-wise_Gross_Production_of_Natural_Gas_in_India_2004-12.xls"
+}
+-----
 "Year","Assam","Gujarat","West Bengal (CBM) $","Rajasthan","Tamil Nadu","Andhra Pradesh","Tripura","Arunachal Pradesh","Total"
 "2004-05",2248.0,3711.0,0.0,213.0,678.0,1707.0,496.0,40.0,9093.0
 "2005-06",2408.0,3831.0,0.0,242.0,906.0,1663.0,480.0,48.0,9578.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Number of pregnant women tested during ANC visits and found with Hemoglobin (Hb) less than 11 g/dl during the reporting month. Only those cases are to be reported where the Hb was measured by a Haemoglobinometer or any other acceptable laboratory method. Cases identified only by examination of eyes...", 
+ "file_name": "No_Of_Women_Having_HB_Level_Less_Than_11.csv", 
+ "title": "Number of Women Having Hemoglobin (Hb) Level Less Than 11 (Tested Cases) in India 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/No_Of_Women_Having_HB_Level_Less_Than_11.csv"
+}
+-----
 State/UT/Agency,Achievements 2009-10# Total ANC Registeration,Achievements 2009-10# Number of women having Hb level < 11 (tested cases),Achievements 2010-11# Total ANC registeration,Achievements 2010-11# Number of women having Hb level < 11 (tested cases)
 Arunachal Pradesh,"22,414","2,480","24,151","4,858"
 Assam,"746,492","33,883","740,545","84,265"

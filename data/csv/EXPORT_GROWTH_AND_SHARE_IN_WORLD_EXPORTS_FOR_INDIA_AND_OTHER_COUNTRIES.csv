@@ -1,0 +1,24 @@
+-----
+{
+ "description": "This dataset provides details on export growth rate, export value, share in world exports for India and other countries.", 
+ "file_name": "EXPORT_GROWTH_AND_SHARE_IN_WORLD_EXPORTS_FOR_INDIA_AND_OTHER_COUNTRIES.xls", 
+ "title": "Export Growth And Share In World Exports For India And Other Countries ", 
+ "url": "http://data.gov.in/sites/default/files/EXPORT_GROWTH_AND_SHARE_IN_WORLD_EXPORTS_FOR_INDIA_AND_OTHER_COUNTRIES.xls"
+}
+-----
+"Country","Value (US Dollar Billion)- 2009","Value (US Dollar Billion)- 2010","CAGR - 1993","CAGR - 2000-08","Annual Growth rate (Percent) - 2008","Annual Growth rate (Percent) - 2009","Annual Growth rate (Percent) - 2010","Annual Growth rate (Percent) - 2011 (Jan-June)","Share in world exports (Percent) - 2000","Share in world exports (Percent) - 2008","Share in world exports (Percent) - 2009","Share in world exports (Percent) - 2010","Share in world exports (Percent) - 2011 (Jan-June)","Change in share - 2010/2000"
+"China",1202.0,1578.0,25.4,24.4,17.3,-15.9,31.3,24.0,3.9,8.9,9.7,10.5,10.1,6.5
+"Korea",362.0,466.0,11.6,11.9,13.6,-14.3,29.0,24.2,2.7,2.6,2.9,3.1,3.2,0.4
+"Hong Kong",319.0,390.0,7.9,7.6,5.3,-12.2,22.5,15.3,3.2,2.3,2.6,2.6,2.4,-0.6
+"Russia",303.0,400.0,18.9,20.6,33.1,-35.7,32.0,31.5,1.7,3.0,2.5,2.7,2.9,1.0
+"Singapore",270.0,352.0,11.7,11.9,13.0,-20.2,30.4,21.9,2.2,2.1,2.2,2.3,2.3,0.2
+"Mexico",230.0,298.0,7.3,7.3,7.3,-21.3,29.8,21.3,2.6,1.8,1.9,2.0,2.0,-0.6
+"Taiwan",204.0,275.0,7.6,7.1,3.5,-20.1,34.8,"NA",2.3,1.6,1.6,1.8,"NA",-0.5
+"India",165.0,223.0,19.8,21.0,29.7,-15.2,35.1,55.0,0.7,1.2,1.3,1.5,1.9,0.8
+"Malaysia",157.0,199.0,8.7,9.9,19.1,-24.9,26.2,17.6,1.5,1.3,1.3,1.3,1.3,-0.2
+"Brazil",153.0,202.0,16.5,17.3,23.2,-22.7,32.0,32.6,0.9,1.2,1.2,1.3,1.4,0.5
+"Thailand",152.0,195.0,12.1,12.4,12.9,-12.0,28.6,17.3,1.1,1.1,1.2,1.3,1.3,0.2
+"Indonesia",119.0,158.0,8.8,9.9,18.3,-14.4,32.1,27.6,1.0,0.9,1.0,1.0,1.1,0.0
+"South Africa",63.0,82.0,12.8,13.9,21.3,-26.0,30.6,29.2,0.5,0.5,0.5,0.5,0.5,0.1
+"EDEs",4572.0,5894.0,16.9,18.0,25.3,-24.4,28.4,29.2,25.4,37.9,37.1,39.1,39.8,13.6
+"World",12358.0,15087.0,11.7,12.2,15.9,-22.7,21.9,23.1,100.0,100.0,100.0,100.0,100.0,"NA"

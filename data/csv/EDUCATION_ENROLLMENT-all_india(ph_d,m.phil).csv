@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2001-02 to 2009-10) and State-wise (2008-09 to 2009-10) for general courses (Arts, science, commerce) professional courses (Engineering, medicine, law etc) in Higher Education and Enrolment in Phd/phil.", 
+ "file_name": "EDUCATION_ENROLLMENT.xls", 
+ "title": "Enrolment In Higher Education According To Faculty And Stage (All India And State wise) ", 
+ "url": "http://data.gov.in/sites/default/files/EDUCATION_ENROLLMENT.xls"
+}
+-----
 "Year","  Men","Women","Total"
 " 2001-02",33820.0,19299.0,53119.0
 " 2002-03",41483.0,23874.0,65357.0

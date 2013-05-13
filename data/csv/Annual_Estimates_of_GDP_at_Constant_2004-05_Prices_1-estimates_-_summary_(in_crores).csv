@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Macro economic data on key parameters from 2004-05 onwards using the new base year are provided in this.  Besides data on Gross Domestic product, Capital Formation, Net income, Savings etc growth rates and sectoral breakups are also provided.  For details regarding concepts, definitions,...", 
+ "file_name": "Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1.xls", 
+ "title": "Annual Estimates of GDP at Constant (2004-05) Prices ", 
+ "url": "http://data.gov.in/sites/default/files/Annual_Estimates_of_GDP_at_Constant_2004-05_Prices_1.xls"
+}
+-----
 "Indicator (Rs in Crores)","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11 (QE)","2011-12 (RE)"
 "1. Agriculture, Forestry & Fishing",565426.0,594487.0,619190.0,655080.0,655689.0,662509.0,709103.0,728667.457435
 "2. Mining & Quarrying",85028.0,86141.0,92578.0,95997.0,98055.0,104225.0,109421.0,108468.549487

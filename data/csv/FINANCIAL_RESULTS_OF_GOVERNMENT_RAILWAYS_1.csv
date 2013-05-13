@@ -1,0 +1,23 @@
+-----
+{
+ "description": "This data provides details on financial results of government railways which includes capital-at-charge at the end of year, railway capital fund, gross traffic receipts, operating expenses, depreciation reserve fund, pension fund, net traffic receipts, net revenue, surplus or deficit, etc from 2001...", 
+ "file_name": "FINANCIAL_RESULTS_OF_GOVERNMENT_RAILWAYS_1.XLS", 
+ "title": "Financial Results Of Government Railways From 2001-02 to 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/FINANCIAL_RESULTS_OF_GOVERNMENT_RAILWAYS_1.XLS"
+}
+-----
+"Item","Unit","  2001-02"," 2002-03"," 2003-04"," 2004-05"," 2005-06"," 2006-07"," 2007-08"," 2008-09","2009-10","2010-11"
+"Route","Km.",63140.0,63122.0,63221.0,63465.0,63332.0,63327.0,63273.0,64015.0,63974.0,64460.0
+"Capital-at-Charge at the end of year (1)","Ten Million",40038.03,44301.75,45671.95,48957.11,53062.43,58145.14,63980.81,72237.95,87654.64,104544.66
+"Railway capital fund(2)","Ten Million",10389.83,10389.83,10389.83,10389.83,12815.94,17885.55,24540.33,31192.61,35346.05,38675.93
+"Gross traffic receipts","Ten Million",37837.59,41147.73,42904.94,47370.21,54491.38,62731.5,71720.06,79861.85,86963.97,94535.63
+"Operating expenses","Ten Million",28761.02,29655.45,30636.57,33388.88,35029.5,37432.53,41033.17,54349.3,65810.35,68139.22
+"Depreciation Reserve Fund","Ten Million",2000.44,2401.41,2592.55,2700.0,3604.0,4198.0,5450.0,7000.0,2187.0,5515.0
+"Pension fund","Ten Million",5590.0,5940.0,6253.09,6670.0,6940.0,7416.0,7979.0,10490.0,14918.0,15820.0
+"Net traffic receipts","Ten Million",1544.38,3042.47,3422.73,4611.33,8917.85,1384.97,17257.89,8022.55,4048.62,5061.41
+"Net miscellaneous receipts after deducting miscellaneous charge and surplus profits payable to companies.","Ten Million",793.15,787.76,1055.76,662.21,911.97,768.16,1076.13,1151.9,1495.47,1284.73
+"Net revenue","Ten Million",2337.53,3830.23,4478.49,5273.54,8005.88,1453.13,18334.02,9174.45,5544.09,6346.14
+"Charges against net revenue receipts","Ten Million",1337.18,2714.83,3387.08,3199.31,3667.92,4246.81,4902.93,4717.67,5543.34,4941.25
+"Surplus/deficit","Ten Million",1000.35,1115.4,1091.41,2074.23,4337.96,10206.32,13431.09,4456.78,0.75,1404.89
+"Percentage of working expenses (including Depreciation Reserve Fund) to gross traffic receipts    "," ",96.02,92.34,92.1,90.98,83.72,78.68,75.94,90.46,95.28,94.6
+"Percentage of net revenue to Capital-at-Charge and investment from capital fund (3)","",4.96,7.5,8.0,8.89,12.15,19.01,20.71,8.8,4.51,4.4

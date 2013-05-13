@@ -1,0 +1,21 @@
+-----
+{
+ "description": "Data provides all India and state-wise number, membership and financial position (including Share Capital, Reserves, Deposits, Borrowings, Total Working Capital and Loans issued during the year) of Grain Banks (Amount in ` Thousand) as on 31st March.", 
+ "file_name": "NUMBER_MEMBERSHIP_AND_FINANCIAL_POSITION_OF_GRAIN_BANKS.xls", 
+ "title": "Number / Membership / Financial Position of Grain Banks As On 31st March  ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_MEMBERSHIP_AND_FINANCIAL_POSITION_OF_GRAIN_BANKS.xls"
+}
+-----
+"State","Number of banks","Membership (number)","Share Capital","Reserves","Deposits","Borrowings","Total working capital","Loans issued during the year"
+"Andhra Pradesh","NA","NA","NA","NA","NA","NA","NA","NA"
+"Bihar","NA","NA","NA","NA","NA","NA","NA","NA"
+"Gujarat","NA","NA","NA","NA","NA","NA","NA","NA"
+"Himachal Pradesh","NA","NA","NA","NA","NA","NA","NA","NA"
+"Karnataka",115.0,17513.0,9287.0,6551.0,1753.0,173.0,17550.0,4536.0
+"Kerala","NA","NA","NA","NA","NA","NA","NA","NA"
+"Madhya Pradesh",4.0,1110.0,78.0,170.0,0.0,39.0,474.0,498.0
+"Maharashtra",25.0,4001.0,26273.0,1637.0,153.0,5.0,87388.0,328.0
+"Orissa",1.0,453.0,11.0,20.0,0.0,43.0,621.0,"NA"
+"Rajasthan",2.0,266.0,15.0,7.0,14.0,15.0,383.0,"NA"
+"Tamil Nadu","NA","NA","NA","NA","NA","NA","NA","NA"
+"Daman & Diu","NA","NA","NA","NA","NA","NA","NA","NA"

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (from 2000 to 2011) and State-wise (2010 and 2011) number of cases and deaths due to specified diseases (Acute Diarrhoeal Diseases, Malaria, Acute Respiaratory  Infection, Japanese Encephalitis, Viral Hepatitis).", 
+ "file_name": "Number_of_Cases_And_Deaths_Due_To_Diseases.xls", 
+ "title": "Number of Cases And Deaths Due To Diseases ", 
+ "url": "http://data.gov.in/sites/default/files/Number_of_Cases_And_Deaths_Due_To_Diseases.xls"
+}
+-----
 "Year","Acute Diarrhoeal Diseases - Cases","Acute Diarrhoeal Diseases - Deaths","Malaria - Cases","Malaria - Deaths","Acute Respiaratory Infection - Cases","Acute Respiaratory Infection - Deaths","Japanese Encephalitis - Cases","Japanese Encephalitis - Deaths","Viral Hepatitis - Cases","Viral Hepatitis - Deaths"
 2000.0,8870507.0,2918.0,2031790.0,931.0,"NULL","NULL",2593.0,556.0,153034.0,1038.0
 2001.0,9289558.0,2787.0,2085484.0,1005.0,"NULL","NULL",2061.0,479.0,149262.0,1147.0

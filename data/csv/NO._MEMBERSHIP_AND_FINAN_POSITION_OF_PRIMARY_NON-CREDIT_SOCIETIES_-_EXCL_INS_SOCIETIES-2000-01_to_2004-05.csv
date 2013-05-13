@@ -1,0 +1,14 @@
+-----
+{
+ "description": "Data provides the number, membership and financial (such as Share Capital, Reserves, Borrowings, Working Capital, Purchase/ Production during the year and Sales during the year) position of primary non-credit societies (excluding insurance societies) as on 31st March.", 
+ "file_name": "NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_NON-CREDIT_SOCIETIES_-_EXCL_INS_SOCIETIES.xls", 
+ "title": "Number / Membership / Financial Position of Primary Non-Credit Societies (Excluding Insurance Societies) As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NO._MEMBERSHIP_AND_FINAN_POSITION_OF_PRIMARY_NON-CREDIT_SOCIETIES_-_EXCL_INS_SOCIETIES.xls"
+}
+-----
+"Year","No. of societies","Membership (000 no.)","Share capital","Reserves","Borrowings from Govt.","Central Bank financing","Others","Working Capital","Purchase/Production during the year","Sales during the year"
+"2000-01",393787.0,56870.0,34372.7,44747.7,8781.1,29001.3,60236.7,274428.6,210912.6,291241.6
+"2001-02",233665.0,34137.0,34448.5,58795.9,11847.2,33052.7,69034.3,324580.1,192017.2,279301.3
+"2002-03",250457.0,48679.0,36836.4,56465.1,12193.5,32585.8,68542.5,384318.1,145103.3,203112.1
+"2003-04",263962.0,49089.0,53772.8,133765.3,20594.8,49220.8,139741.3,511885.4,388392.1,696663.2
+"2004-05",270548.0,50293.0,51859.0,135836.1,20192.8,35437.7,142670.6,519434.4,417727.5,570136.9

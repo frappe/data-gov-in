@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives the statistics on electricity-installed capacity, generation and consumption (utilities only).", 
+ "file_name": "ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION.xls", 
+ "title": "Electricity-Installed Capacity / Generation And Consumption (Utilities Only) ", 
+ "url": "http://data.gov.in/sites/default/files/ELECTRICITY-INSTALLED_CAPACITY_GENERATION_AND_CONSUMPTION.xls"
+}
+-----
 " Year","                      Installed Capacity (1) Hydro","                      Installed Capacity (1) Steam","                      Installed Capacity (1)  Diesel and Wind","                      Installed Capacity (1) Gas","                      Installed Capacity (1) Nuclear","                      Installed Capacity (1) Total","  Electricity gener  ated (gross) Hydro","  Electricity gener  ated (gross) Steam","  Electricty generated(gross)-Concld. Diesel and Wind","  Electricty generated(gross)-Concld. Gas","  Electricty generated(gross)-Concld. Nuclear","  Electricty generated(gross)-Concld. Total","Consumption in power station auxiliaries","Electricity generated  (net)","Consumption","Utilities/
 Non Utilities","Non-Utilities","Total@"
 " 2000-01",25153.0,61011.0,2141.0,10462.0,2860.0,101626.0,74362.0,357178.0,4581.0,48182.0,16902.0,501204.0,34932.03,466271.97,316599.61,314.74,51.38,366.12

@@ -1,0 +1,23 @@
+-----
+{
+ "description": "The table presents data on R&D expenditure by objectives from 2004-05 to 2005-06. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "Expenditure_On_Research_And_Development_By_Objectives_2004-05_to_2005-06.xls", 
+ "title": "Expenditure On Research And Development By Objectives From 2004-05 To 2005-06 ", 
+ "url": "http://data.gov.in/sites/default/files/Expenditure_On_Research_And_Development_By_Objectives_2004-05_to_2005-06.xls"
+}
+-----
+"OBJECTIVE","Central Government 2004-05","Central Government 2005-06","State Goverments 2004-05","State Goverments 2005-06","Public Sector 2004-05","Public Sector 2005-06","Private Sector 2004-05","Private Sector 2005-06","Total 2004-05","Total 2005-06"
+"1.  Defence",375326.5,532885.09,0.0,0.0,42846.29,56452.23,4785.89,5596.26,422958.68,594933.58
+"2.  Development of Agriculture - Forestry & Fishing",163939.49,187899.73,177670.53,203826.08,2201.61,2622.19,34319.65,39180.3,378131.28,433528.3
+"3.  Development of Health Services",95151.41,113371.51,3332.38,4042.27,203.27,202.42,256885.66,327886.58,355572.72,445502.78
+"4.  Development of Transport & Communications",29647.43,38873.64,428.26,455.71,12237.37,10825.63,104343.46,127049.66,146656.52,177204.64
+"5.  Exploration & Assessment of Earth Seas & Atmosphere",43077.89,49067.75,1513.2,1216.84,2128.0,2907.0,1401.22,1450.65,48120.31,54642.24
+"6.  General Advancement of Knowledge",315324.63,359874.9,3327.41,4342.2,199.42,182.19,13878.24,17982.33,332729.7,382381.62
+"7.  Other Aims",3359.21,3691.66,4182.69,4754.45,377.5,266.75,40988.27,42675.98,48907.67,51388.84
+"8.  Production Conservation & Distribution of Energy",121610.89,139764.62,1414.5,1522.88,39092.35,33732.35,9608.85,16133.45,171726.59,191153.3
+"9.  Promotion of Industrial Development",54435.36,56634.23,634.02,700.48,24900.22,22231.76,81256.67,98565.44,161226.27,178131.91
+"10. Protection of the Environment",18504.26,16580.43,569.24,678.66,180.0,250.0,6280.25,6957.0,25533.75,24466.09
+"11. Social Development & Other Socio-Economic Services",6410.57,6792.34,1011.9,1062.03,138.99,88.64,8349.59,8506.25,15911.05,16449.26
+"12. Space",258866.86,271820.44,69.01,140.04,1282.66,664.54,117.52,146.18,260336.05,272771.2
+"13. Urban & Rural Planning",2232.77,2819.96,0.0,0.0,0.0,0.0,587.09,561.94,2819.86,3381.9
+"Total",1487887.27,1780076.3,194153.14,222741.64,125787.68,130425.7,562802.36,692692.02,2370630.45,2825935.66

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This dataset provides information about the Electronics and IT Production as well as Electronics and IT Exports for the year 2012 and 2013.", 
+ "file_name": "Annual_Report_2012-13-Electronics_and_IT_Production_and_Exports.xls", 
+ "title": "Annual Report on Electronics and IT Production for 2012-2013 ", 
+ "url": "http://data.gov.in/sites/default/files/Annual_Report_2012-13-Electronics_and_IT_Production_and_Exports.xls"
+}
+-----
 "Group/ Class","Permanent / Temporary","Total No. of Employees","SC","Percentage of Total Employees ","ST","Percentage of Total Employees "
 "GROUP A","Permanent Other than lowest rung of Class – I",116.0,17.0,14.66,6.0,5.17
 "GROUP A","Permanent Lowest rung of Class – I",30.0,3.0,10.0,1.0,3.33

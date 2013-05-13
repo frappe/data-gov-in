@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Macro-Economic Indicators Summary Table based on India's Real GDP, GDP by Indystry of Origin, GFCF, M3 Growth rate, Fiscal Deficit, Inflation Rate and other valuable statistics as part of databook for DCH as on March, 2013", 
+ "file_name": "economyindicator_dataset.xls", 
+ "title": "India - Macro-economic Indicators Summary Table  ", 
+ "url": "http://data.gov.in/sites/default/files/economyindicator_dataset.xls"
+}
+-----
 "Indian Economy : Some Indicators (as on 4th March, 2013)","","","","","","","","","","","","","",""
 "Indicators","1999-00","2000-01","2001-02","2002-03","2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11 ","2011-12","2012-13 AE"
 "India's Growth Rates in GDP (Factor Cost at 2004-2005 Prices)",7.59,4.3,5.52,3.99,8.06,6.97,9.48,9.57,9.32,6.72,8.59,9.32,6.21,4.96

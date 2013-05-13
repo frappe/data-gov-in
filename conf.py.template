@@ -1,1 +1,7 @@
+# make a copy of this file and name it as "conf.py"
+
 apache_access_log_path = None
+google_api_key = None
+dbname = "datagovin"
+dbpassword = "some password"
+rootdbpassword = None

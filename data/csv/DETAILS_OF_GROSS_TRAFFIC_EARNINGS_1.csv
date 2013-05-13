@@ -1,0 +1,15 @@
+-----
+{
+ "description": "This data provides details on gross traffic earnings of Indian Railways from coaching traffic (passenger traffic and other coaching traffic), good traffic and other miscellaneous earnings from 2001-02 to 2010-11.", 
+ "file_name": "DETAILS_OF_GROSS_TRAFFIC_EARNINGS_1.XLS", 
+ "title": "Gross Traffic Earnings Of Indian Railways From 2001-02 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/DETAILS_OF_GROSS_TRAFFIC_EARNINGS_1.XLS"
+}
+-----
+"Item","2001-02"," 2002-03"," 2003-04"," 2004-05"," 2005-06"," 2006-07","2007-08","2008-09","2009-10","2010-11"
+"Coaching traffic",12068.69,13563.39,14220.61,15102.83,16278.49,18942.28,21644.47,23902.98,25723.29,28262.47
+"Coaching traffic : Passenger traffic",11196.45,12575.44,13298.33,14113.67,15125.0,17224.55,19844.17,21931.32,23488.17,25792.63
+"Coaching traffic : Other coaching traffic",8722.43,9879.49,9222.83,9891.59,1152.49,1717.72,1800.01,1971.66,2235.01,2469.84
+"Goods traffic (1)",24845.4,26504.83,27617.96,30778.42,36286.98,41716.52,47434.9,53433.42,58501.68,62844.72
+"Other miscellaneous earnings",9444.51,1179.52,1003.59,1157.03,1839.03,1711.7,2565.29,2500.66,2879.68,3418.27
+"Total gross earnings",37858.54,41147.73,42842.16,47038.28,54404.5,62370.49,71644.66,79837.06,87104.65,94525.46

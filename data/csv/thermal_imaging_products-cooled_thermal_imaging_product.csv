@@ -1,0 +1,13 @@
+-----
+{
+ "description": "Instruments Research and Development Establishment (IRDE), Dehra Dun, under DRDO, is devoted to research, design, development and technology transfer in optical and electro-optical instrumentation primarily for the Defence Services.The origin of IRDE dates back to the establishment of Inspectorate...", 
+ "file_name": "thermal_imaging_products.xls", 
+ "title": "Thermal Imaging Products of DRDO ", 
+ "url": "http://data.gov.in/sites/default/files/thermal_imaging_products.xls"
+}
+-----
+"Device Name","Detector","Field of View NFOV/WFOV","ZOOM(X)"
+"Integrated Multifunction Sight","320 x 256","1.9° x 1.4° / 6° x 5°","NA"
+"Hand Held Thermal Imagers (HHTI) With Monocular","320 x 256","3.7°x2.7°/7.4°x5.4°",2.0
+"Hand Held Thermal Imagers (HHTI) With Binocular","320 x 256","3.2°x2.4°/9.6°x7.2°",2.0
+"Hand Held Thermal Imagers (HHTI) With Display","320 x 256","2.3°x1.7°/4.6°x3.4°",2.0

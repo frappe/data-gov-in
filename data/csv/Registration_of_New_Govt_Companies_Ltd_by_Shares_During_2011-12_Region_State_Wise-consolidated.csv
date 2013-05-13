@@ -1,0 +1,13 @@
+-----
+{
+ "description": "Data provides details on registration of new government companies limited by shares during 2011-12 (region / state-wise distribution). This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956 for year ended 31st March, 2012. Report has been published...", 
+ "file_name": "Registration_of_New_Govt_Companies_Ltd_by_Shares_During_2011-12_Region_State_Wise.xls", 
+ "title": "Registration of New Government Companies Limited By Shares During 2011-12 - Region / State-wise Distribution ", 
+ "url": "http://data.gov.in/sites/default/files/Registration_of_New_Govt_Companies_Ltd_by_Shares_During_2011-12_Region_State_Wise.xls"
+}
+-----
+"Region","No. of Companies - Public","No. of Companies - Private","No. of Companies - Total","Authorised Capital - Public","Authorised Capital - Private","Authorised Capital - Total"
+"NORTHERN REGION",16.0,6.0,22.0,3216.5,1.32,3217.82
+"EASTERN REGION",5.0,2.0,7.0,40.1,25.05,65.15
+"WESTERN  REGION",13.0,1.0,14.0,368.35,50.0,418.35
+"SOUTHERN REGION",6.0,3.0,9.0,2017.65,30.6,2048.25

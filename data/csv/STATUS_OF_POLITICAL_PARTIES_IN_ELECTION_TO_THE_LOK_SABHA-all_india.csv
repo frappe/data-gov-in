@@ -1,0 +1,12 @@
+-----
+{
+ "description": "Data provide all India (1999, 2004 and 2009) and state-wise (2009) details on status of political parties in election to the Lok Sabha (House of People).", 
+ "file_name": "STATUS_OF_POLITICAL_PARTIES_IN_ELECTION_TO_THE_LOK_SABHA.xls", 
+ "title": "Status of Political Parties In Election To The Lok Sabha - House of People ", 
+ "url": "http://data.gov.in/sites/default/files/STATUS_OF_POLITICAL_PARTIES_IN_ELECTION_TO_THE_LOK_SABHA.xls"
+}
+-----
+" Year","Indian  National Congress (National Parties)","Bahujan Samaj Party (National Parties)","Communist Party of India - CPI  (National Parties)","Communist party of India- Marxist (National Parties)","Indian National Party- NCP (National Parties)","Bhartiya Janta Party- BJP (National Parties)","Rashtriya Janta Dal-RJD (National Parties)","Total (National Parties)","State Parties","Registered (Unorgnised) Parties","Indepedents","Total Constituencies"
+1999.0,114.0,14.0,4.0,33.0,"-",182.0,"-",365.0,158.0,7.0,6.0,543.0
+2004.0,145.0,19.0,10.0,43.0,9.0,138.0,"-",364.0,159.0,15.0,5.0,543.0
+2009.0,206.0,21.0,4.0,16.0,9.0,116.0,4.0,376.0,146.0,21.0,9.0,543.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2003-11) and State-wise (1991 and 2001) data on Literacy Rate in India for rural and urban (NSSO And RGI).", 
+ "file_name": "LITERACY_RATE_INDIA.xls", 
+ "title": "Literacy Rate In India (NSSO And RGI) ", 
+ "url": "http://data.gov.in/sites/default/files/LITERACY_RATE_INDIA.xls"
+}
+-----
 "State/Union ","     Rural Male","     Rural Female","     Rural Persons","     Urban Male","     Urban Female","     Urban Persons"
 2003.0,71.0,48.0,60.0,88.0,74.0,81.0
 2004.0,72.0,50.0,61.0,88.0,75.0,82.0

@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This table give State-wise (2009-10 to 2010-11) and All India (2000-01 to 2010-11) data on production of milk (Cow Milk, Buffalo Milk, Goat Milk).", 
+ "file_name": "PRODUCTION_OF_MILK.xls", 
+ "title": "Production of Milk ", 
+ "url": "http://data.gov.in/sites/default/files/PRODUCTION_OF_MILK.xls"
+}
+-----
+" Year/State/ Union Territory","Cow Milk ('000 tonne)","  Buffalo Milk ('000 tonne)"," Goat Milk ('000 tonne)","Total $ ('000 tonne)"
+" 2000-01",32957.0,43428.0,3266.0,80607.0
+" 2001-02",34516.0,45402.0,3501.0,84406.0
+" 2002-03",34612.0,46512.0,3636.0,86159.0
+" 2003-04",34973.0,47979.0,3708.0,88082.0
+" 2004-05",37344.0,50178.0,3537.0,92484.0
+" 2005-06",39759.0,52070.0,3790.0,97066.0
+" 2006-07",41148.0,54382.0,3818.0,100869.0
+" 2007-08",44601.0,56196.0,3986.0,104844.0
+" 2008-09",47006.0,57549.0,3983.0,108587.0
+" 2009-10",47825.0,59201.1,3910.1,112540.2
+" 2010-11",54903.0,62350.0,4594.0,121848.0

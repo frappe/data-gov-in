@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides details on new life insurance business by Indian insurers and total life insurance business in force from 2000-01 to 2010-11.", 
+ "file_name": "NEW_LIFE_INSURANCE_BUSINESS_BY_INDIAN_INSURERS_AND_TOTAL_LIFE_INSURANCE_BUSINESS_IN_FORCE_1.xls", 
+ "title": "New Life Insurance Business By Indian Insurers And Total Life Insurance Business In Force From 2000-01 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/NEW_LIFE_INSURANCE_BUSINESS_BY_INDIAN_INSURERS_AND_TOTAL_LIFE_INSURANCE_BUSINESS_IN_FORCE_1.xls"
+}
+-----
+"Year","Sum assured  per annum (New business)"," Annuities per annum (New business)","Notional cash option (New business)","Sum assured and bonus (Total business in force  at the end of the year)","Annuities per annum (Total business in force  at the end of the year)","Notional cash option (Total business in force  at the end of the year)"
+"2000-01",1249506.0,9083.0,"NA",6450419.0,29626.0,"NA"
+"2001-02",1927850.0,73369.0,"NA",8110173.0,104605.0,"NA"
+"2002-03",1798112.0,174.0,35834.0,9566752.0,103493.0,35834.0
+"2003-04",2000394.0,321.0,28266.0,11131887.0,100179.0,60517.0
+"2004-05",1785413.0,33.0,36040.0,12734687.0,43261.0,637795.0
+"2005-06",2882257.6,86.0,2881.6,15354396.1,45042.3,639115.4
+"2006-07",3028916.2,12026.0,2192.1,17751038.3,45193.3,870274.2
+"2007-08",2795212.0,37.0,1677.0,19841373.0,38898.0,472807.0
+"2008-09",3952568.0,62.0,4979.0,23194057.0,39460.0,469760.0
+"2009-10",4341087.0,322.0,6665.0,26458692.0,39510.0,469337.0
+"2010-11",473454.0,454.0,5538.0,29128719.0,35500.0,460849.0

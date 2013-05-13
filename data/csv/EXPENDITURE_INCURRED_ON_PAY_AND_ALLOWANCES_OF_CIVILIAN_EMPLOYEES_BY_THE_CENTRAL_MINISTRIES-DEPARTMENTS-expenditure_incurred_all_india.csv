@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table shows department wise expenditure incurred on pay and allowances on civilian employees by the central ministries/departments.", 
+ "file_name": "EXPENDITURE_INCURRED_ON_PAY_AND_ALLOWANCES_OF_CIVILIAN_EMPLOYEES_BY_THE_CENTRAL_MINISTRIES-DEPARTMENTS.xls", 
+ "title": "Expenditure Incurred On Pay And Allowances On Civilian Employees By The Central Ministries/Departments ", 
+ "url": "http://data.gov.in/sites/default/files/EXPENDITURE_INCURRED_ON_PAY_AND_ALLOWANCES_OF_CIVILIAN_EMPLOYEES_BY_THE_CENTRAL_MINISTRIES-DEPARTMENTS.xls"
+}
+-----
 "Ministry/
 Department","Pay* (Crore)","DA (Crore)","HRA (Crore)","CCA (Crore)","OTA (Crore)","TPT (Crore)","Others (Crore)"," Total (Crore)","Travel Allowance (Crore)","Bonus (Crore)","Honararium (Crore)","Encashment of E.L. (Crore)"
 "2005-06",27394.84,5718.8,2785.26,424.86,928.16,276.13,1711.4,39239.45,1189.49,1243.18,37.65,518.18

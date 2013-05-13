@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India and State-wise statistics of mental hospitals like number of hospitals, beds and patients.", 
+ "file_name": "Statistics_of_Mental_Hospitals.xls", 
+ "title": "Statistics on Mental Hospitals ", 
+ "url": "http://data.gov.in/sites/default/files/Statistics_of_Mental_Hospitals.xls"
+}
+-----
 "Year","State/U.T.","Number of mental hospitals","Number of beds available","Number of patients admitted during the year","Number of patients discharged during the year","Number of patients died during the year","",""
 "2000","2000","47(24)",19341.0,34653.0,37771.0,5176.0,"",""
 "2001","2001","47(19)",9486.0,46985.0,38736.0,282.0,"",""

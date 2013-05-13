@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents State-wise (2009 onwards), All India (2000 onwards) data on forest cover of the Country by type of forests w.r.t total geographical area, it has also data on actual forests cover by density classes such as dense forest, open forest, mangrove, serub, Non-forest.", 
+ "file_name": "STATEWISE_FORESTS_COVER_OF_THE_COUNTRY_1.xls", 
+ "title": "State-Wise Forests Cover Of The Country ", 
+ "url": "http://data.gov.in/sites/default/files/STATEWISE_FORESTS_COVER_OF_THE_COUNTRY_1.xls"
+}
+-----
 "Year","Geographical Area","Actual Forest Cover","Very Dense Forest","Moderately Dense","Open Forest","  Mangrove   ","  Scrub","    Non-Forest"
 2001.0,3287263.0,653898.0,395169.0,"NA",258729.0,4482.0,47318.0,2586047.0
 2003.0,3287263.0,677816.0,54518.0,334056.0,289242.0,4448.0,40269.0,2569178.0

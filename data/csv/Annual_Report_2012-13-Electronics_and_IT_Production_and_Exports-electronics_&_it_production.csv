@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This dataset provides information about the Electronics and IT Production as well as Electronics and IT Exports for the year 2012 and 2013.", 
+ "file_name": "Annual_Report_2012-13-Electronics_and_IT_Production_and_Exports.xls", 
+ "title": "Annual Report on Electronics and IT Production for 2012-2013 ", 
+ "url": "http://data.gov.in/sites/default/files/Annual_Report_2012-13-Electronics_and_IT_Production_and_Exports.xls"
+}
+-----
 "Item","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13"
 "Consumer Electronics",22600.0,25550.0,29000.0,32000.0,34300.0,41200.0
 "Industrial Electronics",11910.0,12740.0,15160.0,17000.0,18700.0,21500.0

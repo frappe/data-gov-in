@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The Prevention of Money-laundering Act, 2002, and rule thereunder require every banking company, financial institution and intermediary, to furnish to Financial Intelligence Unit India information relating to all cash transactions where forged or counterfeit currency notes or bank notes have been...", 
+ "file_name": "Counterfeit_Currency_Reports_Received.xls", 
+ "title": "Counterfeit Currency Reports received in 2010-11 under Prevention of Money-laundering Act ", 
+ "url": "http://data.gov.in/sites/default/files/Counterfeit_Currency_Reports_Received.xls"
+}
+-----
 "Type of Reporting Entity ","CCRs Received 2007-08","CCRs Received 2008-09","CCRs Received 2009-10","CCRs Received 2010-11","CCR Receipt till 31st March 2011"
 "Public Sector Banks",81.0,396.0,1391.0,1896.0,3764.0
 "Private Indian Banks",7388.0,29846.0,115720.0,234400.0,387354.0

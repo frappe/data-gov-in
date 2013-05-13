@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents data on number of banks and persons employed in the banking sector separately in respect of scheduled and non-scheduled banks in regional rural banks and in the reserve bank of India during the period 2000-2001 to 2009-10.", 
+ "file_name": "EMPLOYMENT_IN_BANKS.xls", 
+ "title": "Employment In Banks ", 
+ "url": "http://data.gov.in/sites/default/files/EMPLOYMENT_IN_BANKS.xls"
+}
+-----
 " Year","Scheduled banks No. of banks Indian ('000 number)","Scheduled banks No. of banks Foreign ('000 number)","Scheduled banks No. of employees Indian ('000 number)","Scheduled banks No. of employees Foreign ('000 number)","Non-scheduled banks No. of banks  ('000 number)","Non-scheduled banks No. of employees ('000 number)","Regional Rural Banks No. of banks  ('000 number)","Regional Rural Banks No. of employees ('000 number)","Reserve Bank of India No. of employees ('000 number)","Grand Total No. of employees ('000 number)"
 " 2000-01","58","42",848.0,13.0,"NA","NA",196.0,65.0,31.0,"NA"
 " 2001-02","58","40",824.0,12.0,4.0,"NA",196.0,65.0,30.0,"NA"

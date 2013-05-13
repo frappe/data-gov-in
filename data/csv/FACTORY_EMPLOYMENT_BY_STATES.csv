@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table provides State-wise data from 2001 onwards on employment in factories and average daily employment.", 
+ "file_name": "FACTORY_EMPLOYMENT_BY_STATES.xls", 
+ "title": "Factory Employment By States ", 
+ "url": "http://data.gov.in/sites/default/files/FACTORY_EMPLOYMENT_BY_STATES.xls"
+}
+-----
 "State/ Union Territory","Total Number of Factories (2001)","Average Daily Employment (2001) - (Employment in '000 no.)","Total Number of Factories (2002)","Average Daily Employment (2002)","Total Number of factories (2003)","Average Daily Employment (2003)","Total Number of Factories (2004)","Average Daily Employment (2004)","Total Number of Factories (2005)","Average Daily Employment (2005)","Total Number of Factories (2006)","Average Daily Employment (2006)","Total Number of Factories (2007)","Average Daily Employment (2007)","Total Number of Factories (2008)","Average Daily Employment (2008)","Total Number of factories (2009)","Average Daily Employment (2009)"
 " Andhra Pradesh",29218.0,719.0,30762.0,731.0,27927.0,717.0,28016.0,764.0,28149.0,773.0,28168.0,792.0,29451.0,833.0,30054.0,873.0,30827.0,953.0
 " Assam",1473.0,94.0,1554.0,96.0,1526.0,94.0,1671.0,99.0,1876.0,107.0,2073.0,114.0,2299.0,121.0,1946.0,121.0,2299.0,121.0

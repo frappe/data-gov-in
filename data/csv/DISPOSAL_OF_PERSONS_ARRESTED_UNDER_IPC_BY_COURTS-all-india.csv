@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2009 to 2011) details on disposal of persons arrested under IPC by courts.", 
+ "file_name": "DISPOSAL_OF_PERSONS_ARRESTED_UNDER_IPC_BY_COURTS.xls", 
+ "title": "All India And State-wise Disposal Of Persons Arrested Under IPC By Courts ", 
+ "url": "http://data.gov.in/sites/default/files/DISPOSAL_OF_PERSONS_ARRESTED_UNDER_IPC_BY_COURTS.xls"
+}
+-----
+"Year","Total persons under trial during the year including the persons carried over from previous year","Persons against whom cases were compounded or withdrwan","No. of persons whose trial remained pending","Total - Persons in whose cases trials were completed during the year","Persons convicted - Persons in whose cases trials were completed during the year","Persons acquitted - Persons in whose cases trials were completed during the year"
+2001.0,12679231.0,361889.0,10407087.0,1910255.0,644047.0,1266208.0
+2002.0,13013891.0,333325.0,10726760.0,1953806.0,681384.0,1272422.0
+2003.0,13216728.0,318725.0,11081689.0,1816314.0,625942.0,1190372.0
+2004.0,13568458.0,343580.0,11420173.0,1804705.0,653816.0,1150889.0
+2005.0,13907692.0,303987.0,11640286.0,1963419.0,675192.0,1288227.0
+2006.0,14130736.0,294080.0,11885654.0,1951002.0,706080.0,1244922.0
+2007.0,14497126.0,280373.0,12282938.0,1933815.0,691469.0,1242346.0
+2008.0,15013252.0,298858.0,12724909.0,1989485.0,715478.0,1274007.0
+2009.0,15383696.0,284884.0,13124825.0,1973987.0,711491.0,1262496.0
+2010.0,15885237.0,281171.0,13455093.0,2148973.0,777572.0,1371401.0
+2011.0,16363000.0,318014.0,13857748.0,2187238.0,764963.0,1422275.0

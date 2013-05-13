@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents State wise percentage and number of persons below poverty line in rural areas, urban areas and combined for the year 2009-10 based on the Tendulkar Committee Methodology . ", 
+ "file_name": "Poverty_Ratio_2009-10.xls", 
+ "title": "State-wise Percentage and Number of Persons below Poverty Line for the year 2009-10  ", 
+ "url": "http://data.gov.in/sites/default/files/Poverty_Ratio_2009-10.xls"
+}
+-----
 "Sr. No.","States and UTs","Percentage of Persons in Rural Areas","Number of Persons in Rural Areas in Lakhs","Percentage of Persons in Urban Areas ","Number of Persons in Urban Areas in Lakhs","Percentage of Persons -Combined ","Number of Persons-Combined in Lakhs"
 1.0,"Andhra Pradesh",22.75,127.900605169,17.7,48.6572599172,21.0916037925,176.557865087
 2.0,"Arunachal Pradesh",26.16,2.73989719426,24.89,0.755687375711,25.874586445,3.49558456997

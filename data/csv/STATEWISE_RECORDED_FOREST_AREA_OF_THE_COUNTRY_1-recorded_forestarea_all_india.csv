@@ -1,0 +1,14 @@
+-----
+{
+ "description": "This table presents data on State-wise (2009 onwards), All India (2001 onwards) actual forest cover, recorded forest area and legal status. The legal status has been categorized as \"Reserved\", \"protected\" and \"Unclassed\". Reserved forest is one which is permanently dedicated either to the...", 
+ "file_name": "STATEWISE_RECORDED_FOREST_AREA_OF_THE_COUNTRY_1.xls", 
+ "title": "State-Wise Recorded Forest Area Of The Country ", 
+ "url": "http://data.gov.in/sites/default/files/STATEWISE_RECORDED_FOREST_AREA_OF_THE_COUNTRY_1.xls"
+}
+-----
+"Year","Total Forest Area","Reserved Forest","Protected Forest","Unclassified Forest"
+2001.0,768436.0,423311.0,217245.0,127811.0
+2003.0,774740.0,399919.0,238434.0,136387.0
+2005.0,769626.0,419028.0,216605.0,133993.0
+2009.0,769512.0,430582.0,206219.0,132711.0
+2011.0,769538.0,422536.0,213982.0,133020.0

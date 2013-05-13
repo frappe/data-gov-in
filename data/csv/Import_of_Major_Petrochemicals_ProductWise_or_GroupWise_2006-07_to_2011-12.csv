@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of product wise and year wise import of major petrochemicals products, both in quantity and value, during 2006-07 to 2011-12 in India.", 
+ "file_name": "Import_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2011-12.xls", 
+ "title": "Import of Major Petrochemicals - Product wise / Group wise from 2006-07 to 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Import_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2011-12.xls"
+}
+-----
 "GROUP","PRODUCT","2006-2007 QTY","2006-2007 VAL","2007-2008 QTY","2007-2008 VAL","2008-2009 QTY","2008-2009 VAL","2009-2010 QTY","2009-2010 VAL","2010-2011 QTY","2010-2011 VAL","2011-2012 QTY","2011-2012 VAL"
 "SYNTHETIC FIBRES","ACRYLIC FIBRE",11958.0,12210.0,9427.0,9611.0,14015.0,15659.0,14568.0,16723.0,23611.0,33365.0,20200.0,27538.0
 "SYNTHETIC FIBRES","NYLON FILAMENT YARN",10144.0,15650.0,3974.0,5674.0,4840.0,7221.0,3190.0,5612.0,3746.0,6594.0,2910.0,5877.0

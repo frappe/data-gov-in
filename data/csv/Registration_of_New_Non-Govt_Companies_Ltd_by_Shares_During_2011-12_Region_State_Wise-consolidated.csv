@@ -1,0 +1,13 @@
+-----
+{
+ "description": "Data provides details on registration of new non government companies limited by shares during 2011-12 (region / state-wise distribution). This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956 for year ended 31st March, 2012. Report has been...", 
+ "file_name": "Registration_of_New_Non-Govt_Companies_Ltd_by_Shares_During_2011-12_Region_State_Wise.xls", 
+ "title": "Registration of New Non-Government Companies Limited By Shares During 2011-12 - Region / State-wise Distribution ", 
+ "url": "http://data.gov.in/sites/default/files/Registration_of_New_Non-Govt_Companies_Ltd_by_Shares_During_2011-12_Region_State_Wise.xls"
+}
+-----
+"Region","No. of Companies - Public","No. of Companies - Private","No. of Companies - Total","Authorised Capital - Public","Authorised Capital - Private","Authorised Capital - Total"
+"NORTHERN REGION",871.0,30718.0,31589.0,1756.27,6839.9,8596.17
+"EASTERN REGION",1461.0,20862.0,22323.0,986.29,2637.07,3623.36
+"WESTERN  REGION",705.0,24009.0,24714.0,2259.96,8403.96,10663.92
+"SOUTHERN REGION",403.0,20558.0,20961.0,955.26,5230.06,6185.32

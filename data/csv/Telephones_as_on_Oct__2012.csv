@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Telecom Service Area Wise Telephone connections", 
+ "file_name": "Telephones_as_on_Oct__2012.csv", 
+ "title": "Telephone connections at the end of Oct 2012 ", 
+ "url": "http://data.gov.in/sites/default/files/Telephones_as_on_Oct__2012.csv"
+}
+-----
 Sl. No.,Service area,Rural telephones Oct.12,Urban telephones Oct.12
 1,Andhra Pradesh,25976638,43848199
 2,Assam,8024715,6829027

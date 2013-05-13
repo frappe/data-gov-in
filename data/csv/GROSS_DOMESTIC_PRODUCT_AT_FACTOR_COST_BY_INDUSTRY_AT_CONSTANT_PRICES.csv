@@ -1,0 +1,28 @@
+-----
+{
+ "description": "This data provides details on Gross Domestic Product (GDP) at factor cost by type of Industry at constant (2004-05) prices from 2004-05 to 2010-11.", 
+ "file_name": "GROSS_DOMESTIC_PRODUCT_AT_FACTOR_COST_BY_INDUSTRY_AT_CONSTANT_PRICES.xls", 
+ "title": "Gross Domestic Product At Factor Cost By Industry At Constant Prices From 2004-05 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/GROSS_DOMESTIC_PRODUCT_AT_FACTOR_COST_BY_INDUSTRY_AT_CONSTANT_PRICES.xls"
+}
+-----
+"Industry","Group Name","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11"
+"agriculture","agriculture, forestry  & fishing",476634.0,502996.0,523745.0,556956.0,555442.0,559376.0,602939.0
+"forestry & logging","agriculture, forestry  & fishing",61640.0,62742.0,64795.0,65697.0,66932.0,68813.0,70802.0
+"fishing","agriculture, forestry  & fishing",27152.0,28749.0,30650.0,32427.0,33315.0,34320.0,35362.0
+"mining & quarrying","mining & quarrying",85028.0,86141.0,92578.0,95997.0,98055.0,104225.0,109421.0
+"registered","manufacturing",292344.0,327731.0,379355.0,417509.0,442055.0,493893.0,532219.0
+"unregistered","manufacturing",160881.0,171280.0,191081.0,211543.0,214247.0,225835.0,241943.0
+"electricity, gas &   water supply","electricity, gas &   water supply",62675.0,67121.0,73358.0,79425.0,83050.0,88266.0,90944.0
+"construction","construction",228855.0,258124.0,284798.0,315389.0,332329.0,355717.0,384199.0
+"trade","trade, hotels &  restaurants",433967.0,484781.0,536548.0,588450.0,628627.0,680780.0,742621.0
+"hotels & restaurants","trade, hotels &  restaurants",43336.0,50907.0,58237.0,65848.0,63597.0,65398.0,70458.0
+"railways","transport, storage & communication",29162.0,31339.0,34831.0,38236.0,41161.0,45036.0,48118.0
+"transport by other means","transport, storage & communication",169995.0,185741.0,202366.0,219978.0,231564.0,248321.0,269208.0
+"storage","transport, storage & communication",1980.0,2073.0,2298.0,2375.0,2711.0,2948.0,3180.0
+"communication","transport, storage & communication",49280.0,61855.0,77273.0,96925.0,117465.0,154730.0,196870.0
+"banking & insurance","financing, insurance, real estate  &  business services",171098.0,198231.0,239073.0,278939.0,317826.0,353880.0,405132.0
+"real estate, ownership of dwellings & business services","financing, insurance, real estate  &  business services",266076.0,294247.0,322305.0,349436.0,385803.0,416003.0,444863.0
+"public administration & defence","community, social & personal services",174638.0,181945.0,185540.0,199688.0,239348.94795,282891.034636,286453.2958
+"other services","community, social & personal services",236723.0,258213.0,267180.0,284140.0,305148.0,327205.0,351222.0
+"Total gross domestic product at factor cost ","",2971464.0,3254216.0,3566011.0,3898958.0,4158675.94795,4507637.03464,4885954.2958

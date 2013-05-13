@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This is the New Series of Consumer Price Index for Rural & Urban with base year 2010. Published by Central Statistical Office and released on 12th of every month.", 
+ "file_name": "Statewise_General_Index_Jan13_1.xls", 
+ "title": "State Level Consumer Price Index (Rural/Urban) Upto January 2013 ", 
+ "url": "http://data.gov.in/sites/default/files/Statewise_General_Index_Jan13_1.xls"
+}
+-----
 "Sector","Year"," Name ","Jammu and Kashmir","Himachal Pradesh","Punjab","Chandigarh","Uttaranchal","Haryana","Delhi","Rajasthan","Uttar Pradesh","Bihar","Sikkim","Arunachal Pradesh","Nagaland","Manipur","Mizoram","Tripura","Meghalaya","Assam","West Bengal","Jharkhand","Orissa","Chattisgarh","Madhya Pradesh","Gujarat","Daman and Diu","Dadra and Nagar Haveli","Maharashtra","Andhra Pradesh","Karnataka","Goa","Lakshwadeep","Kerala","Tamil Nadu","Pondicherry","Andaman and Nicobar"
 "Rural",2011.0,"January",106.0,106.0,105.0,105.0,105.0,107.0,105.0,106.0,106.0,105.0,105.0,108.0,103.0,102.0,108.0,108.0,109.0,105.0,108.0,109.0,109.0,108.0,106.0,108.0,104.0,108.0,108.0,108.0,108.0,106.0,105.0,109.0,109.0,110.0,105.0
 "Rural",2011.0,"February",105.0,105.0,105.0,103.0,105.0,107.0,103.0,106.0,105.0,105.0,104.0,108.0,102.0,102.0,109.0,108.0,107.0,106.0,108.0,107.0,106.0,106.0,106.0,107.0,104.0,106.0,107.0,106.0,108.0,105.0,105.0,109.0,108.0,108.0,104.0

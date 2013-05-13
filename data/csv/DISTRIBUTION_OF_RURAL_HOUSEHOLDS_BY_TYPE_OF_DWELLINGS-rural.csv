@@ -1,0 +1,47 @@
+-----
+{
+ "description": "This data provides state-wise percentage of distribution of rural and urban households by type of dwellings such as independent house, flat and others.", 
+ "file_name": "DISTRIBUTION_OF_RURAL_HOUSEHOLDS_BY_TYPE_OF_DWELLINGS.xls", 
+ "title": "State-wise Percentage Of Distribution Of Rural And Urban Households By Type Of Dwellings ", 
+ "url": "http://data.gov.in/sites/default/files/DISTRIBUTION_OF_RURAL_HOUSEHOLDS_BY_TYPE_OF_DWELLINGS.xls"
+}
+-----
+"India/State/Union Territory"," Independent House- NSS 59th Round (Jan. 2003-Dec. 2003)","Flat- NSS 59th Round (Jan. 2003-Dec. 2003)"," others- NSS 59th Round (Jan. 2003-Dec. 2003)"," Independent House- NSS 65th Round (July. 2008-June. 2009)","Flat- NSS 65th Round (July. 2008-June. 2009)"," others- NSS 65th Round (July. 2008-June. 2009)"
+"All India ",89.2,3.7,7.1,82.0,3.6,14.3
+"Andhra Pradesh",81.1,14.7,4.2,71.1,12.0,16.9
+"Arunachal Pradesh","NA","NA","NA",83.6,5.3,10.4
+"Assam",96.4,2.0,1.6,96.8,1.0,1.4
+"Bihar",94.8,2.3,2.8,89.5,3.4,6.7
+"Chattisgarh",97.2,1.7,1.2,78.2,"NA",20.9
+"Goa","NA","NA","NA",91.9,4.8,3.4
+"Gujarat",84.9,1.7,13.4,92.7,0.1,7.1
+"Haryana",85.9,8.5,5.6,82.6,7.6,9.8
+"Himachal Pradesh",79.8,17.5,2.7,74.1,21.3,4.6
+"Jammu and Kashmir",95.3,4.0,0.7,89.0,3.6,7.5
+"Jharkhand",93.5,2.1,4.4,89.1,0.9,10.0
+"Karnataka",90.3,3.1,6.6,94.0,4.1,1.9
+"Kerala",97.7,0.6,1.7,93.8,1.9,4.3
+"Madhya Pradesh",91.5,2.2,6.4,89.5,0.6,9.9
+"Maharashtra",70.2,1.0,28.8,70.2,2.3,27.4
+"Manipur",96.6,1.6,1.8,96.6,0.1,2.5
+"Meghalaya",99.7,"NA",0.3,98.9,0.2,0.6
+"Mizoram","NA","NA","NA",95.7,2.8,0.0
+"Nagaland","NA","NA","NA",95.5,0.2,3.9
+"Orissa",93.4,1.8,4.8,91.5,1.6,6.9
+"Punjab",96.3,3.0,0.8,86.6,4.1,9.3
+"Rajasthan",94.6,1.9,3.5,88.3,0.4,11.3
+"Sikkim","NA","NA","NA",81.9,17.5,0.5
+"Tamil Nadu",84.5,6.2,9.4,73.6,4.4,21.9
+"Tripura",95.9,1.4,2.7,92.6,0.1,7.1
+"Uttarakhand","NA","NA","NA",72.7,17.0,10.3
+"Uttar Pradesh",93.6,1.7,4.7,68.7,3.1,28.2
+"West Bengal",91.7,1.3,7.0,87.7,1.6,10.7
+"North Eastern States*",95.2,1.9,2.9,"NA","NA","NA"
+"Union Territories**",79.2,8.1,12.7,"NA","NA","NA"
+"A & N Islands","NA","NA","NA",67.0,24.9,8.0
+"Chandigarh","NA","NA","NA",26.1,53.7,20.2
+"Delhi","NA","NA","NA",68.8,6.2,25.1
+"Dadra & Nagar Haveli","NA","NA","NA",97.1,2.4,0.5
+"Daman & Diu","NA","NA","NA",93.6,3.8,2.6
+"Lakshadweep","NA","NA","NA",77.5,21.7,0.8
+"Puduchery","NA","NA","NA",92.0,5.7,2.2

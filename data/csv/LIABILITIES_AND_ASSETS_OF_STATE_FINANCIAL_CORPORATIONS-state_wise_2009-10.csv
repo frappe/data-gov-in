@@ -1,0 +1,27 @@
+-----
+{
+ "description": "This data provides All India (2000-01 to 2009-10) and State wise (2009-10) figures of Liabilities and Assets of State Financial Corporation as on 31st March.", 
+ "file_name": "LIABILITIES_AND_ASSETS_OF_STATE_FINANCIAL_CORPORATIONS.XLS", 
+ "title": "All India And State Wise Liabilities and Assets of State Financial Corporation As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/LIABILITIES_AND_ASSETS_OF_STATE_FINANCIAL_CORPORATIONS.XLS"
+}
+-----
+"State","No. of Corporations (Liabilities)","Capital and reserves (Liabilities)","Bonds and debentures (Liabilities)","Other liabilities (1)","Total Liabilities or Assets","Cash in hand and balances with banks (Assets)","Investments (Assets)","Loans and advances (Assets)","Other Assets (2)"
+"Andhra Pradesh ",1.0,3566.4,5310.0,14947.0,20484.0,2698.0,12.9,18655.0,2457.3
+"Assam ",1.0,212.3,"NA",372.0,434.0,222.6,"NA",310.5,50.9
+"Bihar ",1.0,878.9,353.0,5217.0,6903.0,487.6,"NA",2048.6,3912.1
+"Delhi ",1.0,711.6,"NA",797.0,1582.0,457.7,"NA",865.4,185.4
+"Gujarat ",1.0,3731.2,240.0,15882.0,18910.0,122.6,48.8,4074.2,15607.7
+"Haryana ",1.0,2035.3,476.0,2862.0,5586.0,40.5,1504.6,1764.8,2062.8
+"Himachal Pradesh",1.0,1045.4,896.0,1665.0,3010.0,189.1,710.6,1652.2,1054.6
+"Jammu & Kashmir ",1.0,931.4,408.0,2476.0,3726.0,231.0,"NA",1021.9,2562.6
+"Karnataka",1.0,7073.3,9470.0,14460.0,26388.0,1130.0,5287.9,13996.5,7588.4
+"Kerala",1.0,2699.5,975.0,5744.0,8354.0,104.2,19.9,8883.9,410.6
+"Madhya Pradesh ",1.0,3849.6,633.0,4240.0,8738.0,165.9,1870.5,4067.3,2618.8
+"Maharashtra ",1.0,1129.7,854.0,6687.0,9427.0,175.3,12.7,2317.4,6165.1
+"Orissa",1.0,4118.0,9.0,5155.0,9683.0,249.9,0.0,3711.6,5320.7
+"Punjab ",1.0,511.0,1969.0,2898.0,5402.0,180.8,7.3,1937.8,3252.2
+"Rajasthan",1.0,1707.8,1119.0,11553.0,13116.0,544.5,11.0,10106.4,3717.9
+"Tamil Nadu ",1.0,4532.3,1361.0,10981.0,15960.0,1027.9,118.2,11713.5,4014.7
+"Uttar Pradesh","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"West Bengal",1.0,1686.8,3806.0,3231.0,7848.0,758.2,2.1,6364.7,1598.7

@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data contains plan outlay and expenditure in Centre, State and Union Territories, from first five year plan to eleventh five year plan.", 
+ "file_name": "PLAN_OUTLAY_AND_EXPENDITURE_IN_CENTRE_STATES_AND_UNION_TERRITORIES_1.XLS", 
+ "title": "Plan Outlay And Expenditure In Centre / States And Union Territories ", 
+ "url": "http://data.gov.in/sites/default/files/PLAN_OUTLAY_AND_EXPENDITURE_IN_CENTRE_STATES_AND_UNION_TERRITORIES_1.XLS"
+}
+-----
+"Plan","Period","Outlay - Centre","Outlay - State/UTs","Outlay - Total","Expenditure - Centre (1)","Expenditure - State/UTs  (2)","Expenditure - Total"
+"First Five Year Plan","1951-56",1241.0,828.0,2069.0,706.0,1245.0,1960.0
+"Second Five Year Plan","1956-57",2559.12,2240.88,4800.0,2535.0,2115.0,4673.0
+"Third Five Year Plan","1961-66",3600.0,3900.0,7500.0,4212.0,4227.0,8577.0
+"Fourth Five Year Plan","1969-74",8870.0,7031.47,15901.47,7826.0,7675.0,15779.0
+"Fifth Five Year Plan","1974-79",19954.1,18899.14,38853.24,18755.0,20015.0,39426.0
+"Sixth Five Year Plan","1980-85",47250.0,50250.0,97500.0,57825.0,49485.0,109292.0
+"Seventh Five Year Plan","1985-90",95534.0,84466.0,180000.0,127520.0,87492.0,218730.0
+"Eight Five Year Plan**","1992-97",247865.0,186235.0,434100.0,328906.0,188449.0,527012.0
+"Ninth Five Year Plan","1997-02",489361.0,369839.0,859200.0,406687.0,299131.0,705818.0
+"Tenth Five Year Plan","2002-07",893183.0,632456.0,1525639.0,636317.0,613005.0,1249322.0
+"Eleventh Five Year Plan","2007-12",2156572.0,1488147.0,3644719.0,1167884.06,1694145.0,2862029.0

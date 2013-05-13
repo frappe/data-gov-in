@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents State specific poverty lines in rural and urban areas for the year 2004-05. The poverty line is defined in terms of Monthly Per Capita Consumption Expenditure (MPCE).  These are computed based on the Tendulkar Committee Methodology.   ", 
+ "file_name": "Poverty_Lines_2004-05.xls", 
+ "title": "Poverty Lines for 2004-05  ", 
+ "url": "http://data.gov.in/sites/default/files/Poverty_Lines_2004-05.xls"
+}
+-----
 "Sr. No","States and UTs"," Rural_in Rs. ","Urban_in Rs."
 1.0,"Andhra Pradesh",433.43,563.16
 2.0,"Arunachal Pradesh",547.14,618.45

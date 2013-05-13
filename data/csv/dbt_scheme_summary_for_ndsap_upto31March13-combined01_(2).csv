@@ -1,0 +1,90 @@
+-----
+{
+ "description": "Direct Benefit Transfer (DBT) Scheme-wise Status of Number of Beneficiaries, Number of beneficaries with bank account, beneficiaries with Aadhaar cards and Beneficiaries seeded with Aadhaar numbers etc.Seeded with Aadhaar etc.", 
+ "file_name": "dbt_scheme_summary_for_ndsap_upto31March13.xls", 
+ "title": "Direct Benefit Transfer (DBT) Scheme-wise Status as on 31st March, 2013 ", 
+ "url": "http://data.gov.in/sites/default/files/dbt_scheme_summary_for_ndsap_upto31March13.xls"
+}
+-----
+"Periodicity - ending Month & Year","Scheme_No.","Ministry_Department_Name","Name of the Scheme","Total No. of beneficiaries","Total no. of beneficiaries with bank account","Total no. of beneficiaries with Aadhaar no. and bank account","Total no. of beneficiaries with bank account and databases seeded with Aadhar no.","% Total no. of beneficiaries with bank account to Total No. of Beneficiaries","% Total no. of beneficiaries with Aadhaar no. and bank account to Total No. of Beneficiaries","% Total no. of beneficiaries with bank account and databases seeded with Aadhar no. to No. of Beneficaries"
+41275.0,1.0,"Social Justice and Empowerment","Post-Matric Scholarship for SC Students",167499.0,130585.0,90599.0,"NA",77.9616594726,54.0892781449," "
+41275.0,2.0,"Social Justice and Empowerment","Pre-Matric Scholarship for SC Students",54840.0,17885.0,28578.0,"NA",32.6130561634,52.1115973742,""
+41275.0,3.0,"Social Justice and Empowerment","Pre-Matric Scholarship for Children of those engaged in unclean occupations",1865.0,196.0,925.0,"NA",10.509383378,49.5978552279,""
+41275.0,4.0,"Social Justice and Empowerment","Upgradation of Merit of SC Students",20.0,20.0,20.0,"NA",100.0,100.0,""
+41275.0,5.0,"Social Justice and Empowerment","National Overseas Scholarship Schemes for SC Students.",0.0,0.0,0.0,"NA","","",""
+41275.0,6.0,"Social Justice and Empowerment","Post-Matric Scholarship for OBC Students",286691.0,266769.0,134733.0,"NA",93.0510549686,46.9958945345,""
+41275.0,7.0,"Social Justice and Empowerment","Top class Educations Scheme (SJE)",0.0,0.0,0.0,"NA","","",""
+41275.0,8.0,"Human Resource Development, D/o Higher Education","Scholarship to Universities/ College Students",12487.0,12487.0,0.0,"NA",100.0,0.0,""
+41275.0,9.0,"Human Resource Development, D/o Higher Education","Fellowship Schemes of UGC",753.0,412.0,67.0,"NA",54.7144754316,8.89774236388,""
+41275.0,10.0,"Human Resource Development, D/o Higher Education","Fellowship Schemes of AICTE",12854.0,0.0,0.0,"NA",0.0,0.0,""
+41275.0,11.0,"Human Resource Development, D/O School Education & Literacy","National Means cum Merit Scholarship",12636.0,10760.0,0.0,"NA",85.153529598,0.0,""
+41275.0,12.0,"Human Resource Development, D/O School Education & Literacy","National Scheme for Incentive for the Girls Child for Secondary Education",68229.0,0.0,0.0,"NA",0.0,0.0,""
+41275.0,13.0,"Tribal Affairs","Post-Matric Scholarship for ST Students",149915.0,90134.0,24686.0,"NA",60.1234032618,16.4666644432,""
+41275.0,14.0,"Tribal Affairs","Top Class Education System (TA)",51.0,0.0,0.0,"NA",0.0,0.0,""
+41275.0,15.0,"Tribal Affairs","Rajiv Gandhi National Fellowship (TA)",61.0,51.0,5.0,"NA",83.606557377,8.19672131148,""
+41275.0,16.0,"Minority Affairs","Matric Scholarship Scheme",42958.0,33836.0,9135.0,"NA",78.7653056474,21.2649564691,""
+41275.0,17.0,"Minority Affairs","Maulana Azad National Fellowship",77.0,71.0,6.0,"NA",92.2077922078,7.79220779221,""
+41275.0,18.0,"Minority Affairs","Merit cum Means Scholarship Scheme",3401.0,2685.0,0.0,"NA",78.9473684211,0.0,""
+41275.0,19.0,"Women and Child Development","Indira Gandhi Matrutva Sahyog Yojana (IGMSY)",83785.0,0.0,0.0,"NA",0.0,0.0,""
+41275.0,20.0,"Women and Child Development","Dhanalakshmi Scheme",8500.0,0.0,0.0,0.0,0.0,0.0,0.0
+41275.0,21.0,"Health and Family Welfare","Janani Suraksha Yojana",148248.0,2470.0,1365.0,1365.0,1.66612703038,0.920754411527,0.920754411527
+41275.0,22.0,"Labour and Employment","Scholarship To The Children of Beedi Workers",11075.0,0.0,0.0,"NA",0.0,0.0,""
+41275.0,23.0,"Labour and Employment","Housing Subsidy to Beedi Workers",26.0,0.0,0.0,"NA",0.0,0.0,""
+41275.0,24.0,"Labour and Employment","Stipend to children in the special schools under the child labour project",12868.0,0.0,0.0,"NA",0.0,0.0,""
+41275.0,25.0,"Labour and Employment","Stipend to Trainees under the Scheme of Welfare of SC/ST job seekers through Coaching-cum-Guidance and Vocational Training",650.0,650.0,0.0,"NA",100.0,0.0,""
+41275.0,26.0,"Labour and Employment","Payment of stipend to trainees under the Scheme of Skill Development in 34 Districts affected by Left Wing Extremism (LWE)",112.0,0.0,21.0,"NA",0.0,18.75,""
+41275.0,0.0,"All 08 Ministries & Departments","All 26 Schemes together ",1079601.0,569011.0,290140.0,1365.0,52.7056755227,26.8747435395,0.126435599819
+41306.0,1.0,"Social Justice and Empowerment","Post-Matric Scholarship for SC Students",340737.0,309001.0,122825.0,4129.0,90.6860716623,36.0468631232,1.21178504242
+41306.0,2.0,"Social Justice and Empowerment","Pre-Matric Scholarship for SC Students",104693.0,74841.0,44659.0,5.0,71.4861547572,42.657102194,0.00477586849169
+41306.0,3.0,"Social Justice and Empowerment","Pre-Matric Scholarship for Children of those engaged in unclean occupations",4500.0,3401.0,2383.0,191.0,75.5777777778,52.9555555556,4.24444444444
+41306.0,4.0,"Social Justice and Empowerment","Upgradation of Merit of SC Students",74.0,68.0,47.0,14.0,91.8918918919,63.5135135135,18.9189189189
+41306.0,5.0,"Social Justice and Empowerment","National Overseas Scholarship Schemes for SC Students.",0.0,0.0,0.0,0.0,"","",""
+41306.0,6.0,"Social Justice and Empowerment","Post-Matric Scholarship for OBC Students",608485.0,597713.0,250680.0,3752.0,98.229701636,41.1974001002,0.616613392278
+41306.0,7.0,"Social Justice and Empowerment","Top class Educations Scheme (SJE)",235.0,21.0,21.0,0.0,8.93617021277,8.93617021277,0.0
+41306.0,8.0,"Human Resource Development, D/o Higher Education","Scholarship to Universities/ College Students",5642.0,5642.0,0.0,0.0,100.0,0.0,0.0
+41306.0,9.0,"Human Resource Development, D/o Higher Education","Fellowship Schemes of UGC",753.0,412.0,67.0,67.0,54.7144754316,8.89774236388,8.89774236388
+41306.0,10.0,"Human Resource Development, D/o Higher Education","Fellowship Schemes of AICTE",9527.0,0.0,0.0,0.0,0.0,0.0,0.0
+41306.0,11.0,"Human Resource Development, D/O School Education & Literacy","National Means cum Merit Scholarship",11451.0,11363.0,6867.0,2939.0,99.2315081652,59.9685616977,25.6658807091
+41306.0,12.0,"Human Resource Development, D/O School Education & Literacy","National Scheme for Incentive for the Girls Child for Secondary Education",49679.0,23648.0,16471.0,6815.0,47.6016022867,33.1548541637,13.7180700095
+41306.0,13.0,"Tribal Affairs","Post-Matric Scholarship for ST Students",156287.0,101883.0,15863.0,2100.0,65.189683083,10.1499164998,1.34368181615
+41306.0,14.0,"Tribal Affairs","Top Class Education System (TA)",75.0,53.0,25.0,7.0,70.6666666667,33.3333333333,9.33333333333
+41306.0,15.0,"Tribal Affairs","Rajiv Gandhi National Fellowship (TA)",85.0,57.0,16.0,0.0,67.0588235294,18.8235294118,0.0
+41306.0,16.0,"Minority Affairs","Matric Scholarship Scheme",46779.0,46618.0,18978.0,0.0,99.65582847,40.569486308,0.0
+41306.0,17.0,"Minority Affairs","Maulana Azad National Fellowship",77.0,77.0,6.0,0.0,100.0,7.79220779221,0.0
+41306.0,18.0,"Minority Affairs","Merit cum Means Scholarship Scheme",3409.0,3409.0,979.0,0.0,100.0,28.7180991493,0.0
+41306.0,19.0,"Women and Child Development","Indira Gandhi Matrutva Sahyog Yojana (IGMSY)",33299.0,32436.0,8447.0,2922.0,97.4083305805,25.367128142,8.77503828944
+41306.0,20.0,"Women and Child Development","Dhanalakshmi Scheme",7687.0,7687.0,7687.0,7687.0,100.0,100.0,100.0
+41306.0,21.0,"Health and Family Welfare","Janani Suraksha Yojana",161051.0,8937.0,4762.0,4762.0,5.54917386418,2.95682734041,2.95682734041
+41306.0,22.0,"Labour and Employment","Scholarship To The Children of Beedi Workers",7055.0,1701.0,1701.0,1701.0,24.1105598866,24.1105598866,24.1105598866
+41306.0,23.0,"Labour and Employment","Housing Subsidy to Beedi Workers",26.0,26.0,19.0,19.0,100.0,73.0769230769,73.0769230769
+41306.0,24.0,"Labour and Employment","Stipend to children in the special schools under the child labour project",1340.0,1340.0,1091.0,335.0,100.0,81.4179104478,25.0
+41306.0,25.0,"Labour and Employment","Stipend to Trainees under the Scheme of Welfare of SC/ST job seekers through Coaching-cum-Guidance and Vocational Training",42.0,40.0,19.0,0.0,95.2380952381,45.2380952381,0.0
+41306.0,26.0,"Labour and Employment","Payment of stipend to trainees under the Scheme of Skill Development in 34 Districts affected by Left Wing Extremism (LWE)",24.0,20.0,20.0,20.0,83.3333333333,83.3333333333,83.3333333333
+41306.0,0.0,"All 08 Ministries & Departments","All 26 Schemes together ",1553012.0,1230394.0,503633.0,37465.0,79.2263034671,32.4294339001,2.41240891893
+"Mar-13",1.0,"Social Justice and Empowerment","Post-Matric Scholarship for SC Students",341132.0,309396.0,123200.0,4129.0,90.6968563489,36.1150522378,1.21038190495
+"Mar-13",2.0,"Social Justice and Empowerment","Pre-Matric Scholarship for SC Students",104693.0,74841.0,44659.0,5.0,71.4861547572,42.657102194,0.00477586849169
+"Mar-13",3.0,"Social Justice and Empowerment","Pre-Matric Scholarship for Children of those engaged in unclean occupations",4500.0,3401.0,2383.0,191.0,75.5777777778,52.9555555556,4.24444444444
+"Mar-13",4.0,"Social Justice and Empowerment","Upgradation of Merit of SC Students",74.0,68.0,47.0,14.0,91.8918918919,63.5135135135,18.9189189189
+"Mar-13",5.0,"Social Justice and Empowerment","National Overseas Scholarship Schemes for SC Students.",0.0,0.0,0.0,0.0,"","",""
+"Mar-13",6.0,"Social Justice and Empowerment","Post-Matric Scholarship for OBC Students",608485.0,597713.0,250680.0,3752.0,98.229701636,41.1974001002,0.616613392278
+"Mar-13",7.0,"Social Justice and Empowerment","Top class Educations Scheme (SJE)",235.0,21.0,21.0,0.0,8.93617021277,8.93617021277,0.0
+"Mar-13",8.0,"Human Resource Development","Scholarship to Universities/ College Students",5642.0,5642.0,0.0,0.0,100.0,0.0,0.0
+"Mar-13",9.0,"Human Resource Development","Fellowship Schemes of UGC",753.0,412.0,67.0,67.0,54.7144754316,8.89774236388,8.89774236388
+"Mar-13",10.0,"Human Resource Development","Fellowship Schemes of AICTE",9527.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Mar-13",11.0,"Human Resource Development","National Means cum Merit Scholarship",11502.0,11287.0,7312.0,3106.0,98.1307598678,63.5715527734,27.0039993045
+"Mar-13",12.0,"Human Resource Development","National Scheme for Incentive for the Girls Child for Secondary Education",50031.0,31749.0,22710.0,10225.0,63.4586556335,45.3918570486,20.4373288561
+"Mar-13",13.0,"Tribal Affairs","Post-Matric Scholarship for ST Students",168460.0,115944.0,24492.0,18766.0,68.8258340259,14.5387629111,11.1397364359
+"Mar-13",14.0,"Tribal Affairs","Top Class Education System (TA)",73.0,51.0,24.0,9.0,69.8630136986,32.8767123288,12.3287671233
+"Mar-13",15.0,"Tribal Affairs","Rajiv Gandhi National Fellowship (TA)",65.0,64.0,19.0,16.0,98.4615384615,29.2307692308,24.6153846154
+"Mar-13",16.0,"Minority Affairs","Matric Scholarship Scheme",46779.0,46618.0,19014.0,0.0,99.65582847,40.6464439171,0.0
+"Mar-13",17.0,"Minority Affairs","Maulana Azad National Fellowship",77.0,77.0,6.0,0.0,100.0,7.79220779221,0.0
+"Mar-13",18.0,"Minority Affairs","Merit cum Means Scholarship Scheme",3537.0,3537.0,1342.0,0.0,100.0,37.9417585524,0.0
+"Mar-13",19.0,"Women and Child Development","Indira Gandhi Matrutva Sahyog Yojana (IGMSY)",87687.0,47715.0,14891.0,5846.0,54.4151356529,16.9819927697,6.66689475065
+"Mar-13",20.0,"Women and Child Development","Dhanalakshmi Scheme",7687.0,7687.0,7687.0,7687.0,100.0,100.0,100.0
+"Mar-13",21.0,"Health and Family Welfare","Janani Suraksha Yojana",183762.0,17094.0,9549.0,9549.0,9.302249649,5.19639533745,5.19639533745
+"Mar-13",22.0,"Labour and Employment","Scholarship To The Children of Beedi Workers",11040.0,5606.0,1701.0,1701.0,50.7789855072,15.4076086957,15.4076086957
+"Mar-13",23.0,"Labour and Employment","Housing Subsidy to Beedi Workers",26.0,26.0,22.0,22.0,100.0,84.6153846154,84.6153846154
+"Mar-13",24.0,"Labour and Employment","Stipend to children in the special schools under the child labour project",14083.0,10661.0,5235.0,3108.0,75.7012000284,37.1724774551,22.0691614003
+"Mar-13",25.0,"Labour and Employment","Stipend to Trainees under the Scheme of Welfare of SC/ST job seekers through Coaching-cum-Guidance and Vocational Training",88.0,86.0,65.0,46.0,97.7272727273,73.8636363636,52.2727272727
+"Mar-13",26.0,"Labour and Employment","Payment of stipend to trainees under the Scheme of Skill Development in 34 Districts affected by Left Wing Extremism (LWE)",24.0,20.0,20.0,20.0,83.3333333333,83.3333333333,83.3333333333
+"Mar-13","","All 08 Ministries & Departments","All 26 Schemes together ",1659962.0,1289716.0,535146.0,68259.0,77.6955135118,32.238448832,4.11208208381

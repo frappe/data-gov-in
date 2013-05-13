@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides details on revenue and expenditure of the Railways from 2000-01 to 2010-11 in respect of which government is financially responsible.", 
+ "file_name": "REVENUE_ACCOUNT_OF_THE_RAILWAYS_IN_RESPECT_OF_WHICH_GOVERNMENT_IS_FINANCIALLY_RESPONSIBLE_1.XLS", 
+ "title": "Revenue Account Of Railways From 2000-01 To 2010-11 In Respect Of Which Government Is Financially Responsible ", 
+ "url": "http://data.gov.in/sites/default/files/REVENUE_ACCOUNT_OF_THE_RAILWAYS_IN_RESPECT_OF_WHICH_GOVERNMENT_IS_FINANCIALLY_RESPONSIBLE_1.XLS"
+}
+-----
+"Year","Revenue","Expenditure","Gain(+)or loss(-) to state"
+"2000-01",3601095.0,3524736.0,"(+)76359"
+"2001-02",3935781.0,3835746.0,"                                            (+)100035"
+"2002-03",4274148.0,4162608.0," (+) 111540"
+"2003-04",4491062.0,4381921.0," (+) 109141"
+"2004-05",4904658.0,4697235.0,"                            (+)207423"
+"2005-06",5631551.0,5197756.0,"(+) 433796"
+"2006-07",6478584.0,5457952.0," (+) 1020632"
+"2007-08",7327657.0,5984548.0," (+) 1343109"
+"2008-09",8165898.0,7720220.0," (+) 445678"
+"2009-10",8922929.0,8922854.0,"(+)75"
+"2010-11",96681.02,95276.13,"(+)1404.89"

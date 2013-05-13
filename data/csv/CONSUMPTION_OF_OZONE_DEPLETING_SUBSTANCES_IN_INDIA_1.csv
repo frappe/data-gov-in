@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table provides total consumption of ozone depleting substances (ODS) during 2000-2010.", 
+ "file_name": "CONSUMPTION_OF_OZONE_DEPLETING_SUBSTANCES_IN_INDIA_1.xls", 
+ "title": "Total Consumption of Ozone Depleting Substances (ODS) ", 
+ "url": "http://data.gov.in/sites/default/files/CONSUMPTION_OF_OZONE_DEPLETING_SUBSTANCES_IN_INDIA_1.xls"
+}
+-----
 "ODS",2000.0,2001.0,2002.0,2003.0,2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0
 "CFC-11",3002.0,2196.0,1680.0,829.0,426.0,337.29,514.89,274.9,101.58,43.5,78.616
 "CFC-12",2612.0,2315.0,2210.0,1777.0,1808.0,1609.0,3017.85,723.6,109.682,158.7,212.117

@@ -1,0 +1,79 @@
+-----
+{
+ "description": "This data provides All India (2001 to 2011) and State-wise (2008 to 2011) details on surfaced length of National Highways and surfaced length of State Highways as on 31st March for below standard single lane, standard single lane, standard double lane and standard multi lane.", 
+ "file_name": "LENGTH_OF_NATIONAL_AND_STATE_HIGHWAYS_BY_WIDTH_1.XLS", 
+ "title": "All India And State-wise Length Of National And State Highways - By Width As On 31st March 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/LENGTH_OF_NATIONAL_AND_STATE_HIGHWAYS_BY_WIDTH_1.XLS"
+}
+-----
+"State/Union Territory","Group Name","Below standard single lane - 2008","Below standard single lane - 2009","Below standard single lane - 2010","Below standard single lane - 2011","Standard single lane - 2008","Standard single lane - 2009","Standard single lane - 2010","Standard single lane - 2011","Standard double lane - 2008","Standard double lane - 2009","Standard double lane - 2010","Standard double lane - 2011","Standard multi lane - 2008","Standard multi lane - 2009","Standard multi lane - 2010","Standard multi lane - 2011","Total - 2008","Total - 2009","Total - 2010","Total - 2011"
+"Andhra Pradesh","Surfaced Length of National Highways","NA","NA","NA","NA",336.0,265.0,249.0,249.0,2765.0,2566.0,2289.0,2184.0,1371.0,1706.0,1999.0,2104.0,4472.0,4537.0,4537.0,4537.0
+"Arunachal Pradesh","Surfaced Length of National Highways","NA","NA","NA","NA",340.0,1940.0,1940.0,1908.0,52.0,52.0,52.0,84.0,"NA","NA","NA","NA",392.0,1992.0,1992.0,1992.0
+"Assam","Surfaced Length of National Highways","NA","NA","NA","NA",779.0,775.0,742.0,735.0,2038.0,2032.0,1933.0,1779.0,19.0,29.0,161.0,322.0,2836.0,2836.0,2836.0,2836.0
+"Bihar  ","Surfaced Length of National Highways","NA","NA","NA","NA",1924.0,1845.0,1756.0,1679.0,1449.0,1395.0,1354.0,1327.0,269.0,402.0,532.0,636.0,3642.0,3642.0,3642.0,3642.0
+"Chattisgarh","Surfaced Length of National Highways","NA","NA","NA","NA",643.0,593.0,425.0,368.0,1487.0,1537.0,1643.0,1657.0,54.0,54.0,116.0,159.0,2184.0,2184.0,2184.0,2184.0
+"Goa ***","Surfaced Length of National Highways","NA","NA","NA","NA",118.0,118.0,118.0,118.0,125.0,125.0,125.0,125.0,26.0,26.0,26.0,26.0,269.0,269.0,269.0,269.0
+"Gujarat ***","Surfaced Length of National Highways","NA","NA","NA","NA",232.0,171.0,163.0,163.0,1690.0,1517.0,1464.0,1371.0,1323.0,1557.0,1618.0,1711.0,3245.0,3245.0,3245.0,3245.0
+"Haryana","Surfaced Length of National Highways","NA","NA","NA","NA",187.0,169.0,34.0,13.0,900.0,869.0,993.0,905.0,425.0,474.0,491.0,600.0,1512.0,1512.0,1518.0,1518.0
+"Himachal Pradesh","Surfaced Length of National Highways","NA","NA","NA","NA",841.0,1038.0,816.0,801.0,367.0,371.0,592.0,602.0,"NA","NA",1.0,6.0,1208.0,1409.0,1409.0,1409.0
+"Jammu & Kashmir * ","Surfaced Length of National Highways","NA","NA","NA","NA",625.0,586.0,381.0,265.0,602.0,631.0,769.0,869.0,18.0,28.0,95.0,111.0,1245.0,1245.0,1245.0,1245.0
+"Jharkhand **","Surfaced Length of National Highways","NA","NA","NA","NA",706.0,688.0,606.0,527.0,914.0,929.0,1008.0,1068.0,185.0,188.0,191.0,210.0,1805.0,1805.0,1805.0,1805.0
+"Karnataka","Surfaced Length of National Highways","NA","NA","NA","NA",603.0,947.0,875.0,809.0,2609.0,2689.0,2568.0,2508.0,631.0,760.0,953.0,1079.0,3843.0,4396.0,4396.0,4396.0
+"Kerala","Surfaced Length of National Highways","NA","NA","NA","NA",268.0,267.0,266.0,266.0,1135.0,1110.0,1091.0,1071.0,54.0,80.0,100.0,120.0,1457.0,1457.0,1457.0,1457.0
+"Madhya Pradesh","Surfaced Length of National Highways","NA","NA","NA","NA",1389.0,1316.0,1629.0,1552.0,3033.0,2905.0,2724.0,2672.0,248.0,449.0,674.0,803.0,4670.0,4670.0,5027.0,5027.0
+"Maharashtra ***","Surfaced Length of National Highways","NA","NA","NA","NA",129.0,36.0,44.0,"NA",3161.0,3016.0,2850.0,2649.0,886.0,1124.0,1297.0,1542.0,4176.0,4176.0,4191.0,4191.0
+"Manipur ","Surfaced Length of National Highways","NA","NA","NA","NA",482.0,475.0,469.0,465.0,461.0,466.0,467.0,471.0,16.0,18.0,23.0,23.0,959.0,959.0,959.0,959.0
+"Meghalaya  ","Surfaced Length of National Highways","NA","NA","NA","NA",454.0,454.0,395.0,395.0,356.0,356.0,415.0,415.0,"NA","NA","NA","NA",810.0,810.0,810.0,810.0
+"Mizoram","Surfaced Length of National Highways","NA","NA","NA","NA",828.0,823.0,770.0,770.0,99.0,104.0,157.0,157.0,"NA","NA","NA","NA",927.0,927.0,927.0,927.0
+"Nagaland","Surfaced Length of National Highways","NA","NA","NA","NA",367.0,363.0,346.0,319.0,127.0,131.0,148.0,175.0,"NA","NA","NA","NA",494.0,494.0,494.0,494.0
+"Orissa","Surfaced Length of National Highways","NA","NA","NA","NA",1468.0,1531.0,1260.0,1154.0,1836.0,1729.0,1976.0,2045.0,400.0,444.0,468.0,505.0,3704.0,3704.0,3704.0,3704.0
+"Punjab","Surfaced Length of National Highways","NA","NA","NA","NA",46.0,10.0,"","NA",1221.0,1179.0,1091.0,958.0,290.0,368.0,466.0,599.0,1557.0,1557.0,1557.0,1557.0
+"Rajasthan","Surfaced Length of National Highways","NA","NA","NA","NA",1488.0,1377.0,1237.0,1186.0,2800.0,2458.0,2582.0,2536.0,1297.0,1750.0,1766.0,1863.0,5585.0,5585.0,5585.0,5585.0
+"Sikkim","Surfaced Length of National Highways","NA","NA","NA","NA",62.0,62.0,62.0,62.0,"NA","NA","NA","NA","NA","NA","NA","NA",62.0,62.0,62.0,62.0
+"Tamil Nadu","Surfaced Length of National Highways","NA","NA","NA","NA",130.0,256.0,80.0,75.0,3447.0,3008.0,2862.0,2651.0,885.0,1568.0,1890.0,2106.0,4462.0,4832.0,4832.0,4832.0
+"Tripura","Surfaced Length of National Highways","NA","NA","NA","NA",336.0,336.0,334.0,328.0,64.0,64.0,66.0,72.0,"NA","NA","NA","NA",400.0,400.0,400.0,400.0
+"Uttar Pradesh","Surfaced Length of National Highways","NA","NA","NA","NA",615.0,923.0,719.0,527.0,4200.0,4403.0,4260.0,4262.0,1059.0,1448.0,1795.0,1985.0,5874.0,6774.0,6774.0,6774.0
+"Uttara Khand","Surfaced Length of National Highways","NA","NA","NA","NA",1600.0,1638.0,1437.0,1409.0,379.0,397.0,598.0,623.0,12.0,7.0,7.0,10.0,1991.0,2042.0,2042.0,2042.0
+"West Bengal","Surfaced Length of National Highways","NA","NA","NA","NA",808.0,814.0,678.0,659.0,1255.0,1258.0,1362.0,1365.0,461.0,506.0,538.0,554.0,2524.0,2578.0,2578.0,2578.0
+"A. & N. Islands","Surfaced Length of National Highways","NA","NA","NA","NA",300.0,300.0,300.0,300.0,"NA","NA","NA","NA","NA","NA","NA","NA",300.0,300.0,300.0,300.0
+"Chandigarh","Surfaced Length of National Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",24.0,24.0,24.0,24.0,24.0,24.0,24.0,24.0
+"D. & N. Haveli","Surfaced Length of National Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",0.0,0.0,0.0,0.0
+"Daman and Diu","Surfaced Length of National Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",0.0,0.0,0.0,0.0
+"Delhi","Surfaced Length of National Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",72.0,72.0,80.0,80.0,72.0,72.0,80.0,80.0
+"Lakshadweep","Surfaced Length of National Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",0.0,0.0,0.0,0.0
+"Puducherry","Surfaced Length of National Highways","NA","NA","NA","NA","NA","NA","NA","NA",49.0,49.0,49.0,49.0,4.0,4.0,4.0,4.0,53.0,53.0,53.0,53.0
+"Andhra Pradesh","Surfaced Length of State Highways",1708.0,1660.0,1512.0,1413.0,994.0,997.0,984.0,979.0,7181.0,7187.0,7340.0,7440.0,413.0,477.0,497.0,511.0,10296.0,10321.0,10333.0,10343.0
+"Arunachal Pradesh","Surfaced Length of State Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",0.0,0.0,0.0
+"Assam","Surfaced Length of State Highways","NA","NA","NA","NA",2358.0,2358.0,2358.0,2358.0,26.0,26.0,26.0,26.0,6.0,6.0,6.0,6.0,2390.0,2390.0,2390.0,2390.0
+"Bihar  ","Surfaced Length of State Highways",2174.0,"NA","NA","NA",1593.0,3850.0,2532.0,1413.0,0.0,139.0,1413.0,2532.0,0.0,"NA",44.0,44.0,3767.0,3989.0,3989.0,3989.0
+"Chattisgarh","Surfaced Length of State Highways",660.0,1079.0,2322.0,2094.0,1692.0,1037.0,1091.0,1296.0,763.0,1053.0,1555.0,1562.0,25.0,5.0,6.0,22.0,3140.0,3174.0,4974.0,4974.0
+"Goa ***","Surfaced Length of State Highways","NA","NA","NA","NA",171.0,171.0,171.0,171.0,102.0,108.0,108.0,108.0,"NA","NA","NA","NA",273.0,279.0,279.0,279.0
+"Gujarat ***","Surfaced Length of State Highways",872.0,815.0,996.0,996.0,9662.0,9525.0,9690.0,9690.0,6736.0,6934.0,6705.0,6705.0,817.0,937.0,809.0,809.0,18087.0,18211.0,18200.0,18200.0
+"Haryana","Surfaced Length of State Highways",16.0,16.0,"NA",131.0,1072.0,955.0,694.0,513.0,1243.0,1249.0,1634.0,1640.0,192.0,303.0,193.0,238.0,2523.0,2523.0,2521.0,2522.0
+"Himachal Pradesh","Surfaced Length of State Highways","NA","NA","NA","NA",960.0,1050.0,1050.0,1050.0,634.0,576.0,576.0,576.0,"NA","NA","NA","NA",1594.0,1626.0,1626.0,1626.0
+"Jammu & Kashmir * ","Surfaced Length of State Highways",4.0,13.0,13.0,13.0,"NA",5.0,5.0,5.0,"NA","NA","NA","NA","NA","NA","NA","NA",4.0,18.0,18.0,18.0
+"Jharkhand **","Surfaced Length of State Highways","NA","NA","NA","NA",713.0,713.0,713.0,713.0,1158.0,1158.0,1158.0,1159.0,15.0,15.0,15.0,15.0,1886.0,1886.0,1886.0,1887.0
+"Karnataka","Surfaced Length of State Highways","NA","NA","NA","NA",17897.0,18238.0,17214.0,17567.0,2516.0,2441.0,3011.0,2965.0,24.0,163.0,240.0,186.0,20437.0,20842.0,20465.0,20718.0
+"Kerala","Surfaced Length of State Highways","NA","NA","NA","NA",4134.0,2119.0,2119.0,2119.0,"NA",2222.0,2222.0,2222.0,"NA","NA","NA","NA",4134.0,4341.0,4341.0,4341.0
+"Madhya Pradesh","Surfaced Length of State Highways",1624.0,4109.0,"NA","NA",4817.0,4689.0,9183.0,9183.0,2232.0,1257.0,1046.0,1046.0,56.0,60.0,"NA","NA",8729.0,10115.0,10229.0,10229.0
+"Maharashtra ***","Surfaced Length of State Highways",27515.0,1077.0,390.0,390.0,5015.0,21259.0,20488.0,20488.0,366.0,8683.0,9264.0,9264.0,"NA",1355.0,2458.0,2458.0,32896.0,32374.0,32600.0,32600.0
+"Manipur ","Surfaced Length of State Highways","NA","NA","NA","NA",685.0,960.0,960.0,960.0,300.0,"NA","NA","NA",39.0,11.0,11.0,11.0,1024.0,971.0,971.0,971.0
+"Meghalaya  ","Surfaced Length of State Highways","NA","NA","NA","NA",1070.0,1110.0,1110.0,1110.0,40.0,"NA","NA","NA","NA","NA","NA","NA",1110.0,1110.0,1110.0,1110.0
+"Mizoram","Surfaced Length of State Highways","NA","NA","NA","NA",170.0,259.0,696.0,696.0,"NA","NA","NA","NA","NA","NA","NA","NA",170.0,259.0,696.0,696.0
+"Nagaland","Surfaced Length of State Highways","NA","NA","NA","NA",404.0,541.0,683.0,763.0,"NA","NA","NA","NA","NA","NA","NA","NA",404.0,541.0,683.0,763.0
+"Orissa","Surfaced Length of State Highways",1252.0,941.0,780.0,540.0,1972.0,2081.0,2064.0,2143.0,409.0,537.0,619.0,640.0,153.0,233.0,238.0,248.0,3786.0,3792.0,3701.0,3571.0
+"Punjab","Surfaced Length of State Highways","NA","NA","NA","NA",566.0,305.0,305.0,305.0,694.0,1135.0,1135.0,1135.0,132.0,37.0,37.0,36.0,1392.0,1477.0,1477.0,1476.0
+"Rajasthan","Surfaced Length of State Highways",2809.0,2745.0,2711.0,2438.0,5582.0,5171.0,5037.0,4784.0,2534.0,2911.0,2868.0,3161.0,281.0,379.0,604.0,889.0,11206.0,11206.0,11220.0,11272.0
+"Sikkim","Surfaced Length of State Highways","NA","NA","NA","NA",179.0,179.0,179.0,179.0,"NA","NA","NA","NA","NA","NA","NA","NA",179.0,179.0,179.0,179.0
+"Tamil Nadu","Surfaced Length of State Highways","NA","NA","NA","NA",1781.0,1682.0,1446.0,995.0,7021.0,7047.0,7261.0,8709.0,462.0,655.0,677.0,857.0,9264.0,9384.0,9384.0,10561.0
+"Tripura","Surfaced Length of State Highways",72.0,72.0,72.0,"NA",607.0,607.0,607.0,470.0,"NA","NA","NA",219.0,"NA","NA","NA","NA",679.0,679.0,679.0,689.0
+"Uttar Pradesh","Surfaced Length of State Highways",2023.0,1818.0,1420.0,1259.0,1285.0,1158.0,1069.0,947.0,4968.0,5654.0,5330.0,5627.0,91.0,109.0,138.0,108.0,8367.0,8739.0,7957.0,7941.0
+"Uttara Khand","Surfaced Length of State Highways",552.0,518.0,508.0,1335.0,860.0,938.0,952.0,2094.0,107.0,107.0,107.0,324.0,"NA","NA","NA",10.0,1519.0,1563.0,1567.0,3763.0
+"West Bengal","Surfaced Length of State Highways",326.0,580.0,505.0,429.0,1087.0,3172.0,3121.0,3009.0,253.0,684.0,810.0,998.0,16.0,69.0,69.0,69.0,1682.0,4505.0,4505.0,4505.0
+"A. & N. Islands","Surfaced Length of State Highways",22.0,22.0,22.0,137.0,120.0,120.0,120.0,88.0,"NA","NA","NA","NA","NA","NA","NA","NA",142.0,142.0,142.0,225.0
+"Chandigarh","Surfaced Length of State Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",0.0,0.0,0.0
+"D. & N. Haveli","Surfaced Length of State Highways","NA","NA","NA","NA","NA","NA","NA","NA",34.0,23.0,21.0,21.0,8.0,19.0,21.0,21.0,42.0,42.0,42.0,42.0
+"Daman and Diu","Surfaced Length of State Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",0.0,0.0,0.0
+"Delhi","Surfaced Length of State Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",0.0,0.0,0.0
+"Lakshadweep","Surfaced Length of State Highways","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",0.0,0.0,0.0
+"Puducherry","Surfaced Length of State Highways","NA","NA","NA","NA",3.0,3.0,5.0,5.0,22.0,23.0,14.0,14.0,12.0,12.0,19.0,21.0,37.0,38.0,38.0,40.0

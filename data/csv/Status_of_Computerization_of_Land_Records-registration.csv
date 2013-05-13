@@ -1,0 +1,45 @@
+-----
+{
+ "description": "The Department is implementing the scheme of National Land Records Modernization Programme (NLRMP) since the year 2008. Different States/UTs are at various stages of computerization of land records. As per the information provided by the States/UTs, the status as on 31st March, 2013 has been...", 
+ "file_name": "Status_of_Computerization_of_Land_Records.xls", 
+ "title": "Status of Computerization of Land Records ", 
+ "url": "http://data.gov.in/sites/default/files/Status_of_Computerization_of_Land_Records.xls"
+}
+-----
+"Sl. No.","State/UT","Computerization of Registration","E-Stamping","Integration of Land Records and Registration"
+1.0,"Andhra Pradesh","Yes","No","Yes"
+2.0,"Arunachal Pradesh","No","No","No"
+3.0,"Assam","Yes","Yes","No"
+4.0,"Bihar","Yes","No","No"
+5.0,"Chhattisgarh","Under progress","No","No"
+6.0,"Gujarat","Yes","Yes","Yes"
+7.0,"Goa","Yes","No","No"
+8.0,"Haryana","Yes","No","Yes"
+9.0,"Himachal Pradesh","Yes","No","Yes"
+10.0,"Jammu & Kashmir","No","No","No"
+11.0,"Jharkhand","Yes","No","No"
+12.0,"Karnataka","Yes","Yes","Yes"
+13.0,"Kerala","Yes","No","No"
+14.0,"Madhya Pradesh","No","No","No"
+15.0,"Maharashtra","Yes","Yes","Yes"
+16.0,"Manipur","Under progress","No","No"
+17.0,"Meghalaya","No","No","No"
+18.0,"Mizoram","No","No","No"
+19.0,"Nagaland","No","No","No"
+20.0,"Odisha","Yes","Yes","Yes"
+21.0,"Punjab","Yes","No","No"
+22.0,"Rajasthan","Under progress ","No","Under progress"
+23.0,"Sikkim","Yes","No","No"
+24.0,"Tamil Nadu","Yes","No","No"
+25.0,"Tripura","Yes","No","Yes"
+26.0,"Uttar Pradesh","Yes","No","No"
+27.0,"Uttarakhand","Yes","No","No"
+28.0,"West Bengal","Yes","No","No"
+29.0,"Andaman & Nicobar Islands","No","No","No"
+30.0,"Chandigarh","Yes","Yes","No"
+31.0,"Dadra Nagar Haveli","Yes","No","No"
+32.0,"Daman & Diu","No","No","No"
+33.0,"Delhi","Yes","Yes","No"
+34.0,"Lakshadweep","No","No","No"
+35.0,"Puducherry","Yes","Yes","Yes"
+"Total","Total ",23.0,8.0,9.0

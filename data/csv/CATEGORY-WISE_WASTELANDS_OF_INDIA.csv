@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents data on Category-wise and State-wise wastelands of India such as Gullied/ Ravinous Land, Land with/ without scrub, Water logged/ Marshy Land, Saline/ Alkaline Area, Shifting Cultivation Area, Mining/ Industrial waste- lands etc.", 
+ "file_name": "CATEGORY-WISE_WASTELANDS_OF_INDIA.xls", 
+ "title": "Category-wise wastelands of India ", 
+ "url": "http://data.gov.in/sites/default/files/CATEGORY-WISE_WASTELANDS_OF_INDIA.xls"
+}
+-----
 "State/Union Territory","Gullied/ Ravinous Land","Land  with/ without scrub","Water logged/ Marshy  Land","Saline/ Alkaline Area","Shifting Cultivation  Area","Deg. Notified forest land","Deg.  Pastures/ grazing land","Deg.land  under plantation crop","Sands- Inland/ costal","Mining/ Industrial waste- lands","Barren rocky area","Steep sloping area","Snow/ Glacial area","Total waste lands","Total georaphical area *","Total waste land as % of total georaphical area"
 " Total",20553.36,194014.3,16568.46,20477.38,35142.21,140652.32,25978.92,5828.1,50021.65,1252.13,64584.77,7656.29,55788.49,638518.31,3166414.0,20.17
 " Andhra Pradesh",692.68,20256.64,1035.02,603.26,13.8,22237.78,709.29,52.91,464.7,98.88,5196.27,388.96,"NA",51750.19,275068.0,18.81

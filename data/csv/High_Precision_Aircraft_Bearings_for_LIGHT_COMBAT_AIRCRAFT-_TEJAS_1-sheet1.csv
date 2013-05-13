@@ -1,0 +1,19 @@
+-----
+{
+ "description": "Aircraft projects division of CVRDE is engaged in developing Aircraft Bearings for LCA Tejas programme.these bearings are of high class with the capabilities of operating at high speed and load carrying capacity.  CVRDE has established the design , manufacturing technologies and world class testing...", 
+ "file_name": "High_Precision_Aircraft_Bearings_for_LIGHT_COMBAT_AIRCRAFT-_TEJAS_1.xls", 
+ "title": "High Precision Aircraft Bearings for LIGHT COMBAT AIRCRAFT- TEJAS ", 
+ "url": "http://data.gov.in/sites/default/files/High_Precision_Aircraft_Bearings_for_LIGHT_COMBAT_AIRCRAFT-_TEJAS_1.xls"
+}
+-----
+"Specification / Unit","Value"
+"Size range (ID) in mm"," 20 - 117"
+"Speed range (rpm)","9700 - 56000"
+"Load range (N)","40 - 25000"
+"Temprature range (°C)"," - 54 to 250"
+"DN No.range (milion)"," 0.2 - 1.9"
+"Accuracy class","ABEC 5 & 7 / RBEC 5"
+"Reliability",0.99
+"Cryogenic treatment (°C)",-193.0
+"Vccume hardening (mbar)",-100.0
+"Super finishing (µm)","< 0.08"

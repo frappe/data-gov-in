@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table pertains to Science And Engineering Doctorates degrees awarded by US universities to non-US citizens during 1980 to 2005. The data are taken from the Science and Engineering Indicators, NSF, USA.", 
+ "file_name": "Country_of_Citizenship_of_NonUS_Citizens_Awarded_Sc_And_Engg_Doctorates_By_US_Universities_1980-2005.xls", 
+ "title": "Country of Citizenship of Non-U.S. Citizens Awarded Science And Engineering Doctorates By U.S. Universities: 1980-2005 ", 
+ "url": "http://data.gov.in/sites/default/files/Country_of_Citizenship_of_NonUS_Citizens_Awarded_Sc_And_Engg_Doctorates_By_US_Universities_1980-2005.xls"
+}
+-----
 "Sl. No.","Country of Citizenship",1980.0,1990.0,1991.0,"1994-97","1998-2001","2002-05"
 1.0,"Argentina",25.0,65.0,62.0,244.0,273.0,321.0
 2.0,"Australia",120.0,45.0,35.0,227.0,197.0,164.0

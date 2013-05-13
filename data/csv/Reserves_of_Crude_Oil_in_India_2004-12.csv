@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of State wise and year-wise reserves of crude oil during 2004-05 to 2011-12 in India.", 
+ "file_name": "Reserves_of_Crude_Oil_in_India_2004-12.xls", 
+ "title": "Reserves of Crude Oil in India: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Reserves_of_Crude_Oil_in_India_2004-12.xls"
+}
+-----
 "Year","Gujarat","Assam($)","Andhra Pradesh","Tamil Nadu","Western(#) Offshore","Eastern(&) Offshore","Grand Total"
 2004.0,174.83,170.22,4.28,8.01,321.2,60.54,739.08
 2005.0,191.98,171.59,4.71,8.18,366.51,43.07,786.04

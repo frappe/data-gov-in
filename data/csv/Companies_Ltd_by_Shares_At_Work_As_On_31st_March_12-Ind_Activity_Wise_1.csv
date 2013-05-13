@@ -1,0 +1,20 @@
+-----
+{
+ "description": "Data provides details on companies limited by shares at work (distribution by industrial activity). This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956 for year ended 31st March, 2012. Report has been published by The Ministry of Corporate Affairs...", 
+ "file_name": "Companies_Ltd_by_Shares_At_Work_As_On_31st_March_12-Ind_Activity_Wise_1.xls", 
+ "title": "Companies Limited By Shares At Work As On 31st March 2012 - Distribution by Industrial Activity ", 
+ "url": "http://data.gov.in/sites/default/files/Companies_Ltd_by_Shares_At_Work_As_On_31st_March_12-Ind_Activity_Wise_1.xls"
+}
+-----
+"Industrial Classification","No. of Companies - Public Limited*","No. of Companies - Private Limited**","No. of Companies - Total***"
+"Agriculture & Allied Activites",2682.0,17202.0,19884.0
+"Mining & Quarrying",764.0,9437.0,10201.0
+"Manufacturing",19138.0,165018.0,184156.0
+"Electricity, Gas & Water Companies",1563.0,8178.0,9741.0
+"Construction.",4814.0,80904.0,85718.0
+"Trade, Hotels and Restaurants",5922.0,124445.0,130367.0
+"Transport, Storage & Communication",1444.0,24583.0,26027.0
+"Finance, Insurance, Real Estate & Business Services",17974.0,227722.0,245696.0
+"Community, Personal & Social Services",2886.0,42252.0,45138.0
+"Unclassified",5243.0,38590.0,43833.0
+"Total",62430.0,738331.0,800761.0

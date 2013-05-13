@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Data on patent applications filed from 1980-81 to 2006-07 from persons in India and abroad at the Indian Patent Office. The data are taken from the annual reports of the Controller General of Patents, Designs and Trade Marks.", 
+ "file_name": "Applications_For_Patents_From_Persons_In_India_And_Abroad_In_The_Years_1980-81_To_2006-07.xls", 
+ "title": "Applications For Patents From Persons In India And Abroad In The Years 1980-81 To 2006-07 ", 
+ "url": "http://data.gov.in/sites/default/files/Applications_For_Patents_From_Persons_In_India_And_Abroad_In_The_Years_1980-81_To_2006-07.xls"
+}
+-----
 "Year","1980-81","1985-86","1990-91","1995-96","2000-01*","2001-02*","2002-03*","2003-04*","2004-05*","2005-06*","2006-07*"
 "India",1178.0,999.0,1180.0,1606.0,2179.0,2371.0,2693.0,3218.0,3630.0,4521.0,5314.0
 "Foreigners Resident in India",19.0,"",1.0,"","","","","","","",""

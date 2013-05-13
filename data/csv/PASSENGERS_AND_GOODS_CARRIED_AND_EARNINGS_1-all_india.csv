@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides All India (2000-01 to 2010-11) and Zone-wise (2009-10 to 2010-11) details on number of passengers originating, load of goods carried and earnings derived therefrom by Railways.", 
+ "file_name": "PASSENGERS_AND_GOODS_CARRIED_AND_EARNINGS_1.XLS", 
+ "title": "All India and Zone-wise Passengers / Goods Carried And Earnings Derived By Railways ", 
+ "url": "http://data.gov.in/sites/default/files/PASSENGERS_AND_GOODS_CARRIED_AND_EARNINGS_1.XLS"
+}
+-----
+"Year","Number of passengers originating (1) (in Million)","Earnings from passengers carried (in Million)","Load of goods (3) (in Million Tonnes) ","Earnings from goods (in Million Tonnes)"
+"2000-01",4832.7,104831.6,504.2,230454.1
+"2001-02",5092.7,111622.5,522.2,245867.9
+"2002-03",4970.8,125407.9,"NA",262314.5
+"2003-04",5112.4,132598.4,581.4,274031.05
+"2004-05",5377.9,140714.0,626.2,304892.3
+"2005-06",5725.0,150808.0,682.0,355347.0
+"2006-07",6219.0,171760.0,745.0,410732.0
+"2007-08",6524.0,197833.0,804.0,464255.0
+"2008-09",6920.0,218665.0,837.0,517493.0
+"2009-10",7246.0,234144.0,892.0,569115.0
+"2010-11",7651.0,257056.0,"NA",606870.0

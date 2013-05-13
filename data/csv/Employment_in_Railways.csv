@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives figures of Employment in Railways for the period 2000-01 to 2010-11 for the different railway zones in India.", 
+ "file_name": "Employment_in_Railways.xls", 
+ "title": "Employment In Railways ", 
+ "url": "http://data.gov.in/sites/default/files/Employment_in_Railways.xls"
+}
+-----
 "  Year","Central Zone (Number)","Eastern Zone(Number)","East Central Zone* (Number)","East Cost Zone* (Number)","Northern Zone (Number)","North Central Zone* (Number)","North Eastern Zone (Number)","North East Frontier Zone (Number)","North Western Zone* (Number)","Southern Zone (Number)","South Central Zone (Number)","South Eastern Zone (Number)","South East Central Zone* (Number)","South Western Zone* (Number)","Western Zone (Number)","West Central Zone* (Number)","Production Units (Number)","Railway Board & Other  Offices  Railway ","Grand Total"
 " 2000-01",213199.0,208237.0,"NA","NA",242747.0,"NA",97570.0,79390.0,"NA",133587.0,121820.0,197525.0,"NA","NA",182916.0,"NA",51241.0,21153.0,1549385.0
 " 2001-02",208024.0,204376.0,"NA","NA",236973.0,"NA",95233.0,76508.0,"NA",130579.0,119410.0,195725.0,"NA","NA",178210.0,"NA",49885.0,19893.0,1514816.0

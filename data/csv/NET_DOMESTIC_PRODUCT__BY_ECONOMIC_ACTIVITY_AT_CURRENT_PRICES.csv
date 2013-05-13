@@ -1,0 +1,28 @@
+-----
+{
+ "description": "This data provides details on Net Domestic Product (NDP) by economic activity at current prices from 2004-05 to 2010-11.", 
+ "file_name": "NET_DOMESTIC_PRODUCT__BY_ECONOMIC_ACTIVITY_AT_CURRENT_PRICES.xls", 
+ "title": "Net Domestic Product By Economic Activity At Current Prices From 2004-05 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/NET_DOMESTIC_PRODUCT__BY_ECONOMIC_ACTIVITY_AT_CURRENT_PRICES.xls"
+}
+-----
+"Industry","Group Name","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11"
+"agriculture","agriculture, forestry  & fishing",442741.0,499536.0,562332.626737,667873.827735,750631.111682,857596.123353,1010581.84876
+"forestry & logging","agriculture, forestry  & fishing",60813.0,68332.0,82134.0472726,80216.2619859,91246.861727,101064.401837,112051.47103
+"fishing","agriculture, forestry  & fishing",23735.0,27819.0,30769.947994,33750.9917336,37883.8175443,44794.1028694,54165.7064367
+"mining & quarrying","mining & quarrying",70464.0,77066.0,86516.3403929,100948.007566,111317.787884,120669.390227,152986.275831
+"registered","manufacturing",205844.0,246015.0,311499.130298,357747.675075,407016.774987,448253.782538,514419.457495
+"unregistered","manufacturing",140651.0,153513.0,181928.153481,212317.017883,225214.391866,244980.176397,281083.973478
+"electricity, gas &   water supply","electricity, gas &   water supply",33789.0,36651.0,39370.7071758,42169.7416177,45289.7515999,58842.5656796,64765.5066071
+"construction","construction",218511.0,256313.0,307225.529086,369996.539837,428136.117899,475541.938769,554054.643676
+"trade","trade, hotels &  restaurants",424594.0,501228.0,595921.824932,688643.823646,793060.390643,896828.307746,1073011.75695
+"hotels & restaurants","trade, hotels &  restaurants",40156.0,49886.0,61309.3651005,72880.7776302,75469.6510556,80546.5575966,95606.1232493
+"railways","transport, storage & communication",21696.0,22915.0,28529.3287202,34144.3531543,36398.3314583,46948.3625406,46646.0957978
+"transport by other means","transport, storage & communication",154791.0,175555.0,205305.987498,233101.848308,263834.834233,295914.984134,354042.029535
+"storage","transport, storage & communication",1872.0,2024.0,2361.17662978,2525.76445578,2967.28352817,3488.81348071,4004.3794814
+"communication","transport, storage & communication",41226.0,45152.0,49703.618923,55393.714301,61674.7746429,72632.503214,81535.6022506
+"banking & insurance","financing, insurance, real estate  &  business services",168111.705804,180846.213836,213443.918706,247017.179165,294281.8898,326480.948124,405835.499091
+"real estate, ownership of dwellings & business services","financing, insurance, real estate  &  business services",229766.908725,267990.98642,321703.925249,383998.708711,477962.73885,551325.640709,668263.359209
+"public administration & defence","community, social & personal services",149020.0,161435.0,174298.0,198884.0,266495.0,360206.0,400183.0
+"other services","community, social & personal services",223791.311441,253633.227222,280193.522647,315779.726757,369488.12917,447472.282042,530701.695913
+"Total net domestic product at factor cost ","",2651572.90558,3026782.11101,3534547.15084,4097389.95956,4738369.63857,5433586.88125,6403938.4248

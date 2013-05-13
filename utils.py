@@ -1,15 +1,20 @@
 from __future__ import unicode_literals
-import os
-import csv
+import os, csv, json
 
 def get_file_data(fname):
-	filecontent = get_file_content(fname)
-	if filecontent:
-		reader = csv.reader(filecontent.splitlines())
+	content = get_file_content(fname)
+	separator = "-----\n".encode("utf-8")
+	if content:
+		if content.startswith(separator):
+			t, headers, content = content.split(separator)
+			headers = json.loads(headers)
+		else:
+			headers = {}
+		reader = csv.reader(content.splitlines())
 		csvrows = [[col for col in row] for row in reader]
-		return csvrows
+		return headers, csvrows
 	else:
-		return None
+		return None, None
 		
 def get_file_content(fname):
 	if fname.startswith("."):
@@ -25,7 +30,14 @@ def get_file_content(fname):
 			
 			content = unicode(content, errors="ignore")
 		return content.encode("utf-8")
-		
+
+def is_number(s):
+	try:
+		float(s)
+		return True
+	except ValueError:
+		return False
+
 def get_hex_shade(color, percent):
 	def p(c):
 		v = int(c, 16) + int(int('ff', 16) * (float(percent)/100))

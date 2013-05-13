@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of month & year-wise average of International crude oil prices (Indian Basket).", 
+ "file_name": "Month_and_Year-wise_Average_of_International_Crude_Oil_Prices_2004-12.xls", 
+ "title": "Month and Year-wise Average of International Crude Oil Prices (Indian Basket): 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Month_and_Year-wise_Average_of_International_Crude_Oil_Prices_2004-12.xls"
+}
+-----
 "Year/Month","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
 "April",32.37,49.47,67.15,65.52,105.77,50.14,84.13,118.79
 "May",36.08,47.02,67.29,65.74,120.91,58.0,76.11,110.7

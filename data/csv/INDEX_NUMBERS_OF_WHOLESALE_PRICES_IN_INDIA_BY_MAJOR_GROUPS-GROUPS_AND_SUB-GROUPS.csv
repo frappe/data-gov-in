@@ -1,0 +1,28 @@
+-----
+{
+ "description": "Data provides index number of wholesale prices in India by major groups, groups and sub-groups from 2005-06 to 2011-12.", 
+ "file_name": "INDEX_NUMBERS_OF_WHOLESALE_PRICES_IN_INDIA_BY_MAJOR_GROUPS-GROUPS_AND_SUB-GROUPS.xls", 
+ "title": "Index Number of Wholesale Prices In India By Major Groups / Groups / Sub-Groups ", 
+ "url": "http://data.gov.in/sites/default/files/INDEX_NUMBERS_OF_WHOLESALE_PRICES_IN_INDIA_BY_MAJOR_GROUPS-GROUPS_AND_SUB-GROUPS.xls"
+}
+-----
+" Major Group/Group and Sub-Group","Commodity Weight","2005-06","2006-07","2007-08","2008-09","2009-10 ","2010-11 ","2011-12 "
+"All Commodities {Primary Articles(20.118) plus Fuel and Power (14.910) plus Manufactured Products(64.972)}",100.0,104.47,111.35,116.63,126.02,130.81,143.32,156.13
+"Primary Articles",20.118,104.3,114.33,123.85,137.53,154.94,182.44,200.32
+"Food Articles",14.337,105.38,115.52,123.57,134.8,155.39,179.63,192.74
+"Non-Food Articles",4.258,96.68,102.29,114.42,129.15,136.21,166.63,182.7
+"Minerals",1.524,115.15,136.61,152.78,186.52,202.92,253.28,320.65
+"Fuel and Power ",14.91,113.58,120.92,120.96,134.95,132.1,148.32,169.03
+"Manufactured Products",64.972,102.42,108.22,113.39,120.38,123.05,130.07,139.51
+"Food Products",9.974,101.19,106.54,110.31,119.9,136.08,141.15,151.2
+"Beverages Tobacco and Tobacco Products",1.762,104.66,110.0,117.17,128.33,136.17,146.2,163.27
+"Textiles",7.326,98.94,100.8,101.54,103.19,106.73,119.62,128.54
+"Wood and Wood Products",0.587,105.74,111.91,119.4,130.73,143.28,148.97,161.03
+"Paper and Paper Products",2.034,103.63,108.4,111.61,116.3,118.86,125.19,131.93
+"Leather and Leather Products",0.835,104.25,112.54,115.98,122.32,128.35,127.08,130.03
+"Rubber and Plastic Products",2.987,101.91,107.63,112.24,117.32,118.19,126.08,133.62
+"Chemicals & Chemical Products",12.018,103.79,108.94,112.83,118.07,117.76,124.04,134.72
+"Products",2.556,103.41,115.39,128.3,131.67,140.85,144.62,152.92
+"Basic Metals, Alloys and Metal Products",10.748,102.23,111.72,123.22,137.96,129.51,140.73,156.29
+"Machinery and Machine Tools",8.931,103.58,110.12,114.14,117.44,117.98,121.31,125.08
+"Transport Equipment and Parts",5.213,102.69,104.97,107.56,113.33,116.82,120.34,124.58

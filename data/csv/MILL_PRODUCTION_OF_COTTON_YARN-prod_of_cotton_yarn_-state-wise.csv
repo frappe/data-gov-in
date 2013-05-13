@@ -1,0 +1,44 @@
+-----
+{
+ "description": "The table provide All India (from 2000-01 to 2011-12) and State-wise (2010-11 and 2011-12) details on mill production of cotton yarn (in Mn. Kg.).", 
+ "file_name": "MILL_PRODUCTION_OF_COTTON_YARN.xls", 
+ "title": "Mill Production of Cotton Yarn ", 
+ "url": "http://data.gov.in/sites/default/files/MILL_PRODUCTION_OF_COTTON_YARN.xls"
+}
+-----
+"State/Union Territory","2010-11 (Mn. Kg.)","2011-12 (P) (Mn. Kg.)"
+"Andhra Pradesh",194.0,255.0
+"Arunachal Pradesh","NA","NA"
+"Assam","NA","NA"
+"Bihar","NA","NA"
+"Chhattisgarh","NA","NA"
+"Goa","NA","NA"
+"Gujarat",164.0,156.0
+"Haryana",119.0,152.0
+"Himachal Pradesh",79.0,55.0
+"Jammu & Kashmir",9.0,7.0
+"Jharkhand",1.25,1.0
+"Karnataka",43.0,34.0
+"Kerala",28.0,24.0
+"Madhya Pradesh",205.0,205.0
+"Maharashtra",270.0,254.0
+"Manipur","NA","NA"
+"Meghalaya","NA","NA"
+"Mizoram","NA","NA"
+"Nagaland","NA","NA"
+"Orissa",2.0,1.0
+"Punjab",497.0,497.0
+"Rajasthan",116.0,114.0
+"Sikkim","NA","NA"
+"Tamil Nadu",1545.0,1211.0
+"Tripura","NA","NA"
+"Uttarakhand",35.0,34.0
+"Uttar Pradesh",40.5,36.0
+"West Bengal",17.0,9.0
+"A & N. Island","NA","NA"
+"Chandigarh","NA","NA"
+"Dadra & N Haveli",76.0,75.0
+"Daman & Diu",1.0,1.0
+"Delhi","NA","NA"
+"Lakshadweep","NA","NA"
+"Puducherry",4.0,3.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The list contain the details of Post offices where Philatelic bureau is available.   Name, Pincode of Post office and the State in which the Post office is situated.", 
+ "file_name": "Philatelic_bureaux_11012013.csv", 
+ "title": "List of Philatelic bureaux  ", 
+ "url": "http://data.gov.in/sites/default/files/Philatelic_bureaux_11012013.csv"
+}
+-----
 officename,pincode,statename
 Port Blair H.O,744101,ANDAMAN & NICOBAR ISLANDS
 Hyderabad G.P.O. ,500001,ANDHRA PRADESH

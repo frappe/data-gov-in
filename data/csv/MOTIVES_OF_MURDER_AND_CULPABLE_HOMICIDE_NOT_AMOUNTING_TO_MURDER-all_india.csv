@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2009 to 2011) details on motives of murder and culpable homicide not amounting to murder.", 
+ "file_name": "MOTIVES_OF_MURDER_AND_CULPABLE_HOMICIDE_NOT_AMOUNTING_TO_MURDER.xls", 
+ "title": "All India And State-wise Motives Of Murder And Culpable Homicide Not Amounting To Murder ", 
+ "url": "http://data.gov.in/sites/default/files/MOTIVES_OF_MURDER_AND_CULPABLE_HOMICIDE_NOT_AMOUNTING_TO_MURDER.xls"
+}
+-----
+"Year","Murder - Gain","Culpable homicide - Gain","Murder - Property Dispute","Culpable homicide - Property Dispute","Murder - Personal Vendetta or Enmity","Culpable homicide - Personal Vendetta or Enmity","Murder - Love Affairs/Sexual Causes","Culpable homicide - Love Affairs/Sexual Causes","Murder - Dowry","Culpable homicide - Dowry","Murder - Lunacy","Culpable homicide - Lunacy","Murder - Other Motives","Culpable homicide - Other Motives","Murder - Total","Culpable homicide - Total"
+2001.0,1664.0,116.0,3203.0,118.0,4870.0,113.0,2512.0,25.0,968.0,50.0,74.0,4.0,22911.0,2941.0,36202.0,3367.0
+2002.0,1535.0,29.0,3225.0,104.0,4692.0,151.0,2626.0,67.0,1020.0,53.0,55.0,7.0,24763.0,3213.0,35290.0,3624.0
+2003.0,1612.0,50.0,3203.0,118.0,4870.0,113.0,2512.0,25.0,993.0,72.0,56.0,9.0,22694.0,3453.0,32716.0,4029.0
+2004.0,1543.0,74.0,3039.0,170.0,4274.0,142.0,2519.0,59.0,1010.0,53.0,34.0,6.0,21189.0,3431.0,33608.0,3935.0
+2005.0,1464.0,119.0,2810.0,128.0,3878.0,130.0,2433.0,44.0,1038.0,33.0,59.0,2.0,21037.0,3122.0,32719.0,3578.0
+2006.0,1577.0,34.0,2682.0,135.0,3597.0,86.0,2514.0,33.0,825.0,7.0,46.0,2.0,21240.0,3238.0,32481.0,3535.0
+2007.0,1662.0,57.0,2856.0,112.0,3534.0,92.0,2324.0,43.0,969.0,19.0,61.0,5.0,20912.0,3316.0,32318.0,3644.0
+2008.0,1618.0,54.0,2852.0,155.0,3271.0,112.0,2326.0,37.0,1195.0,41.0,55.0,39.0,21449.0,3425.0,32766.0,3863.0
+2009.0,1838.0,49.0,2935.0,123.0,3477.0,91.0,2556.0,26.0,1267.0,25.0,40.0,2.0,20256.0,3614.0,32369.0,3930.0
+2010.0,1642.0,64.0,3097.0,165.0,3369.0,111.0,2365.0,57.0,1308.0,20.0,33.0,3.0,21511.0,3362.0,33325.0,3782.0
+2011.0,1759.0,39.0,3337.0,116.0,3668.0,117.0,2688.0,22.0,1339.0,64.0,29.0,2.0,21485.0,3347.0,34305.0,3707.0

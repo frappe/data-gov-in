@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Total of newborns (live births) weighted at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital and found to be less than 2500g during the reporting month are reported. Data Source for this data element is Pregnancy Register/ Labour Room Register.", 
+ "file_name": "No_Of_Newborns_Having_Weight_Less_Than_2.5Kgs_1.csv", 
+ "title": "Number of Newborns Having Weight Less Than 2.5 Kgs in India 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/No_Of_Newborns_Having_Weight_Less_Than_2.5Kgs_1.csv"
+}
+-----
 State/UT/Agency,Achievements 2009-10# Total No. of live births reported,Achievements 2009-10# Number of newborns having weight less than 2.5 Kgs ,Achievements 2010-11# Total No. of live births reported,Achievements 2010-11# Number of newborns having weight less than 2.5 Kgs 
 Arunachal Pradesh,"9,817",696,"11,091",780
 Assam,"501,287","46,699","493,321","46,031"

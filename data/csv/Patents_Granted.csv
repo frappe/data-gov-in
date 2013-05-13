@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Department of Electronics and Information Technology (DeitY), M/o C&IT, GoI provides R&D grants to various Academic and Research organizations for undertaking R&D in emerging ICT areas. Details of the Patents Granted under such  DeitY funding can be obtained from this dataset.", 
+ "file_name": "Patents_Granted.csv", 
+ "title": "Patents Granted Under Research and Development Funding of DeitY ", 
+ "url": "http://data.gov.in/sites/default/files/Patents_Granted.csv"
+}
+-----
 Patent Application Number,Title,Applicant,Patent No,Date of Grant
 1372/DEL/1993,An improved process for the recovery of water soluble stronium sulfide,CENTRE FOR MATERIALS FOR ELECTRNOICS TECHNOLOGY,187940,NA
 522/MUM/2002,METHOD AND APPARATUS FOR OPTIMIZATION OF A MULTI-OBJECTIVE FUNCTION OF A PORTFOLIO CONATAINING AT LEAST ONE INVESTMENT,CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING,Application Withdrawn and US7395235,NA

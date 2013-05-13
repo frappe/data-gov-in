@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This Table give details from year 2000 to 2010 on Fish Catch and Landings By Group Of Species like Inland Fish, Flat Fish, Indian Shad Sardines, Anchovies, Tunas, Marine Teleousteans, Elasmobranchs, Decapods, etc.", 
+ "file_name": "FISH_CATCH_AND_LANDINGS-BY_GROUP_OF_SPECIES.xls", 
+ "title": "Fish Catch and Landings By Group of Species ", 
+ "url": "http://data.gov.in/sites/default/files/FISH_CATCH_AND_LANDINGS-BY_GROUP_OF_SPECIES.xls"
+}
+-----
+"Year ('000 tonne)","Inland  fish ('000 tonne)","Flat fish ('000 tonne)","Indian Shad Sardines, Anchovies, etc. ('000 tonne)","Tunas etc. ('000 tonne)","Miscellaneous Marine teleousteans ('000 tonne)","Elasmobranchs (Shark, Rays Skates, etc.) ('000 tonne)","Decapods (Prawn,  Crabs etc.) ('000 tonne)","Total Catch & Landings ('000 tonne)"
+2000.0,2825.8,18.6,401.8,320.9,1630.2,76.1,340.4,5613.8
+2001.0,3121.7,14.6,424.8,477.4,1514.4,68.0,316.3,5937.2
+2002.0,3165.9,20.1,344.2,432.7,1789.4,66.9,307.8,6127.0
+2003.0,3220.407,21.4,374.4,323.6,1850.0,63.8,321.5,6175.107
+2004.0,3527.505,19.3,372.8,310.5,1738.0,79.8,343.3,6391.1
+2005.0,3727.375,19.154,359.456,433.398,1600.212,61.056,374.173,6575.0
+2006.0,3750.736,20.645,485.965,525.583,1585.693,66.565,373.163,6808.35
+"2007#",4324.95,33.559,"NA",345.41,2187.551,103.246,366.117,7360.933
+2008.0,4498.4,27.3,420.2,77.2,2056.8,80.6,434.8,7595.3
+2009.0,4660.5,31.3,423.3,52.6,2141.6,73.3,357.4,7740.0
+"2010(P)",5292.4,32.3,426.2,93.8,2278.6,61.9,303.6,8488.8

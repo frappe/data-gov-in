@@ -1,0 +1,51 @@
+-----
+{
+ "description": "The table presents data on R&D expenditure by industry groups for private sector from 2002-03 to 2003-04. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "Expenditure_On_RnD_By_Industry_Groups_For_Private_Sector_2002-03_to_2003-04.xls", 
+ "title": "Expenditure On Research And Development By Industry Groups For Private Sector From 2002-03 To 2003-04 ", 
+ "url": "http://data.gov.in/sites/default/files/Expenditure_On_RnD_By_Industry_Groups_For_Private_Sector_2002-03_to_2003-04.xls"
+}
+-----
+"Sl. No.","Industry Group","No. of R&D Units","R&D Expenditure (Rs. Crores) 2002-03","R&D Expenditure (Rs. Crores) 2003-04","R&D Expenditure as % of S.T.O. 2002-03","R&D Expenditure as % of S.T.O. 2003-04"
+1.0,"Metallurgical Industries",50.0,8260.56,10442.83,0.15,0.15
+2.0,"Fuels",9.0,674.27,808.99,0.02,0.02
+3.0,"Boilers and Steam Generating Plants",1.0,226.83,337.5,0.42,0.56
+4.0,"Prime Movers",3.0,955.07,1253.05,0.6,0.67
+5.0,"Electricals and Electronics Equipment",132.0,17053.84,19768.38,0.35,0.37
+6.0,"Telecommunications",30.0,5503.52,9217.94,1.41,2.21
+7.0,"Transportation",60.0,43427.37,54649.76,0.77,0.8
+8.0,"Industrial Machinery",29.0,2419.87,3528.66,1.0,1.17
+9.0,"Machine Tools",11.0,479.75,534.15,1.36,1.2
+10.0,"Agricultural Machinery",8.0,4150.9,4846.54,1.6,1.48
+11.0,"Earth Moving Machinery",7.0,606.47,885.18,0.41,0.36
+12.0,"Misc. Mechanical Engineering Industries",55.0,7489.02,8667.08,0.16,0.16
+13.0,"Commercial Offices, Household Equipment",11.0,1780.02,2576.29,0.65,0.78
+14.0,"Medical and Surgical Appliances",11.0,832.67,961.93,3.65,3.54
+15.0,"Industrial Instruments",33.0,3760.06,4216.26,0.31,0.35
+16.0,"Scientific Instruments",9.0,285.73,332.53,2.9,2.82
+17.0,"Math. Surveying & Drawing Instruments",0.0,0.0,0.0,0.0,0.0
+18.0,"Fertilizers",7.0,287.31,365.02,0.05,0.06
+19.0,"Chemicals (Other Than Fertilizers)",161.0,19475.28,21317.93,0.37,0.36
+20.0,"Photographic Raw Film and Paper",3.0,367.22,350.57,0.84,0.76
+21.0,"Dye-stuffs",9.0,486.29,599.37,0.47,0.53
+22.0,"Drugs and Pharmaceuticals",156.0,102679.43,144143.38,2.18,2.62
+23.0,"Textiles (Dyed, Printed, Processed)",33.0,2020.79,2488.83,0.03,0.03
+24.0,"Papers and Pulps",18.0,2830.6,4527.54,0.18,0.26
+25.0,"Sugar",19.0,1672.24,1825.36,0.05,0.07
+26.0,"Fermentation Industries",4.0,362.72,281.0,0.24,0.17
+27.0,"Food Processing Industries",24.0,2955.46,3648.79,0.53,0.6
+28.0,"Vegetable Oil & Vanaspathi",3.0,2199.69,2910.77,2.52,3.1
+29.0,"Soaps, Cosmetics and Toilet Preparations",10.0,14263.76,15540.31,0.93,0.99
+30.0,"Rubber Goods",27.0,1232.59,1742.52,0.06,0.08
+31.0,"Leather, Leather Goods and Pickers",4.0,933.79,829.31,0.28,0.2
+32.0,"Glue and Gelatin",4.0,160.65,150.66,0.82,0.68
+33.0,"Glass",3.0,156.77,207.94,0.08,0.1
+34.0,"Ceramics",16.0,922.95,908.79,0.07,0.05
+35.0,"Cement and Gypsum Products",8.0,1242.19,1566.33,0.1,0.11
+36.0,"Timber Products",2.0,22.87,19.81,0.42,0.37
+37.0,"Defence Industries",7.0,619.77,968.83,4.96,4.75
+38.0,"Information Technology",20.0,11002.0,19428.19,1.25,1.82
+39.0,"Biotechnology",70.0,10872.33,13683.82,0.97,1.08
+40.0,"Consultancy Services",2.0,25.26,22.77,0.7,0.67
+41.0,"Miscellaneous Industries",39.0,3770.6,3699.36,0.5,0.41
+"Total","Total",1108.0,278468.51,364254.27,0.46,0.54

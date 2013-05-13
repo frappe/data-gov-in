@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents State-wise (2007 onwards), All India (2001 onwards) data on estimates of tree and mangrove cover w.r.t All India geographical area.", 
+ "file_name": "ESTIMATES_OF_TREE_AND_MANGROVE_COVER_1.xls", 
+ "title": "Estimates Of Tree And Mangrove Cover ", 
+ "url": "http://data.gov.in/sites/default/files/ESTIMATES_OF_TREE_AND_MANGROVE_COVER_1.xls"
+}
+-----
 "Year","Geographic Area (Km2)","Trees per hactare of CNFA","Tree Cover -Area (Km2)","Tree Cover -percentage of Geog. Area","Mangrove Cover Area 
 - Area (Km2)","Mangrove Cover Area 
 - percentage of Geog. Area"

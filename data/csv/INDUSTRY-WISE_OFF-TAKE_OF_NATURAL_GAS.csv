@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives statistics on industry-wise off-take of Natural Gas for period 2000-01 to 2010-11 in Billion Cubic Metres.", 
+ "file_name": "INDUSTRY-WISE_OFF-TAKE_OF_NATURAL_GAS.xls", 
+ "title": "Industry-wise Off-take of Natural Gas ", 
+ "url": "http://data.gov.in/sites/default/files/INDUSTRY-WISE_OFF-TAKE_OF_NATURAL_GAS.xls"
+}
+-----
 "Year","Power Generation","Industrial Fuel","Tea Plantation","Domestic Fuel","Captive Use/ LPG Shrinkage","Others","Total of Energy Purposes","Fertilizer Indu-stry","Petro Chemicals","Others @","Total","Grand Total","% Share of energy 
 purpose to total take of Natuaral gas","% Annual growth in take of Natural gas"
 "2000-01",8.801,2.87,0.151,0.335,5.004,0.038,17.199,8.48,0.779,1.402,10.661,27.86,61.7336683417,3.607288955

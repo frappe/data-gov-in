@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2000-01 to 2010-11) of Production, Availability and Consumption of Primary Sources of Conventional Energy like coal, lignite, crude petroleum, natural gas, hydro and nuclear electricity etc.", 
+ "file_name": "CONVENTIONAL_ENERGY.xls", 
+ "title": "Production, Availability And Consumption Of Primary Sources Of Conventional Energy ", 
+ "url": "http://data.gov.in/sites/default/files/CONVENTIONAL_ENERGY.xls"
+}
+-----
 "Year","Coal (Million Tonnes)","Lignite (Million Tonnes)","Crude Petroleum (Million Tonnes)","Natural Gas (Billion Cubic Metres)","Electricity* Hydro & Nuclear (GWh)"
 "2000-01",313.696,24.25,32.426,29.477,91264.0
 "2001-02",327.79,24.81,32.03,29.71,93054.0

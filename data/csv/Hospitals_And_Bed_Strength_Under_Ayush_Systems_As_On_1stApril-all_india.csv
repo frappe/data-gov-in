@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (from 2001 to 2011) and State-wise (2010-11) number of hospitals and bed strength under AYUSH Systems (Ayurveda, Unani, Siddha, Naturopathy, Homoeopathy, Yoga, Amchi) as on 1st April.", 
+ "file_name": "Hospitals_And_Bed_Strength_Under_Ayush_Systems_As_On_1stApril.xls", 
+ "title": "Hospitals And Bed Strength Under Ayush Systems As On 1st April ", 
+ "url": "http://data.gov.in/sites/default/files/Hospitals_And_Bed_Strength_Under_Ayush_Systems_As_On_1stApril.xls"
+}
+-----
 "Year/ States","Ayurveda - Hosp.","Ayurveda - Beds","Unani - Hosp.","Unani - Beds","Siddha - Hosp.","Siddha - Beds","Yoga - Hosp.","Yoga - Beds","Naturopathy - Hosp.","Naturopathy - Beds","Homoeopathy - Hosp.","Homoeopathy - Beds","Amchi - Hosp.","Amchi - Beds","Total - Hosp.","Total - Beds"
 2001.0,2955.0,43973.0,312.0,5128.0,237.0,1986.0,7.0,200.0,22.0,757.0,307.0,13694.0,2.0,25.0,3842.0,65763.0
 2002.0,2932.0,43555.0,300.0,5023.0,236.0,1991.0,8.0,140.0,16.0,593.0,300.0,13593.0,2.0,25.0,3794.0,64920.0

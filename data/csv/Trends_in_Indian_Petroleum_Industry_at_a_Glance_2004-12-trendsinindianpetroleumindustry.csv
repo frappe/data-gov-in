@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This dataset consists of Reserves, Consumption, Production and Import & Export of Petroleum Products, Crude Oil and Natural Gas during 2004-05 to 2011-12 in India.", 
+ "file_name": "Trends_in_Indian_Petroleum_Industry_at_a_Glance_2004-12.xls", 
+ "title": "Trends in Indian Petroleum Industry at a Glance: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Trends_in_Indian_Petroleum_Industry_at_a_Glance_2004-12.xls"
+}
+-----
 "Item","Detail","Unit","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12*"
 "1. Reserves ! (Balance Recoverable)","Crude Oil","Mn.Tonne",739.0,756.06,725.38,770.12,773.29,774.66,757.44,760.0
 "1. Reserves ! (Balance Recoverable)","Natural Gas","Bn.Cub.Mtr.",923.0,1075.41,1054.52,1089.97,1115.26,1148.56,1278.0,1330.0

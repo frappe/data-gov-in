@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2009 to 2011) details on number of cognizable crime under Indian Penal Code (IPC) and strength of police force.", 
+ "file_name": "NUMBER_OF_COGNIZABLE_CRIME_UNDER_IPC_AND_STRENGTH_OF_POLICE_FORCE.xls", 
+ "title": "All India and State-wise Number Of Cognizable Crime Under IPC And Strength Of Police Force ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_COGNIZABLE_CRIME_UNDER_IPC_AND_STRENGTH_OF_POLICE_FORCE.xls"
+}
+-----
+"Year","Total Number of IPC cases for Investigation including pending Cases from previous year","Actual Strength of Police force - Civil","Actual Strength of Police force - Armed","Actual Strength of Police force - Total","Number of policemen per 100 square Kilometres of Area","Number of policemen per 1000 of population","Number of IPC cases per Civil Policeman"
+2001.0,2238379.0,1030969.0,277041.0,1308010.0,41.3,1.3,2.2
+2002.0,2246845.0,1015416.0,293555.0,1308971.0,41.3,1.2,2.2
+2003.0,2169268.0,1025777.0,285739.0,1311516.0,41.4,1.2,2.1
+2004.0,2303354.0,1042844.0,294339.0,1337183.0,42.2,1.2,2.2
+2005.0,2365658.0,1046575.0,296283.0,1342858.0,42.4,1.2,2.3
+2006.0,2447063.0,1091899.0,314122.0,1406021.0,44.4,1.7,2.2
+2007.0,2626687.0,1095818.0,329363.0,1425181.0,45.0,1.7,2.4
+2008.0,2752687.0,1132202.0,341393.0,1473595.0,46.5,1.1,2.4
+2009.0,2808468.0,1215050.0,342447.0,1557497.0,49.2,1.33,2.3
+2010.0,2985719.0,1223319.0,356992.0,1580311.0,49.9,1.33,2.4
+2011.0,3146326.0,1281317.0,378834.0,1660151.0,52.4,1.37,2.5

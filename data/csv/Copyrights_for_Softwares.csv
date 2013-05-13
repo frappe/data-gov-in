@@ -1,3 +1,11 @@
+-----
+{
+ "description": "List of Copyrights obtained by various entities for software developed under R&D funding of the Department of Electronics and Information Technology (DeitY), M/o C&IT, GoI", 
+ "file_name": "Copyrights_for_Softwares.csv", 
+ "title": "Copyrights for Softwares Developed under DeitY Funding ", 
+ "url": "http://data.gov.in/sites/default/files/Copyrights_for_Softwares.csv"
+}
+-----
 Organization,Name of Software,Copy Right Date,Diary number,
 CDAC Pune.,LILA-HINDI,7/24/2000,180/2000/-co(sw),
 "CDAC, Pune.",LILA-PRABODH PACKAGE,6/9/2000,209/2000-co(sw),

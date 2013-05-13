@@ -1,0 +1,33 @@
+-----
+{
+ "description": "This data provide State-wise (2009-10 and 2010-11) and All India (2000-01 to 2010-11) details on the number of reporting mines in India such as Fuels, Metallic Minerals, Metallic and Non-Metallic Minerals.", 
+ "file_name": "NUMBER_OF_REPORTING_MINES_IN_INDIA.xls", 
+ "title": "Number of Reporting Mines In India ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_REPORTING_MINES_IN_INDIA.xls"
+}
+-----
+"State/ Union Territory","All Minerals Total","Fuels Total","Fuels Coal","Fuels Lignite","Metallic Minerals Total","Metallic Minerals Bauxite","Metallic Minerals Chromite","Metallic Minerals CopperConc.","Metallic Minerals Gold","Metallic Minerals IronOre","Metallic Minerals  Lead   Conc.","Metallic Minerals ManganeseOre","Metallic Minerals Others","Non-Metallic Minerals Total","Non-Metallic Minerals Apatite","Non-Metallic Minerals Asbestos","Non-Metallic Minerals Barytes","Non-Metallic Minerals Diamond","Non-Metallic Minerals Dolomite","Non-Metallic Minerals Felspar","Non-Metallic Minerals FireClay","Non-Metallic Minerals Gypsum","Non-Metallic Minerals Kaolin","Non-Metallic Minerals Kyanite","Non-Metallic Minerals LimeStone","Non-Metallic Minerals Magnesite","Non-Metallic Minerals Mica(Crude)","Non-Metallic Minerals Phosphorite","Non-Metallic Minerals Pyrites","Non-Metallic Minerals Saltrock","Non-Metallic Minerals Silli manite","Non-Metallic Minerals Steatite","Non-Metallic Minerals Vermiculite","Non-Metallic Minerals Others"
+" Andhra Pradesh",427.0,49.0,49.0,"NA",65.0,"NA","NA","NA","NA",29.0,"NA",36.0,"NA",313.0,1.0,3.0,5.0,"NA",14.0,19.0,8.0,"NA",8.0,"NA",79.0,"NA",28.0,"NA","NA","NA","NA",22.0,4.0,22.0
+" Arunachal Pradesh",1.0,1.0,1.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Assam",11.0,7.0,7.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",4.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Bihar",9.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",5.0,"NA","NA","NA","NA","NA","NA",1.0,"NA",3.0
+" Chhattisgarh",151.0,60.0,60.0,"NA",29.0,13.0,"NA","NA","NA",10.0,"NA","NA","NA",62.0,"NA","NA","NA","NA",23.0,"NA","NA","NA","NA","NA",38.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Goa",75.0,"NA","NA","NA",75.0,1.0,"NA","NA","NA",70.0,"NA",4.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Gujarat ",412.0,7.0,"NA",7.0,99.0,98.0,"NA","NA","NA","NA","NA",1.0,"NA",306.0,1.0,"NA","NA","NA",12.0,"NA","NA","NA",20.0,"NA",109.0,"NA","NA","NA","NA","NA","NA",1.0,"NA",163.0
+" Haryana","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Himachal Pradesh",24.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",24.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",23.0,"NA","NA","NA","NA",1.0,"NA","NA","NA","NA"
+" Jammu & Kashmir",10.0,7.0,7.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",3.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",1.0,"NA","NA","NA","NA","NA","NA","NA","NA",2.0
+"Jharkhand",291.0,174.0,174.0,"NA",60.0,36.0,"NA","NA","NA",20.0,"NA","NA","NA",57.0,"NA","NA","NA","NA",1.0,"NA","NA","NA",8.0,"NA",15.0,"NA","NA","NA","NA","NA","NA","NA","NA",37.0
+" Karnataka",238.0,"NA","NA","NA",122.0,2.0,3.0,"NA","NA",94.0,"NA",20.0,"NA",116.0,"NA","NA","NA","NA","NA","NA","NA","NA",3.0,"NA",63.0,2.0,"NA","NA","NA","NA","NA","NA","NA",50.0
+" Kerala",28.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",28.0,"NA","NA","NA","NA","NA","NA","NA","NA",15.0,"NA",1.0,"NA","NA","NA","NA","NA",1.0,"NA","NA",11.0
+" Madhya Pradesh",295.0,75.0,75.0,"NA",53.0,18.0,"NA","NA","NA",6.0,"NA","NA","NA",167.0,"NA","NA","NA","NA",43.0,"NA","NA","NA",2.0,"NA",72.0,"NA","NA",5.0,"NA","NA",2.0,"NA","NA",72.0
+" Maharashtra",157.0,55.0,55.0,"NA",49.0,15.0,"NA","NA","NA",15.0,"NA","NA","NA",53.0,"NA","NA","NA","NA",5.0,"NA","NA","NA","NA",2.0,21.0,"NA","NA","NA","NA","NA","NA","NA","NA",44.0
+" Manipur","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Meghalaya",9.0,1.0,1.0,"NA","NA","NA","NA","NA","NA","NA","NA",8.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",8.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Odisha",173.0,26.0,26.0,"NA",122.0,3.0,18.0,"NA","NA",71.0,"NA",25.0,"NA","NA","NA","NA","NA","NA",2.0,"NA","NA","NA",1.0,"NA",9.0,"NA","NA","NA","NA","NA",1.0,"NA","NA",17.0
+" Rajasthan",269.0,3.0,"NA",3.0,10.0,"NA","NA","NA","NA",1.0,6.0,1.0,"NA",256.0,"NA",2.0,1.0,"NA",1.0,"NA","NA","NA",14.0,"NA",23.0,"NA",3.0,2.0,"NA","NA","NA",54.0,"NA",58.0
+" Sikkim","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Tamil Nadu",179.0,3.0,"NA",3.0,3.0,3.0,"NA","NA","NA","NA","NA","NA","NA",173.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",81.0,5.0,"NA","NA","NA","NA","NA",1.0,1.0,86.0
+" Uttar Pradesh",23.0,5.0,5.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",18.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",1.0,"NA","NA","NA","NA","NA","NA","NA","NA",16.0
+" Uttarakhand",36.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",36.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",2.0,"NA","NA","NA","NA","NA",34.0,"NA","NA"
+" West Bengal",110.0,100.0,100.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",10.0,1.0,"NA","NA","NA","NA","NA","NA","NA",3.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",6.0

@@ -1,0 +1,19 @@
+-----
+{
+ "description": "The Flexible power take-off (PTO) shaft designed and developed by CVRDE, transmits the drive between engine gearbox and Accessory gearbox of Light Combat Aircraft (LCA) - Tejas. the name \"flexible PTO Shaft\"is derived from the fact that the shaft is able to accommodate large misalignment, which is...", 
+ "file_name": "Power_Take-off_Shaft__for_LIGHT_COMBAT_AIRCRAFT-_TEJAS_1.xls", 
+ "title": "Power Take-off Shaft  for LIGHT COMBAT AIRCRAFT-TEJAS ", 
+ "url": "http://data.gov.in/sites/default/files/Power_Take-off_Shaft__for_LIGHT_COMBAT_AIRCRAFT-_TEJAS_1.xls"
+}
+-----
+"Specification / Unit","Value"
+"Power Transmitted (kW)",185.0
+"Starting torque (N-m)",372.0
+"Static Torque Tested (N-m)",750.0
+"Normal Speed (rpm)",16810.0
+"Transient Speed (rpm)",17520.0
+"Critical Speed limit (rpm)",21000.0
+"Misalignment accommodation Axial (mm)",5.0
+"Misalignment accommodation Lateral (mm)",11.15
+"Weight (kg)",1.6
+"Length Of Shaft (mm)",510.0

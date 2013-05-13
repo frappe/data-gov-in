@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The Still Birth Rate is defined as \u201cNumber of still births per thousand live births and still births during the year\u201d.Pre-partum stillbirths are those which are occurring before labour, may reflect genetic or gestation conditions, including maternal nutritional status, and exposure to infection...", 
+ "file_name": "Still_Birth_Rate_1.csv", 
+ "title": "Still Birth Rate India 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/Still_Birth_Rate_1.csv"
+}
+-----
 S.No.,State,2004,2005,2006,2007,2008,2009,2010
 1,Andhra Pradesh,11,11,12,12,10,11,7
 2,Assam,8,9,9,8,6,8,9

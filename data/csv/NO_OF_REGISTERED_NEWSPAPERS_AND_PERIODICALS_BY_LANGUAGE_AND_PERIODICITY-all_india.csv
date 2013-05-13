@@ -1,0 +1,18 @@
+-----
+{
+ "description": "The table gives all India (2000-01 to 2009-10) and language-wise (2009 and 2010) details on the number of registered newspapers and periodicals.", 
+ "file_name": "NO_OF_REGISTERED_NEWSPAPERS_AND_PERIODICALS_BY_LANGUAGE_AND_PERIODICITY.xls", 
+ "title": "Number of Registered Newspapers And Periodicals By Language And Periodicity ", 
+ "url": "http://data.gov.in/sites/default/files/NO_OF_REGISTERED_NEWSPAPERS_AND_PERIODICALS_BY_LANGUAGE_AND_PERIODICITY.xls"
+}
+-----
+"Year","Dailies","Bi/Tri Weekly","Weekly","Fortnightly","Monthly","Quarterly","Annual","Others","Total"
+"2000-01",5638.0,348.0,18582.0,6881.0,14632.0,3636.0,469.0,1774.0,51960.0
+"2002-03",5966.0,358.0,19631.0,7356.0,16109.0,3919.0,516.0,1925.0,55780.0
+"2003-04",6287.0,361.0,20329.0,7694.0,17124.0,4101.0,541.0,2032.0,58469.0
+"2004-05",6530.0,364.0,20831.0,7959.0,17813.0,4227.0,556.0,2133.0,60413.0
+"2005-06",6800.0,368.0,21452.0,8224.0,18498.0,4336.0,579.0,2226.0,62483.0
+"2006-07",7131.0,374.0,22114.0,8544.0,19449.0,4466.0,599.0,2321.0,64998.0
+"2007-08",7710.0,379.0,23414.0,9053.0,20948.0,4687.0,622.0,2510.0,69323.0
+"2008-09",8475.0,383.0,24544.0,9458.0,22124.0,4864.0,653.0,2645.0,73146.0
+"2009-10",9355.0,391.0,25812.0,9892.0,23475.0,5021.0,684.0,2754.0,77384.0

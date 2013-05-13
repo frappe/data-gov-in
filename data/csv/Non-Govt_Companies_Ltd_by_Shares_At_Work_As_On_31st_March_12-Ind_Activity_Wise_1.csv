@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides details on non-government companies limited by shares at work (distribution by industrial activity). This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956 for year ended 31st March, 2012. Report has been published by The Ministry...", 
+ "file_name": "Non-Govt_Companies_Ltd_by_Shares_At_Work_As_On_31st_March_12-Ind_Activity_Wise_1.xls", 
+ "title": "Non-Government Companies Limited By Shares At Work As On 31st March 2012 - Distribution by Industrial Activity ", 
+ "url": "http://data.gov.in/sites/default/files/Non-Govt_Companies_Ltd_by_Shares_At_Work_As_On_31st_March_12-Ind_Activity_Wise_1.xls"
+}
+-----
+"Industrial Classification","No. of Companies - Public Limited*","No. of Companies - Private Limited**","No. of Companies - Total***"
+"Agriculture & Allied Activites",2613.0,17180.0,19793.0
+"Mining & Quarrying",716.0,9411.0,10127.0
+"Manufacturing",18889.0,164934.0,183823.0
+"Electricity, Gas & Water Companies",1495.0,8148.0,9643.0
+"Construction.",4728.0,80864.0,85592.0
+"Trade, Hotels and Restaurants",5857.0,124415.0,130272.0
+"Transport, Storage & Communication",1370.0,24568.0,25938.0
+"Finance, Insurance, Real Estate & Business Services",17668.0,227663.0,245331.0
+"Community, Personal & Social Services",2839.0,42221.0,45060.0
+"Unclassified",5243.0,38590.0,43833.0
+"Total",61418.0,737994.0,799412.0

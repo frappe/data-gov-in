@@ -1,0 +1,20 @@
+-----
+{
+ "description": "Data provides all India (from 2000-01 to 2010-11) and state-wise (2009-10 and 2010-11) details on the total number and amount of money orders.", 
+ "file_name": "TOTAL_NUMBER_AND_AMOUNT_OF_MONEY_ORDERS.xls", 
+ "title": "Total Number of Money Orders And Amount of Money Orders ", 
+ "url": "http://data.gov.in/sites/default/files/TOTAL_NUMBER_AND_AMOUNT_OF_MONEY_ORDERS.xls"
+}
+-----
+"Year","Indian Money Orders issued and paid in India - Number issued (lakh)","Indian Money Orders issued and paid in India - Amount issued (crore)","Foreign Money Orders issued and paid in India - Outward Paid (Number)","Foreign Money Orders issued and paid in India - Inward Paid (Number)","Foreign Money Orders issued and paid in India - Outward Issued (thousand)","Foreign Money Orders issued and paid in India - Inward Issued ( thousand)"
+"2000-01",1095.2,5851.84,5265.0,45838.0,6240.0,184341.0
+"2001-02",1121.8,6188.26,5031.0,43956.0,6673.0,208757.0
+"2002-03",1050.3,8650.0,5035.0,42573.0,7693.0,226617.0
+"2003-04",1101.47,6875.02,4676.0,43433.0,7809.0,236492.0
+"2004-05",1015.98,7052.17,4136.0,41453.0,7390.0,248166.0
+"2005-06",957.9,7183.43,3653.0,36129.0,6903.0,231535.0
+"2006-07",991.0,7756.71,3324.0,26693.0,6324.0,159994.0
+"2007-08",910.46,8363.06,3183.0,19801.0,6124.0,102303.0
+"2008-09",866.93,7954.77,2792.0,14717.0,5047.0,84977.0
+"2009-10",813.46,7361.35,2350.0,10491.0,5830.0,61343.0
+"2010-11",577.14,8369.32,2034.0,6800.0,5480.0,40023.0

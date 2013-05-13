@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents national expenditure on R&D by sector since 1970-71 onwards. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "National_Expenditure_on_Research_And_Development_By_Sector.xls", 
+ "title": "National Expenditure On Research And Development By Sector ", 
+ "url": "http://data.gov.in/sites/default/files/National_Expenditure_on_Research_And_Development_By_Sector.xls"
+}
+-----
 "Sector","1970-71","1975-76","1980-81","1985-86","1990-91","1995-96","2001-02","2002-03","2003-04 ","2004-05 ","2005-06","2006-07*","2007-08*","","","","","","","","","                           ","","","                                                  "
 "Central Sector",112.47,287.63,580.49,1654.06,3058.27,5199.79,11536.33,12251.17,13034.69,15079.95,17851.01,19909.23,22204.77,"","","","","","","","","","","",""
 "State Sector",12.58,26.73,59.34,162.78,365.92,657.02,1494.33,1588.15,1689.78,1941.53,2227.42,2461.08,2719.24,"","","","","","","","","","","",""

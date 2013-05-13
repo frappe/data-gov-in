@@ -1,0 +1,19 @@
+-----
+{
+ "description": "This table provides All India (2001-02 to 2010-11) and State wise (2009-10 to 2010-11) data on Area and Production of Plantations such as Cashewnut, Arecanut, Cocoa, and Coconut.", 
+ "file_name": "AREA_AND_PRODUCTION_OF_PLANTATIONS.xls", 
+ "title": "All India and State Wise Area and Production of Plantations ", 
+ "url": "http://data.gov.in/sites/default/files/AREA_AND_PRODUCTION_OF_PLANTATIONS.xls"
+}
+-----
+"Year","Cashewnut Area (in '000 Hectare)","Cashewnut Production (in '000 Tonne)","Arecanut Area (in '000 Hectare)","Arecanut Production (in '000 Tonne)","Cocoa Area (in '000 Hectare)","Cocoa Production (in '000 Tonne)","Coconut Area (in '000 Hectare)","Coconut Production (in '000 Tonne)","Total Area (in '000 Hectare)","Total Production (in '000 Tonne)"
+" 2001-02",740.0,460.0,334.8,409.3,"NA","NA","NA","NA",2984.0,9697.0
+" 2002-03",740.0,460.0,334.8,409.3,"NA","NA","NA","NA",2984.0,9697.0
+" 2003-04 ",780.0,535.0,365.0,439.2,"NA","NA","NA","NA",3102.0,13161.0
+" 2004-05",820.0,544.0,364.3,452.7,"NA","NA","NA","NA",3147.0,9835.0
+" 2005-06 ",843.0,579.0,381.1,483.1,"NA","NA","NA","NA",3283.0,11263.0
+" 2006-07 ",854.0,620.0,382.7,483.3,30.3,10.2,1939.9,10893.8,3206.9,12007.3
+" 2007-08",868.0,665.0,386.6,476.0,31.8,10.6,1903.2,10148.3,3189.6,11300.2
+" 2008-09",893.0,695.0,387.1,481.3,34.0,11.8,1903.2,10148.3,3217.3,11336.4
+"2009-10",923.0,613.0,400.09,477.99,46.3,12.9,1895.2,10824.3,3264.59,11928.19
+"2010-11",953.2,674.6,400.3,478.1,56.5,14.4,1895.9,10840.0,3305.9,12007.1

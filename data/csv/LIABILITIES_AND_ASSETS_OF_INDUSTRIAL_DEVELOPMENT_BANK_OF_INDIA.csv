@@ -1,0 +1,21 @@
+-----
+{
+ "description": "This data provides figures of Liabilities (such as Paid-up capital, Reserves and surplus, Deposits, Borrowings and Other Liabilities) and Assets ( such as Cash in hand and balances with Banks, Investments, Loans and Advances, Fixed Assets and Other Assets) of Industrial Development Bank Of India (...", 
+ "file_name": "LIABILITIES_AND_ASSETS_OF_INDUSTRIAL_DEVELOPMENT_BANK_OF_INDIA.XLS", 
+ "title": "Liabilities And Assets of Industrial Development Bank of India As On 31st March From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/LIABILITIES_AND_ASSETS_OF_INDUSTRIAL_DEVELOPMENT_BANK_OF_INDIA.XLS"
+}
+-----
+"Year","Paid-up capital (Liabilities)","Reserves and surplus (Liabilities)","Deposits (Liabilities)","Borrowings (Liabilities)","Other (Liabilities)","Total Liabilities or Assets","Cash in hand and balances with banks (Assets)","Investments (Assets)","Loans and advances (Assets)","Fixed (Assets)","Other (Assets)"
+"2000-01",652.8,8509.0,2638.9,53780.4,6202.3,71783.4,2365.2,9709.4,53049.2,1651.1,5008.6
+"2001-02",652.8,6042.3,3383.4,50498.6,6056.5,66642.6,1840.6,10606.7,48414.0,1488.0,4293.3
+"2002-03",652.8,6325.3,4329.9,47157.9,4650.0,63115.9,1163.0,10180.4,46204.0,1285.1,4283.3
+"2003-04 *",652.8,5182.1,3864.3,48384.7,5762.6,63846.5,1939.1,24243.1,32868.0,906.7,3889.7
+"2004-05",721.8,5206.6,15102.6,50005.5,10323.7,81360.2,5653.2,25054.7,45413.6,889.4,4349.4
+"2005-06",723.8,5648.3,26000.9,47530.2,8661.6,88564.8,5362.8,25350.5,52739.1,810.9,4301.5
+"2006-07",724.4,7575.5,43354.0,42404.4,9781.0,103839.3,6911.1,25675.3,62470.8,2778.4,6003.7
+"2007-08",724.8,8097.2,72998.0,38612.6,10261.9,130694.4,8758.8,32802.9,82212.7,2766.0,4154.0
+"2008-09",724.8,8699.1,112401.0,44417.0,6160.4,172402.3,11219.3,50047.6,103444.5,2824.1,4866.8
+"2009-10",724.9,9440.0,167667.1,47709.5,8030.6,233572.0,14582.8,73345.5,138201.9,2997.0,4444.9
+"2010-11",984.6,13582.0,180485.8,51569.7,6753.7,253376.8,20766.1,68269.2,157098.1,3037.3,4206.1
+"2011-12",1278.4,18148.7,210492.6,53477.6,7439.1,290837.2,18057.7,83175.4,181158.4,3018.8,5427.0

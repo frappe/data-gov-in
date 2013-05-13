@@ -8,7 +8,7 @@ groups = {
 		"label": "Macroeconomic Framework",
 		"keywords": ["economy", "gdp", "budget", "plan", "industry", "financial",
 			"expenditure", "import", "export", "capita", "currency", "nrega",
-			"poverty", "growth", "production", "outlay", "cash",
+			"poverty", "growth", "production", "outlay", "cash", "business"
 			"transaction", "patents"],
 		"icon": "icon-bar-chart",
 		"color": "1D766F"

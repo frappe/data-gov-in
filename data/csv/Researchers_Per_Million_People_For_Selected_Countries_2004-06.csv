@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents number of researchers per million people and population figures for select countries from 2004 to 2006. The data are taken from the UNESCO, World Bank and DST, New Delhi.", 
+ "file_name": "Researchers_Per_Million_People_For_Selected_Countries_2004-06.xls", 
+ "title": "Researchers Per Million People For Selected Countries: 2004-06 ", 
+ "url": "http://data.gov.in/sites/default/files/Researchers_Per_Million_People_For_Selected_Countries_2004-06.xls"
+}
+-----
 "Sl. No.","Country","No of Researchers per million people","Population in Million  ","Total Researchers"
 1.0,"Argentina",895.0,39.0,34905.0
 2.0,"Australia",4053.0,21.0,85113.0

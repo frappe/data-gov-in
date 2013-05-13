@@ -1,0 +1,19 @@
+-----
+{
+ "description": "This data provides All India (2000-01 to 2009-10) and State wise (2009-10) figures of Liabilities and Assets of State Financial Corporation as on 31st March.", 
+ "file_name": "LIABILITIES_AND_ASSETS_OF_STATE_FINANCIAL_CORPORATIONS.XLS", 
+ "title": "All India And State Wise Liabilities and Assets of State Financial Corporation As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/LIABILITIES_AND_ASSETS_OF_STATE_FINANCIAL_CORPORATIONS.XLS"
+}
+-----
+"Year","No. of Corporations (Liabilities)","Capital and reserves (Liabilities)","Bonds and debentures (Liabilities)","Other liabilities (1)","Total Liabilities or Assets","Cash in hand and balances with banks (Assets)","Investments (Assets)","Loans and advances (Assets)","Other (Assets (2)"
+"2000-01",18.0,17930.0,58498.0,89795.0,166223.0,7950.0,1480.0,115434.0,41358.0
+"2001-02",18.0,18127.0,60687.0,98489.0,177304.0,6605.0,1600.0,116947.0,52152.0
+"2002-03",18.0,18588.0,58485.0,100041.0,177114.0,5726.0,527.0,111288.0,59574.0
+"2003-04",18.0,18524.0,54762.0,96208.0,169494.0,6192.0,359.0,102719.0,60225.0
+"2004-05",18.0,20010.0,43450.0,104362.0,167822.0,7413.0,360.0,97305.0,62743.0
+"2005-06",18.0,21261.0,37444.0,104498.0,163203.0,7416.0,326.0,91015.0,64446.0
+"2006-07",18.0,26258.0,94608.0,44280.0,165146.0,7397.0,2179.0,90317.0,65252.0
+"2007-08",18.0,34647.0,93831.0,45422.0,173900.0,12192.0,4326.0,88237.0,69145.0
+"2008-09",18.0,39293.0,95369.0,45346.0,180007.0,9950.0,7313.0,91914.0,70831.0
+"2009-10",17.0,40421.0,24878.0,109168.0,165551.0,8786.0,9607.0,93942.0,62581.0

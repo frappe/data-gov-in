@@ -1,0 +1,45 @@
+-----
+{
+ "description": "This data provides state-wise number of minority concentrated districts and minority concentrated blocks all over India as on 31st March 2013.", 
+ "file_name": "STATE_WISE_NO_OF_MINORITY_DISTRICTS_AND_BLOCKS.xls", 
+ "title": "State-wise Number of Minority Concentrated Districts And Minority Concentrated Blocks As On 31st March 2013 ", 
+ "url": "http://data.gov.in/sites/default/files/STATE_WISE_NO_OF_MINORITY_DISTRICTS_AND_BLOCKS.xls"
+}
+-----
+"S.No.","State","No of Minority District","No of Minority Blocks"
+1.0,"ANDHRA PRADESH",0.0,12.0
+2.0,"BIHAR",7.0,73.0
+3.0,"CHATTISGARH",0.0,5.0
+4.0,"GOA",0.0,5.0
+5.0,"GUJARAT",0.0,8.0
+6.0,"HARYANA",2.0,10.0
+7.0,"HIMACHAL PRADESH",0.0,3.0
+8.0,"JAMMU AND KASHMIR",1.0,91.0
+9.0,"JHARKHAND",4.0,31.0
+10.0,"KARNATAKA",2.0,8.0
+11.0,"KERALA",1.0,127.0
+12.0,"MADHYA PRADESH",1.0,0.0
+13.0,"MAHARASHTRA",4.0,24.0
+14.0,"ORISSA",1.0,15.0
+15.0,"PUNJAB",0.0,128.0
+16.0,"RAJASTHAN",0.0,16.0
+17.0,"TAMIL NADU",0.0,18.0
+18.0,"UTTAR PRADESH",21.0,139.0
+19.0,"UTTARAKHAND",2.0,11.0
+20.0,"WEST BENGAL",12.0,152.0
+21.0,"ARUNACHAL PRADESH",7.0,22.0
+22.0,"ASSAM",13.0,114.0
+23.0,"MANIPUR",6.0,19.0
+24.0,"MEGHALAYA",1.0,32.0
+25.0,"MIZORAM",2.0,22.0
+26.0,"NAGALAND",0.0,43.0
+27.0,"SIKKIM",1.0,9.0
+28.0,"TRIPURA",0.0,12.0
+29.0,"ANDAMAN and NICOBAR",1.0,0.0
+30.0,"CHANDIGARH",0.0,0.0
+31.0,"DADRA and NAGAR HAVELI",0.0,0.0
+32.0,"DAMAN and DIU",0.0,0.0
+33.0,"DELHI",1.0,0.0
+34.0,"LAKSHADWEEP",0.0,9.0
+35.0,"PUDUCHERRY",0.0,2.0
+"","Total",90.0,1160.0

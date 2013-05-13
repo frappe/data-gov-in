@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides details on state revenue (2001-02 to 2011-12) from motor vehicle tax and fees, sales tax on motor spirit and lubricants, sales tax on passenger and goods traffic and it also provides details on central revenues (2001-02 to 2011-12) from import duty and excise duty charged on...", 
+ "file_name": "REVENUE_FROM_ROAD_TRANSPORT_1.XLS", 
+ "title": "Central And State Revenue From Road Transport From 2001-02 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/REVENUE_FROM_ROAD_TRANSPORT_1.XLS"
+}
+-----
+"Year","Motor Vehicle Tax and Fees","Sales Tax on Motor Spirit and Lubricants","Sales Tax on Passenger and Goods Traffic ","Total"
+"2001-2002",7644.0,5645.0,3671.4,16960.4
+"2002-2003",8441.0,5106.0,3569.3,17116.3
+"2003-2004",10138.2,4967.5,4189.9,19295.6
+"2004-2005",10811.0,6657.0,5206.0,22674.0
+"2005-2006",11964.0,2951.0,6450.0,21365.0
+"2006-2007",13630.0,1332.0,6808.0,21770.0
+"2007-2008",15595.0,1623.0,6808.0,24026.0
+"2008-2009",17340.0,8438.0,8463.0,34241.0
+"2009-2010",19638.0,10018.0,9857.0,39513.0
+"2010-11(RE.)",23498.0,11198.0,11296.0,45992.0
+"2011-12(BE.)",28897.0,13017.0,11663.0,53577.0

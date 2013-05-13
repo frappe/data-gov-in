@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of State-wise and year-wise gross production of natural gas during 2004-05 to 2011-12 in India.", 
+ "file_name": "State-wise_Gross_Production_of_Natural_Gas_in_India_2004-12.xls", 
+ "title": "State-wise Gross Production of Natural Gas in India: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/State-wise_Gross_Production_of_Natural_Gas_in_India_2004-12.xls"
+}
+-----
 "Year","Eastern Offshore","Bombay High/Western Offshore","Total"
 2004.0,1041.0,21750.0,22791.0
 2005.0,1008.0,21492.0,22500.0

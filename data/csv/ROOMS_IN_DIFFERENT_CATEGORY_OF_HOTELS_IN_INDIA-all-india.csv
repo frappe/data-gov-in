@@ -1,0 +1,18 @@
+-----
+{
+ "description": "Data provide all India (from 2002 to 2010) and state-wise (2009-10) details on rooms in different category of hotels (One Star, Two Star, Three Star, Four Star, Five Star and Others) in India as on 31st December.", 
+ "file_name": "ROOMS_IN_DIFFERENT_CATEGORY_OF_HOTELS_IN_INDIA.xls", 
+ "title": "Rooms In Different Category of Hotels In India As On 31st December 2010 ", 
+ "url": "http://data.gov.in/sites/default/files/ROOMS_IN_DIFFERENT_CATEGORY_OF_HOTELS_IN_INDIA.xls"
+}
+-----
+"Year","One Star-Hotels","One Star-Rooms","Two Star-Hotels","Two Star-Rooms","Three Star-Hotels","Three Star-Rooms","Four Star-Hotels","Four Star-Rooms","Five Star-Hotels","Five Star-Rooms","Others-Hotels","Others-Rooms"
+2002.0,192.0,6343.0,476.0,15999.0,472.0,22783.0,120.0,8551.0,152.0,26347.0,158.0,5458.0
+2003.0,201.0,6606.0,533.0,17629.0,551.0,26071.0,122.0,8655.0,159.0,27301.0,156.0,5458.0
+2004.0,207.0,6765.0,560.0,17449.0,634.0,28783.0,126.0,8831.0,167.0,28867.0,198.0,6075.0
+2005.0,54.0,1629.0,209.0,5673.0,447.0,19985.0,80.0,5483.0,197.0,23106.0,203.0,11737.0
+2006.0,46.0,1435.0,217.0,5823.0,477.0,20342.0,111.0,7354.0,157.0,29413.0,205.0,11135.0
+2007.0,53.0,1774.0,231.0,6637.0,587.0,24496.0,116.0,7584.0,174.0,29902.0,264.0,13388.0
+2008.0,118.0,2834.0,287.0,8494.0,683.0,30577.0,121.0,9299.0,199.0,33641.0,185.0,10242.0
+2009.0,55.0,2755.0,220.0,6539.0,511.0,23164.0,125.0,8652.0,98.0,11822.0,820.0,39852.0
+2010.0,67.0,2537.0,307.0,8446.0,889.0,36585.0,157.0,12059.0,149.0,17144.0,914.0,41529.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table shows data on renewable energy programs like grid interactive renewable power, wind power, small hdro power, solar power etc. and their achievements in Mega Watts.", 
+ "file_name": "PROGRAMME-WISE_CUMULATIVE_ACHIEVEMENT.xls", 
+ "title": "Programme-Wise Cumulative Achievement ", 
+ "url": "http://data.gov.in/sites/default/files/PROGRAMME-WISE_CUMULATIVE_ACHIEVEMENT.xls"
+}
+-----
 "System Name","Renewable Energy Programme","Cumulative Achievements  - 31.03.2010","Cumulative Achievements  - 31.03.2011"
 "Wind Power","Power From Renewables - Grid-interactive renewable power","11807.00 MW","14157.10 MW"
 "Small Hydro Power ","Power From Renewables - Grid-interactive renewable power","2735.42 MW","3042.63 MW"

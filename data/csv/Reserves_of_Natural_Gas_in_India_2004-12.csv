@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of State wise and year-wise reserves of natural gas during 2004-05 to 2011-12 in India.", 
+ "file_name": "Reserves_of_Natural_Gas_in_India_2004-12.xls", 
+ "title": "Reserves of Natural Gas in India: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Reserves_of_Natural_Gas_in_India_2004-12.xls"
+}
+-----
 "Year","Gujarat","Assam(1)","Andhra Pradesh","Tamil Nadu","Western(2) Offshore","Eastern(3) Offshore","Grand Total"
 2004.0,95.87,172.95,41.75,28.0,394.13,190.1,922.8
 2005.0,93.11,174.94,42.28,29.57,374.69,386.4,1100.99

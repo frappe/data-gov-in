@@ -1,0 +1,64 @@
+-----
+{
+ "description": "This data provides commodity head-wise index numbers of imports of the unit values and of quantum of imports from 2000-01 to 2011-12.", 
+ "file_name": "INDEX_NUMBERS_OF_IMPORTS_OF_THE_UNIT_VALUES_AND_OF_QUANTUM_OF_IMPORTS_2.xls", 
+ "title": "Index Numbers Of Imports Of The Unit Values And Of Quantum Of Imports From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/INDEX_NUMBERS_OF_IMPORTS_OF_THE_UNIT_VALUES_AND_OF_QUANTUM_OF_IMPORTS_2.xls"
+}
+-----
+"Commodity Heads","  2001-02","  2002-03","2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Food and Live Animals",102.0,100.0,115.0,129.0,142.0,210.0,218.0,259.0,267.0,288.0,357.0
+"Dairy products and Bird's Eggs",102.0,99.0,115.0,128.0,137.0,164.0,169.0,221.0,221.0,223.0,274.0
+"Cereals and cereal  preparations",96.0,97.0,96.0,96.0,107.0,106.0,107.0,87.0,84.0,86.0,104.0
+"Vegetables and fruit & Nuts",101.0,100.0,102.0,121.0,136.0,157.0,160.0,208.0,216.0,235.0,268.0
+"Coffee, Tea, Cocoa, Spices, & Manufactrues Thereof",98.0,94.0,96.0,96.0,103.0,104.0,116.0,144.0,150.0,192.0,248.0
+"Feeding stuff for Animals (Not including unmilled Cereals)",95.0,101.0,96.0,101.0,98.0,91.0,95.0,122.0,135.0,142.0,172.0
+"Beverages and Tobacco",102.0,104.0,114.0,114.0,149.0,168.0,166.0,168.0,171.0,169.0,176.0
+"Beverages",102.0,103.0,113.0,112.0,112.0,128.0,134.0,122.0,124.0,123.0,129.0
+"Tobacco  and Tobacco Manufactures",101.0,105.0,101.0,105.0,193.0,210.0,149.0,238.0,238.0,233.0,242.0
+"Crude Materials,Inedible, except Fuels",99.0,104.0,112.0,131.0,143.0,193.0,201.0,233.0,200.0,246.0,283.0
+"Crude Rubber (Inc Synthetic & Reclaimed)",101.0,106.0,110.0,131.0,157.0,176.0,183.0,256.0,192.0,278.0,367.0
+"Cork and Wood",98.0,99.0,99.0,101.0,102.0,113.0,119.0,131.0,123.0,135.0,157.0
+"Pulp and waste paper",97.0,100.0,107.0,111.0,117.0,133.0,142.0,156.0,131.0,173.0,180.0
+"Taxtile Fibres & Their Wastes",100.0,100.0,107.0,109.0,120.0,121.0,108.0,122.0,120.0,149.0,183.0
+"Crude Fertilizers",98.0,110.0,10.0,126.0,132.0,139.0,160.0,419.0,251.0,269.0,360.0
+"Minerals (Exc coal, Petroleum, Crude fertiliser, Sulphur & Precious Stones)",101.0,99.0,97.0,107.0,106.0,113.0,114.0,137.0,144.0,143.0,163.0
+"Metalliferous Ores & Metal Scrap",96.0,98.0,117.0,161.0,188.0,293.0,299.0,311.0,289.0,361.0,401.0
+"Mineral Fuels, Lubricants,& Related Materials",126.0,150.0,152.0,204.0,275.0,214.0,352.0,433.0,381.0,446.0,575.0
+"Coal, Coke & Briquettes",112.0,112.0,118.0,190.0,200.0,204.0,226.0,357.0,271.0,331.0,397.0
+"Petroleum, Petroleum Products & Related Materials",131.0,159.0,159.0,211.0,293.0,337.0,377.0,388.0,345.0,400.0,384.0
+"Gas, Natural & Manufactured",92.0,109.0,116.0,119.0,145.0,175.0,212.0,261.0,217.0,265.0,382.0
+"Animal and Vegetable Oils, Fats & Waxes ",101.0,139.0,153.0,159.0,153.0,165.0,162.0,188.0,254.0,333.0,423.0
+"Fixed Vegetable Fats & Oils, Crude, Refined or Fractionated",100.0,138.0,153.0,158.0,153.0,165.0,160.0,184.0,250.0,328.0,417.0
+"Chemicals & Related Products",109.0,118.0,122.0,143.0,157.0,176.0,178.0,206.0,161.0,175.0,217.0
+"Organic Chemicals",110.0,131.0,139.0,167.0,179.0,202.0,192.0,228.0,207.0,240.0,288.0
+"Inorganic Chemicals",105.0,102.0,103.0,127.0,152.0,166.0,164.0,166.0,159.0,191.0,252.0
+"Dyeing, Tanning & Colouring Materials",97.0,96.0,97.0,100.0,99.0,101.0,99.0,116.0,118.0,117.0,140.0
+"Medicinal & Pharmaceutical Products",111.0,111.0,114.0,111.0,147.0,194.0,182.0,200.0,206.0,204.0,277.0
+"Fertilizers Manufactured",98.0,97.0,96.0,156.0,164.0,179.0,220.0,301.0,166.0,161.0,213.0
+"Plastics in Primary & Non-Primary form",99.0,106.0,106.0,120.0,126.0,140.0,134.0,151.0,146.0,153.0,177.0
+"Insecticides, rodenticides, Fungicides, Herbicides",124.0,128.0,128.0,127.0,128.0,128.0,129.0,"NA",126.0,115.0,127.0
+"Prepared additives for mineral oils & the like",111.0,115.0,113.0,125.0,138.0,145.0,141.0,154.0,156.0,151.0,159.0
+"Manufactured Goods Classified Chiefly By Material",110.0,118.0,127.0,152.0,157.0,159.0,156.0,181.0,185.0,191.0,227.0
+"Paper, Paperboard & Articles of Paper Pulp, of Paper or of paperboard",113.0,112.0,110.0,121.0,129.0,138.0,124.0,164.0,134.0,141.0,154.0
+"Textile yearn, Fabrics, Made-Up Articles & Related Products",107.0,105.0,109.0,112.0,115.0,116.0,103.0,110.0,109.0,114.0,140.0
+"Pearls & Precious Or Sempirecious Stones, Unworked or  Worked",111.0,122.0,139.0,158.0,163.0,148.0,145.0,170.0,224.0,228.0,264.0
+"Iron & Steel",112.0,110.0,120.0,148.0,148.0,164.0,175.0,236.0,160.0,174.0,191.0
+"Non-Ferrous Metals",94.0,106.0,108.0,134.0,158.0,194.0,202.0,196.0,182.0,235.0,303.0
+"Nails, screws, nuts bolts, rivets & the like, of iron, steel, copper or aluminium",103.0,114.0,127.0,127.0,126.0,127.0,118.0,117.0,115.0,108.0,214.0
+"Tools for use in the hand or in machines",104.0,114.0,136.0,135.0,132.0,132.0,128.0,118.0,139.0,142.0,192.0
+"Machinery & transport Equipment",104.0,123.0,122.0,131.0,138.0,167.0,155.0,163.0,148.0,172.0,463.0
+"Power-Generating Machinery & Equipment",100.0,101.0,99.0,122.0,118.0,120.0,124.0,210.0,204.0,204.0,306.0
+"Machinery Specialized for Particular Industries",103.0,104.0,104.0,104.0,104.0,148.0,126.0,123.0,124.0,164.0,205.0
+"Metalworking Machinery",107.0,105.0,106.0,107.0,169.0,171.0,174.0,176.0,178.0,174.0,158.0
+"General Industrial Machinery & Equipment and machine Parts",95.0,93.0,92.0,101.0,101.0,130.0,116.0,116.0,111.0,141.0,144.0
+"Office Machines & Automatic Data Processing Machines",106.0,104.0,99.0,97.0,97.0,94.0,95.0,94.0,93.0,94.0,710.0
+"Telecommunications & Sound recording &  Reproducing Apparatus & Equipment",102.0,153.0,167.0,164.0,164.0,174.0,171.0,147.0,128.0,104.0,116.0
+"Electrical Machinery, Appartus & Appliances, and Electrical Parts Thereof",100.0,109.0,104.0,106.0,105.0,106.0,111.0,114.0,116.0,124.0,171.0
+"Road Vehicles & Parts & Accessories",106.0,108.0,103.0,110.0,101.0,131.0,148.0,221.0,219.0,206.0,216.0
+"Other Transport Equipment",114.0,114.0,117.0,137.0,137.0,137.0,138.0,102.0,106.0,151.0,172.0
+"Miscellaneous Manufactured Articles",110.0,135.0,135.0,153.0,153.0,164.0,185.0,200.0,184.0,197.0,246.0
+"Professional, Scientific & Controlling Instruments & Apparatus",98.0,121.0,119.0,119.0,119.0,115.0,146.0,128.0,133.0,132.0,177.0
+"Photographic Apparatus, Equipment & Supplies  & Optical Goods; Watches & Clocks",125.0,124.0,120.0,120.0,116.0,143.0,142.0,182.0,177.0,175.0,194.0
+"Miscellaneous Manufactured Articles",101.0,131.0,132.0,149.0,143.0,140.0,144.0,179.0,183.0,185.0,183.0
+"General Index",112.0,128.0,132.0,157.0,179.0,206.0,210.0,239.0,215.0,243.0,425.0

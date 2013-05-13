@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides figures of Liabilities and Assets of different classes of scheduled commercial banks such as State Bank of India (SBI), Other Indian Banks (excluding State Bank, having paid up capital & reserves of 50 lakhs and over) and Foreign Banks as on 31st March from 2001 to 2011.", 
+ "file_name": "LIABILITIES_AND_ASSETS_OF_DIFFERENT_CLASSES_OF_BANKS.XLS", 
+ "title": "Liabilities And Assets of Different Classes of Scheduled Commercial Banks As On 31st March From 2001 To 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/LIABILITIES_AND_ASSETS_OF_DIFFERENT_CLASSES_OF_BANKS.XLS"
+}
+-----
+"Year"," No.of reporting banks","Paid-up capital","Reserves","Total (Capital and Reserves)","Deposits","Cash in hand and in banks","Investments","Loans and advances (including bills discounted and purchased )"
+2001.0,253.0,17948.0,30795.0,48743.0,791509.0,117355.0,342068.0,384146.0
+2002.0,250.0,19514.0,42933.0,62447.0,912167.0,142485.0,417293.0,494015.0
+2003.0,55.0,16511.0,50225.0,66736.0,990186.0,115410.0,479936.0,549302.0
+2004.0,56.0,17151.0,64341.0,81492.0,1176764.0,151896.0,574799.0,645700.0
+2005.0,56.0,18366.0,88191.0,106556.0,1384123.0,155941.0,629781.0,873144.0
+2006.0,55.0,15740.0,115483.0,131223.0,1670891.0,189499.0,651591.0,1157449.0
+2007.0,52.0,16034.0,138771.0,154805.0,2110666.0,262843.0,730362.0,1517561.0
+2008.0,50.0,17046.0,200077.0,217123.0,2591497.0,322668.0,888918.0,1899035.0
+2009.0,48.0,17492.0,232880.0,250372.0,3107054.0,342544.0,1043167.0,2292988.0
+2010.0,48.0,17458.0,277578.0,295036.0,3710704.0,413606.0,1273930.0,2701545.0
+2011.0,46.0,23225.0,340629.0,363854.0,4441811.0,479458.0,1454953.0,3346446.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Index of Industrial Production (Base: 1993-94=100) at use-based industry level indices (NIC-1987) with weights from April 1994 to June 2011, annual average (Apr-Mar) indices and growth over corresponding period of previous year.", 
+ "file_name": "Use-based_Indices_And_Growth_1993-94.xls", 
+ "title": "Monthly Time Series Use-based Indices And Growth (1993-94 Series) ", 
+ "url": "http://data.gov.in/sites/default/files/Use-based_Indices_And_Growth_1993-94.xls"
+}
+-----
 "Period Month","Basic Goods","Capital Goods","Intermediate Goods","Consumer Goods Total","Consumer Goods Durables","Consumer Goods Non-durables","General Index"
 "Weight",355.12,96.87,264.39,283.62,51.15,232.47,1000.0
 "Apr'94",100.1,88.9,99.4,103.9,103.6,104.0,99.9

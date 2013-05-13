@@ -1,0 +1,17 @@
+-----
+{
+ "description": "The table presents data on full time equivalent of manpower employed in R&D establishments as on 1st April 2005. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "Full_Time_Equivalent_of_Manpower_Employed_In_RnD_Establishments_As_On_01stApril2005.xls", 
+ "title": "Full Time Equivalent of Manpower Employed In Research And Development Establishments As on 1st April 2005 ", 
+ "url": "http://data.gov.in/sites/default/files/Full_Time_Equivalent_of_Manpower_Employed_In_RnD_Establishments_As_On_01stApril2005.xls"
+}
+-----
+"Sector","Name of Establishment ","Personnel Engaged in R&D Activities","Personnel Engaged in Auxilliary Activities","Personnel Engaged in Administration Activities","Total"
+"INSTITUTIONAL SECTOR","Major Scientific Agencies",47587.0,51285.0,52786.0,151658.0
+"INSTITUTIONAL SECTOR","Central Government Ministries/Departments",8645.0,16410.0,19665.0,44720.0
+"INSTITUTIONAL SECTOR","State Governments",19135.0,20146.0,46141.0,85422.0
+"HIGHER EDUCATION SECTOR","HIGHER EDUCATION SECTOR",22100.0,"NULL","NULL",22100.0
+"INDUSTRIAL SECTOR","Public Sector Including Joint Sector",9281.0,3787.0,1576.0,14644.0
+"INDUSTRIAL SECTOR","Private Sector",42096.0,8976.0,4918.0,55990.0
+"INDUSTRIAL SECTOR","SIRO",5983.0,5204.0,5428.0,16615.0
+"TOTAL","TOTAL",154827.0,105808.0,130514.0,391149.0

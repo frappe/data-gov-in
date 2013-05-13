@@ -1,0 +1,246 @@
+-----
+{
+ "description": "Data provides state-wise consumer price index for industrial workers from 2007 to 2011.", 
+ "file_name": "CONSUMER_PRICE_INDEX_NUMBER_FOR_INDUSTRIAL_WORKERS.xls", 
+ "title": "Consumer Price Index For Industrial Workers ", 
+ "url": "http://data.gov.in/sites/default/files/CONSUMER_PRICE_INDEX_NUMBER_FOR_INDUSTRIAL_WORKERS.xls"
+}
+-----
+"Item","State","Centre","Weight",2007.0,2008.0,2009.0,2010.0,2011.0
+"Food","Andhra Pradesh","Godavarikhani",0.55,134.0,159.0,193.0,217.0,212.0
+"Clothing,bedding,footwear","Andhra Pradesh","Godavarikhani",0.1,124.0,126.0,132.0,137.0,159.0
+"General","Andhra Pradesh","Godavarikhani",1.17,135.0,150.0,169.0,193.0,200.0
+"Food","Andhra Pradesh","Guntur",0.45,127.0,145.0,177.0,201.0,215.0
+"Clothing,bedding,footwear","Andhra Pradesh","Guntur",0.04,118.0,118.0,120.0,131.0,143.0
+"General","Andhra Pradesh","Guntur",1.81,126.0,139.0,161.0,181.0,194.0
+"Food","Andhra Pradesh","Hyderabad",0.63,133.0,152.0,178.0,195.0,202.0
+"Clothing,bedding,footwear","Andhra Pradesh","Hyderabad",0.1,111.0,108.0,109.0,112.0,127.0
+"General","Andhra Pradesh","Hyderabad",1.51,123.0,135.0,152.0,165.0,174.0
+"Food","Andhra Pradesh","Vijaywada",0.56,129.0,145.0,181.0,207.0,210.0
+"Clothing,bedding,footwear","Andhra Pradesh","Vijaywada",0.1,118.0,123.0,137.0,148.0,169.0
+"General","Andhra Pradesh","Vijaywada",1.18,126.0,137.0,161.0,180.0,188.0
+"Food","Andhra Pradesh","Visakhapatnam",0.79,132.0,147.0,175.0,196.0,202.0
+"Clothing,bedding,footwear","Andhra Pradesh","Visakhapatnam",0.15,118.0,122.0,131.0,142.0,182.0
+"General","Andhra Pradesh","Visakhapatnam",1.98,126.0,135.0,153.0,173.0,192.0
+"Food","Andhra Pradesh","Warangal",0.47,136.0,163.0,194.0,224.0,219.0
+"Clothing,bedding,footwear","Andhra Pradesh","Warangal",0.09,133.0,134.0,137.0,142.0,148.0
+"General","Andhra Pradesh","Warangal",0.98,133.0,149.0,172.0,199.0,204.0
+"Food","Assam","Doom Dooma - Tinsukia",0.28,129.0,139.0,155.0,166.0,174.0
+"Clothing,bedding,footwear","Assam","Doom Dooma - Tinsukia",0.03,113.0,118.0,124.0,127.0,151.0
+"General","Assam","Doom Dooma - Tinsukia",0.44,125.0,133.0,147.0,160.0,170.0
+"Food","Assam","Guwahati",0.22,121.0,135.0,158.0,174.0,184.0
+"Clothing,bedding,footwear","Assam","Guwahati",0.04,107.0,110.0,121.0,145.0,166.0
+"General","Assam","Guwahati",0.5,120.0,128.0,143.0,156.0,168.0
+"Food","Assam","Labac - Silchar",0.22,136.0,152.0,164.0,190.0,195.0
+"Clothing,bedding,footwear","Assam","Labac - Silchar",0.03,114.0,120.0,128.0,140.0,157.0
+"General","Assam","Labac - Silchar",0.33,130.0,143.0,155.0,178.0,186.0
+"Food","Assam","Mariani - Jorhat",0.3,127.0,134.0,150.0,159.0,170.0
+"Clothing,bedding,footwear","Assam","Mariani - Jorhat",0.03,108.0,114.0,118.0,126.0,147.0
+"General","Assam","Mariani - Jorhat",0.46,127.0,133.0,147.0,158.0,171.0
+"Food","Assam","Rangapara - Tezpur",0.28,137.0,143.0,159.0,171.0,180.0
+"Clothing,bedding,footwear","Assam","Rangapara - Tezpur",0.02,120.0,124.0,132.0,161.0,195.0
+"General","Assam","Rangapara - Tezpur",0.46,126.0,131.0,144.0,154.0,163.0
+"Food","Bihar","Munger - Jamalpur",0.56,138.0,149.0,167.0,187.0,201.0
+"Clothing,bedding,footwear","Bihar","Munger - Jamalpur",0.09,117.0,123.0,128.0,139.0,164.0
+"General","Bihar","Munger - Jamalpur",1.06,134.0,145.0,162.0,182.0,199.0
+"Food","Chattisgarh","Bhilai",0.5,136.0,149.0,174.0,192.0,213.0
+"Clothing,bedding,footwear","Chattisgarh","Bhilai",0.5,105.0,106.0,106.0,110.0,132.0
+"General","Chattisgarh","Bhilai",0.5,132.0,145.0,162.0,180.0,206.0
+"Food","Goa","Goa",0.16,139.0,165.0,192.0,216.0,223.0
+"Clothing,bedding,footwear","Goa","Goa",0.03,119.0,120.0,128.0,145.0,176.0
+"General","Goa","Goa",0.36,130.0,144.0,164.0,188.0,203.0
+"Food","Gujarat","Ahmedabad",0.64,139.0,151.0,170.0,195.0,203.0
+"Clothing,bedding,footwear","Gujarat","Ahmedabad",0.11,112.0,114.0,117.0,126.0,135.0
+"General","Gujarat","Ahmedabad",1.37,129.0,138.0,151.0,171.0,186.0
+"Food","Gujarat","Bhavnagar",0.83,130.0,135.0,147.0,176.0,187.0
+"Clothing,bedding,footwear","Gujarat","Bhavnagar",0.08,117.0,121.0,124.0,140.0,159.0
+"General","Gujarat","Bhavnagar",1.66,129.0,135.0,147.0,174.0,189.0
+"Food","Gujarat","Rajkot",0.79,132.0,136.0,153.0,182.0,208.0
+"Clothing,bedding,footwear","Gujarat","Rajkot",0.06,115.0,125.0,140.0,156.0,156.0
+"General","Gujarat","Rajkot",1.81,126.0,132.0,146.0,174.0,193.0
+"Food","Gujarat","Surat",0.55,136.0,146.0,168.0,191.0,201.0
+"Clothing,bedding,footwear","Gujarat","Surat",0.06,114.0,115.0,120.0,131.0,138.0
+"General","Gujarat","Surat",1.18,127.0,134.0,146.0,162.0,174.0
+"Food","Gujarat","Vadodara",0.89,131.0,137.0,157.0,185.0,197.0
+"Clothing,bedding,footwear","Gujarat","Vadodara",0.12,109.0,110.0,116.0,118.0,121.0
+"General","Gujarat","Vadodara",2.0,127.0,133.0,147.0,167.0,180.0
+"Food","Haryana","Faridabad",0.59,133.0,150.0,171.0,194.0,206.0
+"Clothing,bedding,footwear","Haryana","Faridabad",0.08,119.0,120.0,122.0,135.0,142.0
+"General","Haryana","Faridabad",1.34,130.0,145.0,160.0,182.0,194.0
+"Food","Haryana","Yamunanagar",0.78,137.0,151.0,171.0,196.0,208.0
+"Clothing,bedding,footwear","Haryana","Yamunanagar",0.1,114.0,118.0,127.0,132.0,160.0
+"General","Haryana","Yamunanagar",1.67,133.0,145.0,162.0,183.0,197.0
+"Food","Himachal Pradesh","Himachal Pradesh",0.26,129.0,141.0,158.0,177.0,188.0
+"Clothing,bedding,footwear","Himachal Pradesh","Himachal Pradesh",0.05,123.0,125.0,129.0,134.0,147.0
+"General","Himachal Pradesh","Himachal Pradesh",0.57,126.0,135.0,147.0,161.0,172.0
+"Food","Jammu & Kashmir","Srinagar",0.21,130.0,139.0,149.0,168.0,178.0
+"Clothing,bedding,footwear","Jammu & Kashmir","Srinagar",0.03,119.0,126.0,141.0,168.0,192.0
+"General","Jammu & Kashmir","Srinagar",0.45,125.0,134.0,145.0,159.0,172.0
+"Food","Jharkhand","Bokaro",0.42,130.0,144.0,165.0,175.0,194.0
+"Clothing,bedding,footwear","Jharkhand","Bokaro",0.09,122.0,126.0,131.0,136.0,166.0
+"General","Jharkhand","Bokaro",0.91,130.0,142.0,158.0,168.0,192.0
+"Food","Jharkhand","Giridih",0.31,144.0,158.0,182.0,203.0,223.0
+"Clothing,bedding,footwear","Jharkhand","Giridih",0.04,134.0,142.0,154.0,157.0,180.0
+"General","Jharkhand","Giridih",0.55,146.0,156.0,177.0,204.0,232.0
+"Food","Jharkhand","Jamshedpur",0.43,127.0,141.0,161.0,172.0,199.0
+"Clothing,bedding,footwear","Jharkhand","Jamshedpur",0.08,116.0,120.0,122.0,130.0,144.0
+"General","Jharkhand","Jamshedpur",1.02,132.0,142.0,157.0,182.0,213.0
+"Food","Jharkhand","Jharia",0.43,136.0,148.0,168.0,189.0,201.0
+"Clothing,bedding,footwear","Jharkhand","Jharia",0.07,113.0,121.0,125.0,137.0,167.0
+"General","Jharkhand","Jharia",0.84,136.0,146.0,161.0,180.0,198.0
+"Food","Jharkhand","Kodarma",0.24,144.0,155.0,178.0,188.0,212.0
+"Clothing,bedding,footwear","Jharkhand","Kodarma",0.03,113.0,116.0,122.0,132.0,168.0
+"General","Jharkhand","Kodarma",0.43,140.0,149.0,169.0,190.0,215.0
+"Food","Jharkhand","Ranchi-Hatia",0.34,133.0,154.0,177.0,194.0,209.0
+"Clothing,bedding,footwear","Jharkhand","Ranchi-Hatia",0.05,123.0,128.0,135.0,138.0,156.0
+"General","Jharkhand","Ranchi-Hatia",0.71,133.0,148.0,170.0,199.0,220.0
+"Food","Karnataka","Bangalore",0.89,138.0,156.0,180.0,195.0,204.0
+"Clothing,bedding,footwear","Karnataka","Bangalore",0.12,99.0,105.0,110.0,114.0,125.0
+"General","Karnataka","Bangalore",1.95,136.0,150.0,167.0,181.0,194.0
+"Food","Karnataka","Belgaum",0.5,136.0,152.0,175.0,196.0,222.0
+"Clothing,bedding,footwear","Karnataka","Belgaum",0.05,111.0,113.0,119.0,121.0,136.0
+"General","Karnataka","Belgaum",0.96,133.0,144.0,162.0,179.0,200.0
+"Food","Karnataka","Hubli-Dharwar",0.58,134.0,154.0,175.0,191.0,212.0
+"Clothing,bedding,footwear","Karnataka","Hubli-Dharwar",0.06,112.0,110.0,122.0,130.0,140.0
+"General","Karnataka","Hubli-Dharwar",1.18,132.0,147.0,164.0,182.0,200.0
+"Food","Karnataka","Mercara",0.35,126.0,147.0,169.0,187.0,202.0
+"Clothing,bedding,footwear","Karnataka","Mercara",0.04,115.0,116.0,125.0,130.0,139.0
+"General","Karnataka","Mercara",0.63,121.0,135.0,154.0,172.0,188.0
+"Food","Karnataka","Mysore",0.44,133.0,150.0,175.0,190.0,201.0
+"Clothing,bedding,footwear","Karnataka","Mysore",0.05,106.0,111.0,117.0,127.0,149.0
+"General","Karnataka","Mysore",0.92,130.0,142.0,160.0,174.0,187.0
+"Food","Kerala","Ernakulam",1.17,132.0,151.0,167.0,185.0,209.0
+"Clothing,bedding,footwear","Kerala","Ernakulam",0.26,117.0,119.0,125.0,129.0,151.0
+"General","Kerala","Ernakulam",3.08,131.0,142.0,153.0,167.0,185.0
+"Food","Kerala","Mundakayam",0.99,132.0,153.0,170.0,192.0,209.0
+"Clothing,bedding,footwear","Kerala","Mundakayam",0.15,127.0,136.0,141.0,145.0,163.0
+"General","Kerala","Mundakayam",1.83,130.0,145.0,159.0,174.0,191.0
+"Food","Kerala","Quilon",0.92,129.0,151.0,159.0,179.0,204.0
+"Clothing,bedding,footwear","Kerala","Quilon",0.09,108.0,112.0,119.0,132.0,151.0
+"General","Kerala","Quilon",1.75,129.0,143.0,154.0,173.0,195.0
+"Food","Madhya Pradesh","Bhopal",0.56,137.0,151.0,174.0,194.0,209.0
+"Clothing,bedding,footwear","Madhya Pradesh","Bhopal",0.07,114.0,116.0,117.0,121.0,131.0
+"General","Madhya Pradesh","Bhopal",1.35,135.0,145.0,161.0,185.0,205.0
+"Food","Madhya Pradesh","Chhindwara",0.51,139.0,152.0,173.0,191.0,201.0
+"Clothing,bedding,footwear","Madhya Pradesh","Chhindwara",0.08,114.0,118.0,122.0,128.0,132.0
+"General","Madhya Pradesh","Chhindwara",1.21,137.0,150.0,162.0,177.0,195.0
+"Food","Madhya Pradesh","Indore",0.43,135.0,147.0,168.0,187.0,200.0
+"Clothing,bedding,footwear","Madhya Pradesh","Indore",0.06,119.0,119.0,119.0,123.0,143.0
+"General","Madhya Pradesh","Indore",1.05,131.0,140.0,152.0,168.0,181.0
+"Food","Madhya Pradesh","Jabalpur",0.58,133.0,150.0,173.0,196.0,210.0
+"Clothing,bedding,footwear","Madhya Pradesh","Jabalpur",0.1,112.0,115.0,115.0,115.0,117.0
+"General","Madhya Pradesh","Jabalpur",1.55,135.0,148.0,159.0,184.0,198.0
+"Food","Maharashtra ","Mumbai",4.68,134.0,148.0,166.0,187.0,204.0
+"Clothing,bedding,footwear","Maharashtra ","Mumbai",0.49,130.0,131.0,133.0,139.0,164.0
+"General","Maharashtra ","Mumbai",9.57,134.0,144.0,159.0,174.0,192.0
+"Food","Maharashtra ","Nagpur",0.46,143.0,161.0,185.0,202.0,212.0
+"Clothing,bedding,footwear","Maharashtra ","Nagpur",0.07,118.0,120.0,122.0,127.0,142.0
+"General","Maharashtra ","Nagpur",1.06,140.0,151.0,174.0,203.0,220.0
+"Food","Maharashtra ","Nasik",0.62,138.0,151.0,175.0,196.0,215.0
+"Clothing,bedding,footwear","Maharashtra ","Nasik",0.1,117.0,120.0,120.0,121.0,148.0
+"General","Maharashtra ","Nasik",1.5,130.0,139.0,157.0,181.0,204.0
+"Food","Maharashtra ","Pune",0.72,143.0,157.0,176.0,198.0,221.0
+"Clothing,bedding,footwear","Maharashtra ","Pune",0.12,126.0,131.0,139.0,155.0,181.0
+"General","Maharashtra ","Pune",1.81,136.0,146.0,162.0,181.0,200.0
+"Food","Maharashtra ","Sholapur",0.52,145.0,158.0,169.0,185.0,209.0
+"Clothing,bedding,footwear","Maharashtra ","Sholapur",0.06,121.0,122.0,123.0,124.0,144.0
+"General","Maharashtra ","Sholapur",0.95,139.0,149.0,160.0,179.0,199.0
+"Food","Orissa","Angul Talcher",0.41,130.0,149.0,172.0,188.0,204.0
+"Clothing,bedding,footwear","Orissa","Angul Talcher",0.06,131.0,159.0,162.0,164.0,185.0
+"General","Orissa","Angul Talcher",0.88,128.0,143.0,160.0,181.0,200.0
+"Food","Orissa","Rourkela",0.43,143.0,159.0,179.0,198.0,215.0
+"Clothing,bedding,footwear","Orissa","Rourkela",0.05,121.0,128.0,138.0,146.0,162.0
+"General","Orissa","Rourkela",0.71,137.0,149.0,166.0,186.0,204.0
+"Food","Punjab","Amritsar",0.47,137.0,150.0,166.0,192.0,207.0
+"Clothing,bedding,footwear","Punjab","Amritsar",0.06,129.0,131.0,130.0,133.0,154.0
+"General","Punjab","Amritsar",1.07,139.0,149.0,163.0,190.0,208.0
+"Food","Punjab","Jalandhar",0.38,135.0,152.0,171.0,194.0,207.0
+"Clothing,bedding,footwear","Punjab","Jalandhar",0.06,116.0,119.0,120.0,126.0,141.0
+"General","Punjab","Jalandhar",0.96,131.0,141.0,155.0,174.0,190.0
+"Food","Punjab","Ludhiana",0.26,142.0,161.0,184.0,203.0,212.0
+"Clothing,bedding,footwear","Punjab","Ludhiana",0.03,127.0,129.0,133.0,140.0,168.0
+"General","Punjab","Ludhiana",0.57,134.0,146.0,160.0,175.0,191.0
+"Food","Rajasthan","Ajmer",0.63,136.0,150.0,170.0,200.0,215.0
+"Clothing,bedding,footwear","Rajasthan","Ajmer",0.11,112.0,115.0,126.0,128.0,160.0
+"General","Rajasthan","Ajmer",1.56,129.0,138.0,152.0,175.0,191.0
+"Food","Rajasthan","Bhilwara",0.36,140.0,154.0,179.0,211.0,222.0
+"Clothing,bedding,footwear","Rajasthan","Bhilwara",0.05,113.0,118.0,119.0,121.0,137.0
+"General","Rajasthan","Bhilwara",0.73,133.0,144.0,158.0,176.0,192.0
+"Food","Rajasthan","Jaipur",0.48,137.0,152.0,172.0,191.0,203.0
+"Clothing,bedding,footwear","Rajasthan","Jaipur",0.07,125.0,128.0,131.0,138.0,156.0
+"General","Rajasthan","Jaipur",1.09,134.0,145.0,159.0,179.0,192.0
+"Food","Tamil Nadu ","Chennai",1.02,128.0,145.0,167.0,184.0,194.0
+"Clothing,bedding,footwear","Tamil Nadu ","Chennai",0.11,107.0,112.0,117.0,116.0,127.0
+"General","Tamil Nadu ","Chennai",2.31,124.0,135.0,149.0,161.0,171.0
+"Food","Tamil Nadu ","Coimbatore",0.55,129.0,142.0,164.0,183.0,196.0
+"Clothing,bedding,footwear","Tamil Nadu ","Coimbatore",0.1,118.0,119.0,126.0,129.0,141.0
+"General","Tamil Nadu ","Coimbatore",1.26,127.0,137.0,151.0,166.0,176.0
+"Food","Tamil Nadu ","Coonoor",0.56,119.0,136.0,154.0,174.0,188.0
+"Clothing,bedding,footwear","Tamil Nadu ","Coonoor",0.1,108.0,112.0,114.0,118.0,147.0
+"General","Tamil Nadu ","Coonoor",1.18,122.0,134.0,148.0,168.0,182.0
+"Food","Tamil Nadu ","Madurai",0.57,120.0,138.0,157.0,179.0,196.0
+"Clothing,bedding,footwear","Tamil Nadu ","Madurai",0.07,112.0,113.0,115.0,119.0,147.0
+"General","Tamil Nadu ","Madurai",1.17,121.0,134.0,147.0,162.0,174.0
+"Food","Tamil Nadu ","Salem",0.63,119.0,134.0,154.0,171.0,183.0
+"Clothing,bedding,footwear","Tamil Nadu ","Salem",0.07,105.0,108.0,112.0,115.0,131.0
+"General","Tamil Nadu ","Salem",1.12,122.0,134.0,151.0,163.0,172.0
+"Food","Tamil Nadu ","Tiruchirapally",0.63,127.0,153.0,172.0,190.0,199.0
+"Clothing,bedding,footwear","Tamil Nadu ","Tiruchirapally",0.09,111.0,114.0,116.0,124.0,137.0
+"General","Tamil Nadu ","Tiruchirapally",1.37,126.0,141.0,156.0,174.0,184.0
+"Food","Tripura","Tripura",0.16,124.0,133.0,149.0,164.0,173.0
+"Clothing,bedding,footwear","Tripura","Tripura",0.02,118.0,120.0,126.0,130.0,134.0
+"General","Tripura","Tripura",0.26,123.0,131.0,144.0,156.0,167.0
+"Food","Uttar Pradesh","Agra",0.9,139.0,150.0,176.0,197.0,206.0
+"Clothing,bedding,footwear","Uttar Pradesh","Agra",0.1,110.0,115.0,122.0,124.0,136.0
+"General","Uttar Pradesh","Agra",1.91,136.0,146.0,168.0,193.0,208.0
+"Food","Uttar Pradesh","Ghaziabad",0.7,136.0,149.0,175.0,194.0,213.0
+"Clothing,bedding,footwear","Uttar Pradesh","Ghaziabad",0.09,113.0,121.0,132.0,135.0,150.0
+"General","Uttar Pradesh","Ghaziabad",1.82,132.0,142.0,159.0,182.0,198.0
+"Food","Uttar Pradesh","Kanpur",0.86,138.0,151.0,174.0,195.0,208.0
+"Clothing,bedding,footwear","Uttar Pradesh","Kanpur",0.15,125.0,128.0,134.0,143.0,160.0
+"General","Uttar Pradesh","Kanpur",2.09,132.0,141.0,158.0,183.0,200.0
+"Food","Uttar Pradesh","Lucknow",1.12,134.0,151.0,177.0,194.0,202.0
+"Clothing,bedding,footwear","Uttar Pradesh","Lucknow",0.21,119.0,123.0,127.0,133.0,143.0
+"General","Uttar Pradesh","Lucknow",2.75,129.0,144.0,163.0,185.0,195.0
+"Food","Uttar Pradesh","Varanasi",1.08,140.0,156.0,179.0,196.0,209.0
+"Clothing,bedding,footwear","Uttar Pradesh","Varanasi",0.26,112.0,114.0,117.0,124.0,130.0
+"General","Uttar Pradesh","Varanasi",2.64,131.0,142.0,160.0,183.0,194.0
+"Food","West Bengal","Asansol",0.53,139.0,153.0,173.0,190.0,206.0
+"Clothing,bedding,footwear","West Bengal","Asansol",0.1,115.0,124.0,134.0,143.0,159.0
+"General","West Bengal","Asansol",1.08,138.0,151.0,171.0,195.0,211.0
+"Food","West Bengal","Darjeeling",0.31,138.0,152.0,167.0,191.0,203.0
+"Clothing,bedding,footwear","West Bengal","Darjeeling",0.07,138.0,141.0,149.0,155.0,165.0
+"General","West Bengal","Darjeeling",0.53,130.0,142.0,153.0,170.0,184.0
+"Food","West Bengal","Durgapur",0.51,128.0,142.0,163.0,181.0,195.0
+"Clothing,bedding,footwear","West Bengal","Durgapur",0.08,121.0,130.0,137.0,143.0,162.0
+"General","West Bengal","Durgapur",1.14,130.0,140.0,155.0,178.0,193.0
+"Food","West Bengal","Haldia",0.64,130.0,142.0,161.0,178.0,193.0
+"Clothing,bedding,footwear","West Bengal","Haldia",0.11,114.0,122.0,119.0,122.0,133.0
+"General","West Bengal","Haldia",1.74,124.0,131.0,144.0,161.0,185.0
+"Food","West Bengal","Howrah",0.38,135.0,148.0,168.0,188.0,202.0
+"Clothing,bedding,footwear","West Bengal","Howrah",0.06,120.0,123.0,132.0,142.0,159.0
+"General","West Bengal","Howrah",0.79,130.0,139.0,154.0,171.0,183.0
+"Food","West Bengal","Jalpaiguri",0.29,131.0,142.0,160.0,185.0,195.0
+"Clothing,bedding,footwear","West Bengal","Jalpaiguri",0.03,117.0,119.0,122.0,130.0,137.0
+"General","West Bengal","Jalpaiguri",0.48,125.0,136.0,150.0,167.0,179.0
+"Food","West Bengal","Kolkata",0.74,138.0,151.0,171.0,190.0,204.0
+"Clothing,bedding,footwear","West Bengal","Kolkata",0.1,121.0,131.0,140.0,156.0,170.0
+"General","West Bengal","Kolkata",1.51,132.0,142.0,156.0,172.0,185.0
+"Food","West Bengal","Raniganj",0.53,134.0,146.0,170.0,186.0,197.0
+"Clothing,bedding,footwear","West Bengal","Raniganj",0.07,124.0,118.0,122.0,135.0,148.0
+"General","West Bengal","Raniganj",0.99,132.0,140.0,156.0,169.0,180.0
+"Food","West Bengal","Siliguri",0.29,143.0,154.0,171.0,193.0,209.0
+"Clothing,bedding,footwear","West Bengal","Siliguri",0.04,123.0,128.0,129.0,132.0,146.0
+"General","West Bengal","Siliguri",0.48,135.0,144.0,156.0,173.0,187.0
+"Food","Chandigarh","Chandigarh",0.06,133.0,147.0,169.0,189.0,207.0
+"Clothing,bedding,footwear","Chandigarh","Chandigarh",0.01,135.0,140.0,142.0,149.0,154.0
+"General","Chandigarh","Chandigarh",0.16,131.0,140.0,155.0,175.0,197.0
+"Food","Delhi","Delhi",0.87,129.0,142.0,158.0,174.0,189.0
+"Clothing,bedding,footwear","Delhi","Delhi",0.11,112.0,116.0,120.0,131.0,155.0
+"General","Delhi","Delhi",1.99,128.0,137.0,147.0,163.0,176.0
+"Food","Puducherry","Puducherry",0.26,137.0,165.0,195.0,208.0,216.0
+"Clothing,bedding,footwear","Puducherry","Puducherry",0.05,114.0,116.0,120.0,129.0,150.0
+"General","Puducherry","Puducherry",0.59,130.0,146.0,163.0,173.0,184.0
+"Food","All India","All India",46.2,134.0,149.0,169.0,190.0,204.0
+"Clothing,bedding,footwear","All India","All India",6.58,117.0,121.0,126.0,133.0,151.0
+"General","All India","All India",100.0,131.0,142.0,157.0,176.0,192.0

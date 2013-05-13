@@ -1,0 +1,35 @@
+-----
+{
+ "description": "This data provides details on Indian aviation scheduled operations for domestic and international services from 2001-02 to 2011-12. The details relates to hours flown, aircraft kilometres flown, passengers carried, passenger kilometres performed\t, passenger load factor, cargo carried, cargo carried...", 
+ "file_name": "INDIAN_SCHEDULED_OPERATIONS_1.xls", 
+ "title": "Indian Aviation Scheduled Operations From 2001-02 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/INDIAN_SCHEDULED_OPERATIONS_1.xls"
+}
+-----
+"Item","Services","Unit"," 2001-02"," 2002-03"," 2003-04"," 2004-05","2005-06","2006-07","2007-08","2008-09","2009-10 ","2010-11","2011-12","Percentage"
+"Hours flown"," Domestic  Services (1)","'000 hr.",267.0,295.0,344.0,399.0,475.0,648.0,806.0,808.0,821.0,894.0,974.0,264.794007491
+"Aircraft kilometres flown"," Domestic  Services (1)","Million km.",147.1,165.8,189.3,213.6,252.7,350.0,440.0,430.0,413.0,439.0,500.0,239.904826649
+"Passengers carried"," Domestic  Services (1)","'000 no.",12854.0,13951.0,15677.0,19445.0,25205.0,35793.0,44355.0,39467.0,45337.0,53843.0,60838.0,373.300140034
+"Passenger kilometres performed"," Domestic  Services (1)","Million Nos.",11572.0,12848.0,14566.0,18030.0,23709.0,33520.0,41720.0,37700.0,43959.0,52707.0,59085.0,410.585896993
+"Passenger load factor"," Domestic  Services (1)"," Percentage",55.5,56.3,58.4,64.9,67.6,68.8,68.9,63.7,72.0,77.3,75.2,35.4954954955
+"Cargo carried"," Domestic  Services (1)","'000 tonne",161.0,179.0,198.0,245.0,256.0,266.0,302.0,278.0,328.0,382.0,361.0,124.223602484
+"Cargo carried-Freight"," Domestic  Services (1)","'000 tonne",138.0,156.0,177.0,218.0,225.0,246.0,282.0,253.0,298.0,361.0,345.0,150.0
+"Cargo carried-Mail"," Domestic  Services (1)","'000 tonne",23.0,23.0,21.0,27.0,31.0,20.0,20.0,25.0,30.0,21.0,15.0,-34.7826086957
+"Tonne kilometres performed"," Domestic  Services (1)","Million Nos.",1155.0,1273.0,1467.0,1816.0,2340.0,3180.0,3930.0,3520.0,4021.0,4758.0,5459.0,372.640692641
+"Tonne kilometres performed-Passenger"," Domestic  Services (1)","Million Nos.",989.0,1086.0,1257.0,1558.0,2067.0,2910.0,3640.0,3260.0,3706.0,4363.0,5066.0,412.234580384
+"Tonne kilometres performed-Freight"," Domestic  Services (1)","Million Nos.",143.0,164.0,191.0,229.0,238.0,250.0,270.0,240.0,286.0,374.0,375.0,162.237762238
+"Tonne kilometres performed-Mail"," Domestic  Services (1)","Million Nos.",23.0,23.0,19.0,29.0,35.0,20.0,20.0,20.0,29.0,20.0,18.0,-21.7391304348
+"Weight load factor"," Domestic  Services (1)","Percentage",52.2,53.5,57.5,63.9,67.1,67.1,65.7,59.6,65.6,70.2,68.0,30.2681992337
+"Hours flown","International Services","'000 hr.",111.0,129.0,146.0,175.0,237.0,269.0,338.0,403.0,433.0,462.0,468.0,321.621621622
+"Aircraft kilometres flown","International Services","Million km.",74.5,84.5,97.7,119.5,161.8,190.0,240.0,290.0,304.0,323.0,332.0,345.637583893
+"Passengers carried","International Services","'000 no.",3698.0,4201.0,4493.0,5326.0,6547.0,7561.0,9108.0,10049.0,11611.0,13158.0,14435.0,290.346133045
+"Passenger kilometres performed","International Services","Million Nos.",13408.0,15819.0,18108.0,22272.0,27858.0,30360.0,36130.0,40740.0,45483.0,50464.0,53851.0,301.633353222
+"Passenger load factor","International Services"," Percentage",69.4,73.9,72.5,71.6,68.9,44.62,54.56,62.17,71.1,72.8,75.0,8.06916426513
+"Cargo carried","International Services","'000 tonne",98.0,104.0,98.0,112.0,112.0,126.0,146.0,174.0,219.0,263.0,258.0,163.265306122
+"Cargo carried-Freight","International Services","'000 tonne",96.0,102.0,96.0,110.0,110.0,124.0,143.0,171.0,215.0,259.0,257.0,167.708333333
+"Cargo carried-Mail","International Services","'000 tonne",2.0,2.0,2.0,2.0,2.0,2.0,3.0,3.0,4.0,4.0,0.8,-60.0
+"Tonne kilometres performed","International Services","Million Nos.",1631.0,1884.0,2092.0,2579.0,3138.0,3420.0,4180.0,4940.0,5467.0,6006.0,6500.0,298.528510116
+"Tonne kilometres performed-Passenger","International Services","Million Nos.",1248.0,1473.0,1680.0,2058.0,2561.0,2800.0,3390.0,3950.0,4297.0,4705.0,5099.0,308.573717949
+"Tonne kilometres performed-Freight","International Services","Million Nos.",371.0,401.0,399.0,509.0,562.0,610.0,770.0,960.0,1142.0,1272.0,1375.0,270.619946092
+"Tonne kilometres performed-Mail","International Services","Million Nos.",12.0,10.0,13.0,12.0,14.0,10.0,20.0,30.0,29.0,28.0,27.0,125.0
+"Weight load factor","International Services","Percentage",66.4,70.4,66.3,65.8,61.0,59.7,55.1,56.0,61.0,61.7,61.7,-7.07831325301

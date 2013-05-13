@@ -1,0 +1,19 @@
+-----
+{
+ "description": "This data provides figures of Liabilities and Assets Of Banking Department and Issue Department of The Reserve Bank of India (RBI) as on 30th June from 2001 to 2011.", 
+ "file_name": "LIABILITIES_AND_ASSETS_OF_THE_RESERVE_BANK_OF_INDIA.XLS", 
+ "title": "Liabilities And Assets of Banking Department And Issue Department of The Reserve Bank of India As On 30th June From 2001 To 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/LIABILITIES_AND_ASSETS_OF_THE_RESERVE_BANK_OF_INDIA.XLS"
+}
+-----
+"Heads","Group",2001.0,2002.0,2003.0,2004.0,2005.0,2006.0,2007.0,2008.0,2009.0,2010.0,2011.0
+"Notes held in the Banking Department","Liabilities",16.0,11.0,28.0,24.0,13.0,12.0,17.0,16.0,21.0,33.0,15.0
+"Notes in Circulation","Liabilities",226374.8,259073.0,292510.0,332654.2,378467.7,440977.0,506545.0,612324.0,701655.0,842008.0,969261.0
+"Total Notes issued","Liabilities",226390.9,259084.0,292538.0,332678.1,378480.7,440988.6,506562.0,612340.0,701677.0,842041.0,969276.0
+"Gold Coin and Bullion - held in India","Assets",10753.0,13293.0,14037.0,15240.0,15828.0,23266.0,22593.0,32309.0,38326.0,48577.0,57807.0
+"Gold Coin and Bullion - Held outside India","Assets",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Foreign Securities","Assets",106700.0,169000.0,255000.0,313709.4,361033.1,416525.0,482801.0,578879.0,662064.0,792301.0,910166.0
+"Total (Gold coin and bullion plus Foreign securities)","Assets",117453.0,182293.3,269036.8,328949.7,376861.0,439791.0,505394.0,611188.0,700390.0,840878.0,967973.0
+"Rupee Coin","Assets",115.0,222.8,228.8,262.0,102.0,151.0,122.0,106.0,239.0,116.0,258.0
+"Government of India Rupee Securities ","Assets",108822.3,76567.9,23272.0,3466.8,1517.2,1046.4,1046.4,1046.4,1046.4,1046.0,1046.0
+"Total Assets","Assets",226390.9,259084.0,292538.0,332678.1,378480.7,440988.6,506562.0,612340.0,701677.0,842041.0,969276.0

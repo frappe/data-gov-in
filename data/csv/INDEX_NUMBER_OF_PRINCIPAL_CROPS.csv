@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives Index Number of production of Principal Crops for the period 2006-07 to 2010-11 (Base : Crop Years Triennium ending 1993-94=100).", 
+ "file_name": "INDEX_NUMBER_OF_PRINCIPAL_CROPS.xls", 
+ "title": "Index Number of production of Principal Crops ", 
+ "url": "http://data.gov.in/sites/default/files/INDEX_NUMBER_OF_PRINCIPAL_CROPS.xls"
+}
+-----
 "Crop             ","Production 2006-07","Production 2007-08","Production 2008-09","Production 2009-10","Production 2010-11","Area 2006-07","Area 2007-08","Area 2008-09","Area 2009-10","Area 2010-11","Yield 2006-07","Yield 2007-08","Yield 2008-09","Yield 2009-10","Yield 2010-11"
 "Total Foodgrains",158.767572678,168.626806279,171.3,159.4,178.9,128.474535022,128.847886748,127.6,126.0,131.7,123.57902105,130.872776058,134.3,126.5,135.9
 "Rice",200.768950936,207.946759273,213.3,191.6,206.4,168.489801667,168.877438657,175.1,161.2,164.8,119.157924664,123.134718839,121.8,118.9,125.2

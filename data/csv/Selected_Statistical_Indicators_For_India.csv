@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents selected statistical indicators for India in terms of population and health, agriculture production, basic economic data, foreign trade, education and research & development. The data are taken from the DST, New Delhi and Economic Survey, Ministry of Finance, Government of India.", 
+ "file_name": "Selected_Statistical_Indicators_For_India.xls", 
+ "title": "Selected Statistical Indicators For India ", 
+ "url": "http://data.gov.in/sites/default/files/Selected_Statistical_Indicators_For_India.xls"
+}
+-----
 "Indicator","Detail","Year","Unit","Numbers","Source"
 "POPULATION AND HEALTH","Population","1950-51","Million",359.0,"Economic Survey 2007-08"
 "POPULATION AND HEALTH","Population","2003-04","Million",1072.0,"Economic Survey 2007-08"

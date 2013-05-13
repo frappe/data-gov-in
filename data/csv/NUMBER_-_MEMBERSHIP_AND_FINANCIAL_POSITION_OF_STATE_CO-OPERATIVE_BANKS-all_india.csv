@@ -1,0 +1,14 @@
+-----
+{
+ "description": "Data provides all India and state-wise details on the number, membership and financial (such as Share Capital, Reserves, Deposits, Borrowings, Total Working Capital and Loans issued during the year) position of state co-operative banks as on 31st March.", 
+ "file_name": "NUMBER_-_MEMBERSHIP_AND_FINANCIAL_POSITION_OF_STATE_CO-OPERATIVE_BANKS.xls", 
+ "title": "Number / Membership / Financial Position of State Co-operative Banks As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_-_MEMBERSHIP_AND_FINANCIAL_POSITION_OF_STATE_CO-OPERATIVE_BANKS.xls"
+}
+-----
+"Year","Membership - Societies","Membership - Individuals","Share capital","Reserves","Deposits","Borrowings from Govt.","Borrowings from RBI/NABARD","Borrowings from Others","Borrowings from Total","Total working Capital","Loans issued during the year"
+"2000-01",16823.0,64838.0,6815.9,42712.9,307040.8,4110.0,88062.1,21491.7,113663.8,494101.7,304157.3
+"2001-02",18590.0,95459.0,8277.295,53139.8,342309.3,3934.3,98857.0,13987.5,116778.8,540423.7,262994.7
+"2002-03",18526.0,98004.0,8577.7,58703.2,366748.2,3859.2,102832.8,12509.2,119201.2,578700.4,314239.8
+"2003-04",18584.0,101865.0,8777.95,65618.9,393694.0,3757.2,106043.6,8355.1,118155.9,608715.9,289621.3
+"2004-05",18763.0,112803.0,7490.896,64822.5,380887.7,1910.8,89293.2,7169.9,98374.1,578995.9,311792.8

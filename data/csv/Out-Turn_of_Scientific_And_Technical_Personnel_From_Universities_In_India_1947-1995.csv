@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents out-turn data since 1947 onwards of scientific and technical personnel from Indian universities. The data are taken from the University Grants Commission (UGC) publication University Development in India - Basic Facts and Figures.", 
+ "file_name": "Out-Turn_of_Scientific_And_Technical_Personnel_From_Universities_In_India_1947-1995.xls", 
+ "title": "Out-Turn of Scientific And Technical Personnel From Universities In India 1947-1995 ", 
+ "url": "http://data.gov.in/sites/default/files/Out-Turn_of_Scientific_And_Technical_Personnel_From_Universities_In_India_1947-1995.xls"
+}
+-----
 "Degree/Year",1947.0,1950.0,1954.0,1956.0,1958.0,1960.0,1964.0,1966.0,1968.0,1970.0,1974.0,1975.0,1984.0,1985.0,1986.0,1987.0,1988.0,1989.0,1995.0,2003.0
 "B.Sc.(Science)",5996.0,9628.0,14427.0,16139.0,18925.0,22706.0,34085.0,42463.0,59651.0,83654.0,123822.0,95395.0,115085.0,120006.0,122579.0,129940.0,129981.0,134366.0,139257.0,334865.0
 "M.Sc.(Science)",905.0,1425.0,2911.0,3255.0,3841.0,5382.0,8906.0,10106.0,12822.0,16742.0,17633.0,17557.0,20691.0,19377.0,20300.0,23669.0,24301.0,24591.0,23807.0,75459.0

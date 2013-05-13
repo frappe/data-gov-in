@@ -1,0 +1,42 @@
+-----
+{
+ "description": "Data provides all India and state-wise details on the number, membership and financial (such as Share Capital, Reserves, Deposits, Loans, Total Working Capital and Loans issued during the year) position of primary credit societies - agricultural credit societies (excluding grain banks) as on 31st...", 
+ "file_name": "NO._MEMBERSHIP_AND_FINAN_POS_OF_PRIM_CREDIT_SOCIETIES_-_AGRI_CREDIT_SOCIETIES_(EXCL_GRAIN_BANKS).xls", 
+ "title": "Number / Membership / Financial Position of Primary Credit Societies - Agricultural Credit Societies (Excluding Grain Banks) As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NO._MEMBERSHIP_AND_FINAN_POS_OF_PRIM_CREDIT_SOCIETIES_-_AGRI_CREDIT_SOCIETIES_(EXCL_GRAIN_BANKS).xls"
+}
+-----
+"State","Number of Societies ","Membership","Share capital","Reserves","Deposits","Loans from Government","Loans from Central Financing agencies","Loans from Others","Total","Total working Capital","Loans issued during the year"
+"Andhra Pradesh (3)",4678.0,16025.982,2635.559,1372.964,2375.3,269.351,20354.8,199.383,20823.534,39158.965,20696.612
+"Arunachal Pradesh","NA","NA","NA","NA","NA","NA","NA","NA",0.0,"NA","NA"
+"Assam ","NA","NA","NA","NA","NA","NA","NA","NA",0.0,"NA","NA"
+"Bihar (1)",5936.0,3668.0,815.0,20.0,499.0,"NA",4938.0,"NA",4938.0,5024.0,2737.0
+"Goa",73.0,40.0,25.0,44.0,213.0,2.6,7.0,38.0,47.6,396.0,119.0
+"Gujarat",7815.0,2978.0,3620.0,4101.0,1259.0,71.0,37740.0,527.0,38338.0,50080.0,39404.0
+"Haryana (1)",2460.0,2856.0,2476.6,140.0,2120.3,28.2,27334.8,81.1,27444.1,31839.9,32607.3
+"Himachal Pradesh(2)",2121.0,966.114,383.167,253.7,2719.1,5.379,671.372,6.2,682.951,4518.992,740.96
+" Jammu & Kashmir","NA","NA","NA","NA","NA","NA","NA","NA",0.0,"NA","NA"
+"Karnataka",4677.0,4621.0,3688.0,2158.0,11576.0,244.0,20519.0,332.0,21095.0,39534.0,21165.0
+"Kerala ",2437.0,16023.0,4955.0,11516.0,122078.0,203.0,15544.0,1402.0,17149.0,188378.0,104638.0
+" Madhya Pradesh",35.0,43.0,31.0,49.0,2.0,1.0,207.0,"NA",208.0,341.0,147.0
+"Maharashtra",21045.0,10703.0,13641.0,3819.0,1364.0,36.0,77605.0,703.0,78344.0,102327.0,48558.0
+"Manipur (3)",191.0,127.0,58.176,10.883,"NA",223.4,"NA",132.335,355.735,313.5,35.936
+"Meghalaya (1)",179.0,11.0,45.828,5.676,7.7,6.267,16.194,4.206,26.667,116.421,27.003
+"Mizoram(2)",115.0,4.124,527.162,155.839,5.8,116.737,316.335,98.9,531.972,1758.09,507.114
+" Nagaland","NA","NA","NA","NA","NA","NA","NA","NA",0.0,"NA","NA"
+"Orissa ",2697.0,3141.0,1770.0,759.0,4728.0,24.0,15146.0,119.0,15289.0,23652.0,12005.0
+"Punjab",3985.0,2058.0,1891.0,1435.0,6151.0,39.0,22964.0,"NA",23003.0,36169.0,37895.0
+"Rajasthan",5244.0,8489.0,3324.0,628.0,1066.0,136.0,18975.0,265.0,19376.0,29691.0,20389.0
+" Sikkim",158.0,16.0,9.0,"NA","NA","NA","NA",15.0,15.0,23.0,15.0
+"Tamil Nadu",4490.0,9771.0,3753.0,9645.0,26583.0,1854.0,25771.0,14088.0,41713.0,71575.0,38031.0
+"Tripura",270.0,332.0,111.0,95.0,7.0,15.0,413.0,4.0,432.0,1144.0,15.0
+"Uttar Pradesh (3)",8470.0,14774.0,2243.6,458.3,848.3,331.2,14163.3,235.5,14730.0,21300.0,7985.4
+"Uttaranchal (1)",756.0,965.0,301.0,314.0,945.0,48.0,1935.0,"-",1983.0,4003.0,2060.0
+" West Bengal","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" A.& N. Islands","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Chandigarh","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"D & N Haveli (1)",8.0,23.0,17.3,41.3,"NA","NA","NA","NA","NA",67.4,25.2
+" Daman & Diu","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Delhi","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Lakshadweep","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Puducherry (2)",56.0,68.0,38.5,59.4,132.8,4.4,94.2,11.5,110.1,436.6,113.2

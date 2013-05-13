@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents state-wise data about wages and earning of factory workers in India.", 
+ "file_name": "TOTAL_EARNINGS_OF_FACTORY_WORKERS_IN_INDIA.xls", 
+ "title": "Total earnings Of Factoring Workers In India ", 
+ "url": "http://data.gov.in/sites/default/files/TOTAL_EARNINGS_OF_FACTORY_WORKERS_IN_INDIA.xls"
+}
+-----
 "State/ Union Territory","2001 (` '000)","2002 (` '000)","2003 (` '000)","2004** (` '000)","2005** (` '000)","2006+ (` '000)","2007+ (` '000)","2008++ (` '000)","2009++ (` '000)","2010 (` '000)"
 " Andhra Pradesh",634580.0,"NA",1240195.0,1115448.0,1386267.0,11133691.0,13260133.0,18439121.0,21791695.0,"NA"
 " Arunachal Pradesh","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"

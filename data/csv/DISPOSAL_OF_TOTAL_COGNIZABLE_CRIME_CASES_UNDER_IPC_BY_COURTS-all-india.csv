@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2009 to 2011) details on disposal of total cognizable crime cases under IPC by courts.", 
+ "file_name": "DISPOSAL_OF_TOTAL_COGNIZABLE_CRIME_CASES_UNDER_IPC_BY_COURTS.xls", 
+ "title": "All India And State-wise Disposal of Total Cognizable Crime Cases Under IPC By Courts ", 
+ "url": "http://data.gov.in/sites/default/files/DISPOSAL_OF_TOTAL_COGNIZABLE_CRIME_CASES_UNDER_IPC_BY_COURTS.xls"
+}
+-----
+"Year","Total cases for trial during the year including the cases carried over from previous year","No. of cases compounded or withdrwan","Total (Cases in which trials were completed)","Cases convicted (Cases in which trials were completed)","Cases acquitted or discharged (Cases in which trials were completed)","Cases pending trial at the end of the year"
+2001.0,6221034.0,171278.0,931892.0,380504.0,551388.0,5117864.0
+2002.0,6464748.0,170502.0,981393.0,398830.0,582563.0,5312853.0
+2003.0,6577778.0,166484.0,959567.0,384887.0,574680.0,5451727.0
+2004.0,6768713.0,175011.0,957311.0,406621.0,550690.0,5636391.0
+2005.0,6991508.0,155516.0,1013240.0,430091.0,583149.0,5822752.0
+2006.0,7192451.0,149131.0,1044120.0,447516.0,596604.0,5999200.0
+2007.0,7473521.0,153082.0,1025689.0,433929.0,591760.0,6294750.0
+2008.0,7833842.0,155463.0,1052623.0,448475.0,604148.0,6625756.0
+2009.0,8130053.0,146300.0,1025781.0,427655.0,598126.0,6957972.0
+2010.0,8549655.0,150322.0,1141031.0,464128.0,676903.0,7258302.0
+2011.0,8939161.0,164920.0,1211225.0,497996.0,713229.0,7563016.0

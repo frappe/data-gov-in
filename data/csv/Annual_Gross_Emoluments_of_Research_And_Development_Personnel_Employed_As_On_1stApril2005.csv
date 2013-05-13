@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents data on annual gross emoluments of Research And Development personnel employed as on 1st April 2005. The data is collected and compiled as a part of National Survey on Research And Development resources by DST, New Delhi, Government of India.", 
+ "file_name": "Annual_Gross_Emoluments_of_Research_And_Development_Personnel_Employed_As_On_1stApril2005.xls", 
+ "title": "Annual Gross Emoluments of Research And Development Personnel Employed As On 1st April 2005 ", 
+ "url": "http://data.gov.in/sites/default/files/Annual_Gross_Emoluments_of_Research_And_Development_Personnel_Employed_As_On_1stApril2005.xls"
+}
+-----
 "Sector","Salary (Rs. Lakhs)","Gender","Less than 2.00","2.00 - 2.99","3.00 - 3.99","4.00 - 4.99","5.00 and Above","Total"
 "INSTITUTIONAL SECTOR","Central Sector","Male",5167.0,9279.0,8337.0,5236.0,1776.0,29795.0
 "INSTITUTIONAL SECTOR","Central Sector","Female",1200.0,2011.0,1501.0,653.0,229.0,5594.0

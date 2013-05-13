@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table presents industry wise figures of employment in government and Local Fund factories and in other factories. This table provides All India  data during 2000-2009 for total employment in all factories. ", 
+ "file_name": "FACTORY_EMPLOYMENT.xls", 
+ "title": "Factory Employment ", 
+ "url": "http://data.gov.in/sites/default/files/FACTORY_EMPLOYMENT.xls"
+}
+-----
 "  Year","All factories - Govt.  and others - (Public + Private)- ('000 no.) ","Total(Public Sector)","Textiles (Public Sector)","Printing Publishing and allied industries (Public Sector)","Manufacture of machinery (Public Sector)","Electrical machinery apparatus appliances and supplies (Public Sector)","Transport equipment (Public Sector)","Electricity, gas and steam (Public Sector)","Rest (Public Sector)","Total (Private Sector)","Food and beverages (Private Sector)","Tobacco (Private Sector)","Textiles (Private Sector)","Chemical and checmical products (Private Sector)","Non metallic mineral products (Private Sector)","Basic metal industries (Private Sector)","Manufacture of machinery (Private Sector)","Transport equipment (Private Sector)","Rest (Private Sector)"
 " 2000","4226","798","79","38","40","22","74","70","475","3428","676","36","516","256","267","193","174","85","1225"
 " 2001",5732.0,903.0,90.0,44.0,54.0,18.0,109.0,81.0,507.0,4830.0,753.0,34.0,853.0,546.0,323.0,261.0,125.0,100.0,1835.0

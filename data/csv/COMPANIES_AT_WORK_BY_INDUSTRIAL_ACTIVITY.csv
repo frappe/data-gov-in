@@ -1,0 +1,119 @@
+-----
+{
+ "description": "This data provides the number and paid-up capital of Public Companies and Private Companies at work by Industrial activity such as Agriculture and Allied Activities, Mining and Quarrying, Manufacturing, Electricity,Gas and Water, Constructions, Wholesale...", 
+ "file_name": "COMPANIES_AT_WORK_BY_INDUSTRIAL_ACTIVITY.xls", 
+ "title": "Number And Paid-up Capital of Public Companies And Private Companies At Work By Industrial Activity As On 31st March From 2001 To 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/COMPANIES_AT_WORK_BY_INDUSTRIAL_ACTIVITY.xls"
+}
+-----
+"Year","Industrial Classification","Public - No.","Public - Paid-up Capital","Private - No. ","Private - Paid-up Capital","Total - No.","Total - Paid-up Capital"
+2001.0,"Agriculture and Allied Activities",5242.0,3266.0,16904.0,1238.7,22146.0,4504.7
+2002.0,"Agriculture and Allied Activities",5241.0,3716.97,17254.0,1490.47,22495.0,5207.44
+2003.0,"Agriculture and Allied Activities",5235.0,4084.5,17639.0,1659.4,22874.0,5743.9
+2004.0,"Agriculture and Allied Activities",5255.0,4377.4,18115.0,1789.81,23370.0,6167.21
+2005.0,"Agriculture and Allied Activities",5260.0,4770.37,18670.0,2284.76,23930.0,7055.13
+2006.0,"Agriculture and Allied Activities",5298.0,3771.0,19658.0,6338.0,24956.0,10109.0
+2007.0,"Agriculture and Allied Activities",3871.0,4436.0,16068.0,6034.0,19939.0,10470.0
+2008.0,"Agriculture and Allied Activities",4122.0,4826.0,17226.0,3167.0,21348.0,7993.0
+2009.0,"Agriculture and Allied Activities",4113.0,4990.0,17699.0,3508.0,21812.0,8498.0
+2010.0,"Agriculture and Allied Activities",4258.0,5370.0,18913.0,4027.3,23171.0,9397.3
+2011.0,"Agriculture and Allied Activities",2264.0,5986.1,15134.0,5381.3,17398.0,11367.4
+2001.0,"Mining and Quarrying",728.0,7283.82,5439.0,15375.7,6167.0,22659.6
+2002.0,"Mining and Quarrying",742.0,7474.17,5583.0,15730.94,6325.0,23205.11
+2003.0,"Mining and Quarrying",755.0,7979.2,5731.0,15876.7,6486.0,23855.9
+2004.0,"Mining and Quarrying",764.0,9017.13,5942.0,16025.69,6706.0,25042.82
+2005.0,"Mining and Quarrying",774.0,9131.09,6330.0,15295.85,7104.0,24427.04
+2006.0,"Mining and Quarrying",803.0,8703.0,6804.0,6015.0,7607.0,14718.0
+2007.0,"Mining and Quarrying",734.0,17629.0,6842.0,5766.0,7576.0,23395.0
+2008.0,"Mining and Quarrying",907.0,20658.0,7670.0,4672.0,8577.0,25330.0
+2009.0,"Mining and Quarrying",916.0,20009.0,8301.0,5043.0,9217.0,25052.0
+2010.0,"Mining and Quarrying",961.0,16403.7,9085.0,5205.0,10046.0,21608.7
+2011.0,"Mining and Quarrying",729.0,21092.8,8244.0,6661.0,8973.0,27753.8
+2001.0,"Manufacturing","NA","NA","NA","NA","NA","NA"
+2002.0,"Manufacturing","NA","NA","NA","NA","NA","NA"
+2003.0,"Manufacturing","NA","NA","NA","NA","NA","NA"
+2004.0,"Manufacturing","NA","NA","NA","NA","NA","NA"
+2005.0,"Manufacturing","NA","NA","NA","NA","NA","NA"
+2006.0,"Manufacturing",30662.0,124368.0,74915.0,67441.0,105577.0,191809.0
+2007.0,"Manufacturing",23371.0,150844.0,172848.0,83141.0,196219.0,233985.0
+2008.0,"Manufacturing",24738.0,182517.0,179031.0,96816.0,203769.0,279333.0
+2009.0,"Manufacturing",25141.0,188011.0,180060.0,95158.0,205201.0,283169.0
+2010.0,"Manufacturing",25658.0,205825.0,188861.0,108159.0,214519.0,313984.0
+2011.0,"Manufacturing",18807.0,234234.1,152635.0,139768.5,171442.0,374002.6
+2001.0,"Electricity,Gas and Water",861.0,26873.6,1660.0,6277.7,2521.0,33151.3
+2002.0,"Electricity,Gas and Water",893.0,38469.01,1854.0,6889.51,2747.0,45358.52
+2003.0,"Electricity,Gas and Water",927.0,44286.7,2014.0,8557.8,2941.0,52844.5
+2004.0,"Electricity,Gas and Water",973.0,54327.13,2229.0,8641.77,3202.0,62968.9
+2005.0,"Electricity,Gas and Water",1028.0,94020.91,2532.0,9034.69,3560.0,103055.6
+2006.0,"Electricity,Gas and Water",1133.0,53073.0,2979.0,9897.0,4112.0,62970.0
+2007.0,"Electricity,Gas and Water",907.0,57026.0,2987.0,8070.0,3894.0,65096.0
+2008.0,"Electricity,Gas and Water",1111.0,94786.0,3726.0,10981.0,4837.0,105767.0
+2009.0,"Electricity,Gas and Water",1351.0,92292.0,4578.0,11873.0,5929.0,104165.0
+2010.0,"Electricity,Gas and Water",1543.0,107711.8,5750.0,12911.8,7293.0,120623.7
+2011.0,"Electricity,Gas and Water",1605.0,181658.6,7031.0,24921.5,8636.0,206580.1
+2001.0,"Constructions",2543.0,8633.9,29483.0,3969.0,32026.0,12602.9
+2002.0,"Constructions",2572.0,10431.31,30997.0,4465.44,33569.0,14896.75
+2003.0,"Constructions",2627.0,12696.0,32629.0,5382.6,35256.0,18078.6
+2004.0,"Constructions",2731.0,14053.48,35216.0,8824.86,37947.0,22878.34
+2005.0,"Constructions",2840.0,15364.89,39343.0,15517.14,42183.0,30882.03
+2006.0,"Constructions",3163.0,23617.0,46876.0,12035.0,50039.0,35652.0
+2007.0,"Constructions",2990.0,46365.0,42965.0,13481.0,45955.0,59846.0
+2008.0,"Constructions",3527.0,66492.0,55480.0,24684.0,59007.0,91176.0
+2009.0,"Constructions",4066.0,48954.0,64218.0,28009.0,68284.0,76963.0
+2010.0,"Constructions",4364.0,59232.98,71054.0,34340.0,75417.0,93572.98
+2011.0,"Constructions",4199.0,80286.8,71137.0,57360.6,75336.0,137647.4
+2001.0,"Wholesale & Retail Trade and Restaurants and Hotels",7900.0,17998.3,77637.0,9691.1,85537.0,27689.4
+2002.0,"Wholesale & Retail Trade and Restaurants and Hotels",7908.0,19535.32,81673.0,17377.86,89581.0,36913.18
+2003.0,"Wholesale & Retail Trade and Restaurants and Hotels",7961.0,21016.6,86675.0,13205.2,94636.0,34221.8
+2004.0,"Wholesale & Retail Trade and Restaurants and Hotels",8109.0,23068.28,92535.0,14162.13,100644.0,37230.41
+2005.0,"Wholesale & Retail Trade and Restaurants and Hotels",8275.0,29312.0,100667.0,18654.28,108942.0,47966.28
+2006.0,"Wholesale & Retail Trade and Restaurants and Hotels",8486.0,11611.0,110736.0,20302.0,119222.0,31913.0
+2007.0,"Wholesale & Retail Trade and Restaurants and Hotels",6247.0,15262.0,89120.0,25105.0,95367.0,40367.0
+2008.0,"Wholesale & Retail Trade and Restaurants and Hotels",6998.0,20395.0,100515.0,31684.0,107513.0,52079.0
+2009.0,"Wholesale & Retail Trade and Restaurants and Hotels",7357.0,20790.0,107862.0,36672.0,115219.0,57462.0
+2010.0,"Wholesale & Retail Trade and Restaurants and Hotels",7510.0,22647.8,118842.0,40813.6,126352.0,63461.3
+2011.0,"Wholesale & Retail Trade and Restaurants and Hotels",5687.0,28108.3,110672.0,51985.6,116359.0,80093.9
+2001.0,"Transport, Storage and Communication",1463.0,8138.9,18154.0,1943.9,19617.0,10082.8
+2002.0,"Transport, Storage and Communication",1462.0,9800.91,19095.0,4857.56,20557.0,14658.47
+2003.0,"Transport, Storage and Communication",1484.0,10755.2,20149.0,2551.7,21633.0,13306.9
+2004.0,"Transport, Storage and Communication",1500.0,11104.37,21468.0,2819.57,22968.0,13923.94
+2005.0,"Transport, Storage and Communication",1552.0,49281.79,23076.0,3334.52,24628.0,52616.31
+2006.0,"Transport, Storage and Communication",1609.0,14269.0,25086.0,6006.0,26695.0,20275.0
+2007.0,"Transport, Storage and Communication",1457.0,15395.0,21034.0,7179.0,22491.0,22574.0
+2008.0,"Transport, Storage and Communication",1656.0,20066.0,22697.0,10530.0,24353.0,30596.0
+2009.0,"Transport, Storage and Communication",1725.0,20385.0,24338.0,10898.0,26063.0,31283.0
+2010.0,"Transport, Storage and Communication",1786.0,25733.9,26266.0,12976.1,28052.0,38710.1
+2011.0,"Transport, Storage and Communication",1397.0,34159.7,22095.0,18335.3,23492.0,52495.0
+2001.0,"Finance,Insurance,Real Estate and Business Services",25884.0,40445.1,129697.0,18348.8,155581.0,58793.9
+2002.0,"Finance,Insurance,Real Estate and Business Services",25848.0,53479.82,135665.0,23873.24,161513.0,77353.06
+2003.0,"Finance,Insurance,Real Estate and Business Services",25872.0,65010.1,142134.0,26659.1,168006.0,91669.2
+2004.0,"Finance,Insurance,Real Estate and Business Services",25997.0,69998.38,149597.0,29463.56,175594.0,99461.94
+2005.0,"Finance,Insurance,Real Estate and Business Services",26035.0,75578.01,159503.0,36235.66,185538.0,111813.67
+2006.0,"Finance,Insurance,Real Estate and Business Services",26405.0,53300.0,174221.0,44794.0,200626.0,98094.0
+2007.0,"Finance,Insurance,Real Estate and Business Services",22444.0,65202.0,159687.0,52416.0,182131.0,117618.0
+2008.0,"Finance,Insurance,Real Estate and Business Services",24308.0,92478.0,176426.0,76155.0,200734.0,168633.0
+2009.0,"Finance,Insurance,Real Estate and Business Services",24449.0,93075.0,192548.0,78352.0,216997.0,171427.0
+2010.0,"Finance,Insurance,Real Estate and Business Services",25074.0,99518.5,214442.0,89360.3,239516.0,188878.8
+2011.0,"Finance,Insurance,Real Estate and Business Services",16707.0,138837.7,191566.0,111517.0,208273.0,250354.7
+2001.0,"Community,Social and Personal Services",2224.0,4904.7,1781.0,4286.1,4005.0,9190.8
+2002.0,"Community,Social and Personal Services",2304.0,5524.75,18971.0,5110.37,21275.0,10635.12
+2003.0,"Community,Social and Personal Services",2361.0,6016.1,20196.0,6487.8,22557.0,12503.9
+2004.0,"Community,Social and Personal Services",2404.0,6261.71,21708.0,8011.68,24112.0,14273.39
+2005.0,"Community,Social and Personal Services",2494.0,6593.22,23463.0,9282.27,25957.0,15875.49
+2006.0,"Community,Social and Personal Services",2582.0,24621.0,25641.0,13293.0,28223.0,37914.0
+2007.0,"Community,Social and Personal Services",3065.0,33997.0,30278.0,11452.0,33343.0,45449.0
+2008.0,"Community,Social and Personal Services",2735.0,35677.0,32355.0,13423.0,35090.0,49100.0
+2009.0,"Community,Social and Personal Services",3515.0,35655.0,35784.0,13977.0,39299.0,49633.0
+2010.0,"Community,Social and Personal Services",3476.0,36292.6,37285.0,17071.8,40761.0,53364.3
+2011.0,"Community,Social and Personal Services",2817.0,49624.0,35978.0,21287.4,38795.0,70911.4
+2001.0,"Unclassified","NA","NA","NA","NA","NA","NA"
+2002.0,"Unclassified","NA","NA","NA","NA","NA","NA"
+2003.0,"Unclassified","NA","NA","NA","NA","NA","NA"
+2004.0,"Unclassified","NA","NA","NA","NA","NA","NA"
+2005.0,"Unclassified","NA","NA","NA","NA","NA","NA"
+2006.0,"Unclassified","NA","NA","NA","NA","NA","NA"
+2007.0,"Unclassified","NA","NA","NA","NA","NA","NA"
+2008.0,"Unclassified","NA","NA","NA","NA","NA","NA"
+2009.0,"Unclassified","NA","NA","NA","NA","NA","NA"
+2010.0,"Unclassified",9425.0,79200.9,69328.0,32090.3,78753.0,111291.1
+2011.0,"Unclassified",5434.0,94156.1,40417.0,42606.5,45851.0,136762.6

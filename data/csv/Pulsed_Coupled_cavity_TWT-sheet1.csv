@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Microwave Tube Research and Development Centre (MTRDC) is focusing on design and development of various microwave tubes, electronic power conditioners, microwave power modules and transmitters for communication, Radar and Electronic Warfare (EW) systems and other applications. To strive for...", 
+ "file_name": "Pulsed_Coupled_cavity_TWT.xls", 
+ "title": "Pulsed Coupled Cavity Traveling-Wave Tube (TWT) from DRDO ", 
+ "url": "http://data.gov.in/sites/default/files/Pulsed_Coupled_cavity_TWT.xls"
+}
+-----
 "Name","Peak Output Power (kW) Min.","Gain (dB)","Band Width (Hz)","Duty Cycle(%)","Pulse Width (sec)","Weight(kg)","Dimensions(mm)"
 "MPC 2081",130.0,47.0,400000000.0,4.5,0.001,65.0,"1300x300x300"
 "MPC 5070",10.0,45.0,"NA",2.5,0.0001,5.0,"425x128x110"

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2000-01 to 2010-11) data on consumption cf raw coal (million tonnes) by different industries like electricity, Steel and washery, cement, paper, cotton and other industries.", 
+ "file_name": "CONSUMPTION_OF_RAW_COAL_1.xls", 
+ "title": "Consumption Of Raw Coal By Different Industries ", 
+ "url": "http://data.gov.in/sites/default/files/CONSUMPTION_OF_RAW_COAL_1.xls"
+}
+-----
 "Year","Electricity","Steel & 
 Washery","Cement","Paper","Cotton$","Others*","Total"
 "2000-01",252.942,30.728,15.328,2.711,1.035,36.562,339.306

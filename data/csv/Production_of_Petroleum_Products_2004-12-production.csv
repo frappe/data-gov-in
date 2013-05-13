@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists year-wise production of petroleum products during 2004-05 to 2011-12 in India.", 
+ "file_name": "Production_of_Petroleum_Products_2004-12.xls", 
+ "title": "Production of Petroleum Products: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Production_of_Petroleum_Products_2004-12.xls"
+}
+-----
 "Production","Products","Product Name","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12*"
 "From Crude Oil","Light Distillates","LPG",5570.0,5525.0,6315.0,6732.0,6996.0,8091.196,7540.833,7334.779
 "From Crude Oil","Light Distillates","Motor Spirit",11057.0,10502.0,12539.0,14167.0,16020.0,22536.501,26137.688,26890.15

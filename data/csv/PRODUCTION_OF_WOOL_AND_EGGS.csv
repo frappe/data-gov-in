@@ -1,0 +1,44 @@
+-----
+{
+ "description": "This table give All India data on Wool production (thousand tonne) and Eggs production (ten million no.) from 2009-10 to 2010-11.", 
+ "file_name": "PRODUCTION_OF_WOOL_AND_EGGS.xls", 
+ "title": "Production of Wool And Eggs ", 
+ "url": "http://data.gov.in/sites/default/files/PRODUCTION_OF_WOOL_AND_EGGS.xls"
+}
+-----
+" Year/State/ Union Territory","Eggs Production (ten million. no.) 2009-10 #","Eggs Production (ten million. no.) 2010-11","Wool Total Production (thousand tonne) 2009-10","Wool Total Production (thousand tonne) 2010-11"
+" Andhra Pradesh",1939.58,2012.8,4.6,4.8
+" Arunachal Pradesh",3.8,4.1,"NA","NA"
+" Assam",46.71,47.1,"NA","NA"
+" Bihar",110.02,74.5,0.3,0.3
+" Chhattisgarh",105.2,124.5,0.2,0.1
+" Goa",1.48,1.48,"NA","NA"
+" Gujarat",127.62,132.7,2.9,2.9
+" Haryana",384.53,396.4,1.2,1.3
+" Himachal Pradesh",10.0,10.2,1.6,1.6
+" Jammu & Kashmir",72.4,77.3,7.3,7.4
+" Jharkhand",39.25,41.5,0.1,0.1
+" Karnataka",290.94,306.7,7.2,7.2
+" Kerala",163.3,168.6,"NA","NA"
+" Madhya Pradesh",70.75,75.8,0.4,0.4
+" Maharashtra",386.4,422.5,1.7,1.4
+" Manipur",11.19,11.4,"NA","NA"
+" Meghalaya",9.99,10.1,"NA","NA"
+" Mizoram",3.71,3.9,"NA","NA"
+" Nagaland",8.34,8.0,"NA","NA"
+" Orissa ",231.93,235.7,"NA","NA"
+" Punjab",328.28,354.5,0.5,0.5
+" Rajasthan",67.13,67.0,12.5,12.3
+" Sikkim #",1.4,1.4,"NA","NA"
+" Tamil Nadu",1084.76,1151.4,"NA","NA"
+" Tripura",14.42,15.7,"NA","NA"
+" Uttar Pradesh",105.96,109.9,1.5,1.5
+" Uttarakhand",25.36,26.1,0.4,0.4
+" West Bengal",369.8,399.4,0.7,0.7
+" A. & N. Islands",6.57,6.7,"NA","NA"
+" Chandigarh",2.49,1.8,"NA","NA"
+" D. & N. Haveli #",0.71,0.71,"NA","NA"
+" Daman & Diu #",0.19,0.19,"NA","NA"
+" Delhi #","NA","NA","NA","NA"
+" Lakshadweep",1.4,1.4,"NA","NA"
+" Puducherry",1.13,1.13,"NA","NA"

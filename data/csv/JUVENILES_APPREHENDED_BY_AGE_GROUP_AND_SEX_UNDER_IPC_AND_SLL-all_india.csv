@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2009 to 2011) details on juveniles apprehended by age group and sex under Indian Penal Code (IPC) and Special & Local Laws (SLL).", 
+ "file_name": "JUVENILES_APPREHENDED_BY_AGE_GROUP_AND_SEX_UNDER_IPC_AND_SLL.xls", 
+ "title": "All India And State-wise Juveniles Apprehended By Age Group And Sex ", 
+ "url": "http://data.gov.in/sites/default/files/JUVENILES_APPREHENDED_BY_AGE_GROUP_AND_SEX_UNDER_IPC_AND_SLL.xls"
+}
+-----
+"Year","7-12 Years - Boys","7-12 Years - Girls","12-16 Years - Boys","12-16 Years - Girls","16-18 Years - Boys","16-18 Years - Girls","All age group - Boys","All age group - Girls","All age group - Total"
+2001.0,3591.0,105.0,12131.0,598.0,15573.0,1630.0,31295.0,2333.0,33628.0
+2002.0,4221.0,267.0,13283.0,581.0,16047.0,1380.0,33551.0,2228.0,35779.0
+2003.0,3414.0,170.0,11053.0,634.0,16518.0,1531.0,30985.0,2335.0,33320.0
+2004.0,1966.0,141.0,11627.0,788.0,15285.0,1136.0,28878.0,2065.0,30943.0
+2005.0,1526.0,119.0,12332.0,758.0,16748.0,1198.0,30606.0,2075.0,32681.0
+2006.0,1508.0,87.0,11883.0,652.0,16984.0,1031.0,30375.0,1770.0,32145.0
+2007.0,1338.0,122.0,11537.0,577.0,19796.0,1157.0,32671.0,1856.0,34527.0
+2008.0,1146.0,135.0,11687.0,585.0,19962.0,992.0,32795.0,1712.0,34507.0
+2009.0,1015.0,118.0,10079.0,662.0,20456.0,1312.0,31550.0,2092.0,33642.0
+2010.0,832.0,95.0,9597.0,526.0,18334.0,919.0,28763.0,1540.0,30303.0
+2011.0,1072.0,139.0,10329.0,690.0,20508.0,1149.0,31909.0,1978.0,33887.0

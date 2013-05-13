@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table gives the distribution of total number of Sub Centres (SCs) / Primary Health Centres (PHCs) / Community Health Centres (CHCs) functioning according to the status of their building as per three categories i.e. a Government Building, a rented building and a rent free / panchayat / voluntary...", 
+ "file_name": "Building_Position_For_SCs_PHCs_CHCs_2.xls", 
+ "title": "Building Position for Sub-Centres, Primary Health Centres and Community Health Centres as on March 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/Building_Position_For_SCs_PHCs_CHCs_2.xls"
+}
+-----
 "S. No.","State/UT","Total Number of Sub Centers Functioning","Sub Centres functioning in  Govt. Builidings","Sub Centres functioning in Rented Buildings","Sub Centres functioning in Rent Free Panchayat / Vol. Society Buildings","Buildings Under Construction","Buildings Required1 to be Constructed"
 1.0,"Andhra Pradesh",12522.0,4221.0,8301.0,0.0,0.0,8301.0
 2.0,"Arunachal Pradesh",286.0,286.0,0.0,0.0,2.0,"NULL"

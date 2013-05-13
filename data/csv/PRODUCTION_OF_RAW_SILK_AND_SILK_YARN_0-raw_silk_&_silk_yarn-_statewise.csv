@@ -1,0 +1,35 @@
+-----
+{
+ "description": "The table provide State-wise (2010-11 and 2011-12) and All India (2002-03 to 2010-11) production of Raw Silk (including Mulberry and Non-Mulberry silk) and Silk Yarn (including Spun Silk Yarn and Noil Yarn).", 
+ "file_name": "PRODUCTION_OF_RAW_SILK_AND_SILK_YARN_0.xls", 
+ "title": "Production of Raw Silk And Silk Yarn ", 
+ "url": "http://data.gov.in/sites/default/files/PRODUCTION_OF_RAW_SILK_AND_SILK_YARN_0.xls"
+}
+-----
+"Year/State","Raw silk Mulberry silk 2010-11 (Metric tonne)","Raw silk Mulberry silk 2011-12 (Metric tonne)","Raw silk Vanya (Non-mulberry)Tasar 2010-11 (Metric tonne)","Raw silk Vanya (Non-mulberry)Tasar 2011-12 (Metric tonne)","Raw silk Vanya (Non-mulberry)Eri 2010-11 (Metric tonne)","Raw silk Vanya (Non-mulberry)Eri 2011-12 (Metric tonne)","Raw silk Vanya (Non-mulberry)Muga 2010-11 (Metric tonne)","Raw silk Vanya (Non-mulberry)Muga 2011-12 (Metric tonne)","Raw silk Total2010-11 (Metric tonne)","Raw silk Total2011-12 (Metric tonne)","Silk yarn *Spunsilkyarn2010-11 (Metric tonne)","Silk yarn *Spunsilkyarn2011-12 (Metric tonne)","Silk yarn *Noilyarn2010-11 (Metric tonne)","Silk yarn *Noilyarn2011-12 (Metric tonne)","Silk yarn *Total2010-11 (Metric tonne)","Silk yarn *Total2011-12 (Metric tonne)"
+" Andhra Pradesh",5161.0,6446.639,4.0,1.33,5.0,6.5,"NA","NA",5170.0,6454.469,"NA","NA","NA","NA","NA","NA"
+" Arunachal Pradesh",3.0,1.5,"NA","NA",16.0,13.5,1.2,1.6,20.2,16.6,"NA","NA","NA","NA","NA","NA"
+" Assam",18.0,16.755,"NA","NA",1714.0,1976.0,117.0,118.76,1849.0,2111.515,"NA","NA","NA","NA","NA","NA"
+" Bihar",18.0,12.915,30.0,29.37,5.0,3.9,"NA","NA",53.0,46.185,"NA","NA","NA","NA","NA","NA"
+" Chattisgarh",6.0,5.364,168.0,293.78,3.0,"NA","NA","NA",177.0,299.144,"NA","NA","NA","NA","NA","NA"
+" Haryana","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+" Himachal Pradesh",22.0,22.54,"NA","NA","NA","NA","NA","NA",22.0,22.54,"NA","NA","NA","NA","NA","NA"
+" Jammu & Kashmir",120.0,133.44,"NA","NA","NA","NA","NA","NA",120.0,133.44,"NA","NA","NA","NA","NA","NA"
+" Jharkhand",2.0,2.13,766.0,1025.24,"NA","NA","NA","NA",768.0,1027.37,"NA","NA","NA","NA","NA","NA"
+" Karnataka",7338.0,7796.0,"NA","NA","NA","NA","NA","NA",7338.0,7796.0,385.0,"NA",85.0,"NA",470.0,"NA"
+" Kerala",26.0,5.0,"NA","NA","NA","NA","NA","NA",26.0,5.0,"NA","NA","NA","NA","NA","NA"
+" Madhya Pradesh",104.0,84.74,58.0,79.2,4.5,1.7,"NA","NA",166.5,165.64,150.0,"NA",210.0,"NA",360.0,"NA"
+" Maharashtra",212.0,169.414,9.0,12.35,"NA","NA","NA","NA",221.0,181.764,"NA","NA","NA","NA","NA","NA"
+" Manipur",97.0,84.0,2.0,2.45,222.0,240.0,0.5,0.5,321.5,326.95,"NA","NA","NA","NA","NA","NA"
+" Meghalaya",9.0,1.252,"NA","NA",480.0,550.0,3.25,3.31,492.25,554.562,"NA","NA","NA","NA","NA","NA"
+" Mizoram",26.0,24.2,"NA",0.93,6.5,7.2,"NA",1.17,32.5,33.5,"NA","NA","NA","NA","NA","NA"
+" Nagaland",3.0,1.04,"NA","NA",280.0,240.33,1.4,0.66,284.4,242.03,"NA","NA","NA","NA","NA","NA"
+" Orissa",4.0,2.7,78.0,89.7,5.0,3.8,"NA","NA",87.0,96.2,"NA","NA","NA","NA","NA","NA"
+" Punjab",5.0,0.5,"NA","NA",0.5,1.0,"NA","NA",5.5,1.5,23.0,"NA","NA","NA",23.0,"NA"
+" Rajasthan",2.0,"NA","NA","NA","NA","NA","NA","NA",2.0,"NA","NA","NA","NA","NA","NA","NA"
+" Sikkim",3.0,5.0,"NA","NA",1.0,1.0,"NA","NA",4.0,6.0,"NA","NA","NA","NA","NA","NA"
+" Tamil Nadu",1182.0,1417.585,"NA","NA","NA","NA","NA","NA",1182.0,1417.585,27.0,"NA","NA","NA",27.0,"NA"
+" Tripura",8.0,13.0,"NA","NA","NA","NA","NA","NA",8.0,13.0,"NA","NA","NA","NA","NA","NA"
+" Uttar Pradesh",86.0,87.095,9.0,10.8,8.0,15.4,"NA","NA",103.0,113.295,"NA","NA","NA","NA","NA","NA"
+" Uttarakhand",20.0,14.3,"NA","NA",0.5,"NA","NA","NA",20.5,14.3,"NA","NA","NA","NA","NA","NA"
+" West Bengal",1885.0,1923.78,41.0,43.96,9.0,11.6,"NA","NA",1935.0,1979.34,"NA","NA","NA","NA","NA","NA"

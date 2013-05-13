@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India and State-wise number of Post Graduate Institutes and Admission Capacity under Ayush Systems .", 
+ "file_name": "Post_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems_As_On_1stApril.xls", 
+ "title": "Post Graduate Institutes And Admission Capacity under Ayush Systems As On 1st April ", 
+ "url": "http://data.gov.in/sites/default/files/Post_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems_As_On_1stApril.xls"
+}
+-----
 "Year","States/UTs  ","Ayurveda - Number","Ayurveda - Capacity","Unani - Number","Unani - Capacity","Siddha - Number","Siddha - Capacity","Homoeopathy - Number","Homoeopathy - Capacity","Total - Number","Total - Capacity"
 2000.0,2000.0,48.0,538.0,3.0,52.0,2.0,83.0,15.0,165.0,68.0,838.0
 2001.0,2001.0,53.0,651.0,5.0,54.0,2.0,76.0,17.0,210.0,77.0,991.0

@@ -1,0 +1,87 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2009 to 2011) details on juveniles apprehended by age group and sex under Indian Penal Code (IPC) and Special & Local Laws (SLL).", 
+ "file_name": "JUVENILES_APPREHENDED_BY_AGE_GROUP_AND_SEX_UNDER_IPC_AND_SLL.xls", 
+ "title": "All India And State-wise Juveniles Apprehended By Age Group And Sex ", 
+ "url": "http://data.gov.in/sites/default/files/JUVENILES_APPREHENDED_BY_AGE_GROUP_AND_SEX_UNDER_IPC_AND_SLL.xls"
+}
+-----
+"Nature of Crime","Group Name","7-12 Years - Boys","7-12 Years - Girls","12-16 Years - Boys","12-16 Years - Girls","16-18 Years - Boys","16-18 Years - Girls","All age group - Boys","All age group - Girls","All age group - Total"
+"Cognizable Crimes Under I.P.C.","Cognizable Crimes Under I.P.C.",875.0,81.0,9023.0,590.0,17303.0,1105.0,27201.0,1776.0,28977.0
+"Murder","Cognizable Crimes Under I.P.C.",19.0,3.0,285.0,34.0,611.0,47.0,915.0,84.0,999.0
+"Attempt to commit murder","Cognizable Crimes Under I.P.C.",10.0,1.0,199.0,6.0,488.0,24.0,697.0,31.0,728.0
+"Culpable homicide not amounting to murder","Cognizable Crimes Under I.P.C.",1.0,0.0,12.0,0.0,20.0,0.0,33.0,0.0,33.0
+"Rape","Cognizable Crimes Under I.P.C.",15.0,0.0,276.0,4.0,589.0,3.0,880.0,7.0,887.0
+"Kidnapping & abduction","Cognizable Crimes Under I.P.C.",5.0,3.0,95.0,8.0,334.0,15.0,434.0,26.0,460.0
+"Dacoity","Cognizable Crimes Under I.P.C.",1.0,0.0,50.0,0.0,150.0,0.0,201.0,0.0,201.0
+"Preparation & assembly for dacoity","Cognizable Crimes Under I.P.C.",0.0,0.0,8.0,1.0,65.0,0.0,73.0,1.0,74.0
+"Robbery","Cognizable Crimes Under I.P.C.",7.0,1.0,149.0,1.0,421.0,3.0,577.0,5.0,582.0
+"Burglary","Cognizable Crimes Under I.P.C.",169.0,6.0,1266.0,20.0,1727.0,22.0,3162.0,48.0,3210.0
+"Theft","Cognizable Crimes Under I.P.C.",312.0,25.0,2217.0,99.0,3748.0,139.0,6277.0,263.0,6540.0
+"Riots","Cognizable Crimes Under I.P.C.",31.0,1.0,456.0,39.0,1423.0,75.0,1910.0,115.0,2025.0
+"Criminal breach of trust","Cognizable Crimes Under I.P.C.",0.0,0.0,2.0,0.0,14.0,1.0,16.0,1.0,17.0
+"Cheating","Cognizable Crimes Under I.P.C.",5.0,0.0,23.0,0.0,91.0,8.0,119.0,8.0,127.0
+"Counterfeiting","Cognizable Crimes Under I.P.C.",0.0,1.0,4.0,0.0,6.0,1.0,10.0,2.0,12.0
+"Other I.P.C crimes","Cognizable Crimes Under I.P.C.",300.0,40.0,3981.0,378.0,7616.0,767.0,11897.0,1185.0,13082.0
+"Crime under local and special laws","Crime under local and special laws",140.0,37.0,1056.0,72.0,3153.0,207.0,4349.0,316.0,4665.0
+"Arms Act","Crime under local and special laws",0.0,0.0,67.0,0.0,167.0,0.0,234.0,0.0,234.0
+"Narcotic Drugs & Psy. substances Act","Crime under local and special laws",0.0,0.0,17.0,1.0,47.0,4.0,64.0,5.0,69.0
+"Gambling Act","Crime under local and special laws",2.0,0.0,118.0,2.0,1090.0,4.0,1210.0,6.0,1216.0
+"Excise Act","Crime under local and special laws",2.0,5.0,94.0,2.0,372.0,1.0,468.0,8.0,476.0
+"Prohibition Act","Crime under local and special laws",9.0,1.0,103.0,36.0,362.0,102.0,474.0,139.0,613.0
+"Explosives & explosive substances Act","Crime under local and special laws",1.0,0.0,6.0,0.0,9.0,0.0,16.0,0.0,16.0
+"Immoral traffic (Prevention) Act","Crime under local and special laws",0.0,0.0,2.0,3.0,4.0,27.0,6.0,30.0,36.0
+"Indian Railways Act","Crime under local and special laws",0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+"Other crimes","Crime under local and special laws",126.0,31.0,647.0,28.0,1102.0,69.0,1875.0,128.0,2003.0
+"Cognizable Crimes Under I.P.C.","Cognizable Crimes Under I.P.C.",686.0,72.0,8867.0,470.0,16607.0,769.0,26160.0,1311.0,27471.0
+"Murder","Cognizable Crimes Under I.P.C.",8.0,2.0,220.0,17.0,573.0,27.0,801.0,46.0,847.0
+"Attempt to commit murder","Cognizable Crimes Under I.P.C.",12.0,0.0,159.0,10.0,436.0,23.0,607.0,33.0,640.0
+"Culpable homicide not amounting to murder","Cognizable Crimes Under I.P.C.",0.0,0.0,10.0,1.0,23.0,3.0,33.0,4.0,37.0
+"Rape","Cognizable Crimes Under I.P.C.",10.0,0.0,275.0,1.0,645.0,6.0,930.0,7.0,937.0
+"Kidnapping & abduction","Cognizable Crimes Under I.P.C.",6.0,4.0,121.0,22.0,404.0,32.0,531.0,58.0,589.0
+"Dacoity","Cognizable Crimes Under I.P.C.",0.0,0.0,28.0,0.0,105.0,0.0,133.0,0.0,133.0
+"Preparation & assembly for dacoity","Cognizable Crimes Under I.P.C.",1.0,0.0,11.0,0.0,54.0,0.0,66.0,0.0,66.0
+"Robbery","Cognizable Crimes Under I.P.C.",6.0,1.0,206.0,1.0,474.0,1.0,686.0,3.0,689.0
+"Burglary","Cognizable Crimes Under I.P.C.",139.0,7.0,1254.0,20.0,1621.0,24.0,3014.0,51.0,3065.0
+"Theft","Cognizable Crimes Under I.P.C.",212.0,26.0,2224.0,82.0,3414.0,106.0,5850.0,214.0,6064.0
+"Riots","Cognizable Crimes Under I.P.C.",14.0,4.0,396.0,42.0,1058.0,50.0,1468.0,96.0,1564.0
+"Criminal breach of trust","Cognizable Crimes Under I.P.C.",0.0,0.0,14.0,0.0,16.0,2.0,30.0,2.0,32.0
+"Cheating","Cognizable Crimes Under I.P.C.",1.0,0.0,38.0,3.0,120.0,2.0,159.0,5.0,164.0
+"Counterfeiting","Cognizable Crimes Under I.P.C.",0.0,0.0,3.0,0.0,9.0,0.0,12.0,0.0,12.0
+"Other I.P.C crimes","Cognizable Crimes Under I.P.C.",277.0,28.0,3908.0,271.0,7655.0,493.0,11840.0,792.0,12632.0
+"Crime under local and special laws","Crime under local and special laws",146.0,23.0,730.0,56.0,1727.0,150.0,2603.0,229.0,2832.0
+"Arms Act","Crime under local and special laws",0.0,0.0,37.0,0.0,126.0,1.0,163.0,1.0,164.0
+"Narcotic Drugs & Psy. substances Act","Crime under local and special laws",0.0,0.0,22.0,1.0,68.0,2.0,90.0,3.0,93.0
+"Gambling Act","Crime under local and special laws",4.0,0.0,59.0,2.0,359.0,2.0,422.0,4.0,426.0
+"Excise Act","Crime under local and special laws",5.0,0.0,85.0,6.0,170.0,15.0,260.0,21.0,281.0
+"Prohibition Act","Crime under local and special laws",2.0,0.0,50.0,6.0,228.0,46.0,280.0,52.0,332.0
+"Explosives & explosive substances Act","Crime under local and special laws",0.0,0.0,3.0,0.0,10.0,0.0,13.0,0.0,13.0
+"Immoral traffic (Prevention) Act","Crime under local and special laws",0.0,0.0,0.0,1.0,1.0,8.0,1.0,9.0,10.0
+"Indian Railways Act","Crime under local and special laws",0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,2.0
+"Other crimes","Crime under local and special laws",135.0,23.0,472.0,40.0,765.0,76.0,1372.0,139.0,1511.0
+"Cognizable Crimes Under I.P.C.","Cognizable Crimes Under I.P.C.",806.0,72.0,9494.0,554.0,18934.0,906.0,29234.0,1532.0,30766.0
+"Murder","Cognizable Crimes Under I.P.C.",26.0,5.0,337.0,19.0,748.0,33.0,1111.0,57.0,1168.0
+"Attempt to commit murder","Cognizable Crimes Under I.P.C.",12.0,1.0,199.0,6.0,597.0,11.0,808.0,18.0,826.0
+"Culpable homicide not amounting to murder","Cognizable Crimes Under I.P.C.",0.0,0.0,28.0,0.0,33.0,1.0,61.0,1.0,62.0
+"Rape","Cognizable Crimes Under I.P.C.",23.0,2.0,364.0,3.0,823.0,16.0,1210.0,21.0,1231.0
+"Kidnapping & abduction","Cognizable Crimes Under I.P.C.",16.0,13.0,173.0,25.0,532.0,64.0,721.0,102.0,823.0
+"Dacoity","Cognizable Crimes Under I.P.C.",2.0,1.0,37.0,0.0,141.0,1.0,180.0,2.0,182.0
+"Preparation & assembly for dacoity","Cognizable Crimes Under I.P.C.",0.0,0.0,12.0,0.0,31.0,0.0,43.0,0.0,43.0
+"Robbery","Cognizable Crimes Under I.P.C.",3.0,0.0,197.0,6.0,575.0,1.0,775.0,7.0,782.0
+"Burglary","Cognizable Crimes Under I.P.C.",136.0,3.0,1434.0,27.0,1684.0,50.0,3254.0,80.0,3334.0
+"Theft","Cognizable Crimes Under I.P.C.",291.0,20.0,2238.0,76.0,3849.0,78.0,6378.0,174.0,6552.0
+"Riots","Cognizable Crimes Under I.P.C.",10.0,1.0,412.0,41.0,1490.0,113.0,1912.0,155.0,2067.0
+"Criminal breach of trust","Cognizable Crimes Under I.P.C.",0.0,0.0,6.0,0.0,19.0,2.0,25.0,2.0,27.0
+"Cheating","Cognizable Crimes Under I.P.C.",0.0,0.0,35.0,7.0,146.0,8.0,181.0,15.0,196.0
+"Counterfeiting","Cognizable Crimes Under I.P.C.",0.0,0.0,6.0,0.0,25.0,0.0,31.0,0.0,31.0
+"Other I.P.C crimes","Cognizable Crimes Under I.P.C.",287.0,26.0,4016.0,344.0,8241.0,528.0,12544.0,898.0,13442.0
+"Crime under local and special laws","Crime under local and special laws",266.0,67.0,835.0,136.0,1574.0,243.0,2675.0,446.0,3121.0
+"Arms Act","Crime under local and special laws",2.0,0.0,29.0,2.0,142.0,0.0,173.0,2.0,175.0
+"Narcotic Drugs & Psy. substances Act","Crime under local and special laws",3.0,0.0,14.0,0.0,61.0,9.0,78.0,9.0,87.0
+"Gambling Act","Crime under local and special laws",0.0,0.0,81.0,54.0,289.0,58.0,370.0,112.0,482.0
+"Excise Act","Crime under local and special laws",2.0,0.0,43.0,12.0,138.0,11.0,183.0,23.0,206.0
+"Prohibition Act","Crime under local and special laws",5.0,1.0,48.0,9.0,215.0,75.0,268.0,85.0,353.0
+"Explosives & explosive substances Act","Crime under local and special laws",0.0,0.0,1.0,0.0,8.0,2.0,9.0,2.0,11.0
+"Immoral traffic (Prevention) Act","Crime under local and special laws",0.0,0.0,1.0,2.0,1.0,12.0,2.0,14.0,16.0
+"Indian Railways Act","Crime under local and special laws",0.0,0.0,4.0,0.0,3.0,0.0,7.0,0.0,7.0
+"Other crimes","Crime under local and special laws",254.0,66.0,614.0,57.0,717.0,76.0,1585.0,199.0,1784.0

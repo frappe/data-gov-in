@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2004-05.This table contains the physical parameters of reported SRTUs in India in term of Average Fleet Held and Average Fleet Operated, Average Age of...", 
+ "file_name": "Physical_Performance_of_SRTUs_for_the_Year_2004-05.xls", 
+ "title": "Physical Performance of SRTUs for the year 2004-05 ", 
+ "url": "http://data.gov.in/sites/default/files/Physical_Performance_of_SRTUs_for_the_Year_2004-05.xls"
+}
+-----
 "S.No.","Name of SRTU ","Avg. Fleet Held (Number)","Avg Fleet Operated (Number)","Avg Age of Fleet (Yrs)","% of Overaged vehicles to total Fleet","Revenue Earning KMS (Lakhs)","Staff Strength (Number)","Fuel Efficiency (Km/litre of HSD)","Passenger KMS Offered (Lakhs)","Passenger KMS Performed (Lakhs)","Passenger Carried (Lakhs)","No.of Accidents  ","No. of Fatal Accidents"
 1.0,"Ahmedabad MTS",551.0,371.0,10.54,68.15,282.55,3986.0,"NA",18862.6,10325.24,1276.23,213.0,15.0
 2.0,"Andhra Pradesh SRTC",19208.0,19105.0,"NA","NA",23250.0,117400.0,5.29,1229925.0,762554.0,42749.0,2365.0,734.0

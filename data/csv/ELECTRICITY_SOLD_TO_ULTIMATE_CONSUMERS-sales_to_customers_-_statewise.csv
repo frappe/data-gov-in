@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2001-01 to 2008-09) and State-wise (2008-09) data on Electricity Sold To Ultimate Consumers by public electricity undertakings are presented in this table by categories of consumers viz. domestic, commercial, industrial power, public lighting, traction, agricultural,...", 
+ "file_name": "ELECTRICITY_SOLD_TO_ULTIMATE_CONSUMERS.xls", 
+ "title": "Electricity Sold To Ultimate Consumers ", 
+ "url": "http://data.gov.in/sites/default/files/ELECTRICITY_SOLD_TO_ULTIMATE_CONSUMERS.xls"
+}
+-----
 "State/ Union Territory","Total sold to ultimate  consumers","Domestic","Commercial","Industrial  Power at low & medium voltage","Industrial  Power at high  voltage","Public lighting              ","Traction","Agriculture","Public water works & sewage pumping","Miscellaneous  "
 " Andhra Pradesh",54241.14,11674.85,3884.58,3102.0,14410.99,1619.03,1414.35,16604.57,"809.38",721.39
 " Arunachal Pradesh",271.47,97.0,29.0,45.0,71.47,17.0,"-","-",12.0,"-"

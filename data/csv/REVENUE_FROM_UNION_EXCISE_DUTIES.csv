@@ -1,0 +1,14 @@
+-----
+{
+ "description": "Data provides details on revenue from union excise duties from 2000-01 to 2011-12.", 
+ "file_name": "REVENUE_FROM_UNION_EXCISE_DUTIES.xls", 
+ "title": "Revenue From Union Excise Duties From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/REVENUE_FROM_UNION_EXCISE_DUTIES.xls"
+}
+-----
+"Item","2000-01","2002-03","2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12(P)"
+"Gross excluding cesses",69837.0,82172.0,90275.0,98936.0,112834.0,120576.0,131191.0,116717.0,109915.0,141497.0,149109.0
+"Cesses",3030.0,4930.0,5472.0,5611.0,5460.0,7541.0,7548.0,7535.0,7596.0,9999.0,11667.0
+"Total Gross",72867.0,87102.0,95747.0,104547.0,118294.0,128117.0,138739.0,124252.0,117511.0,151497.0,160775.0
+"Refunds and drawbacks",4231.0,4849.0,4840.0,5925.0,7587.0,11471.0,15800.0,19551.0,14653.0,15034.0,19816.0
+"Total Net (Total Gross minus Refunds and drawbacks)",68636.0,82253.0,90907.0,98621.0,110707.0,116646.0,122939.0,104701.0,102858.0,136463.0,140959.0

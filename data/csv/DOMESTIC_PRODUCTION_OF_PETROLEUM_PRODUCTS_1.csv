@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India ( 2000-01 to 2010-11) data on Domestic Production Of Petroleum Products (in million tonnes) like LPG, petrol, naptha, kerosene, ATF, HSDo, LDO, fuel oils, lubricants, bitumen, petroleum coke, and others.", 
+ "file_name": "DOMESTIC_PRODUCTION_OF_PETROLEUM_PRODUCTS_1.xls", 
+ "title": "Domestic Production Of Petroleum Products ", 
+ "url": "http://data.gov.in/sites/default/files/DOMESTIC_PRODUCTION_OF_PETROLEUM_PRODUCTS_1.xls"
+}
+-----
 "Year","Light Distillates - Liquified Petroleum Gas","Light Distillates - Petrol","Light Distillates - Naphtha","Middle Distillates - Kerosene","Middle Distillates - Aviation Turbine Fuel","Middle Distillates - High Speed Diesel Oil","Middle Distillates - Light Diesel Oil","Heavy Ends - Fuel Oils","Heavy Ends - Lubricants","Heavy Ends - Petroleum Coke","Heavy Ends - Bitumen","Others*","Total","% Annual growth 
 previous year"
 "2000-01",4.088,8.07,9.908,8.714,2.513,39.052,1.481,11.392,0.684,2.473,2.721,4.518,95.614,20.4054904924

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Index of Industrial Production (Base: 1980-81=100) at two digit industry level indices (NIC-1970) with weights from April 1981 to March 1998, annual average (Apr-Mar) indices and growth over corresponding period of previous year.", 
+ "file_name": "Index_of_Industrial_Production_1980-81.xls", 
+ "title": "Time Series Indices of Industrial Production (1980-81 Series) ", 
+ "url": "http://data.gov.in/sites/default/files/Index_of_Industrial_Production_1980-81.xls"
+}
+-----
 "Year","20-21",22.0,23.0,25.0,26.0,27.0,28.0,29.0,30.0,31.0,32.0,33.0,34.0,35.0,36.0,37.0,38.0,"Mining","Manf.","Elec.","General"
 "1981-82",113.5,104.3,99.7,95.7,96.7,153.2,108.3,128.1,119.2,116.9,106.7,100.0,94.6,111.1,103.9,108.1,149.2,117.7,107.9,110.2,109.3
 "1982-83",129.5,107.8,89.4,92.9,99.3,153.0,105.5,100.0,119.0,121.2,103.7,104.2,89.9,112.0,115.9,111.3,155.0,132.3,109.4,116.5,112.8

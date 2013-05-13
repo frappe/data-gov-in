@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The report is prepared on the basis of information collected from reporting State Road Transport Undertakings (SRTUs) for the financial year 2005-06. This table contains the financial performances of reporting SRTUs in India in term of total revenue, total cost and various components of costs of...", 
+ "file_name": "Financial_Performance_of_SRTUs_for_the_Year_2005-06.xls", 
+ "title": "Financial Performance of SRTUs for the year 2005-06 ", 
+ "url": "http://data.gov.in/sites/default/files/Financial_Performance_of_SRTUs_for_the_Year_2005-06.xls"
+}
+-----
 "S.No.","Name of SRTU ","Total Revenue ","Total Cost ","Staff Costs","Fuel & Lubricant Costs"," Tyres & Tubes ","Spares ","Interest ","Depreciation ","Taxes ","Others "
 1.0,"Ahmedabad MTS",5745.11,9323.97,5371.67,2798.18,95.95,379.9,338.44,0.0,57.87,281.96
 2.0,"Andhra Pradesh SRTC",339666.4,342067.29,135451.42,127586.98,8751.23,12469.94,8459.75,13540.61,24692.26,11115.1

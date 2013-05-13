@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides details on state revenue (2001-02 to 2011-12) from motor vehicle tax and fees, sales tax on motor spirit and lubricants, sales tax on passenger and goods traffic and it also provides details on central revenues (2001-02 to 2011-12) from import duty and excise duty charged on...", 
+ "file_name": "REVENUE_FROM_ROAD_TRANSPORT_1.XLS", 
+ "title": "Central And State Revenue From Road Transport From 2001-02 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/REVENUE_FROM_ROAD_TRANSPORT_1.XLS"
+}
+-----
+"Year","Motor vehicles and accessories - Import duty","Motor vehicles and accessories - Excise duty","Tyres and tubes - Import duty","Tyres and tubes - Excise duty","High Speed Diesel Oil - Import duty","High Speed Diesel Oil - Excise duty","Motor spirit fuel  - Import duty","Motor spirit fuel  - Excise duty","Total","Grand Total"
+"2001-2002",965.6,4898.1,"NA",1360.0,"NA",12207.1,"NA",8500.8,27931.6,44892.0
+"2002-2003",1227.8,5341.0,"NA",1393.2,"NA",11607.6,"NA",11562.8,31132.4,48248.0
+"2003-2004",1438.1,5572.4,"NA",1087.0,"NA",14461.3,"NA",12575.0,35133.8,54430.0
+"2004-2005",1857.0,6845.0,"NA",1431.0,"NA",15701.0,"NA",13792.0,39626.0,62300.0
+"2005-2006",2088.0,6965.0,"NA",1106.0,"NA",22278.0,"NA",17554.0,49991.0,71356.0
+"2006-2007",3161.0,6810.0,"NA",1246.0,"NA",25060.0,"NA",18303.0,54580.0,76350.0
+"2007-2008",4352.0,6728.0,"NA",1422.0,"NA",24154.0,"NA",20102.0,56758.0,80784.0
+"2008-2009",4856.0,4415.0,"NA",930.0,"NA",21825.0,"NA",21075.0,53098.0,87339.0
+"2009-2010",4122.0,9331.0,1471.0,1115.0,4377.0,4723.0,3378.0,28796.0,57312.0,96825.0
+"2010-11(RE.)",6509.0,8668.0,2553.0,940.0,17546.0,3732.0,8736.0,26771.0,75453.0,121445.0
+"2011-12(BE.)",8127.0,6294.0,2961.0,597.0,15280.0,3339.0,5240.0,24810.0,66647.0,120224.0

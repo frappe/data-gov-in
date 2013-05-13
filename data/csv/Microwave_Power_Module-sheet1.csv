@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This MPM is suitable for applications in Electronics Warfare, Radars system and as a compact power amplifier for laboratory use etc. Microwave Tube Research...", 
+ "file_name": "Microwave_Power_Module.xls", 
+ "title": "Microwave Power Module for Electronics Warfare from DRDO ", 
+ "url": "http://data.gov.in/sites/default/files/Microwave_Power_Module.xls"
+}
+-----
 "Name","RF Input Power (max) in dBm","RF Output Power (min) in W","Gain (dB)","Input Voltage (VDC)","Prime Power(W)","Dimensions (mm)","Weight (kg)"
 "MPS-4051",-8.0,120.0,60.0,270.0,170.0," 345x325x70",12.0
 "MCT-3547",0.0,50.0,47.0,270.0,560.0,"390x160x150",19.0

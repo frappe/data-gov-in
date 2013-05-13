@@ -1,0 +1,31 @@
+-----
+{
+ "description": "Data provides details on the number and value of coins (Stainless steel, Cupro-Nickel, Bi-metal and Nickel-brass) minted in Kolkata and Mumbai mints from 2000-01 to 2010-11.", 
+ "file_name": "NUMBER_AND_VALUE_OF_COINS_MINTED.xls", 
+ "title": "Number And Value of Coins Minted From 2000-01 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_AND_VALUE_OF_COINS_MINTED.xls"
+}
+-----
+"Year ending March","State","Stainless steel (Number)","Stainless steel (Value)","Cupro-Nickel (Number)","Cupro-Nickel (Value)","Bi-metal (Number)","Bi-metal (Value)","Nickel-brass (Number)","Nickel-brass (Value)","Total (Number)"," Total (Value)"
+"2000-01","Kolkata Mint",442792.0,301305.0,258337.0,856874.0,"NA","NA","NA","NA",701129.0,1158179.0
+"2001-02","Kolkata Mint",561702.0,452227.0,258300.0,900900.0,"NA","NA","NA","NA",820002.0,1353127.0
+"2002-03","Kolkata Mint",610965.0,473018.0,218609.0,758819.0,"NA","NA","NA","NA",829574.0,1231837.0
+"2003-04","Kolkata Mint",346827.0,1306939.0,421075.0,392131.0,"NA","NA","NA","NA",767902.0,1699070.0
+"2004-05","Kolkata Mint",138510.0,138510.0,124465.0,415160.0,"NA","NA","NA","NA",262975.0,553670.0
+"2005-06","Kolkata Mint",130650.0,149230.0,9958.0,49425.0,"NA","NA","NA","NA",140608.0,198655.0
+"2006-07","Kolkata Mint",144170.0,287485.0,107.0,533.0,"NA","NA","NA","NA",144277.0,288018.0
+"2007-08","Kolkata Mint",662479.0,1149065.0,"NA","NA","NA","NA","NA","NA",662479.0,1149065.0
+"2008-09","Kolkata Mint",1142510.0,1980623.0,7688.0,38440.0,"NA","NA","NA","NA",1150198.0,2019063.0
+"2009-10","Kolkata Mint",1212670.0,1891215.0,231134.0,1155668.0,"NA","NA","NA","NA",1443804.0,3046883.0
+"2010-11","Kolkata Mint",1224292.0,1795727.0,"NA","NA","NA","NA",360020.0,1800100.0,1584312.0,3595827.0
+"2000-01","Mumbai Mint",431070.0,255774.0,225681.0,781263.0,"NA","NA","NA","NA",656751.0,1037037.0
+"2001-02","Mumbai Mint",612605.0,423045.0,241205.0,855625.0,"NA","NA","NA","NA",853810.0,1278670.0
+"2002-03","Mumbai Mint",647126.0,553271.0,309107.0,1059790.0,"NA","NA","NA","NA",956233.0,1613061.0
+"2003-04","Mumbai Mint",582770.0,576849.0,286316.0,1077105.0,"NA","NA","NA","NA",869086.0,1653954.0
+"2004-05","Mumbai Mint",160748.0,160748.0,115747.0,479164.0,"NA","NA","NA","NA",276495.0,639912.0
+"2005-06","Mumbai Mint",86258.0,140573.0,7526.0,37630.0,"NA","NA","NA","NA",93784.0,178203.0
+"2006-07","Mumbai Mint",259842.5,519685.0,2452.0,12260.0,"NA","NA","NA","NA",262294.5,531945.0
+"2007-08","Mumbai Mint",659383.0,1458928.0,60.0,300.0,"NA","NA","NA","NA",659443.0,1459228.0
+"2008-09","Mumbai Mint",1168818.0,2203133.0,"NA","NA","NA","NA",20065.0,100325.0,1188883.0,2303458.0
+"2009-10","Mumbai Mint",1247792.0,1834952.0,"NA","NA",5100.0,51000.0,321858.0,1609288.0,1574750.0,3495240.0
+"2010-11","Mumbai Mint",1241460.0,1874950.0,"NA","NA","NA","NA",414145.0,2070727.0,1655605.0,3945677.0

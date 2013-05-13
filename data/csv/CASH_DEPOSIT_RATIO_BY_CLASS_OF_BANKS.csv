@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides cash deposit ratio by class of banks as on 31st March from 2000-01 to 2010-11.", 
+ "file_name": "CASH_DEPOSIT_RATIO_BY_CLASS_OF_BANKS.XLS", 
+ "title": "Cash Deposit Ratio By Class of Banks As On 31st March From 2000-01 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/CASH_DEPOSIT_RATIO_BY_CLASS_OF_BANKS.XLS"
+}
+-----
+"Year","State bank of India (Scheduled Bank)","Foreign banks (Scheduled Bank)","Other Scheduled Banks","Non-Scheduled Banks (Percent) "
+"2000-01",7.6,6.6,8.2,"NA"
+"2001-02",8.1,6.3,7.0,7.0
+"2002-03",4.3,6.6,6.9,"NA"
+"2003-04",6.0,9.1,7.4,"NA"
+"2004-05",4.6,7.8,6.8,"NA"
+"2005-06",5.7,7.1,6.9,"NA"
+"2006-07",6.7,8.1,7.3,"NA"
+"2007-08",9.6,11.5,9.6,"NA"
+"2008-09",7.5,7.3,7.3,"NA"
+"2009-10",7.6,8.2,7.7,"NA"
+"2010-11",10.1,8.4,7.7,"NA"

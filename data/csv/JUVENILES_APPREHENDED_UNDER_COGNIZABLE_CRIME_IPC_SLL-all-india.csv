@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2009 to 2011) details on juveniles apprehended under cognizable crime under Indian Penal Code (IPC) and Special & Local Laws (SLL).", 
+ "file_name": "JUVENILES_APPREHENDED_UNDER_COGNIZABLE_CRIME_IPC_SLL.xls", 
+ "title": "All India And State-wise Juveniles Apprehended Under Cognizable Crime ", 
+ "url": "http://data.gov.in/sites/default/files/JUVENILES_APPREHENDED_UNDER_COGNIZABLE_CRIME_IPC_SLL.xls"
+}
+-----
+"Year","Indian Penal Code (IPC) - Boys","Indian Penal Code (IPC) - Girls","Indian Penal Code (IPC) - Total ","Special and Local Laws (SLL) - Boys ","Special and Local Laws (SLL) - Girls","Special and Local Laws (SLL) - Total"
+2001.0,21747.0,1850.0,23597.0,9548.0,483.0,10031.0
+2002.0,23497.0,1519.0,25016.0,10054.0,709.0,10763.0
+2003.0,22924.0,1785.0,24709.0,8061.0,550.0,8611.0
+2004.0,23160.0,1580.0,24740.0,5718.0,485.0,6203.0
+2005.0,23802.0,1577.0,25379.0,6804.0,498.0,7302.0
+2006.0,25432.0,1467.0,26899.0,4943.0,303.0,5246.0
+2007.0,28207.0,1564.0,29771.0,4464.0,292.0,4756.0
+2008.0,29469.0,1493.0,30962.0,3326.0,219.0,3545.0
+2009.0,27201.0,1776.0,28977.0,4349.0,316.0,4665.0
+2010.0,26160.0,1311.0,27471.0,2603.0,229.0,2832.0
+2011.0,29234.0,1532.0,30766.0,2675.0,446.0,3121.0

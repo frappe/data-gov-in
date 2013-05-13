@@ -1,0 +1,23 @@
+-----
+{
+ "description": "The table provide All India details on performance of Micro, Small and Medium enterprises (MSMEs) with number (in Million), employment (in Million) and production (in Crore) from 2000-01 to 2010-11.", 
+ "file_name": "PERFORMANCE_OF_MICRO,_SMALL,_MEDIUM__ENTERPRISES_(MSMEs).xls", 
+ "title": "Performances of Micro / Small / Medium Enterprises (MSMEs) ", 
+ "url": "http://data.gov.in/sites/default/files/PERFORMANCE_OF_MICRO,_SMALL,_MEDIUM__ENTERPRISES_(MSMEs).xls"
+}
+-----
+"Year","Number
+(in Million)","Employment 
+(in Million)","Production 
+(` Crore)"
+"2000-01",10.11,23.87,261297.0
+"2001-02",10.52,24.93,282270.0
+"2002-03",10.95,26.02,314850.0
+"2003-04",11.36,27.14,364547.0
+"2004-05",11.86,28.26,429796.0
+"2005-06",12.34,29.49,497842.0
+"2006-07 ",26.1,59.46,709398.0
+"2007-08",27.28,62.63,790759.0
+"2008-09",28.52,65.94,880805.0
+"2009-10",29.81,69.54,982919.0
+"2010-11",31.15,73.22,1095758.0

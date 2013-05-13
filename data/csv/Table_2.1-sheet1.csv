@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Annual Growth Rate of GDP by Industry of origin at Constant (2004-2005) Prices for Eleventh Plan (2007-12) and Twelfth Plan (2012-17)  \u2013 (in per cent) ", 
+ "file_name": "Table_2.1.xls", 
+ "title": "Annual Growth Rate of GDP by industry of origin at constant (2004-2005) prices ", 
+ "url": "http://data.gov.in/sites/default/files/Table_2.1.xls"
+}
+-----
 "No.","Sector","2007-08","2008-09","2009-10","2010-11","2011-12","Average Eleventh Plan","2012--13","2013-14","2014-15","2015-16","2016-17","Average Twelfth Plan"
 1.0,"Agriculture, forestry and fishing",5.8,0.1,0.8,7.9,3.6,3.7,2.0,4.5,4.5,4.5,4.5,4.0
 2.0,"Mining and quarrying",3.7,2.1,5.9,4.9,-0.6,3.2,1.0,5.0,7.0,7.0,8.5,5.7

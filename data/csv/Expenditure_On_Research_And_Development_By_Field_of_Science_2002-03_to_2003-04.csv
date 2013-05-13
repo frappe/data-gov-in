@@ -1,0 +1,15 @@
+-----
+{
+ "description": "The table presents data on R&D expenditure by field of science from 2002-03 to 2003-04. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "Expenditure_On_Research_And_Development_By_Field_of_Science_2002-03_to_2003-04.xls", 
+ "title": "Expenditure on Research And Development By Field of Science from 2002-03 to 2003-04 ", 
+ "url": "http://data.gov.in/sites/default/files/Expenditure_On_Research_And_Development_By_Field_of_Science_2002-03_to_2003-04.xls"
+}
+-----
+"Field of Science","Central Government 2002-03","Central Government 2003-04","State Governments 2002-03","State Governments 2003-04","Public Sector 2002-03","Public Sector 2003-04","Private Sector 2002-03","Private Sector 2003-04","Total 2002-03","Total 2003-04"
+"Agriculture Sciences",160867.31,173153.59,113896.74,121184.89,302.01,305.64,16803.28,21210.75,291869.34,315854.87
+"Engineering & Technology",641229.28,690202.25,16113.3,17144.37,89802.04,90882.18,152560.43,197488.49,899705.05,995717.29
+"Medical Sciences",63090.93,67910.0,7236.79,7699.87,69.7,70.53,49176.21,61636.47,119573.63,137316.87
+"Natural Sciences",284941.91,306703.32,16649.36,17714.73,16622.26,16822.2,96367.66,123623.24,414581.19,464863.49
+"Social Sciences",42234.64,45456.41,4919.13,5233.9,1010.58,1022.73,8912.46,10170.61,57076.81,61883.65
+"Total",1192364.07,1283425.57,158815.32,168977.76,107806.59,109103.28,323820.04,414129.56,1782806.02,1975636.17

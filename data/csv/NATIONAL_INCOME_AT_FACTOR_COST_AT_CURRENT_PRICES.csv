@@ -1,0 +1,16 @@
+-----
+{
+ "description": "This data provides details on National Income at factor cost at current prices from 2004-05 to 2011-12.", 
+ "file_name": "NATIONAL_INCOME_AT_FACTOR_COST_AT_CURRENT_PRICES.xls", 
+ "title": "National Income At Factor Cost At Current Prices From 2004-05 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/NATIONAL_INCOME_AT_FACTOR_COST_AT_CURRENT_PRICES.xls"
+}
+-----
+"Item","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11(Q)","2011-12(R)"
+"Gross National Income(GNI)",2949089.0,3363505.0,3919007.0,4560910.0,5249163.0,6053585.0,7078512.0,8148952.0
+"Net National Income(NNI)",2629198.0,2999792.0,3500396.0,4076352.0,4685873.0,5439557.0,6325039.0,7328878.0
+"Estimated Population (Million)",1089.0,1106.0,1122.0,1138.0,1154.0,1170.0,1186.0,1202.0
+"Per Capita Net National Income (`)",24143.0,27123.0,31198.0,35820.0,40605.0,46117.0,53331.0,60603.0
+"GNI [Index Number(2004-05=100)]",100.0,114.1,132.9,154.7,178.0,205.3,240.0,276.3
+"NNI [Index Number(2004-05=100)]",100.0,114.1,133.1,155.0,178.2,205.2,240.6,277.1
+"Per Capita NNI [Index Number(2004-05=100)]",100.0,112.3,129.2,148.4,168.2,191.0,220.9,251.0

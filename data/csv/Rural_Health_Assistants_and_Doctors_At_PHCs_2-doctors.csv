@@ -1,3 +1,11 @@
+-----
+{
+ "description": "As per minimum requirement, a Primary Health Centres (PHCs) is to be manned by a Medical Officer supported by 14 paramedical and other staff. The table refers to Allopathic Doctors at PHCs. The requirement is based on norm of one per each existing PHC. Sanctioned and In-Position figures are as...", 
+ "file_name": "Rural_Health_Assistants_and_Doctors_At_PHCs_2.xls", 
+ "title": "Manpower at Primary Health Centres as on March 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/Rural_Health_Assistants_and_Doctors_At_PHCs_2.xls"
+}
+-----
 "S. No.","State/UT","[R] Required1","[S] Sanctioned","[P] In Position","[S-P] Vacant","[R-P] Shortfall"
 1.0,"Andhra Pradesh",1624.0,2424.0,2348.0,76.0,"NULL"
 2.0,"Arunachal Pradesh",97.0,"NA",92.0,"NA",5.0

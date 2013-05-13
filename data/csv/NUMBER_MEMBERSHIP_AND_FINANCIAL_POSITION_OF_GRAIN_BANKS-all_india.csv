@@ -1,0 +1,14 @@
+-----
+{
+ "description": "Data provides all India and state-wise number, membership and financial position (including Share Capital, Reserves, Deposits, Borrowings, Total Working Capital and Loans issued during the year) of Grain Banks (Amount in ` Thousand) as on 31st March.", 
+ "file_name": "NUMBER_MEMBERSHIP_AND_FINANCIAL_POSITION_OF_GRAIN_BANKS.xls", 
+ "title": "Number / Membership / Financial Position of Grain Banks As On 31st March  ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_MEMBERSHIP_AND_FINANCIAL_POSITION_OF_GRAIN_BANKS.xls"
+}
+-----
+"Year","Number of banks","Membership (number)","Share Capital","Reserves","Deposits","Borrowings","Total working capital","Loans issued during the year"
+"2000-01",159.0,30071.0,5500.0,11652.0,594.0,324.0,29681.0,7352.0
+"2001-02",153.0,30405.0,5103.0,11144.0,1119.0,176.0,29265.0,7469.0
+"2002-03",154.0,25250.0,10308.0,11324.0,1165.0,382.0,28685.0,4513.0
+"2003-04",147.0,23737.0,24982.0,7145.0,1752.0,304.0,39013.0,5910.0
+"2004-05",147.0,23343.0,35664.0,8385.0,1920.0,275.0,106416.0,5362.0

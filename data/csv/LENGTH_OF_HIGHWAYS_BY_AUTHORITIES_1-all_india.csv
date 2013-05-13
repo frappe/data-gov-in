@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2008 to 2011) details on total and surfaced length of national highways, state highways, other PWD roads,  zilla parishad roads, village panchayat roads,  CD/panchayat samiti roads and rural roads.", 
+ "file_name": "LENGTH_OF_HIGHWAYS_BY_AUTHORITIES_1.xls", 
+ "title": "All India And State-wise Length Of Highways By Authorities As On 31st March 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/LENGTH_OF_HIGHWAYS_BY_AUTHORITIES_1.xls"
+}
+-----
+"Year","National Highways - Total","National Highways - Surfaced","State Highways - Total","State Highways - Surfaced","Other PWD Roads - Total","Other PWD Roads - Surfaced","Zilla Parishad Roads - Total","Zilla Parishad Roads - Surfaced","Village Panchayat roads - Total","Village Panchayat roads - Surfaced","CD/Panchayat Samiti roads - Total","CD/Panchayat Samiti roads - Surfaced"," Rural Roads - Total"," Rural Roads - Surfaced"
+2001.0,57737.0,57679.0,132100.0,129862.0,736001.0,610516.0,487604.0,275786.0,433003.0,55675.0,147413.0,36691.0,3996.0,3996.0
+2002.0,58112.0,58006.0,137711.0,135546.0,695338.0,580757.0,524444.0,303793.0,440362.0,79747.0,169520.0,42253.0,26697.0,26697.0
+2003.0,58112.0,58006.0,134807.0,132937.0,696960.0,574867.0,531827.0,308969.0,459750.0,88712.0,163914.0,44087.0,26697.0,26697.0
+2004.0,65569.0,65358.0,133177.0,131262.0,719257.0,597866.0,529092.0,303091.0,479114.0,94326.0,180852.0,46403.0,51511.0,51511.0
+2005.0,65569.0,65358.0,144416.0,142713.0,786230.0,643705.0,469944.0,263311.0,621904.0,119580.0,327898.0,100023.0,66976.0,66976.0
+2006.0,66590.0,66590.0,148071.0,146140.0,803669.0,664652.0,473705.0,265737.0,636205.0,125756.0,331627.0,101872.0,89867.0,89867.0
+2007.0,66590.0,66590.0,152816.0,150528.0,835003.0,689935.0,507626.0,274582.0,655299.0,132265.0,334085.0,103324.0,120621.0,120621.0
+2008.0,66754.0,66754.0,154522.0,152738.0,863241.0,719383.0,508608.0,278962.0,670107.0,135331.0,336872.0,105173.0,161809.0,161809.0
+2009.0,70548.0,70548.0,158499.0,156716.0,962878.0,832534.0,1514952.0,535636.0,"NA","NA","NA","NA","NA",214214.0
+2010.0,70934.0,70934.0,160177.0,158202.0,977413.0,853442.0,1518205.0,538689.0,"NA","NA","NA","NA","NA",274330.0
+2011.0,70934.0,70934.0,163898.0,161920.0,1005326.0,880553.0,1530367.0,539896.0,"NA","NA","NA","NA","NA",319439.0

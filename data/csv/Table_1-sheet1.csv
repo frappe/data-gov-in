@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table shows state wise distribution of contaminated dump sites in the country as identified by the Supreme Court Monitoring Committee (SCMC) and the number of such sites as reported by the Ministry.", 
+ "file_name": "Table_1.xls", 
+ "title": "Hazardous Waste Contaminated Dump Sites ", 
+ "url": "http://data.gov.in/sites/default/files/Table_1.xls"
+}
+-----
 "State","Contaminated Dump Sites - Current No. reported by Supreme Court Monitoring Unit","Contaminated Dump Sites - Current No. in Reduction as reported by Ministry"
 "Andhra Pradesh",40.0,"-"
 "Assam",5.0,"-"

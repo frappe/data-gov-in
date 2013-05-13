@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of Product-wise and year-wise consumption of petroleum products during 2004-05 to 2011-12 in India.", 
+ "file_name": "Product-wise_Consumption_of_Petroleum_Products_2004-12.xls", 
+ "title": "Product-wise Consumption of Petroleum Products (Financial Year): 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Product-wise_Consumption_of_Petroleum_Products_2004-12.xls"
+}
+-----
 "Products","Product Name","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12*"
 "Light Distillates","LPG",10245.0,10456.0,10849.0,12165.0,12344.0,13135.0,14331.0,15358.0
 "Light Distillates","Motor Spirit",8251.0,8647.0,9285.0,10332.0,11258.0,12818.0,14194.0,14992.0

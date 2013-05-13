@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of year-wise Import/Export of Crude Oil and Petroleum Products during 2004-05 to 2011-12 in India.", 
+ "file_name": "Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12.xls", 
+ "title": "Import/Export of Crude Oil and Petroleum Products: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Import_or_Export_of_Crude_Oil_and_Petroeum_Products_2004-12.xls"
+}
+-----
 "  Year","Crude Oil Qty.","Crude Oil Value","Petroleum Products Qty.","Petroleum Products Value","LNG Qty.","LNG Value","Total Qty.","Total Value","","","","","",""
 "2004-05",95861.0,117003.0,-9383.0,-15041.0,2500.0,1696.0,88978.0,103658.0,"","","","","",""
 "2005-06",99409.0,171702.0,-10019.0,-22003.0,5060.0,3366.0,94450.0,153065.0,"","","","","",""

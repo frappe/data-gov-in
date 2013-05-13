@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (from 2000 to 2012) and State-wise (2010-12) Achievements under Family Welfare Programme with their numbers and rates . ", 
+ "file_name": "Achievements_of_Family_Welfare_Programme.xls", 
+ "title": "Achievements of Family Welfare Programme ", 
+ "url": "http://data.gov.in/sites/default/files/Achievements_of_Family_Welfare_Programme.xls"
+}
+-----
 "Year/ State/U.T.","Number of sterilisations during the year","Cumulative number of sterilisations(1) - Number","Cumulative number of sterilisations(1) - Rate *","Number of IUD insertions during the year","Cumulative number of IUD insertions(1) - Number","Cumulative number of IUD insertions(1) - Rate *","No. of conventional contraceptive users during the year - Number","No. of conventional contraceptive users during the year - Rate *"
 " 2000-01",4735149.0,120259143.0,118.8,6047275.0,100936876.0,99.7,25843521.0,25.5
 " 2001-02",4827265.0,125086408.0,121.8,6272545.0,107209421.0,104.4,26480568.0,25.6

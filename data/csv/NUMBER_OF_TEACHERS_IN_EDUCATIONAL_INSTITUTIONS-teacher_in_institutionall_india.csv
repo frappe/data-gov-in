@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (2001-02 to 2009-10) and State-wise (2008-09 to 2009-10) Number of Teachers in Educational Institutions like primary/junior basic schools, middle/senior basic school, high/post basic school, higher secondary schools, universities and affiliated colleges.", 
+ "file_name": "NUMBER_OF_TEACHERS_IN_EDUCATIONAL_INSTITUTIONS.xls", 
+ "title": "Number Of Teachers In Educational Institutions (All India And State wise) ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_OF_TEACHERS_IN_EDUCATIONAL_INSTITUTIONS.xls"
+}
+-----
 " Year","    Primary/Junior Basic Schools(#)Total","    Primary/Junior Basic Schools(#)Women","    Primary/Junior Basic Schools(#)% age ofTrained Teachers","    Middle /Sr Basic SchoolsTotal","    Middle /Sr Basic SchoolsWomen","    Middle /Sr Basic Schools% age ofTrained Teachers","High/Post BasicSchoolsTotal","High/Post BasicSchoolsWomen","High/Post BasicSchools% age ofTrained Teachers","Higher SecondarySchools(**)Total","Higher SecondarySchools(**)Women","Higher SecondarySchools(**)% age ofTrained Teachers","Total No. ofTeachers in allTotal","Total No. ofTeachers in allWomen","Universities","Affiliated Colleges","    Total"
 " 2001-02",1928075.0,715214.0,86.0,1467920.0,546811.0,87.0,1018795.0,383577.0,89.0,758700.0,236724.0,90.0,5173490.0,1882326.0,72919.0,358574.0,431493.0
 " 2002-03",1912931.0,746356.0,86.0,1581739.0,645271.0,87.0,996054.0,380151.0,89.0,1037455.0,431962.0,90.0,5528179.0,2203740.0,"NA","NA","NA"

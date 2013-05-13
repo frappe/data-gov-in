@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (from 2000 to 2011) and State-wise (2009-10 and 2010-11) area under Principal Crops (food grains, cereals, oil seeds, tobacco, potato, black pepper, chillies, natural rubber, bananas, ginger, coconut and turmeric).  ", 
+ "file_name": "AREA_UNDER_PRINCIPAL_CROPS_0.xls", 
+ "title": "Area Under Principal Crops - All India and State Wise ", 
+ "url": "http://data.gov.in/sites/default/files/AREA_UNDER_PRINCIPAL_CROPS_0.xls"
+}
+-----
 "Year","Food grains (cereals) - Rice","Food grains (cereals) - Jowar","Food grains (cereals) - Bajra","Food grains (cereals) - Maize","Food grains (cereals) - Ragi","Food grains (cereals) - Small millets","Food grains (cereals) - Wheat","Food grains (cereals) - Barley","Food grains(pulses) - Gram","Food grains(pulses) - Tur","Other Pulses","Total Pulses","Total food grains","Oilseeds - Ground nut","Oilseeds - Sesamum","Oilseeds - Rapeseed and mustard","Oilseeds - Linseed","Oilseeds - Castor seed","Total oilseeds","Cotton","Jute","Mesta","Tea","Coffee","Natural Rubber"," Banana @","Sugar cane","Tobacco"," Potato &","Black Pepper","Chillies","Ginger","Coconut","Turmeric"
 " 2000-01",44712.0,9856.0,9829.0,6611.0,1759.0,1424.0,25731.0,778.0,5185.0,3632.0,12531.0,20348.3,121048.3,6559.0,1720.0,4476.7,579.9,1079.7,22770.0,8535.0,828.0,189.7,504.366,347.0,400.0,459.0,4315.7,261.5,1221.9,213.87,836.5,86.2,1823.9,191.7
 " 2001-02",44904.0,9795.0,9529.0,6581.5,1647.0,1310.5,26344.7,659.5,6416.2,3327.7,12264.5,22008.4,122779.6,6238.1,1671.0,5073.0,535.8,716.7,22636.4,9132.0,873.1,174.1,509.806,347.0,401.0,488.8,4411.6,348.5,1207.9,219.38,880.0,91.3,1932.3,167.1

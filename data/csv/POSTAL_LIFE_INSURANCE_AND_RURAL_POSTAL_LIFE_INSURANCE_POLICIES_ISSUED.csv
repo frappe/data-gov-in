@@ -1,0 +1,31 @@
+-----
+{
+ "description": "This data provides details on Postal Life Insurance (PLI) and Rural Postal Life Insurance (RPLI) polices issued from 2001-02 to 2011-12.", 
+ "file_name": "POSTAL_LIFE_INSURANCE_AND_RURAL_POSTAL_LIFE_INSURANCE_POLICIES_ISSUED.xls", 
+ "title": "Postal Life Insurance And Rural Postal Life Insurance Polices Issued From 2001-02 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/POSTAL_LIFE_INSURANCE_AND_RURAL_POSTAL_LIFE_INSURANCE_POLICIES_ISSUED.xls"
+}
+-----
+"Year","Group","No. of Polices in Force","Percentage growth","Sum Assured Amount","Percentage growth","Corpus of Fund","Percentage growth"
+"2001-02","Postal Life Insurance (PLI)",2008575.0,"NA",11870.3,"NA",5090.16,"NA"
+"2002-03","Postal Life Insurance (PLI)",2098577.0,4.46,13676.8,15.21,5797.3,13.89
+"2003-04","Postal Life Insurance (PLI)",2208683.0,5.24,15917.61,16.38,6619.81,14.19
+"2004-05","Postal Life Insurance (PLI)",2857797.0,29.39,18747.21,17.77,7678.42,15.99
+"2005-06","Postal Life Insurance (PLI)",3098248.0,8.41,22951.6,22.43,8933.69,16.35
+"2006-07","Postal Life Insurance (PLI)",3297825.0,6.44,26753.17,16.56,10342.61,15.77
+"2007-08","Postal Life Insurance (PLI)",3550084.0,7.65,31469.0,17.63,12081.71,16.81
+"2008-09","Postal Life Insurance (PLI)",3841539.0,8.21,38403.0,22.03,14152.59,17.14
+"2009-10","Postal Life Insurance (PLI)",4283302.0,11.5,51209.9,33.34,16656.02,17.68
+"2010-11","Postal Life Insurance (PLI)",4686245.0,9.4,64077.9,25.12,19801.91,18.88
+"2011-12","Postal Life Insurance (PLI)",5006060.0,6.82,76591.34,19.53,23010.55,16.21
+"2001-02","Rural Postal Life Insurance (RPLI)",1133013.0,"NA",4403.92,"NA",341.05,"NA"
+"2002-03","Rural Postal Life Insurance (RPLI)",1795070.0,58.43,7464.53,69.5,510.69,49.74
+"2003-04","Rural Postal Life Insurance (RPLI)",2666485.0,48.54,12385.11,65.92,756.48,48.13
+"2004-05","Rural Postal Life Insurance (RPLI)",3796773.0,42.39,18895.93,52.57,1127.61,49.06
+"2005-06","Rural Postal Life Insurance (RPLI)",4702776.0,23.86,25229.66,33.52,1624.77,44.09
+"2006-07","Rural Postal Life Insurance (RPLI)",5246673.0,11.56,33865.65,34.23,2284.92,40.63
+"2007-08","Rural Postal Life Insurance (RPLI)",6167928.0,17.56,41846.09,23.56,3003.78,31.46
+"2008-09","Rural Postal Life Insurance (RPLI)",7356446.0,19.27,53072.1,26.82,3994.36,32.98
+"2009-10","Rural Postal Life Insurance (RPLI)",9925103.0,34.91,59572.59,12.24,5524.69,38.31
+"2010-11","Rural Postal Life Insurance (RPLI)",12203345.0,22.95,66132.23,11.01,6607.79,19.6
+"2011-12","Rural Postal Life Insurance (RPLI)",13547355.0,11.01,69754.17,5.48,9141.44,38.34

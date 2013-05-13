@@ -1,0 +1,100 @@
+-----
+{
+ "description": "This table contains data related to quantity and value of exports of Metals and Alloys from 2008-09 to 2010-11.", 
+ "file_name": "EXPORTS_OF_METALS_AND_ALLOYS.xls", 
+ "title": "Exports Of Metals And Alloys From 2008-09 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/EXPORTS_OF_METALS_AND_ALLOYS.xls"
+}
+-----
+"Ore/Mineral","Unit","Quantity 2008-09","Value 2008-09","Quantity 2009-10","Value 2009-10","Quantity 2010-11(P)","Value 2010-11(P)"
+"All Metals and Alloys","","**",822391369.0,"**",579753977.0,"**",1290231272.0
+"Aluminium alloys & scrap","tonne",429433.0,53404671.0,440762.0,49177673.0,553115.0,70907167.0
+"Antimony alloys & scrap","tonne",57.0,17537.0,32.0,13998.0,853.0,417247.0
+"Bismuth & Scrap","tonne",10.0,9032.0,20.0,12650.0,"++",312.0
+"Boron","tonne",383.0,44812.0,356.0,84795.0,29.0,6722.0
+"Cadmium waste & scrap","tonne","++",2276.0,53.0,11864.0,14.0,13708.0
+"Cement copper (precipitated)","tonne",14.0,531.0,"…","…",1.0,244.0
+"Chromium & alloys (scrap)","tonne",11.0,231901.0,7.0,4770.0,22.0,14454.0
+"Cobalt alloys & Scrap:Total","tonne",274.0,704376.0,187.0,340757.0,264.0,422752.0
+"   Cobalt & alloys","tonne",245.0,695140.0,168.0,338720.0,258.0,418944.0
+"   Cobalt (scrap)","tonne",29.0,9236.0,19.0,2037.0,6.0,3808.0
+"Copper & alloys(incl.brass & bronze):Total","tonne",278655.0,80988135.0,303749.0,85146161.0,973501.0,367165694.0
+"   Copper and alloys","tonne",245683.0,72084889.0,274690.0,77997519.0,942931.0,357585954.0
+"   Copper (scrap)","tonne",768.0,186253.0,2250.0,530500.0,3169.0,1153590.0
+"   Copper Alloys ( Scrap)","tonne",5.0,1013.0,19.0,2759.0,19.0,4971.0
+"   Brass & bronze","tonne",31967.0,8639392.0,26565.0,6571018.0,27158.0,8387685.0
+"   Brass & bronze (scrap)","tonne",232.0,76588.0,225.0,44365.0,224.0,33494.0
+"Ferro alloys : Total","tonne",960100.0,68781535.0,862769.0,41394476.0,2240354.0,133915094.0
+"   Ferro-boron","tonne",2.0,380.0,3.0,629.0,1.0,157.0
+"   Ferro-chrome","tonne",491677.0,34188265.0,471953.0,21848549.0,1305855.0,81673185.0
+"   Ferro-columbium","tonne","…","…",1.0,82.0,46.0,3276.0
+"   Ferro charge -chrome","tonne",1001.0,53644.0,"++",3.0,6.0,1074.0
+"   Ferro-manganese","tonne",121533.0,11214086.0,66521.0,3388350.0,120053.0,7282192.0
+"   Ferro-molybdenum","tonne",888.0,53679.0,1766.0,237214.0,2719.0,685808.0
+"   Ferro-nickel","tonne",8.0,3873.0,"++",9.0,"…","…"
+"   Ferro-niobium","tonne",192.0,41614.0,118.0,23717.0,1815.0,33681.0
+"   Ferro-phosphorous","tonne",169.0,5637.0,11.0,740.0,233.0,6184.0
+"   Ferro-selenium","tonne","++",19.0,"….","….","….","…."
+"   Ferro-silicon","tonne",37170.0,2804810.0,20106.0,1156561.0,50011.0,3681465.0
+"   Ferro-titanium","tonne",2.0,457.0,6.0,881.0,46.0,4926.0
+"   Ferro-tungsten","tonne",3.0,128.0,1.0,232.0,15.0,1408.0
+"   Ferro-vanadium","tonne",388.0,52353.0,29.0,6729.0,169.0,23247.0
+"   Ferro-zirconium","tonne",24.0,2462.0,1.0,262.0,26.0,1684.0
+"   Ferro silico-chrome","tonne",26.0,2363.0,"….","….",50476.0,878413.0
+"   Ferro-silico-magnesium","tonne",3295.0,282169.0,3597.0,242902.0,3988.0,310083.0
+"   Ferro silico-manganese","tonne",300421.0,19983391.0,298301.0,14469837.0,699585.0,39222936.0
+"   Ferro-alloys (others)","tonne",3301.0,92205.0,355.0,17779.0,5310.0,105375.0
+"Gold,non-monetory & monetory: Total","Kg",3680.0,1289329.0,22990.0,9827212.0,49537.0,5317442.0
+"Gold- Monetory","Kg",236.0,296055.0,1.0,105.0,"….","…."
+"  Gold,non-monetory : Total","Kg",3444.0,993274.0,22989.0,9827107.0,49537.0,5317442.0
+"        Powder","Kg",130.0,39.0,25.0,67.0,"….","…."
+"        Other unwrought forms","Kg",1900.0,927523.0,22667.0,9396337.0,49475.0,5249920.0
+"        Other Semi-manufactured form","Kg",1414.0,65712.0,297.0,430703.0,62.0,67522.0
+"Gold - clad metales / base metals NES","tonne","++",947.0,1.0,1473.0,1.0,927.0
+"Iron & Steel : Total","tonne",8381102.0,505364618.0,6115076.0,342946993.0,10169643.0,599195646.0
+"  Iron & Steel(Finished steel incld. C.R. sheets)","tonne",4187785.0,232711945.0,3143360.0,157564745.0,5075390.0,303282605.0
+"  Iron & Steel (Semi-finished steel incl. ingots)","tonne",2658246.0,130865923.0,1710812.0,69818464.0,3507643.0,145307883.0
+"  Iron & Steel (Steel wire)","tonne",83461.0,10567362.0,72363.0,7800739.0,98853.0,13282268.0
+"  Iron & Steel (Sponge iron)","tonne",29594.0,728806.0,52284.0,1191090.0,76657.0,1437007.0
+"  Iron & Steel (scrap)","tonne",28548.0,1044012.0,23849.0,341729.0,7343.0,477649.0
+"  Iron & Steel : Alloy steel (Granules))","tonne",361.0,13927.0,155.0,19314.0,729.0,103620.0
+"  Iron & Steel : Alloy steel (Powder))","tonne",356.0,31493.0,571.0,26620.0,58.0,4685.0
+"  Iron & Steel  (Other finished steel, NES)","tonne",1392751.0,129401150.0,1111682.0,106184292.0,1402970.0,135299929.0
+"Lead and alloys & scrap:Total","tonne",12566.0,1302253.0,53779.0,5469186.0,161430.0,21580636.0
+"   Lead & alloys","tonne",12471.0,1296644.0,53658.0,5458634.0,161320.0,21571691.0
+"   Lead (scrap)","tonne",95.0,5609.0,121.0,10552.0,110.0,8945.0
+"Magnesium & scrap","tonne",152.0,24255.0,25.0,9405.0,87.0,6587.0
+"Manganese & alloys ( incl. waste & scrap )","tonne",267.0,72865.0,68.0,64327.0,120.0,111963.0
+"Manganese & alloys (Unwrought & Wrought)","tonne",27.0,21039.0,23.0,19109.0,52.0,57021.0
+"Manganese &Alloys NES","tonne",220.0,51133.0,44.0,45030.0,68.0,54942.0
+"Manganese waste & scrap","tonne",20.0,693.0,1.0,188.0,"…","…"
+"Mercury","tonne",99.0,55204.0,15.0,10817.0,53.0,63263.0
+"Molybdenum & scrap","tonne",17.0,56201.0,7.0,39440.0,15.0,48922.0
+"Nickel and alloys (incl. scrap):Total","tonne",1565.0,1104883.0,1524.0,1103460.0,1496.0,1491393.0
+"  Nickel & alloys","tonne",1500.0,1074313.0,1375.0,1041448.0,1328.0,1415750.0
+"  Nickel (scrap)","tonne",65.0,30570.0,149.0,62012.0,168.0,75643.0
+"Other rare metals NES","tonne",7.0,16742.0,19.0,23233.0,13.0,3438.0
+"Pig & cast iron incl. spiegeliesen","tonne",541757.0,14671746.0,620990.0,10870770.0,1509984.0,31803705.0
+"Platinum,Alloys and related Metals : Total","Kg",36491.0,67717779.0,10587.0,643700.0,3167.0,223645.0
+"   Platinum (powder,unwrought & others)","Kg",33046.0,67540466.0,10586.0,643678.0,205.0,174964.0
+"   Other metals of platinum group","Kg",3445.0,177313.0,1.0,22.0,2962.0,48681.0
+"Platinum-clad base /precious metals","Kg",65.0,749.0,"….","….",642.0,25368.0
+"Preciuos metals/metals clad with preciuos metals","tonne",329.0,5206994.0,388.0,7270953.0,739.0,16080083.0
+"Selenium","tonne",5594.0,290309.0,400.0,417874.0,182.0,645693.0
+"Silver","tonne",35.0,677720.0,62.0,4263083.0,55.0,1146411.0
+"Silver clad base metals","Kg",458.0,1193.0,26.0,34.0,422.0,2242.0
+"Silicon","tonne",289.0,26518.0,536.0,28455.0,165.0,23005.0
+"Tantalum & scrap : Total","tonne",49.0,45013.0,7.0,7009.0,4.0,14529.0
+"  Tantalum alloys unwrought","tonne",20.0,31944.0,"++",2312.0,2.0,5201.0
+"  Tantalum & scrap","tonne",29.0,13069.0,7.0,4697.0,2.0,9328.0
+"Tellurium","tonne","++",220.0,44.0,22834.0,58.0,13331.0
+"Tin and alloys (incl. scrap)","tonne",2243.0,1296515.0,2315.0,598850.0,1737.0,376268.0
+"   Tin & alloys","tonne",1607.0,1216288.0,764.0,450443.0,253.0,196052.0
+"   Tin & alloys: Worked","tonne",579.0,71190.0,1435.0,140417.0,1407.0,173951.0
+"   Tin (scrap)","tonne",57.0,9037.0,116.0,7990.0,77.0,6265.0
+"Titanium & Alloys (incl. waste & scrap )","tonne",60.0,236491.0,90.0,382639.0,216.0,185647.0
+"Tungsten alloys & scrap","Kg",166283.0,290497.0,79513.0,412084.0,432709.0,655916.0
+"Zinc and alloys (incl. scrap)","tonne",209434.0,18428890.0,175767.0,19140301.0,307288.0,38344923.0
+"   Zinc & alloys","tonne",209374.0,18423436.0,175746.0,19134250.0,307283.0,38343746.0
+"   Zinc (scrap)","tonne",60.0,5454.0,21.0,6051.0,5.0,1177.0
+"Zirconium & Scrap","tonne",138.0,28632.0,76.0,12701.0,25.0,6895.0

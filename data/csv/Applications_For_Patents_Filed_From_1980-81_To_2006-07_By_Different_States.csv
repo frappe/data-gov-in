@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Data on patent applications filed in India by various states from 1980-81 to 2006-07. The data are taken from the annual reports of the Controller General of Patents, Designs and Trade Marks.", 
+ "file_name": "Applications_For_Patents_Filed_From_1980-81_To_2006-07_By_Different_States.xls", 
+ "title": "Applications For Patents Filed From 1980-81 To 2006-07 By Different States ", 
+ "url": "http://data.gov.in/sites/default/files/Applications_For_Patents_Filed_From_1980-81_To_2006-07_By_Different_States.xls"
+}
+-----
 "Sl. No.","Name of the State/Union Territory","1980-81","1985-86","1990-91","1995-96","1998-99","1999-00","2000-01","2001-02","2002-03","2003-04","2004-05","2005-06","2006-07"
 "1.","Delhi",333.0,230.0,364.0,499.0,581.0,648.0,663.0,678.0,726.0,795.0,935.0,1018.0,1310.0
 "2.","Maharashtra",296.0,291.0,283.0,381.0,695.0,607.0,545.0,650.0,681.0,921.0,1093.0,1233.0,1607.0

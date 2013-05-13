@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Backed by Universal Postal Union, EMS Speed Post offers economical and faster service to 97 foreign countries. International Speed Post tariff and names of the Countries can be seen from the data.", 
+ "file_name": "International_EMS_tariff_1.csv", 
+ "title": "International Speed Post (EMS) Network ", 
+ "url": "http://data.gov.in/sites/default/files/International_EMS_tariff_1.csv"
+}
+-----
 Sr No,Country - Continent - Sub-continent,Document - First 250 gms or part thereof- INR,Document- For every additional 250 gms or part thereof - INR,Merchandise - First 250 gms or part thereof - INR,Merchandise - For every additional 250 gms or part thereof - INR
 1,Afganistan,460,30,460,30
 2,Argentina,775,175,NA,NA

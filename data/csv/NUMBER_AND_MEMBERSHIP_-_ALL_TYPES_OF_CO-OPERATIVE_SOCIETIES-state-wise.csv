@@ -1,0 +1,43 @@
+-----
+{
+ "description": "Data provides all India and state-wise details on the number and membership - all types of co-operative societies as on 31st March.", 
+ "file_name": "NUMBER_AND_MEMBERSHIP_-_ALL_TYPES_OF_CO-OPERATIVE_SOCIETIES.xls", 
+ "title": "Number And Membership - All Types of Co-operative Societies As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/NUMBER_AND_MEMBERSHIP_-_ALL_TYPES_OF_CO-OPERATIVE_SOCIETIES.xls"
+}
+-----
+"State/ Union Territory","No. of societies - Credit","No. of societies - Non-credit","No. of societies - Total","Membership -  Credit","Membership - Non-credit","  Membership - Total"
+"Andhra Pradesh",4701.0,4988.0,9689.0,18051.0,218.0,18269.0
+"Arunachal Pradesh",1.0,0.0,1.0,0.0,0.0,0.0
+"Assam",572.0,3501.0,4073.0,306.0,417.0,723.0
+"Bihar",5963.0,8046.0,14009.0,4469.0,756.0,5225.0
+"Chattisgarh",9.0,0.0,9.0,50.0,0.0,50.0
+"Goa",427.0,447.0,874.0,646.0,91.0,737.0
+"Gujarat",13305.0,45555.0,58860.0,4457.0,6294.0,10751.0
+"Haryana",2576.0,13023.0,15599.0,3595.0,1101.0,4696.0
+"Himachal Pradesh",2512.0,1787.0,4299.0,1116.0,110.0,1226.0
+"Jammu & Kashmir",5.0,0.0,5.0,73.0,0.0,73.0
+"Jharkhand",9.0,0.0,9.0,7.0,0.0,7.0
+"Karnataka",7827.0,19473.0,27300.0,10101.0,5575.0,15676.0
+"Kerala",3671.0,9343.0,13014.0,19428.0,16077.0,35505.0
+"Madhya Pradesh",1553.0,15379.0,16932.0,1260.0,982.0,2242.0
+"Maharashtra",46959.0,104182.0,151141.0,32382.0,8663.0,41045.0
+"Manipur",195.0,3769.0,3964.0,148.0,256.0,404.0
+"Meghalaya",305.0,718.0,1023.0,56.0,36.0,92.0
+"Mizoram",116.0,166.0,282.0,5.0,4.0,9.0
+"Nagaland",1.0,0.0,1.0,2.0,0.0,2.0
+"Orissa",3378.0,3083.0,6461.0,3616.0,762.0,4378.0
+"Punjab",4628.0,10765.0,15393.0,3101.0,1009.0,4110.0
+"Rajasthan",6187.0,14705.0,20892.0,10375.0,1583.0,11958.0
+"Sikkim",159.0,94.0,253.0,16.0,11.0,27.0
+"Tamil Nadu",6691.0,5555.0,12246.0,14878.0,3122.0,18000.0
+"Tripura",288.0,1199.0,1487.0,373.0,83.0,456.0
+"Uttar Pradesh",8561.0,176.0,8737.0,15261.0,4045.0,19306.0
+"Uttarakhand",1081.0,0.0,1081.0,1002.0,0.0,1002.0
+"West Bengal",19.0,0.0,19.0,20.0,0.0,20.0
+"A. & N. Islands",1.0,0.0,1.0,18.0,0.0,18.0
+"Chandigarh",1.0,0.0,1.0,4.0,0.0,4.0
+"D. & N. Haveli",35.0,58.0,93.0,30.0,5.0,35.0
+"Delhi",1.0,17.0,18.0,2.0,0.0,2.0
+"Daman & Diu",0.0,0.0,0.0,0.0,0.0,0.0
+"Puducherry",129.0,24.0,153.0,80.0,84.0,164.0

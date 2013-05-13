@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table provides data on global average temperature and atmosphere concentration of carbon dioxide for the period 2000 onwards.", 
+ "file_name": "GLOBAL_AVERAGE_TEMPERATURE.xls", 
+ "title": "Global Average Temperature and Atmosphere concentration of Carbon Dioxide ", 
+ "url": "http://data.gov.in/sites/default/files/GLOBAL_AVERAGE_TEMPERATURE.xls"
+}
+-----
 "Year","Temperature ( Degree C)","Carbon Dioxide (Parts Per Million)","Emissions from Fossil Fuel Burning (Million Tonnes of Carbon)"
 2000.0,14.2886,369.4,6750.0
 2001.0,14.4173,371.08,6916.0

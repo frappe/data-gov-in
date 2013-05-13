@@ -1,0 +1,12 @@
+-----
+{
+ "description": "Data provide all India (1999, 2004 and 2009) and state-wise (2009) details on election to the Lok Sabha (House of People) including number of constituencies, electors, votes polled and valid votes polled.", 
+ "file_name": "ELECTION_TO_THE_LOK_SABHA_-_HOUSE_OF_PEOPLE.xls", 
+ "title": "Election To The Lok Sabha - House of People ", 
+ "url": "http://data.gov.in/sites/default/files/ELECTION_TO_THE_LOK_SABHA_-_HOUSE_OF_PEOPLE.xls"
+}
+-----
+"Year","   Number of constituencies","Number of electors","Number of votes polled","Number of valid votes polled","Percentage of votes polled"
+1999.0,543.0,619559944.0,371669282.0,364437294.0,59.9892368122
+2004.0,543.0,671487930.0,389948330.0,389779784.0,58.0722768911
+2009.0,543.0,716985101.0,417236311.0,417037606.0,58.1931633472

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives state-wise and source-wise installed capacity of Grid Interactive Renewable Power (in MW) from 31-3-2010 to 30-3-2011.", 
+ "file_name": "Statewise_and_Sourcewise_Installed_Capacity_of_Grid_Interactive_Renewable_Power.xls", 
+ "title": "State-wise and Source-wise Installed Capacity of Grid Interactive Renewable Power ", 
+ "url": "http://data.gov.in/sites/default/files/Statewise_and_Sourcewise_Installed_Capacity_of_Grid_Interactive_Renewable_Power.xls"
+}
+-----
 "States/ Uts","Biomass Power 31.3.2010","Biomass Power 30.3.2011","Waste to Energy 31.3.2010","Waste to Energy 30.3.2011","Wind Power 31.3.2010","Wind Power 30.3.2011","Small Hydro Power 31.3.2010","Small Hydro Power 30.3.2011","Solar Power 31.3.2010","Solar Power 30.3.2011","Total 31.3.2010","Total 30.3.2011"
 "Andhra Pradesh",363.25,363.25,35.66,43.16,122.5,191.5,186.83,191.43,0.1,2.1,791.44,9.63
 "Arunachal Pradesh","NA","NA","NA","NA",136.1,"NA",73.42,78.84,0.03,0.03,78.87,7.39

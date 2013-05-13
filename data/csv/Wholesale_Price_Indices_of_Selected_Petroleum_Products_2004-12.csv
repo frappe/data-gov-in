@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of year-wise wholesale price indices of selected petroleum products based on 2004-05=100 base year in India.", 
+ "file_name": "Wholesale_Price_Indices_of_Selected_Petroleum_Products_2004-12.xls", 
+ "title": "Wholesale Price Indices of Selected Petroleum Products: 2004-12 ", 
+ "url": "http://data.gov.in/sites/default/files/Wholesale_Price_Indices_of_Selected_Petroleum_Products_2004-12.xls"
+}
+-----
 "Products","Product Name","Weight(%)","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12*"
 "Light Distillates","LPG",0.91468,106.1,106.1,106.1,117.23,111.85,125.9,143.17
 "Light Distillates","Petrol",1.09015,113.63,125.31,119.12,128.32,119.33,143.02,174.41

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All india (2001-02 to 2009-10) data on Enrolment in School Education by Courses and Stages in Recognised Institutions.", 
+ "file_name": "ENROLMENT_IN_SCHOOL_EDUCATION_BY_COURSES_AND_STAGES.xls", 
+ "title": "Enrolment in School Education By Courses And Stages In Recognised Institutions ", 
+ "url": "http://data.gov.in/sites/default/files/ENROLMENT_IN_SCHOOL_EDUCATION_BY_COURSES_AND_STAGES.xls"
+}
+-----
 "Year","     Nursery (Pre-  Primary/Pre-Basic)  Total","     Nursery (Pre-  Primary/Pre-Basic)  Women"," Primary (1st to 5th) Total","         Primary (1st to 5th) Women","        Middle (6th to 8th)  Total","        Middle (6th to 8th)  Women","High/Higher Secondary (9th-12th) (1)  Total","High/Higher Secondary (9th-12th) (1)  Women"," (Pre-Primary to 12th)  Total"," (Pre-Primary to 12th)  Women","Technical/ Industrial/Arts and Craft Schools  Total","Technical/ Industrial/Arts and Craft Schools  Women","Teacher TrainingSchools  Total","Teacher TrainingSchools  Women","  (General and Vocational/Professional)  Total","  (General and Vocational/Professional)  Women"
 "2001-02",4623168.0,2143099.0,113883060.0,50263565.0,44828235.0,18739277.0,30507215.0,12063696.0,193841678.0,83209637.0,581174.0,89792.0,107519.0,54981.0,"NA",83354410.0
 "2002-03",5507559.0,2643826.0,122397715.0,57313336.0,46845207.0,20579740.0,33214100.0,13718507.0,207964581.0,94255409.0,678247.0,92531.0,93395.0,47782.0,208736223.0,94395722.0

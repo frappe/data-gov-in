@@ -1,0 +1,21 @@
+-----
+{
+ "description": "The Department is implementing the scheme of National Land Records Modernization Programme (NLRMP) since the year 2008. Different States/UTs are at various stages of computerization of land records. As per the information provided by the States/UTs, the status as on 31st March, 2013 has been...", 
+ "file_name": "Status_of_Computerization_of_Land_Records.xls", 
+ "title": "Status of Computerization of Land Records ", 
+ "url": "http://data.gov.in/sites/default/files/Status_of_Computerization_of_Land_Records.xls"
+}
+-----
+"Main Activity","Details of the Activity","No. of States/UTs where the activity has been completed"
+"Registration","Computerization of Registration",23.0
+"Registration","E-Stamping",8.0
+"Registration","Integration of Land Records and Registration",9.0
+"Land Records","RoRs Computerized",20.0
+"Land Records","Stopped manual issue of RoRs",17.0
+"Land Records","Accorded legal sanctity to computerized copy of RoR",21.0
+"Land Records","Started mutation using computers",20.0
+"Land Records","Placed RoR data on website",18.0
+"Land Records","Digitized Cadastral Maps",7.0
+"Land Records","Issuance of Records of Rights (RoR) from Tehsil Computer Centre",19.0
+"Land Records","Issuance RoR through Kiosks/Common Service Centres at Town/Village level",12.0
+"Land Records","Issuance of Digitally Signed RoRs",6.0

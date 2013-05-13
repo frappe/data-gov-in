@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2008 to 2011) details on total and surfaced length of urban roads such as municipal roads, railways roads, port roads and military engineering service roads as on 31st March.", 
+ "file_name": "LENGTH_OF_URBAN_ROADS_BY_AUTHORITIES_1.XLS", 
+ "title": "All India And State-wise Total And Surfaced Length Of Urban Roads By Authorities As On 31st March 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/LENGTH_OF_URBAN_ROADS_BY_AUTHORITIES_1.XLS"
+}
+-----
+" Year","Municipal Roads - Total","Municipal Roads - Surfaced","Railways Roads - Total","Railways Roads - Surfaced","Ports Roads - Total","Ports Roads - Surfaced","Military Engineering Service Roads - Total","Military Engineering Service Roads - Surfaced","Total - Urban Roads - Total","Total - Urban Roads - Surfaced"
+2001.0,228607.0,170437.0,10319.0,8504.0,1058.0,986.0,11905.0,11770.0,252001.0,191797.0
+2002.0,226705.0,168718.0,10599.0,8752.0,689.0,675.0,11918.0,11783.0,250295.0,190252.0
+2003.0,271989.0,191777.0,10997.0,9116.0,695.0,681.0,13196.0,13056.0,297259.0,214951.0
+2004.0,275766.0,194997.0,11212.0,9249.0,695.0,681.0,13255.0,13113.0,301310.0,218361.0
+2005.0,261366.0,172287.0,11483.0,9428.0,753.0,732.0,12733.0,12507.0,286707.0,195277.0
+2006.0,265975.0,176517.0,11553.0,9488.0,776.0,755.0,13314.0,13126.0,291991.0,200210.0
+2007.0,274241.0,183047.0,11637.0,9566.0,789.0,766.0,13539.0,13351.0,300580.0,207052.0
+2008.0,277264.0,188047.0,11749.0,9659.0,792.0,769.0,14143.0,13952.0,303948.0,212427.0
+2009.0,347596.0,233815.0,9791.0,8319.0,844.0,827.0,15179.0,14982.0,373410.0,257943.0
+2010.0,376028.0,255081.0,9930.0,8411.0,852.0,835.0,15242.0,15045.0,402052.0,279372.0
+2011.0,385158.0,267014.0,10063.0,8528.0,860.0,844.0,15243.0,15046.0,411324.0,291432.0

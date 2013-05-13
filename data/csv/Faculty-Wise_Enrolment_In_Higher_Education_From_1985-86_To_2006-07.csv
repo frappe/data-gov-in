@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Data from 1985-86 to 2006-07 on faculty-wise enrolment in higher education sector by various disciplines are presented in this table. The data are taken from the University Grants Commission (UGC) annual report.", 
+ "file_name": "Faculty-Wise_Enrolment_In_Higher_Education_From_1985-86_To_2006-07.xls", 
+ "title": "Faculty-Wise Enrolment In Higher Education From 1985-86 To 2006-07 ", 
+ "url": "http://data.gov.in/sites/default/files/Faculty-Wise_Enrolment_In_Higher_Education_From_1985-86_To_2006-07.xls"
+}
+-----
 "Discipline","Course of Study  ","1985-86 Enrolment","1985-86 Percentage of total","1995-96 Enrolment","1995-96 Percentage of total","1999-00 Enrolment","1999-00 Percentage of total","2001-02 Enrolment","2001-02 Percentage of total","2002-03 Enrolment","2002-03 Percentage of total","2003-04 Enrolment","2003-04 Percentage of total","2004-05 Enrolment","2004-05 Percentage of total","2005-06 Enrolment","2005-06 Percentage of total","2006-07 Enrolment","2006-07 Percentage of total"
 "Science and Technology Disciplines (A)","Science",700991.0,19.4,1288504.98,19.6,1537665.937,19.1,1739147.92,19.4,1884321.054,19.8,2035059.0,20.44,2142325.0,20.44,2255230.0,20.45,2374758.0,20.45
 "Science and Technology Disciplines (A)","Engineering/Technology",176540.0,4.9,322126.245,4.9,402530.35,5.0,618562.92,6.9,713757.975,7.5,716652.0,7.2,754635.0,7.2,795120.0,7.21,837261.0,7.21

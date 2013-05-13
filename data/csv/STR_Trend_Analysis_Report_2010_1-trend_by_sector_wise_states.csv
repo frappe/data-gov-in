@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Over 17000 Suspicious Transaction Reports were received by FIU-IND during the first four Financial years of its operation. An analysis of these reports were made to decipher Trends in distribution over  Sectors, Geographies & Type of Suspicion", 
+ "file_name": "STR_Trend_Analysis_Report_2010_1.xls", 
+ "title": " Trend Analysis  of Suspicious Transaction Report received by Financial Intelligence Unit-India  ", 
+ "url": "http://data.gov.in/sites/default/files/STR_Trend_Analysis_Report_2010_1.xls"
+}
+-----
 "State/Union Territory","Percentage Share of STRs From Banking Sector","Percentage Share of STRs From Insurance Sector","Percentage Share of STRs from Mutual Funds Sector","Total Percentage Share of STRs"
 "Maharashtra",25.4,27.3,55.5,29.0
 "Delhi",13.1,5.1,4.9,12.1

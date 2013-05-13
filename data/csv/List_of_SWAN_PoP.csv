@@ -1,3 +1,11 @@
+-----
+{
+ "description": "State Wide Area Network (SWAN) for providing connectivity up to Block Head Quarters is operational in 30 States. Active PoPs can be obtained from this dataset.", 
+ "file_name": "List_of_SWAN_PoP.csv", 
+ "title": "State Wide Area Network (SWAN) Poin of Presence (PoP) ", 
+ "url": "http://data.gov.in/sites/default/files/List_of_SWAN_PoP.csv"
+}
+-----
 Sl. No.,State,Approved SHQ,Operational SHQ,Approved DHQ,Operational DHQ,Approved BHQ,Operational BHQ
 1,Tamil Nadu,1,1,30,30,677,676
 2,Haryana,1,1,22,22,126,124

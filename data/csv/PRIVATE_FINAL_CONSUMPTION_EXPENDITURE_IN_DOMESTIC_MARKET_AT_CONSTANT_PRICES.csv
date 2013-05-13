@@ -1,0 +1,50 @@
+-----
+{
+ "description": "This data provides details on private final consumption expenditure in domestic market at constant (2004-05) prices from 2004-05 to 2010-11.", 
+ "file_name": "PRIVATE_FINAL_CONSUMPTION_EXPENDITURE_IN_DOMESTIC_MARKET_AT_CONSTANT_PRICES.xls", 
+ "title": "Private Final Consumption Expenditure In Domestic Market At Constant Prices From 2004-05 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/PRIVATE_FINAL_CONSUMPTION_EXPENDITURE_IN_DOMESTIC_MARKET_AT_CONSTANT_PRICES.xls"
+}
+-----
+"Item","Group Name","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11"
+"food","food, beverages & tobacco",650364.0,682266.0,699894.0,743114.0,764185.0,766014.0,807961.0
+"cereals & bread","food, beverages & tobacco",165490.303764,171363.556407,175966.679497,185553.179163,185555.751526,173712.088257,188063.129664
+"pulses","food, beverages & tobacco",15872.6962357,16333.4435934,16700.3205028,17871.8208371,18090.248474,17938.9117433,21200.8703364
+"sugar & gur","food, beverages & tobacco",33339.0,33465.0,35657.0,39800.0,39613.0,38045.0,42238.0
+"oils & oilseeds","food, beverages & tobacco",37778.0,36423.0,33779.0,35913.0,36786.0,36592.0,43261.0
+"fruits & vegetables","food, beverages & tobacco",150855.0,160598.0,172051.0,178926.0,186320.0,189200.0,202403.0
+"potato & other tubers","food, beverages & tobacco",17046.0,17833.0,16319.0,20907.0,15556.0,24500.0,26339.0
+"milk & milk products","food, beverages & tobacco",134069.0,142107.0,144018.0,155194.0,168877.0,168233.0,162442.0
+"meat, egg & fish","food, beverages & tobacco",62424.0,65314.0,69444.0,72578.0,75779.0,78777.0,82318.0
+"coffee, tea & cocoa","food, beverages & tobacco",6153.0,6400.0,6480.0,6448.0,6501.0,7007.0,6361.0
+"spices ","food, beverages & tobacco",18213.0,21121.0,16010.0,16781.0,17376.0,15759.0,15366.0
+"other food","food, beverages & tobacco",9124.0,11308.0,13469.0,13142.0,13731.0,16250.0,17969.0
+"beverages","food, beverages & tobacco",27049.0,29554.0,33948.0,41995.0,43662.0,40527.0,47725.0
+"pan & other intoxicants","food, beverages & tobacco",12148.0,12799.0,12240.0,12437.0,12396.0,12551.0,12640.0
+"tobacco & its products","food, beverages & tobacco",42341.0,46014.0,45926.0,41614.0,50439.0,52946.0,56845.0
+"hotel & restaurants","food, beverages & tobacco",37598.0,47196.0,53890.0,60940.0,59199.0,60726.0,65660.0
+"clothing","clothing & footwear",108477.0,130007.0,164564.0,165631.0,175995.0,201461.0,206764.0
+"footwear","clothing & footwear",19352.0,23068.0,24220.0,32632.0,32106.0,37670.0,40886.0
+"gross rent & water charges","gross rent, fuel & power",181949.0,188451.0,193673.0,200294.0,206440.0,216521.0,225517.0
+"fuel & power","gross rent, fuel & power",84485.0,87949.0,93171.0,100147.0,104669.0,111426.0,118558.0
+"electricity","gross rent, fuel & power",18666.0,19531.0,21660.0,23595.0,25378.0,27679.0,30188.0
+"liquified petroleum gas","gross rent, fuel & power",16288.0,16623.0,17248.0,19926.0,19973.0,21493.0,23129.0
+"kerosene oil","gross rent, fuel & power",8738.0,8874.0,8841.0,8710.0,8653.0,8653.0,8653.0
+"other fuel","gross rent, fuel & power",40793.0,42921.0,45422.0,47916.0,50665.0,53601.0,56588.0
+"furniture, furnishing & repair","furniture, furnishings, appliances & services",8404.0,9847.0,10380.0,11047.0,11671.0,15132.0,16358.0
+"refrigerator, cooking, washing appliances etc","furniture, furnishings, appliances & services",13409.0,17376.0,21544.0,26884.0,31043.0,31989.0,39819.0
+"glassware, tableware & utensils","furniture, furnishings, appliances & services",15462.0,16751.0,20958.0,26331.0,31630.0,32490.0,36199.0
+"other goods","furniture, furnishings, appliances & services",17067.0,19489.0,22598.0,24466.0,25850.0,29499.0,31788.0
+"services","furniture, furnishings, appliances & services",10832.0,11576.0,12385.0,13263.0,14218.0,15261.0,16399.0
+"medical care & health services","medical care & health services",95560.0,103925.0,113008.0,118077.0,126204.0,137407.0,147851.0
+"personal transport equipment","transport & communication",35995.0,32376.0,37569.0,40341.0,42178.0,53008.0,66888.0
+"operation of personal  transport equipment","transport & communication",124528.0,130378.0,136701.0,142912.0,148237.0,155096.0,162560.0
+"purchase of transport services","transport & communication",180040.0,190976.0,203611.0,214498.0,224288.0,238319.0,254259.0
+"communication","transport & communication",31237.0,39635.0,51122.0,65326.0,84211.0,112449.0,144937.0
+"equipment, paper & stationery","recreation, education & cultural services",22522.0,26850.0,30798.0,36463.0,41365.0,45931.0,50797.0
+"recreation & cultural services","recreation, education & cultural services",2136.0,1362.0,1407.0,1491.0,1713.0,1460.0,1636.0
+"education","recreation, education & cultural services",32555.0,35276.0,36634.0,37629.0,37639.0,36550.0,36174.0
+"personal care & effects","miscellaneous goods & services",52082.0,58126.0,63275.0,69000.0,75468.0,83107.0,92002.0
+"personal goods n.e.c.","miscellaneous goods & services",30445.0,34195.0,37513.0,40490.0,45998.0,54372.0,55411.0
+"other miscellaneous services","miscellaneous goods & services",89555.0,114410.0,149659.0,212664.0,265679.0,310389.0,351413.0
+"private final consumption expenditure in domestic market","",1925592.0,2089852.0,2270688.0,2479686.0,2656483.0,2852301.0,3087047.0

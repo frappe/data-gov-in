@@ -1,0 +1,39 @@
+-----
+{
+ "description": "Data provides details on liabilities and assets of the Life Insurance Corporation of India (LIC) from 2001-02 to 2010-11.", 
+ "file_name": "LIABILITIES_AND_ASSETS_OF_THE_LIFE_INSURANCE_CORPORATION_OF_INDIA.xls", 
+ "title": "Liabilities And Assets of The Life Insurance Corporation of India From 2001-02 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/LIABILITIES_AND_ASSETS_OF_THE_LIFE_INSURANCE_CORPORATION_OF_INDIA.xls"
+}
+-----
+"Item","Group","2001-02","2002-03"," 2003-04","2004-05"," 2005-06","2006-07","2007-08","2008-09","2009-10","2010-11"
+"Capital Funds","Liabilities",50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0,50.0
+"Life insurance funds","Liabilities",2270105.0,2696578.0,3165842.0,3744911.0,4412455.6,5147105.2,6022735.6,7088518.2,8244774.0,9689128.0
+"Other insurance funds","Liabilities",23862.0,33361.0,47726.0,65311.0,84429.2,100981.6,843428.9,1006137.8,1750402.0,1822877.0
+"General reserve and other reserve funds","Liabilities",25019.0,25103.0,25914.0,30399.0,30152.8,30945.6,39115.9,39740.0,40254.0,64453.0
+"Profits and loss account","Liabilities","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Credit/Debit fair value change account","Liabilities",30414.0,17143.0,216726.0,282263.0,652224.5,620511.0,863719.0,277689.6,1138682.0,1244777.0
+"Outstandings Life insurance claims admitted or intimated but not paid","Liabilities",3198.0,2913.0,3360.0,3944.0,4934.1,6651.0,8347.6,10208.3,15445.0,19977.0
+"Other liabilities of life insurance business","Liabilities",100414.0,130900.0,213810.0,253451.0,340030.3,612207.0,260585.8,312638.0,330203.0,332060.0
+"Estimated liability in respect of outstanding claims of general insurance business","Liabilities","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Other sums owing to insurers","Liabilities",210.0,195.0,170.0,462.0,196.7,377.5,218.7,531.6,762.0,840.0
+"Contra accounts entry","Liabilities","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Mortgage on property","Assets",107636.0,103208.0,121720.0,119886.0,127463.0,163280.9,200892.4,228092.8,243372.0,227774.0
+"Loans on policies within their surrender values including A.N.F. advances","Assets",71554.0,85684.0,112697.0,150161.0,186535.0,201844.0,263230.3,337330.8,374403.0,411091.0
+"Loans on reversions and life interest","Assets","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Loans on stocks and shares","Assets","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Other loans (1)","Assets",163488.0,181855.0,201164.0,249872.0,237245.8,265690.4,268012.9,229347.6,212196.0,199962.0
+"Govt. securities and Govt. guaranteed bonds including Treasury Bills","Assets",1283855.0,1635005.0,2024345.0,2489071.0,2939244.0,3318690.7,3652329.8,4014414.7,4719389.0,5555407.0
+"Other approved securites ","Assets","NA","NA","NA","NA",225774.1,52620.7,223192.1,278747.2,294861.0,292033.0
+"Other investments","Assets","NA","NA","NA","NA",1185848.7,1396808.4,2143160.3,1952060.3,4098661.0,4326226.0
+"Investments in infrastructures and social section","Assets","NA","NA","NA","NA",258476.6,337299.3,416703.7,372561.9,613826.0,970532.0
+"Other than approved Investments","Assets","NA","NA","NA","NA",256461.0,365799.3,407416.0,708051.7,430237.0,538444.0
+"Provision for Doubtful Investments","Assets","NA","NA","NA","NA",11597.8,12916.7,14051.4,-17395.7,16792.0,-17357.0
+"Land and house property","Assets",5873.0,6528.0,7154.0,7713.0,8419.1,9273.0,15940.6,24206.0,24712.0,21516.0
+"Agents' balances","Assets",3595.0,4415.0,5015.0,5621.0,6361.3,6539.4,7459.4,8744.8,11359.0,13288.0
+"Outstanding premium","Assets",22905.0,29747.0,35204.0,36110.0,41046.2,50580.0,52567.7,54937.8,62871.0,68785.0
+"Amount due from other insurers","Assets",12.0,13.0,17.0,9.0,9.6,8.0,35.1,14.3,21.0,28.0
+"Accrued and outstanding interest,dividends and rents","Assets",87309.0,84398.0,69324.0,83800.0,86773.4,96001.1,127582.5,177010.2,231087.0,264624.0
+"Deposits,cash and stamps","Assets",71685.0,98170.0,100739.0,103540.0,123592.1,200958.5,197559.1,270290.3,149050.0,238914.0
+"Miscellaneous","Assets",54048.0,47349.0,47651.0,41633.0,56021.2,66351.9,76170.6,97098.7,71320.0,62895.0
+"Contra accounts entry","Assets","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"

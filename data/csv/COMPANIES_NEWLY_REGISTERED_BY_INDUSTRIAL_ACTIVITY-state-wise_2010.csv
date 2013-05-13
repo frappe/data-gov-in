@@ -1,0 +1,324 @@
+-----
+{
+ "description": "Data provides all India (from 2001 to 2011) and state/UT-wise (2010 and 2011) details of companies (public and private) newly created by industrial activity (number and authorised capital) as on 31st March.", 
+ "file_name": "COMPANIES_NEWLY_REGISTERED_BY_INDUSTRIAL_ACTIVITY.xls", 
+ "title": "Companies Newly Registered By Industrial Activity - Number And Authorised Capital As On 31st March ", 
+ "url": "http://data.gov.in/sites/default/files/COMPANIES_NEWLY_REGISTERED_BY_INDUSTRIAL_ACTIVITY.xls"
+}
+-----
+"State/U.T.","Classification","Public - No.","Public - Authorised Capital","Private - No. ","Private - Authorised Capital","Total - No.","Total - Authorised Capital"
+"Andhra Pradesh","Agriculture and Allied Activities",2.0,0.6,179.0,32.04,181.0,32.64
+"Arunachal Pradesh","Agriculture and Allied Activities","NA","NA",6.0,0.6,6.0,0.6
+"Assam","Agriculture and Allied Activities","NA","NA",21.0,5.6,21.0,5.6
+"Bihar","Agriculture and Allied Activities",2.0,5.05,32.0,4.12,34.0,9.17
+"Chhatisgarh","Agriculture and Allied Activities",4.0,10.1,17.0,6.04,21.0,16.14
+"Goa","Agriculture and Allied Activities","NA","NA",6.0,0.52,6.0,0.52
+"Gujarat","Agriculture and Allied Activities",2.0,0.15,60.0,3.2,62.0,3.35
+"Haryana","Agriculture and Allied Activities",4.0,1.6,29.0,8.13,33.0,9.73
+"Himachal Pradesh","Agriculture and Allied Activities","NA","NA",13.0,5.17,13.0,5.17
+"Jammu & Kashmir","Agriculture and Allied Activities","NA","NA",5.0,3.34,5.0,3.34
+"Jharkhand","Agriculture and Allied Activities",1.0,1.0,13.0,1.71,14.0,2.71
+"Karnataka","Agriculture and Allied Activities",1.0,0.05,76.0,12.98,77.0,13.03
+"Kerala","Agriculture and Allied Activities",4.0,1.85,54.0,4.91,58.0,6.76
+"Madhya Pradesh","Agriculture and Allied Activities",7.0,0.61,51.0,3.8,58.0,4.41
+"Maharashtra ","Agriculture and Allied Activities",13.0,7.06,291.0,30.83,304.0,37.89
+"Manipur","Agriculture and Allied Activities","NA","NA","NA","NA","NA","NA"
+"Meghalaya","Agriculture and Allied Activities",1.0,16.0,1.0,0.1,2.0,16.1
+"Mizoram","Agriculture and Allied Activities","NA","NA","NA","NA","NA","NA"
+"Nagaland","Agriculture and Allied Activities","NA","NA","NA","NA","NA","NA"
+"Orissa","Agriculture and Allied Activities",4.0,1.25,39.0,3.33,43.0,4.58
+"Punjab","Agriculture and Allied Activities","NA","NA",23.0,3.52,23.0,3.52
+"Rajasthan","Agriculture and Allied Activities",5.0,1.15,65.0,2.06,70.0,3.21
+"Sikkim","Agriculture and Allied Activities","NA","NA","NA",0.0,"NA","NA"
+"Tamil Nadu","Agriculture and Allied Activities",15.0,2.98,104.0,17.02,119.0,20.0
+"Tripura","Agriculture and Allied Activities","NA","NA",2.0,0.15,2.0,0.15
+"Uttar Pradesh","Agriculture and Allied Activities",2.0,4.0,63.0,19.12,65.0,23.12
+"Uttrakhand","Agriculture and Allied Activities","NA",0.0,8.0,1.2,8.0,1.2
+"West Bengal","Agriculture and Allied Activities",39.0,67.89,188.0,71.51,227.0,139.4
+"A. & N. Islands","Agriculture and Allied Activities","NA","NA",3.0,0.4,3.0,0.4
+"Chandigarh","Agriculture and Allied Activities","NA","NA",2.0,0.02,2.0,0.02
+"D. & N. Haveli","Agriculture and Allied Activities","NA","NA","NA","NA","NA","NA"
+"Delhi","Agriculture and Allied Activities",9.0,3.65,102.0,130.63,111.0,134.28
+"Daman & Diu","Agriculture and Allied Activities","NA","NA",1.0,0.01,1.0,"NA"
+"Lakshadweep","Agriculture and Allied Activities","NA","NA","NA","NA","NA","NA"
+"Puducherry","Agriculture and Allied Activities","NA","NA",2.0,0.06,2.0,0.06
+"Andhra Pradesh","Mining and Quarrying",4.0,0.4,101.0,40.32,105.0,40.72
+"Arunachal Pradesh","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Assam","Mining and Quarrying","NA","NA",5.0,1.24,5.0,1.24
+"Bihar","Mining and Quarrying","NA","NA",1.0,0.05,1.0,0.05
+"Chhatisgarh","Mining and Quarrying",1.0,0.1,24.0,5.75,25.0,5.85
+"Goa","Mining and Quarrying","NA","NA",17.0,2.73,17.0,2.73
+"Gujarat","Mining and Quarrying",4.0,22.15,21.0,4.87,25.0,27.02
+"Haryana","Mining and Quarrying",3.0,2.05,3.0,0.26,6.0,2.31
+"Himachal Pradesh","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Jammu & Kashmir","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Jharkhand","Mining and Quarrying",1.0,10.0,7.0,3.35,8.0,13.35
+"Karnataka","Mining and Quarrying","NA","NA",60.0,36.85,60.0,36.85
+"Kerala","Mining and Quarrying","NA","NA",26.0,4.04,26.0,4.04
+"Madhya Pradesh","Mining and Quarrying",3.0,0.7,34.0,73.02,37.0,73.72
+"Maharashtra ","Mining and Quarrying",6.0,0.4,125.0,40.87,131.0,41.27
+"Manipur","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Meghalaya","Mining and Quarrying","NA","NA",4.0,0.35,4.0,0.35
+"Mizoram","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Nagaland","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Orissa","Mining and Quarrying",1.0,0.1,53.0,26.56,54.0,26.66
+"Punjab","Mining and Quarrying",1.0,0.1,3.0,0.16,4.0,0.26
+"Rajasthan","Mining and Quarrying",1.0,0.5,126.0,9.04,127.0,9.54
+"Sikkim","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Tamil Nadu","Mining and Quarrying",1.0,1.0,40.0,37.79,41.0,38.79
+"Tripura","Mining and Quarrying","NA","NA",1.0,0.1,1.0,0.1
+"Uttar Pradesh","Mining and Quarrying",1.0,50.0,12.0,3.56,13.0,53.56
+"Uttrakhand","Mining and Quarrying","NA","NA",2.0,0.15,2.0,0.15
+"West Bengal","Mining and Quarrying",7.0,283.05,73.0,74.35,80.0,357.4
+"A. & N. Islands","Mining and Quarrying","NA","NA",2.0,0.2,"NA",0.2
+"Chandigarh","Mining and Quarrying","NA","NA",1.0,0.1,"NA",0.1
+"D. & N. Haveli","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Delhi","Mining and Quarrying",4.0,2.55,46.0,19.97,50.0,22.52
+"Daman & Diu","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Lakshadweep","Mining and Quarrying","NA","NA","NA","NA","NA","NA"
+"Puducherry","Mining and Quarrying","NA","NA",1.0,0.01,1.0,0.01
+"Andhra Pradesh","Manufacturing",17.0,65.04,713.0,282.35,730.0,347.39
+"Arunachal Pradesh","Manufacturing",2.0,1.1,3.0,0.3,5.0,1.4
+"Assam","Manufacturing",5.0,1.55,55.0,25.17,60.0,26.72
+"Bihar","Manufacturing",1.0,250.0,133.0,30.05,134.0,280.05
+"Chhatisgarh","Manufacturing",9.0,6.75,131.0,47.73,140.0,54.48
+"Goa","Manufacturing",3.0,20.1,37.0,8.41,40.0,28.51
+"Gujarat","Manufacturing",36.0,156.99,1361.0,687.62,1397.0,844.61
+"Haryana","Manufacturing",14.0,17.7,254.0,111.85,268.0,129.55
+"Himachal Pradesh","Manufacturing",3.0,55.03,24.0,5.19,27.0,60.22
+"Jammu & Kashmir","Manufacturing","NA","NA",17.0,3.12,17.0,3.12
+"Jharkhand","Manufacturing","NA","NA",82.0,47.71,82.0,47.71
+"Karnataka","Manufacturing",6.0,4.3,565.0,137.39,571.0,141.69
+"Kerala","Manufacturing",3.0,0.65,213.0,57.28,216.0,57.93
+"Madhya Pradesh","Manufacturing",12.0,15.7,279.0,64.0,291.0,79.7
+"Maharashtra ","Manufacturing",75.0,2646.83,2192.0,1263.41,2267.0,3910.24
+"Manipur","Manufacturing","NA","NA",1.0,0.1,1.0,0.1
+"Meghalaya","Manufacturing",6.0,1.5,5.0,3.2,11.0,4.7
+"Mizoram","Manufacturing","NA","NA","NA","NA","NA","NA"
+"Nagaland","Manufacturing","NA","NA","NA","NA","NA","NA"
+"Orissa","Manufacturing",8.0,2.25,167.0,89.6,175.0,91.85
+"Punjab","Manufacturing",30.0,41.5,221.0,70.89,251.0,112.39
+"Rajasthan","Manufacturing",8.0,3.38,517.0,70.87,525.0,74.25
+"Sikkim","Manufacturing","NA","NA","NA","NA","NA","NA"
+"Tamil Nadu","Manufacturing",26.0,42.56,954.0,692.76,980.0,735.32
+"Tripura","Manufacturing",1.0,1.0,1.0,0.06,2.0,1.06
+"Uttar Pradesh","Manufacturing",28.0,27.2,398.0,101.48,426.0,128.68
+"Uttrakhand","Manufacturing",2.0,1.5,55.0,16.27,57.0,17.77
+"West Bengal","Manufacturing","","","","","",""
+"A. & N. Islands","Manufacturing","NA","NA",2.0,0.2,2.0,0.2
+"Chandigarh","Manufacturing",6.0,11.2,74.0,26.75,80.0,37.95
+"D. & N. Haveli","Manufacturing","NA","NA",7.0,1.2,7.0,1.2
+"Delhi","Manufacturing",65.0,277.21,2088.0,898.95,2153.0,1176.16
+"Daman & Diu","Manufacturing",1.0,0.05,"NA","NA",1.0,0.05
+"Lakshadweep","Manufacturing","NA","NA",1.0,0.02,1.0,0.02
+"Puducherry","Manufacturing","NA","NA",29.0,5.16,29.0,5.16
+"Andhra Pradesh","Electricity,Gas and Water",16.0,25.6,244.0,48.95,260.0,74.55
+"Arunachal Pradesh","Electricity,Gas and Water",3.0,15.0,7.0,5.6,10.0,20.6
+"Assam","Electricity,Gas and Water",2.0,0.3,2.0,1.35,4.0,1.65
+"Bihar","Electricity,Gas and Water","NA","NA",2.0,0.15,2.0,0.15
+"Chhatisgarh","Electricity,Gas and Water",4.0,2.15,26.0,10.19,30.0,12.34
+"Goa","Electricity,Gas and Water","NA","NA",2.0,0.06,2.0,0.06
+"Gujarat","Electricity,Gas and Water",11.0,201.71,45.0,2.94,56.0,204.65
+"Haryana","Electricity,Gas and Water",1.0,0.1,17.0,1.68,18.0,1.78
+"Himachal Pradesh","Electricity,Gas and Water","NA","NA",31.0,6.83,31.0,6.83
+"Jammu & Kashmir","Electricity,Gas and Water",1.0,0.05,6.0,1.63,7.0,1.68
+"Jharkhand","Electricity,Gas and Water","NA","NA",2.0,0.08,2.0,0.08
+"Karnataka","Electricity,Gas and Water",5.0,2006.12,121.0,25.48,126.0,2031.6
+"Kerala","Electricity,Gas and Water",1.0,1.0,7.0,2.77,8.0,3.77
+"Madhya Pradesh","Electricity,Gas and Water",4.0,5.9,18.0,0.75,22.0,6.65
+"Maharashtra ","Electricity,Gas and Water",20.0,2518.0,182.0,278.27,202.0,2796.27
+"Manipur","Electricity,Gas and Water",1.0,230.0,"NA","NA",1.0,230.0
+"Meghalaya","Electricity,Gas and Water",5.0,3300.2,3.0,0.31,8.0,3300.51
+"Mizoram","Electricity,Gas and Water",2.0,0.3,87.1538461538,91.1419230769,63.3142857143,"NA"
+"Nagaland","Electricity,Gas and Water","NA","NA",94.5384615385,100.511868132,66.9035714286,"NA"
+"Orissa","Electricity,Gas and Water",4.0,2.15,101.923076923,109.881813187,70.4928571429,8.8
+"Punjab","Electricity,Gas and Water","NA","NA",109.307692308,119.251758242,74.0821428571,7.57
+"Rajasthan","Electricity,Gas and Water","NA9","NA201.51",116.692307692,128.621703297,77.6714285714,2.82
+"Sikkim","Electricity,Gas and Water",2.0,0.3,87.1538461538,91.1419230769,81.2607142857,"NA"
+"Tamil Nadu","Electricity,Gas and Water",10.0,111.9,110.0,45.53,120.0,157.43
+"Tripura","Electricity,Gas and Water","NA","NA","NA","NA","NA","NA"
+"Uttar Pradesh","Electricity,Gas and Water",8.0,610.15,7.0,5.15,15.0,615.3
+"Uttrakhand","Electricity,Gas and Water","NA","NA",5.0,2.16,5.0,2.16
+"West Bengal","Electricity,Gas and Water",16.0,18.55,40.0,8.21,56.0,26.76
+"A. & N. Islands","Electricity,Gas and Water","NA","NA","NA","NA","NA","NA"
+"Chandigarh","Electricity,Gas and Water",1.0,1.0,13.0,22.57,14.0,23.57
+"D. & N. Haveli","Electricity,Gas and Water","NA","NA","NA","NA","NA","NA"
+"Delhi","Electricity,Gas and Water",23.0,21.25,165.0,33.89,188.0,55.14
+"Daman & Diu","Electricity,Gas and Water","NA","NA",1.0,5.0,1.0,5.0
+"Lakshadweep","Electricity,Gas and Water","NA","NA","NA","NA","NA","NA"
+"Puducherry","Electricity,Gas and Water","NA","NA","NA","NA","NA","NA"
+"Andhra Pradesh","Constructions",17.0,9.25,537.0,217.78,554.0,227.03
+"Arunachal Pradesh","Constructions","NA","NA",3.0,25.2,3.0,25.2
+"Assam","Constructions",9.0,0.7,67.0,25.95,76.0,26.65
+"Bihar","Constructions",7.0,81.55,356.0,40.49,363.0,122.04
+"Chhatisgarh","Constructions",3.0,5.55,65.0,23.79,68.0,29.34
+"Goa","Constructions","NA","NA",13.0,0.52,13.0,0.52
+"Gujarat","Constructions",14.0,22.8,420.0,128.17,434.0,150.97
+"Haryana","Constructions",5.0,52.0,89.0,47.59,94.0,99.59
+"Himachal Pradesh","Constructions","NA","NA",55.0,1.63,55.0,1.63
+"Jammu & Kashmir","Constructions","NA","NA",25.0,25.1,25.0,25.1
+"Jharkhand","Constructions",3.0,202.25,130.0,32.81,133.0,235.06
+"Karnataka","Constructions",2.0,12.84,260.0,123.77,262.0,136.61
+"Kerala","Constructions",4.0,1.15,155.0,19.22,159.0,20.37
+"Madhya Pradesh","Constructions",13.0,3.3,211.0,21.47,224.0,24.77
+"Maharashtra ","Constructions",45.0,57.53,1362.0,295.36,1407.0,352.89
+"Manipur","Constructions","NA","NA",2.0,0.15,2.0,0.15
+"Meghalaya","Constructions","NA","NA",4.0,0.35,4.0,0.35
+"Mizoram","Constructions","NA","NA","NA","NA","NA","NA"
+"Nagaland","Constructions","NA","NA",5.0,3.11,5.0,3.11
+"Orissa","Constructions",16.0,152.9,191.0,37.26,207.0,190.16
+"Punjab","Constructions",1.0,0.05,48.0,5.24,49.0,5.29
+"Rajasthan","Constructions",13.0,1.35,364.0,30.57,377.0,31.92
+"Sikkim","Constructions","NA","NA","NA","NA","NA","NA"
+"Tamil Nadu","Constructions",10.0,30.75,389.0,66.33,399.0,97.08
+"Tripura","Constructions",2.0,0.1,3.0,0.75,5.0,0.85
+"Uttar Pradesh","Constructions",18.0,17.1,378.0,37.49,396.0,54.59
+"Uttrakhand","Constructions","NA","NA",25.0,3.65,25.0,3.65
+"West Bengal","Constructions",52.0,39.95,871.0,184.87,923.0,224.82
+"A. & N. Islands","Constructions","NA","NA","NA",5.0,0.26,5.0
+"Chandigarh","Constructions",23.57,1.0,0.05,19.0,1.39,20.0
+"D. & N. Haveli","Constructions","NA","NA","NA",2.0,0.15,2.0
+"Delhi","Constructions",55.14,23.0,44.5,956.0,187.91,979.0
+"Daman & Diu","Constructions",5.0,"NA","NA",1.0,0.01,1.0
+"Lakshadweep","Constructions","NA","NA","NA","NA","NA","NA"
+"Puducherry","Constructions","NA","NA","NA",31.0,1.31,31.0
+"Andhra Pradesh","Wholesale & Retail Trade and Restaurants and Hotels",2.0,0.75,281.0,74.68,283.0,75.43
+"Arunachal Pradesh","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",4.0,2.6,4.0,2.6
+"Assam","Wholesale & Retail Trade and Restaurants and Hotels",11.0,4.95,459.0,41.02,470.0,45.97
+"Bihar","Wholesale & Retail Trade and Restaurants and Hotels",3.0,0.65,162.0,16.51,165.0,17.16
+"Chhatisgarh","Wholesale & Retail Trade and Restaurants and Hotels",4.0,0.3,83.0,15.3,87.0,15.6
+"Goa","Wholesale & Retail Trade and Restaurants and Hotels",1.0,0.05,46.0,185.52,47.0,185.57
+"Gujarat","Wholesale & Retail Trade and Restaurants and Hotels",7.0,4.49,488.0,49.29,495.0,53.78
+"Haryana","Wholesale & Retail Trade and Restaurants and Hotels",1.0,0.05,183.0,25.53,184.0,25.58
+"Himachal Pradesh","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",23.0,1.78,23.0,1.78
+"Jammu & Kashmir","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",14.0,3.79,14.0,3.79
+"Jharkhand","Wholesale & Retail Trade and Restaurants and Hotels",1.0,0.05,73.0,15.34,74.0,15.39
+"Karnataka","Wholesale & Retail Trade and Restaurants and Hotels",4.0,5.2,325.0,61.78,329.0,66.98
+"Kerala","Wholesale & Retail Trade and Restaurants and Hotels",10.0,31.73,370.0,52.48,380.0,84.21
+"Madhya Pradesh","Wholesale & Retail Trade and Restaurants and Hotels",8.0,5.4,250.0,20.8,258.0,26.2
+"Maharashtra ","Wholesale & Retail Trade and Restaurants and Hotels",30.0,21.36,1653.0,370.56,1683.0,391.92
+"Manipur","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",4.0,1.11,4.0,1.11
+"Meghalaya","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",7.0,2.4,7.0,2.4
+"Mizoram","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",2.0,0.15,2.0,0.15
+"Nagaland","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",4.0,0.17,4.0,0.17
+"Orissa","Wholesale & Retail Trade and Restaurants and Hotels",10.0,1.3,147.0,70.22,157.0,71.52
+"Punjab","Wholesale & Retail Trade and Restaurants and Hotels",6.0,1.0,109.0,27.62,115.0,28.62
+"Rajasthan","Wholesale & Retail Trade and Restaurants and Hotels",20.0,1.68,689.0,39.69,709.0,41.37
+"Sikkim","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA","NA","NA","NA","NA"
+"Tamil Nadu","Wholesale & Retail Trade and Restaurants and Hotels",7.0,0.65,533.0,165.89,540.0,166.54
+"Tripura","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",10.0,1.6,10.0,1.6
+"Uttar Pradesh","Wholesale & Retail Trade and Restaurants and Hotels",2.0,1.05,236.0,28.62,238.0,29.67
+"Uttrakhand","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",43.0,9.45,43.0,9.45
+"West Bengal","Wholesale & Retail Trade and Restaurants and Hotels",39.0,53.83,5191.0,254.45,5230.0,308.28
+"A. & N. Islands","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",4.0,0.82,4.0,0.82
+"Chandigarh","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",80.0,9.94,80.0,9.94
+"D. & N. Haveli","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",13.0,0.13,13.0,0.13
+"Delhi","Wholesale & Retail Trade and Restaurants and Hotels",30.0,74.05,1393.0,310.4,1423.0,384.45
+"Daman & Diu","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",1.0,1.0,1.0,1.0
+"Lakshadweep","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA","NA","NA","NA","NA"
+"Puducherry","Wholesale & Retail Trade and Restaurants and Hotels","NA","NA",20.0,1.07,20.0,1.07
+"Andhra Pradesh","Transport, Storage and Communication",1.0,0.1,127.0,38.01,128.0,38.11
+"Arunachal Pradesh","Transport, Storage and Communication","NA","NA","NA","NA","NA","NA"
+"Assam","Transport, Storage and Communication",1.0,1.0,11.0,1.97,12.0,2.97
+"Bihar","Transport, Storage and Communication",1.0,0.05,7.0,1.95,8.0,2.0
+"Chhatisgarh","Transport, Storage and Communication","NA","NA",15.0,3.37,15.0,3.37
+"Goa","Transport, Storage and Communication","NA","NA",22.0,6.77,22.0,6.77
+"Gujarat","Transport, Storage and Communication",3.0,260.05,124.0,25.24,127.0,285.29
+"Haryana","Transport, Storage and Communication",4.0,37.05,37.0,8.58,41.0,45.63
+"Himachal Pradesh","Transport, Storage and Communication","NA","NA",3.0,0.07,3.0,0.07
+"Jammu & Kashmir","Transport, Storage and Communication","NA","NA",9.0,0.14,9.0,0.14
+"Jharkhand","Transport, Storage and Communication","NA","NA",5.0,0.62,5.0,0.62
+"Karnataka","Transport, Storage and Communication","NA","NA",132.0,56.51,132.0,56.51
+"Kerala","Transport, Storage and Communication","NA","NA",98.0,15.23,98.0,15.23
+"Madhya Pradesh","Transport, Storage and Communication",3.0,21.15,40.0,4.64,43.0,25.79
+"Maharashtra ","Transport, Storage and Communication",15.0,3026.6,412.0,65.66,427.0,3092.26
+"Manipur","Transport, Storage and Communication","NA","NA","NA","NA","NA","NA"
+"Meghalaya","Transport, Storage and Communication","NA","NA","NA","NA","NA","NA"
+"Mizoram","Transport, Storage and Communication","NA","NA","NA","NA","NA","NA"
+"Nagaland","Transport, Storage and Communication","NA","NA",1.0,"NA","NA","NA"
+"Orissa","Transport, Storage and Communication",2.0,1.5,39.0,9.44,41.0,10.94
+"Punjab","Transport, Storage and Communication","NA","NA",34.0,2.65,34.0,2.65
+"Rajasthan","Transport, Storage and Communication",2.0,100.05,83.0,3.85,85.0,103.9
+"Sikkim","Transport, Storage and Communication","NA","NA","NA","NA","NA","NA"
+"Tamil Nadu","Transport, Storage and Communication",9.0,5004.11,200.0,22.78,209.0,5026.89
+"Tripura","Transport, Storage and Communication","NA","NA",3.0,10.51,3.0,10.51
+"Uttar Pradesh","Transport, Storage and Communication",4.0,39.2,50.0,3.82,54.0,43.02
+"Uttrakhand","Transport, Storage and Communication","NA","NA",4.0,0.08,4.0,0.08
+"West Bengal","Transport, Storage and Communication",5.0,1.15,142.0,73.0,147.0,74.15
+"A. & N. Islands","Transport, Storage and Communication","NA","NA",3.0,0.3,3.0,0.3
+"Chandigarh","Transport, Storage and Communication","NA","NA",18.0,20.56,18.0,20.56
+"D. & N. Haveli","Transport, Storage and Communication",1.0,5.0,"NA","NA",1.0,5.0
+"Delhi","Transport, Storage and Communication",14.0,8.9,525.0,68.61,539.0,77.51
+"Daman & Diu","Transport, Storage and Communication","NA","NA","NA","NA","NA","NA"
+"Lakshadweep","Transport, Storage and Communication","NA","NA",2.0,0.02,2.0,0.02
+"Puducherry","Transport, Storage and Communication","NA","NA",2.0,0.12,2.0,0.12
+"Andhra Pradesh","Finance,Insurance,Real Estate and Business Services",20.0,35.2,1795.0,206.03,1815.0,241.23
+"Arunachal Pradesh","Finance,Insurance,Real Estate and Business Services","NA","NA",1.0,0.01,1.0,0.01
+"Assam","Finance,Insurance,Real Estate and Business Services",28.0,4.53,158.0,27.52,186.0,32.05
+"Bihar","Finance,Insurance,Real Estate and Business Services",16.0,2.1,273.0,16.06,289.0,18.16
+"Chhatisgarh","Finance,Insurance,Real Estate and Business Services",10.0,0.69,136.0,20.49,146.0,21.18
+"Goa","Finance,Insurance,Real Estate and Business Services",1.0,2.0,113.0,14.79,114.0,16.79
+"Gujarat","Finance,Insurance,Real Estate and Business Services",18.0,8.5,755.0,197.46,773.0,205.96
+"Haryana","Finance,Insurance,Real Estate and Business Services",6.0,0.37,541.0,161.46,547.0,161.83
+"Himachal Pradesh","Finance,Insurance,Real Estate and Business Services",1.0,0.05,79.0,4.03,80.0,4.08
+"Jammu & Kashmir","Finance,Insurance,Real Estate and Business Services","NA","NA",38.0,4.83,38.0,4.83
+"Jharkhand","Finance,Insurance,Real Estate and Business Services",2.0,0.45,186.0,14.78,188.0,15.23
+"Karnataka","Finance,Insurance,Real Estate and Business Services",14.0,11.6,1654.0,306.71,1668.0,318.31
+"Kerala","Finance,Insurance,Real Estate and Business Services",15.0,1089.73,672.0,45.2,687.0,1134.93
+"Madhya Pradesh","Finance,Insurance,Real Estate and Business Services",35.0,12.55,440.0,30.11,475.0,42.66
+"Maharashtra ","Finance,Insurance,Real Estate and Business Services",122.0,539.39,4444.0,1329.97,4566.0,1869.36
+"Manipur","Finance,Insurance,Real Estate and Business Services","NA","NA",5.0,0.66,5.0,0.66
+"Meghalaya","Finance,Insurance,Real Estate and Business Services","NA","NA",6.0,0.41,6.0,0.41
+"Mizoram","Finance,Insurance,Real Estate and Business Services","NA","NA",1.0,0.05,1.0,0.05
+"Nagaland","Finance,Insurance,Real Estate and Business Services","NA","NA",2.0,0.25,2.0,0.25
+"Orissa","Finance,Insurance,Real Estate and Business Services",21.0,11.51,304.0,29.94,325.0,41.45
+"Punjab","Finance,Insurance,Real Estate and Business Services",14.0,6.9,427.0,38.3,441.0,45.2
+"Rajasthan","Finance,Insurance,Real Estate and Business Services",24.0,6.9,663.0,36.69,687.0,43.59
+"Sikkim","Finance,Insurance,Real Estate and Business Services","NA","NA","NA","NA","NA","NA"
+"Tamil Nadu","Finance,Insurance,Real Estate and Business Services",41.0,101.53,1893.0,355.08,1934.0,456.61
+"Tripura","Finance,Insurance,Real Estate and Business Services","NA","NA",6.0,0.22,6.0,0.22
+"Uttar Pradesh","Finance,Insurance,Real Estate and Business Services",41.0,31.51,1348.0,144.15,1389.0,175.66
+"Uttrakhand","Finance,Insurance,Real Estate and Business Services",2.0,0.55,101.0,22.17,103.0,22.72
+"West Bengal","Finance,Insurance,Real Estate and Business Services",99.0,160.56,2000.0,382.41,2099.0,542.97
+"A. & N. Islands","Finance,Insurance,Real Estate and Business Services","NA","NA",4.0,0.18,4.0,0.18
+"Chandigarh","Finance,Insurance,Real Estate and Business Services",9.0,4.1,268.0,22.13,277.0,26.23
+"D. & N. Haveli","Finance,Insurance,Real Estate and Business Services",1.0,65.0,2.0,0.06,3.0,65.06
+"Delhi","Finance,Insurance,Real Estate and Business Services",86.0,680.35,5001.0,1010.42,5087.0,1690.77
+"Daman & Diu","Finance,Insurance,Real Estate and Business Services","NA","NA",4.0,25.77,4.0,25.77
+"Lakshadweep","Finance,Insurance,Real Estate and Business Services","NA","NA","NA","NA","NA","NA"
+"Puducherry","Finance,Insurance,Real Estate and Business Services","NA","NA",65.0,4.78,65.0,4.78
+"Andhra Pradesh","Community,Social and Personal Services",11.0,6.5,397.0,121.74,408.0,128.24
+"Arunachal Pradesh","Community,Social and Personal Services","NA","NA",1.0,0.1,1.0,0.1
+"Assam","Community,Social and Personal Services",1.0,0.1,28.0,9.58,29.0,9.68
+"Bihar","Community,Social and Personal Services",3.0,0.2,87.0,5.86,90.0,6.06
+"Chhatisgarh","Community,Social and Personal Services",3.0,3.17,30.0,3.25,33.0,6.42
+"Goa","Community,Social and Personal Services",0.0,0.0,25.0,0.63,25.0,0.63
+"Gujarat","Community,Social and Personal Services",7.0,7.05,152.0,18.46,159.0,25.51
+"Haryana","Community,Social and Personal Services",2.0,25.05,134.0,12.59,136.0,37.64
+"Himachal Pradesh","Community,Social and Personal Services","NA","NA",21.0,0.47,21.0,0.47
+"Jammu & Kashmir","Community,Social and Personal Services","NA","NA",21.0,0.63,21.0,0.63
+"Jharkhand","Community,Social and Personal Services","NA","NA",33.0,3.47,33.0,3.47
+"Karnataka","Community,Social and Personal Services",4.0,2.59,306.0,71.45,310.0,74.04
+"Kerala","Community,Social and Personal Services",8.0,7.25,118.0,31.71,126.0,38.96
+"Madhya Pradesh","Community,Social and Personal Services",6.0,0.35,105.0,11.81,111.0,12.16
+"Maharashtra ","Community,Social and Personal Services",24.0,47.45,1058.0,234.95,1082.0,282.4
+"Manipur","Community,Social and Personal Services","NA","NA","NA","NA","NA","NA"
+"Meghalaya","Community,Social and Personal Services",1.0,0.25,4.0,0.3,5.0,0.55
+"Mizoram","Community,Social and Personal Services","NA","NA","NA","NA","NA","NA"
+"Nagaland","Community,Social and Personal Services","NA","NA",1.0,10.0,1.0,10.0
+"Orissa","Community,Social and Personal Services",2.0,0.2,53.0,10.36,55.0,10.56
+"Punjab","Community,Social and Personal Services",2.0,0.71,83.0,4.68,85.0,5.39
+"Rajasthan","Community,Social and Personal Services",7.0,0.36,172.0,7.38,179.0,7.74
+"Sikkim","Community,Social and Personal Services","NA","NA","NA","NA","NA","NA"
+"Tamil Nadu","Community,Social and Personal Services",17.0,169.05,387.0,89.75,404.0,258.8
+"Tripura","Community,Social and Personal Services","NA","NA",2.0,10.03,2.0,10.03
+"Uttar Pradesh","Community,Social and Personal Services",8.0,1.95,321.0,38.45,329.0,40.4
+"Uttrakhand","Community,Social and Personal Services",2.0,1.01,43.0,2.23,45.0,3.24
+"West Bengal","Community,Social and Personal Services",20.0,126.65,313.0,43.01,333.0,169.66
+"A. & N. Islands","Community,Social and Personal Services","NA","NA",2.0,0.02,2.0,0.02
+"Chandigarh","Community,Social and Personal Services",2.0,1.05,53.0,4.72,55.0,5.77
+"D. & N. Haveli","Community,Social and Personal Services","NA","NA","NA","NA","NA","NA"
+"Delhi","Community,Social and Personal Services",41.0,31.1,1169.0,304.06,1210.0,335.16
+"Daman & Diu","Community,Social and Personal Services","NA","NA","NA","NA","NA","NA"
+"Lakshadweep","Community,Social and Personal Services","NA","NA",1.0,0.01,1.0,0.01
+"Puducherry","Community,Social and Personal Services","NA","NA",10.0,5.41,10.0,5.41

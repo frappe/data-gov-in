@@ -1,0 +1,31 @@
+-----
+{
+ "description": "Data provides details on achievement of policy, sum assured, premium income and growth of postal life insurance (PLI) and rural postal life insurance (RPLI) from 2001-02 to 2011-12.", 
+ "file_name": "GROWTH_OF_POSTAL_LIFE_INSURANCE_AND_RURAL_POSTAL_LIFE_INSURANCE.xls", 
+ "title": "Growth of Postal Life Insurance And Rural Postal Life Insurance From 2001-02 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/GROWTH_OF_POSTAL_LIFE_INSURANCE_AND_RURAL_POSTAL_LIFE_INSURANCE.xls"
+}
+-----
+"Year","Group","Policies procured during the year","Percentage growth over Previous year","Sum Assured","Percentage growth over Previous year","Premium Income","Percentage growth over Previous year"
+"2001-02","Achievement of policy - sum assured and premium income in PLI",172163.0,8.92,1710.02,20.27,501.85,13.19
+"2002-03","Achievement of policy - sum assured and premium income in PLI",212967.0,23.7,2110.21,23.4,590.84,17.73
+"2003-04","Achievement of policy - sum assured and premium income in PLI",276880.0,30.01,2846.66,34.9,698.17,18.17
+"2004-05","Achievement of policy - sum assured and premium income in PLI",344403.0,24.39,3830.64,34.57,904.58,29.56
+"2005-06","Achievement of policy - sum assured and premium income in PLI",364564.0,5.85,4533.2,19.86,1078.66,19.24
+"2006-07","Achievement of policy - sum assured and premium income in PLI",318058.0,-12.75,4146.67,-8.52,1211.78,12.34
+"2007-08","Achievement of policy - sum assured and premium income in PLI",355700.0,11.83,5020.62,21.08,1480.34,22.16
+"2008-09","Achievement of policy - sum assured and premium income in PLI",417832.0,17.47,7345.56,46.31,1860.52,25.68
+"2009-10","Achievement of policy - sum assured and premium income in PLI",597234.0,42.93,13366.22,81.96,2412.75,29.68
+"2010-11","Achievement of policy - sum assured and premium income in PLI",540743.0,-9.45,13519.25,1.14,3003.33,24.47
+"2011-12","Achievement of policy - sum assured and premium income in PLI",482423.0,-10.79,13288.16,-1.71,3681.03,22.56
+"2001-02","Achievement of policy - sum assured and premium income in RPLI",368527.0,127.19,1696.85,156.07,94.71,39.75
+"2002-03","Achievement of policy - sum assured and premium income in RPLI",702542.0,90.64,3347.94,97.3,171.36,80.93
+"2003-04","Achievement of policy - sum assured and premium income in RPLI",1083152.0,54.18,5949.97,77.72,245.32,43.16
+"2004-05","Achievement of policy - sum assured and premium income in RPLI",1335847.0,23.33,7207.96,21.14,380.87,55.25
+"2005-06","Achievement of policy - sum assured and premium income in RPLI",1443818.0,8.08,8822.86,22.4,475.09,24.74
+"2006-07","Achievement of policy - sum assured and premium income in RPLI",1268826.0,-12.12,11116.59,26.0,601.02,26.51
+"2007-08","Achievement of policy - sum assured and premium income in RPLI",1200582.0,-5.38,9644.3,-13.24,664.7,10.6
+"2008-09","Achievement of policy - sum assured and premium income in RPLI",926371.0,-22.84,8732.77,-9.45,879.24,32.27
+"2009-10","Achievement of policy - sum assured and premium income in RPLI",4027863.0,334.8,13648.99,56.29,1357.31,54.37
+"2010-11","Achievement of policy - sum assured and premium income in RPLI",3636036.0,-9.72,9610.94,-29.58,1111.48,-18.11
+"2011-12","Achievement of policy - sum assured and premium income in RPLI",2714856.0,-25.36,9089.0,-5.43,1558.94,40.26

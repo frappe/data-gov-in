@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table shows details of number of new species identified from different surveys of different states.", 
+ "file_name": "TABLE_6.xls", 
+ "title": "State-wise Status of new Specifies identified from new different surveys. ", 
+ "url": "http://data.gov.in/sites/default/files/TABLE_6.xls"
+}
+-----
 "States/UT's","Protozoa","Rotifera","Nematoda","Mollusca","Annelida","Crustacea","Cladocera","Decapoda","Insecta","Odonata","Orthoptera","Hemiptera","Homoptera","Coleoptera","Lepidoptera","Arachnida","Echinodermata","Fishes","Amphibia","Reptilia","Mammalia"
 "Andhra Pradesh","NA","NA",3.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",28.0,"NA","NA","NA"
 "Assam",7.0,"NA",2.0,"NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA",3.0,"NA","NA","NA"

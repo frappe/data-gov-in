@@ -1,0 +1,32 @@
+-----
+{
+ "description": "This data provides details on receipts and payments of post office life insurance fund account from 2000-01 to 2011-12.", 
+ "file_name": "POST_OFFICE_LIFE_INSURANCE_FUND_ACCOUNT_1.xls", 
+ "title": "Post Office Life Insurance Fund Account From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/POST_OFFICE_LIFE_INSURANCE_FUND_ACCOUNT_1.xls"
+}
+-----
+"Particular","Group","2000-01","2001-02","2002-03","2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Balance at the beginning  of the year","Receipts",3853.95,4462.26,5090.16,5797.3,6619.81,7678.43,8933.59,10338.97,12081.7,14152.59,16656.02,19801.92
+"Premia realised","Receipts",436.16,502.66,591.67,698.88,905.42,1079.79,1213.24,1482.21,1862.52,2415.21,3006.24,3684.06
+"Medical fee realised","Receipts","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Cost of assignment fees(Dup.Fee)","Receipts",0.0004,0.0002,0.0002,0.0002,0.0001,"NA","NA","NA","NA","NA",0.01,0.01
+"Fines realised","Receipts",0.42,0.41,0.55,0.58,0.68,0.69,0.49,0.28,0.67,1.63,1.65,3.13
+"Loans-principal","Receipts",23.12,26.02,27.62,29.04,26.24,30.93,29.78,27.13,31.75,39.58,47.57,48.62
+"Loans-interest","Receipts",2.28,3.59,3.93,4.29,8.35,5.68,6.11,6.69,9.29,12.64,14.94,18.01
+"Misc. receipts","Receipts",0.001,0.0003,0.0003,0.0001,0.001,0.003,0.003,"NA",0.007,"NA","NA","NA"
+"Interest on balance","Receipts",410.29,432.37,468.78,476.38,550.08,640.15,738.78,857.11,999.8,1187.96,1297.42,1067.89
+"Total Receipts","",4726.2214,5427.3105,6182.7105,7006.4703,8110.5811,9435.673,10921.993,12712.39,14985.737,17809.61,21023.85,24623.64
+"Policies paid (Maturity  and Death)","Payments",140.3,189.39,223.1,230.96,301.32,351.75,405.82,407.46,575.74,852.05,868.23,1164.63
+"Monthly allowance paid","Payments","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Surrender value paid","Payments",50.64,63.17,79.76,70.88,29.7,29.81,31.73,30.57,39.48,39.89,34.81,53.84
+"Medical fees paid","Payments",0.17,0.2,0.2,0.25,0.25,0.26,0.27,0.27,0.4,0.43,0.27,0.31
+"Refunds","Payments",0.92,1.22,1.38,1.29,1.52,1.83,1.95,2.14,2.67,4.09,4.57,6.17
+"Refund of M.E.","Payments","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Refunds of loan interest","Payments","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Loan payment on principle","Payments",30.81,35.18,41.23,41.17,33.51,42.85,42.48,52.81,65.47,63.29,72.62,104.79
+"Postal establishment including printing etc.","Payments",41.12,47.99,39.74,42.11,65.85,75.58,100.77,137.44,149.38,193.84,241.43,283.34
+"Refunds of assign non fees","Payments","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Misc. charges ","Payments","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"Total Payments","",263.96,337.15,385.41,386.66,432.15,502.08,583.02,630.69,833.14,1153.59,1221.93,1613.08
+"Balance at the end of year (Total Receipt-Total Payments)","",4462.2614,5090.1605,5797.3005,6619.8103,7678.4311,8933.593,10338.973,12081.7,14152.597,16656.02,19801.92,23010.56

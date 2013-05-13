@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents data on R&D expenditure by major scientific agencies in the country since 1958-59 onwards. The data is collected and compiled as a part of National Survey on R&D resources by DST, New Delhi, Government of India.", 
+ "file_name": "Expenditure_On_Research_and_Development_By_Major_Scientific_Agencies.xls", 
+ "title": "Expenditure On Research and Development By Major Scientific Agencies ", 
+ "url": "http://data.gov.in/sites/default/files/Expenditure_On_Research_and_Development_By_Major_Scientific_Agencies.xls"
+}
+-----
 "Agency/Year","1958-59","1970-71","1980-81","1990-91","1995-96","2000-01","2001-02","2002-03","2003-04","2004-05","2005-06"
 "Council of Scientific & Industrial Research",509.94,2155.73,6900.0,24918.8,41169.99,86412.0,89226.0,100965.0,107454.0,126647.0,142704.02
 "Defence Research & Development Org.",150.0,1755.35,7970.0,68100.0,139540.0,335932.0,317275.0,300811.0,344318.0,371527.0,528333.0

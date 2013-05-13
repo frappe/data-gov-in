@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956 for year ended 31st March, 2012. Report has been published by The Ministry of Corporate Affairs, Government of India.", 
+ "file_name": "Paid-up_Capital_of_Non-Govt_Companies_Ltd_by_Shares_As_On_31st_March_12-Ind_Activity_Wise_1.xls", 
+ "title": "Paid-up Capital of Non-Government Companies Limited By Shares As On 31st March 2012 - Distribution By Industrial Activity ", 
+ "url": "http://data.gov.in/sites/default/files/Paid-up_Capital_of_Non-Govt_Companies_Ltd_by_Shares_As_On_31st_March_12-Ind_Activity_Wise_1.xls"
+}
+-----
+"Industrial Classification","Public Limited - No. of Companies","Public Limited - Paid up Capital*","Private Limited - No. of Companies","Private Limited - Paid up Capital*","Total No. of Companies","Total Paid up Capital*"
+"Agriculture, Foresty and Fishing ",1893.0,6314.53,14104.0,6222.97,15997.0,12537.5
+"Mining & Quarrying",622.0,12119.38,7701.0,4469.99,8323.0,16589.37
+"Manufacturing",16456.0,202524.26,143938.0,159556.41,160394.0,362080.67
+"Electricity, Gas & Water Companies",1359.0,86479.33,6762.0,32446.0,8121.0,118925.33
+"Construction.",3942.0,51975.22,68153.0,65236.29,72095.0,117211.51
+"Trade, Hotels and Restaurants",5097.0,29716.59,105964.0,60535.2,111061.0,90251.79
+"Transport, Storage and Communications",1180.0,32388.86,20486.0,20374.85,21666.0,52763.71
+"Finance, Insurance, Real Estate & Business Services",14730.0,143801.92,183868.0,131295.84,198598.0,275097.76
+"Community, Personal & Social Services",2508.0,29108.1,34070.0,22279.02,36578.0,51387.12
+"Unclassified",4665.0,59973.25,36188.0,47471.14,40853.0,107444.39
+"TOTAL",52452.0,654401.44,621234.0,549887.71,673686.0,1204289.15

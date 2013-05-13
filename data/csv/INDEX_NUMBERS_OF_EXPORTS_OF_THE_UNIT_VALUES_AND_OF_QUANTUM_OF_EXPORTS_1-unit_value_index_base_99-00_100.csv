@@ -1,0 +1,58 @@
+-----
+{
+ "description": "This data provides commodity head-wise index numbers of exports of the unit values and of quantum of exports from 2000-01 to 2011-12.", 
+ "file_name": "INDEX_NUMBERS_OF_EXPORTS_OF_THE_UNIT_VALUES_AND_OF_QUANTUM_OF_EXPORTS_1.xls", 
+ "title": "Index Numbers Of Exports Of The Unit Values And Of Quantum Of Exports From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/INDEX_NUMBERS_OF_EXPORTS_OF_THE_UNIT_VALUES_AND_OF_QUANTUM_OF_EXPORTS_1.xls"
+}
+-----
+"Commodity Heads","2000-01","  2001-02","  2002-03","2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12"
+"Food and Live Animals",108.0,109.0,108.0,113.0,121.0,126.0,139.0,142.0,175.0,191.0,195.0,216.0
+"Meat and Meat Preparations",112.0,111.0,104.0,106.0,126.0,137.0,153.0,173.0,239.0,256.0,274.0,321.0
+"Fish, Crustaceans, Molluscs and Aquatic Invertebrates and preparations Thereof",116.0,117.0,116.0,117.0,113.0,111.0,130.0,133.0,146.0,158.0,166.0,191.0
+" Cereals and cereal  preparations",101.0,106.0,106.0,113.0,131.0,139.0,145.0,177.0,241.0,234.0,218.0,233.0
+"Vegetables and fruit & Nuts",101.0,100.0,100.0,104.0,118.0,119.0,129.0,129.0,148.0,170.0,185.0,211.0
+"Coffee, Tea, Cocoa, Spices,  & Manufactrues Thereof",98.0,97.0,95.0,99.0,106.0,122.0,135.0,132.0,158.0,169.0,179.0,208.0
+"Oilseed Cake (Feeding Stuff for Animals)",99.0,97.0,102.0,122.0,118.0,114.0,124.0,126.0,156.0,184.0,166.0,171.0
+"Beverages and Tobacco",106.0,107.0,109.0,106.0,111.0,112.0,131.0,136.0,203.0,244.0,229.0,240.0
+"Tobacco  and Tobacco Manufactures",107.0,109.0,110.0,106.0,112.0,112.0,127.0,131.0,193.0,232.0,223.0,227.0
+"Crude Materials,Inedible, except Fuels",103.0,101.0,101.0,118.0,140.0,162.0,288.0,374.0,381.0,411.0,522.0,736.0
+"Taxtile Fibres & Their Wastes",109.0,107.0,110.0,116.0,133.0,129.0,143.0,154.0,163.0,178.0,187.0,269.0
+"Minerals (Exc coal, Petroleum, Crude fertiliser, Sulphur & Precious Stones)",104.0,106.0,105.0,104.0,105.0,114.0,135.0,117.0,117.0,152.0,137.0,167.0
+"Metalliferous Ores & Metal Scrap",113.0,112.0,113.0,142.0,183.0,225.0,437.0,656.0,630.0,668.0,1029.0,1235.0
+"Crude Animal & Vegetable Materials",104.0,98.0,98.0,97.0,111.0,120.0,134.0,121.0,146.0,153.0,156.0,412.0
+"Mineral Fuels, Lubricants,& Related Materials",121.0,139.0,171.0,169.0,221.0,296.0,346.0,377.0,411.0,358.0,383.0,521.0
+"Coal, Coke & Briquettes",121.0,140.0,167.0,174.0,171.0,168.0,215.0,206.0,165.0,276.0,270.0,297.0
+"Petroleum, Petroleum Products & Related Materials",100.0,96.0,118.0,117.0,154.0,206.0,241.0,263.0,295.0,257.0,275.0,374.0
+"Gas, Natural & Manufactured",100.0,100.0,100.0,102.0,107.0,118.0,122.0,129.0,143.0,154.0,168.0,213.0
+"Animal and Vegetable Oils, Fats & Waxes ",96.0,96.0,109.0,138.0,137.0,132.0,133.0,136.0,178.0,164.0,200.0,262.0
+"Fixed Vegetable Fats & Oils, Crude, Refined or Fractionated",99.0,99.0,118.0,138.0,137.0,130.0,129.0,139.0,183.0,172.0,210.0,275.0
+"Chemicals & Related Products",101.0,99.0,98.0,106.0,117.0,129.0,133.0,137.0,142.0,163.0,170.0,240.0
+"Organic Chemicals",102.0,102.0,102.0,115.0,127.0,142.0,152.0,150.0,144.0,210.0,206.0,262.0
+"Dyeing, Tanning & Colouring Materials",100.0,98.0,96.0,96.0,97.0,95.0,105.0,105.0,121.0,113.0,120.0,134.0
+"Medicinal & Pharmaceutical Products",101.0,99.0,96.0,96.0,93.0,101.0,97.0,106.0,107.0,106.0,111.0,190.0
+"Plastics in Primary & Non-Primary form",102.0,101.0,106.0,111.0,143.0,150.0,153.0,151.0,169.0,157.0,176.0,218.0
+"Insecticides, rodenticides, Fungicides, Herbicides",100.0,103.0,100.0,101.0,104.0,114.0,103.0,104.0,"..",97.0,93.0,112.0
+"Starches, Inulin & Wheat gluten, albuminoidal substances, glues",100.0,98.0,98.0,101.0,164.0,184.0,162.0,160.0,184.0,175.0,191.0,206.0
+"Manufactured Goods Classified Chiefly By Material",100.0,99.0,100.0,114.0,130.0,131.0,149.0,149.0,164.0,157.0,185.0,228.0
+"Leather, Leather Manufactures & Dressed Furskins",100.0,113.0,120.0,127.0,124.0,120.0,125.0,121.0,125.0,109.0,107.0,120.0
+"Textile yearn, Fabrics, Made-Up Articles & Related Products",100.0,99.0,98.0,97.0,103.0,102.0,101.0,104.0,106.0,121.0,129.0,142.0
+"Pearls & Precious Or Sempirecious Stones, Unworked or  Worked",100.0,98.0,116.0,111.0,121.0,121.0,149.0,140.0,147.0,150.0,198.0,293.0
+"Iron & Steel",109.0,107.0,112.0,123.0,173.0,166.0,188.0,209.0,257.0,216.0,218.0,222.0
+"Tools for use in the hand or in machines",100.0,103.0,108.0,110.0,131.0,132.0,140.0,158.0,169.0,166.0,169.0,159.0
+"Machinery & transport Equipment",99.0,99.0,112.0,116.0,126.0,126.0,136.0,146.0,190.0,209.0,211.0,211.0
+"Power-Generating Machinery & Equipment",99.0,98.0,114.0,116.0,115.0,114.0,176.0,174.0,305.0,314.0,320.0,269.0
+"Machinery Specialized for Particular Industries",100.0,99.0,98.0,97.0,99.0,100.0,104.0,106.0,108.0,107.0,117.0,119.0
+"Metalworking Machinery",101.0,97.0,100.0,106.0,110.0,111.0,118.0,118.0,113.0,201.0,191.0,237.0
+"General Industrial Machinery & Equipment & machine Parts",100.0,103.0,104.0,105.0,123.0,122.0,124.0,129.0,170.0,170.0,167.0,169.0
+"Office Machines & Automatic Data Processing Machines",105.0,108.0,116.0,111.0,108.0,112.0,114.0,112.0,110.0,108.0,104.0,127.0
+"Telecommunications & Sound recording & Reproducing Apparatus & Equipment",102.0,104.0,103.0,100.0,101.0,104.0,144.0,132.0,120.0,122.0,129.0,123.0
+"Electrical Machinery, Appartus & Appliances, and Electrical Parts Thereof",99.0,100.0,118.0,117.0,118.0,118.0,137.0,156.0,154.0,152.0,155.0,219.0
+"Road Vehicles & Parts & Accessories",98.0,94.0,107.0,117.0,135.0,135.0,127.0,137.0,179.0,184.0,182.0,180.0
+"Other Transport Equipment",98.0,100.0,93.0,91.0,96.0,94.0,91.0,92.0,130.0,138.0,135.0,147.0
+"Miscellaneous Manufactured Articles",101.0,106.0,106.0,107.0,131.0,132.0,116.0,116.0,159.0,159.0,204.0,249.0
+"Travel Goods, Handbags & Similar Containers",100.0,103.0,108.0,109.0,110.0,123.0,133.0,142.0,162.0,175.0,166.0,178.0
+"Articles of Apparel and Clothing Accessories",101.0,107.0,105.0,105.0,116.0,115.0,120.0,121.0,144.0,148.0,147.0,222.0
+"Footwear",103.0,111.0,114.0,122.0,132.0,131.0,139.0,140.0,157.0,155.0,149.0,179.0
+"Miscellaneous Manufactured Articles",100.0,100.0,107.0,116.0,155.0,164.0,171.0,171.0,275.0,272.0,307.0,310.0
+"General Index","NA",103.0,106.0,114.0,131.0,139.0,158.0,166.0,194.0,196.0,223.0,268.0

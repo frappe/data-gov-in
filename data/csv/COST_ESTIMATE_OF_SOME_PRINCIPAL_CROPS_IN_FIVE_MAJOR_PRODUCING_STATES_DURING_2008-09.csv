@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives cost estimates of some principal crops in Five Major Producing States During 2008-09.", 
+ "file_name": "COST_ESTIMATE_OF_SOME_PRINCIPAL_CROPS_IN_FIVE_MAJOR_PRODUCING_STATES_DURING_2008-09.xls", 
+ "title": "Cost Estimates of some Principal Crops in Five Major Producing States During 2008-09 ", 
+ "url": "http://data.gov.in/sites/default/files/COST_ESTIMATE_OF_SOME_PRINCIPAL_CROPS_IN_FIVE_MAJOR_PRODUCING_STATES_DURING_2008-09.xls"
+}
+-----
 "Crop","State","Cost of Cultivation (`/Hectare) A2+FL","Cost of Cultivation (`/Hectare) C2","Cost of Production (`/Quintal) C2","Yield (Quintal/ Hectare) "
 "ARHAR","Uttar Pradesh",9794.05,23076.74,1941.55,9.83
 "ARHAR","Karnataka",10593.15,16528.68,2172.46,7.47

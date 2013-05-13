@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Total of newborns (live births) weighted within 24 Hrs of birth during reporting month at Sub-Centre, Community Health Centre, Primary Health Centre, District Hospital, Sub-divisional Hospital are reported. Data Source for this data element is Pregnancy Register/ Labour Room Register.", 
+ "file_name": "No_Of_Newborns_Weighed_At_Birth_1.csv", 
+ "title": "Number of Newborns Weighed At Birth in India 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/No_Of_Newborns_Weighed_At_Birth_1.csv"
+}
+-----
 State/UT/Agency,Achievements 2009-10# Total No. of live births reported,Achievements 2009-10# Number of newborns weighed at Birth,Achievements 2010-11# Total No. of live births reported,Achievements 2010-11# Number of newborns weighed at Birth
 Arunachal Pradesh,"9,817","9,353","11,091","10,463"
 Assam,"501,287","412,727","493,321","413,646"

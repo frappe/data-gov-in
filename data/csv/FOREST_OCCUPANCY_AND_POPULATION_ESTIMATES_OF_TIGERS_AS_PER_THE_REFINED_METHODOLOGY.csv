@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table provides State-wise data on forest occupancy and population estimates of tigers as per the refined methodology.", 
+ "file_name": "FOREST_OCCUPANCY_AND_POPULATION_ESTIMATES_OF_TIGERS_AS_PER_THE_REFINED_METHODOLOGY.xls", 
+ "title": "Forest occupancy and population estimates of tigers as per the refined methodology ", 
+ "url": "http://data.gov.in/sites/default/files/FOREST_OCCUPANCY_AND_POPULATION_ESTIMATES_OF_TIGERS_AS_PER_THE_REFINED_METHODOLOGY.xls"
+}
+-----
 "States","Area Km2","Tiger No.","Tiger Lower Limit","Tiger Upper Limit"
 "Uttarakhand",1901.0,178.0,161.0,195.0
 "Uttar Pradesh",2766.0,109.0,91.0,127.0

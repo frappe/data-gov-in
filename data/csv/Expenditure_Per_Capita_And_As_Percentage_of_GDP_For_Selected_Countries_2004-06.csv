@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents Per Capita Research And Development expenditure, Per Capita GDP expenditure and Research And Development expenditure as percentage of GDP figures for select countries from 2004 to 2006. The data are taken from the UNESCO, World Bank and DST, New Delhi.", 
+ "file_name": "Expenditure_Per_Capita_And_As_Percentage_of_GDP_For_Selected_Countries_2004-06.xls", 
+ "title": "Research And Development Expenditure Per Capita And As Percentage of GDP For Selected Countries: 2004-06 ", 
+ "url": "http://data.gov.in/sites/default/files/Expenditure_Per_Capita_And_As_Percentage_of_GDP_For_Selected_Countries_2004-06.xls"
+}
+-----
 "Sl. No","Country","Per Capita R&D in US $","Per Capita GDP in US $","R&D Exp. as % GDP"
 1.0,"Argentina ",27.2131147541,5493.35897436,0.49
 2.0,"Australia ",559.345238095,37168.1428571,1.78

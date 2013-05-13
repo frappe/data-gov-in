@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table shows state-wise number of project proposals not found suitable for funding by DBT in financial year 2010-2011 and 2011-2012. These number of projects are not found suitable based on scientific merit and techno-economic feasibility in biotechnology sector by the expert committee.  ", 
+ "file_name": "Statewise_Number_of_Projects_Not_Found_Suitable_For_Funding_During_2010-2012.xls", 
+ "title": "State-wise Number of Projects Not Found Suitable for Funding During 2010 to 2012 ", 
+ "url": "http://data.gov.in/sites/default/files/Statewise_Number_of_Projects_Not_Found_Suitable_For_Funding_During_2010-2012.xls"
+}
+-----
 "Number of Project Not Found Suitable Statewise","Financial Year[2010-11]","Financial Year[2011-12]"
 "Andaman and Nicobar",2.0,0.0
 "Andhra Pradesh",44.0,31.0

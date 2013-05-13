@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives All India (from 2000 to 2011) and State-wise (2010 and 2011) number of Under Graduate Institutes and Admission Capacity under Ayush Systems as on 1st April.", 
+ "file_name": "Under_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems.xls", 
+ "title": "Under Graduate Institutes And Admission Capacity Under Ayush Systems As On 1st April ", 
+ "url": "http://data.gov.in/sites/default/files/Under_Graduate_Institutes_And_Admission_Capacity_Under_Ayush_Systems.xls"
+}
+-----
 "States/ UTs","Ayurveda - No.","Ayurveda - Cap","Unani - No.","Unani - Cap","Siddha - No.","Siddha - Cap","Naturopathy - No.","Naturopathy - Cap","Homoeopathy - No.","Homoeopathy - Cap","Total - No.","Total - Cap"
 2000.0,184.0,7316.0,37.0,1438.0,2.0,150.0,5.0,180.0,145.0,7725.0,373.0,16809.0
 2001.0,196.0,7145.0,39.0,1410.0,2.0,150.0,6.0,170.0,166.0,9330.0,409.0,18205.0

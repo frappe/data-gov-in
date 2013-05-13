@@ -1,0 +1,24 @@
+-----
+{
+ "description": "Data provides details on the receipts under corporation tax from 2000-01 to 2011-12 in head of account such as Minor Head-Other Receipts, Head-Income Tax on Companies, Minor Head-sur Tax Net Receipts.", 
+ "file_name": "RECEIPTS__UNDER_CORPORATION_TAX.xls", 
+ "title": "Receipts Under Corporation Tax From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/RECEIPTS__UNDER_CORPORATION_TAX.xls"
+}
+-----
+"Head of Account","2000-01","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12(P)"
+"Minor Head-Other Receipts - Net Receipts",0.83,0.07," -",1.43,16.98,2.36,7.48,391.19,684.44
+"Head-Income Tax on Companies - Net Receipts",31428.16,73719.52,89938.83,126554.82,171070.67,184841.02,211357.68,260970.16,284415.3
+"Minor Head-Sur Tax Net Receipts","NA","NA","NA","NA","NA","NA","NA",0.01,9.13
+"Minor Head-Surcharge - Net Receipts",1274.54,"26.28.11",3729.92,5333.03,6518.92,9263.87,9768.76,8218.4,14625.79
+"Minor Head-Penalties ",7.74,22.84,277.03,101.98,292.38,176.5,2847.2,144.05,397.14
+"Minor Head-Interest Recoveries ",2461.21,491.62,239.68,521.97,546.56,701.84,896.75,1039.08,1475.68
+"Receipts under Kar Vivad Samadhan Scheme",1.16,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Tax on distributed profits of domestic comp.",272.44,4088.22,5801.33,8454.52,8197.72,11721.06,12615.04,18994.85,16839.68
+"Tax on distributed income to Unit Holders ",250.18,497.8,399.89,395.18,435.76,346.82,172.14,302.58,236.56
+"Education Cess","NA",1166.96,621.39,2824.88,3798.05,4145.87,4708.5,5754.49,4175.9
+"Secondary & Higher Education Cess","NA","NA","NA","NA",1889.52,2067.7,2351.5,2873.08,"NA"
+"Total Minor Heads",35696.26,82615.14,101008.07,144187.81,192766.56,213267.04,244725.05,298687.89,322859.6
+"Receipts Awaiting Transfer  to other Minor Heads","NA","NA","NA","NA","NA","NA","NA","NA","NA"
+"ADD CTDS                                                                ","NA",64.44,"NA","NA","NA","NA","NA","NA","NA"
+"Total Corporation Tax (based on Total Minor heads and ADD CTDS above)",35696.26,82679.58,101008.07,144187.81,192766.56,213267.04,244725.05,298687.89,322859.6

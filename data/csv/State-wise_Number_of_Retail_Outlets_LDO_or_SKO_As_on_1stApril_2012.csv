@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of State-wise number of Retail outlets, LDO/SKO dealers and LPG distributors as 01.04.2012 in India.", 
+ "file_name": "State-wise_Number_of_Retail_Outlets_LDO_or_SKO_As_on_1stApril_2012.xls", 
+ "title": "State-wise Number of Retail Outlets, LDO/SKO, Dealers and LPG Distributors as on April 2012 ", 
+ "url": "http://data.gov.in/sites/default/files/State-wise_Number_of_Retail_Outlets_LDO_or_SKO_As_on_1stApril_2012.xls"
+}
+-----
 "State / UT","Retail Outlets","LDO/SKO Dealers","LPG Distributors"
 "Andhra Pradesh",3794.0,603.0,1184.0
 "Arunachal Pradesh",49.0,33.0,32.0

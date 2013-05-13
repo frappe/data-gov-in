@@ -1,0 +1,31 @@
+-----
+{
+ "description": "This data provides All India (2001 to 2011) and State-wise (2008 to 2011) details on surfaced length of National Highways and surfaced length of State Highways as on 31st March for below standard single lane, standard single lane, standard double lane and standard multi lane.", 
+ "file_name": "LENGTH_OF_NATIONAL_AND_STATE_HIGHWAYS_BY_WIDTH_1.XLS", 
+ "title": "All India And State-wise Length Of National And State Highways - By Width As On 31st March 2011 ", 
+ "url": "http://data.gov.in/sites/default/files/LENGTH_OF_NATIONAL_AND_STATE_HIGHWAYS_BY_WIDTH_1.XLS"
+}
+-----
+"Year","Group Name","Below standard single lane","Standard","Standard double lane","Standard multi lane","Total"
+2001.0,"Surfaced Length of National Highways","NA",22444.0,33969.0,1266.0,57679.0
+2002.0,"Surfaced Length of National Highways","NA",19190.0,36510.0,2306.0,58006.0
+2003.0,"Surfaced Length of National Highways","NA",19505.0,35699.0,2802.0,58006.0
+2004.0,"Surfaced Length of National Highways","NA",19564.0,39167.0,6627.0,65358.0
+2005.0,"Surfaced Length of National Highways","NA",19564.0,39167.0,6627.0,65358.0
+2006.0,"Surfaced Length of National Highways","NA",21496.0,37238.0,7856.0,66590.0
+2007.0,"Surfaced Length of National Highways","NA",20878.0,37401.0,8311.0,66590.0
+2008.0,"Surfaced Length of National Highways","NA",18104.0,38621.0,10029.0,66754.0
+2009.0,"Surfaced Length of National Highways","NA",20116.0,37346.0,13086.0,70548.0
+2010.0,"Surfaced Length of National Highways","NA",18131.0,37488.0,15315.0,70934.0
+2011.0,"Surfaced Length of National Highways","NA",17102.0,36650.0,17182.0,70934.0
+2001.0,"Surfaced Length of State Highways",22869.0,66000.0,29320.0,1585.0,129862.0
+2002.0,"Surfaced Length of State Highways",21115.0,68604.0,32237.0,2020.0,135546.0
+2003.0,"Surfaced Length of State Highways",15418.0,67708.0,30263.0,928.0,132937.0
+2004.0,"Surfaced Length of State Highways",14812.0,65211.0,31733.0,1471.0,113227.0
+2005.0,"Surfaced Length of State Highways",15726.0,86986.0,35374.0,2189.0,140275.0
+2006.0,"Surfaced Length of State Highways",15538.0,88604.0,37806.0,2610.0,144558.0
+2007.0,"Surfaced Length of State Highways",42330.0,42330.0,36343.0,2305.0,149143.0
+2008.0,"Surfaced Length of State Highways",41629.0,67449.0,39339.0,2742.0,151159.0
+2009.0,"Surfaced Length of State Highways",15465.0,85252.0,5114.0,4845.0,156716.0
+2010.0,"Surfaced Length of State Highways",11251.0,86646.0,54223.0,6082.0,158202.0
+2011.0,"Surfaced Length of State Highways",11175.0,86093.0,58093.0,6559.0,161920.0

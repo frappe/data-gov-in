@@ -1,0 +1,24 @@
+-----
+{
+ "description": "Data provides details on life insurance revenue account of the Life Insurance Corporation of India from 2001-02 to 2010-11.", 
+ "file_name": "LIFE_INSURANCE_REVENUE_ACCOUNT_OF_THE_LIFE_INSURANCE_CORPORATION_OF_INDIA.xls", 
+ "title": "Life Insurance Revenue Account of The Life Insurance Corporation of India From 2001-02 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/LIFE_INSURANCE_REVENUE_ACCOUNT_OF_THE_LIFE_INSURANCE_CORPORATION_OF_INDIA.xls"
+}
+-----
+"Item","Group","2001-02","2002-03","2003-04","2004-05","2005-06","2006-07","2007-08","2008-09","2009-10","2010-11"
+"Premium for Life Insurance and Annuities/ single(including consideration for  annuities granted)","Income",90961.0,53460.0,52298.0,50086.0,147878.4,263372.2,337745.6,340384.7,453374.0,507470.0
+"First Years","Income",104902.0,106260.0,117522.0,115652.0,137271.6,298805.5,262188.7,191323.9,261736.0,362473.0
+"Renewal","Income",302196.0,386384.0,461486.0,542841.0,622442.0,715644.9,897121.6,1040156.9,1144749.0,1163638.0
+"Net Interest- Dividends and Rents (1)","Income",238492.0,259896.0,298559.0,370559.0,400464.0,456823.9,555221.7,427757.2,1123951.0,958336.0
+"Other receipts","Income",1247.0,3553.0,1125.0,2064.0,13412.8,9601.1,11352.2,3183.8,3405.0,809.0
+"Claims by death","Outgo",21435.0,25444.0,29397.0,33050.0,37690.4,44433.2,52504.0,59615.9,70337.0,80102.0
+"Claims by survival","Outgo",122182.0,144355.0,166507.0,203560.0,247434.2,320939.0,319551.8,347441.4,469212.0,495477.0
+"Surrenders including Bonus in reduction  of premium","Outgo",22942.0,25663.0,31553.0,33392.0,37343.5,159553.1,180245.9,97323.6,224088.0,497925.0
+"Annuities less re-insurance","Outgo",10161.0,12006.0,14116.0,16355.0,19775.4,21896.4,23932.4,28122.8,37705.0,49960.0
+"Transfer of Reserve","Outgo",2724.0,87726.0,75724.0,12590.0,3012.2,4754.9,3352.7,12239.7,-4182.0,-1566.0
+"Commission to Insurance agents","Expenses of management ",45179.0,49986.0,57339.0,61987.0,70949.2,91690.7,95681.0,100332.4,121103.0,133087.0
+"Other Expenses","Expenses of management ",42604.0,45718.0,51929.0,62413.0,60415.6,70808.6,83093.2,90642.9,122458.0,169803.0
+"Indian Dominion and Foreign taxes","Expenses of management ",8682.0,12586.0,15063.0,53652.0,39677.5,46708.0,35104.5,33484.8,36253.0,39732.0
+"Miscellaneous","Expenses of management ",8139.0,4970.0,5518.0,6966.0,6217.7,7578.1,8295.9,9291.2,10309.0,11376.0
+"Increase to Life Insurance Fund","Expenses of management ",453750.0,401020.0,483844.0,597244.0,798953.0,975885.6,1261868.4,1224311.8,1899932.0,1516830.0

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table consists of product wise, group wise and year wise production of major petrochemicals products during 2006-07 to 2012-13 (upto September 2012) in India. Production figures have been aggregated based on Monthly Production returns received directly by the Department of Chemicals and...", 
+ "file_name": "Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12.xls", 
+ "title": "Production of Major Petrochemicals - Product-wise / Group-wise from 2006-07 to 2012-13 (upto September 2012) ", 
+ "url": "http://data.gov.in/sites/default/files/Production_of_Major_Petrochemicals_ProductWise_or_GroupWise_2006-07_to_2012-13_upto_Sep12.xls"
+}
+-----
 "Major Groups","Products","2006-07","2007-08","2008-09","2009-10","2010-11","2011-12","2012-13 (April to Sep.)"
 "SYNTHETIC FIBRES / YARN","Polyester Filament Yarn (PFY)   ",1194.0,1350.0,1262.0,1345.0,1496.0,1490.0,748.0
 "SYNTHETIC FIBRES / YARN","Nylon Filament Yarn (NFY)     ",32.0,28.0,28.0,30.0,33.0,30.0,11.0

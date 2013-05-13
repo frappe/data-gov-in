@@ -1,3 +1,11 @@
+-----
+{
+ "description": "The table presents State specific poverty lines in rural and urban areas for the year 2009-10. The poverty line is defined in terms of Monthly Per Capita Consumption Expenditure (MPCE).  These are computed based on the Tendulkar Committee Methodology.   ", 
+ "file_name": "Poverty_Lines_2009-10.xls", 
+ "title": "Poverty Lines 2009-10 ", 
+ "url": "http://data.gov.in/sites/default/files/Poverty_Lines_2009-10.xls"
+}
+-----
 "Sr. No.","States and UTs"," Rural ","Urban "
 1.0,"Andhra Pradesh",693.820459438,926.365676696
 2.0,"Arunachal Pradesh",773.651644221,925.249150977

@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This is the summary table giving data regarding Educational Institutions, Scholars and Expenditure on education. Thus this table gives a general idea of the educational development in the country from 2000-01 onwards.", 
+ "file_name": "EDUCATION_INSTITUTIONS_SCHOOLS_AND_EXPENDITURE.xls", 
+ "title": "Educational Institutions, Scholars And Expenditure (All India) ", 
+ "url": "http://data.gov.in/sites/default/files/EDUCATION_INSTITUTIONS_SCHOOLS_AND_EXPENDITURE.xls"
+}
+-----
 "Year","Number of institutions University/Colleges(*)","Number of institutions Schools(#)","Number of institutions Total","University/Colleges Total","University/Colleges Women","   Schools(@) Total","   Schools(@) Women","    Total for Colleges and Schools Total","    Total for Colleges and Schools Women","Public Expenditure in Rs Crores GDP at Current Prices (at factor cost)  ","Public Expenditure in Rs Crores Total Expenditure by  all Sectors  ","Public Expenditure in Rs Crores Expenditure on Education by Education & Other Deptts. ","Public Expenditure in Rs Crores Expenditure on Education by  Education & Other Deptts. as %age of  Public Expenditure","Public Expenditure in Rs Crores Expenditure on Education by Education & Other Deptts as %age of GDP"
 " 2000-01",13062.0,971054.0,984116.0,8.4,3.31,184.2,78.0,192.6,81.31,1925017.0,572160.14,82486.48,14.42,4.28
 " 2001-02",11418.0,1017159.0,1028577.0,9.24,3.6,189.2,81.1,198.44,84.7,2097726.0,619713.14,79865.7,12.89,3.81

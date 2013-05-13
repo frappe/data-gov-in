@@ -1,3 +1,11 @@
+-----
+{
+ "description": "This table gives State-wise details of cumulative grid interactive renewable power installed capacity for the period 31-3-2010 to 31-3-2011.", 
+ "file_name": "State-wise_details_of_cumulative_grid_interactive_renewable_power_installed_capacity_1.xls", 
+ "title": "State-Wise Details of Cumulative Grid Interactive Renewable Power Installed Capacity ", 
+ "url": "http://data.gov.in/sites/default/files/State-wise_details_of_cumulative_grid_interactive_renewable_power_installed_capacity_1.xls"
+}
+-----
 "STATES / UT","Small Hydro Power - 31.03.2010 (MW)","Small Hydro Power - 31.03.2011 (MW)","Wind Power - 31.03.2010 (MW)","Wind Power - 31.03.2011 (MW)","Biomass Power - 31.03.2010 (MW)","Biomass Power - 31.03.2011 (MW)","Waste to Energy - 31.03.2010 (MW)","Waste to Energy - 31.03.2011 (MW)","Solar Power - 31.03.2010 (MWp)","Solar Power- 31.03.2011 (MWp)","Total Capacity 31.03.2010 ","Total Capacity 31.03.2011"
 "Andhra Pradesh",186.83,191.43,136.1,191.5,363.25,363.25,35.66,43.16,0.1,2.1,721.94,791.44
 "Arunachal Pradesh",73.42,78.84,"NA","NA","NA","NA","NA","NA",0.025,0.025,73.445,78.865

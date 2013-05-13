@@ -1,0 +1,21 @@
+-----
+{
+ "description": "Data provides details on foreign exchange reserves in Indian currency and foreign exchange reserves in US dollar from 2000-01 to 2011-12.", 
+ "file_name": "FOREIGN_EXCHANGE_RESERVES.xls", 
+ "title": "Foreign Exchange Reserves From 2000-01 To 2011-12 ", 
+ "url": "http://data.gov.in/sites/default/files/FOREIGN_EXCHANGE_RESERVES.xls"
+}
+-----
+"End of Year","Gold (Tonnes)","Gold (US Dollar million)","RTP (US Dollar million)","SDR (Million)","SDR (US Dollar million)","Foreign Currency Assets (US Dollar million)","Total (US Dollar million)"
+"2000-01",358.0,2725.0,"NA",2.0,2.0,39554.0,42281.0
+"2001-02",358.0,3047.0,"NA",8.0,10.0,51049.0,54106.0
+"2002-03",358.0,3534.0,672.0,3.0,4.0,71890.0,76100.0
+"2003-04",358.0,4198.0,1311.0,2.0,2.0,107448.0,112959.0
+"2004-05 ",358.0,4500.0,1438.0,3.0,5.0,135571.0,141514.0
+"2005-06",358.0,5755.0,756.0,2.0,3.0,145108.0,151622.0
+"2006-07",358.0,6784.0,469.0,1.0,2.0,191924.0,199179.0
+"2007-08",358.0,10039.0,436.0,11.0,18.0,299230.0,309723.0
+"2008-09",358.0,9577.0,981.0,1.0,1.0,241426.0,251985.0
+"2009-10",558.0,17986.0,1380.0,3297.0,5006.0,254685.0,279057.0
+"2010-11",558.0,22972.0,2947.0,2882.0,4569.0,274330.0,304818.0
+"2011-12",558.0,27023.0,2836.0,2882.0,4469.0,260069.0,294397.0

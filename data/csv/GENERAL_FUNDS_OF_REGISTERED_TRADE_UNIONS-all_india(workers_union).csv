@@ -1,0 +1,18 @@
+-----
+{
+ "description": "Data provides all India (from 2000 to 2008) and state-wise (2007 and 2008) details on general funds of registered trade unions (workers' unions, employers' unions, workers' central union and workers' state union).", 
+ "file_name": "GENERAL_FUNDS_OF_REGISTERED_TRADE_UNIONS.xls", 
+ "title": "General Funds of Registered Trade Unions ", 
+ "url": "http://data.gov.in/sites/default/files/GENERAL_FUNDS_OF_REGISTERED_TRADE_UNIONS.xls"
+}
+-----
+"Year","No. of unions submitting returns","Opening balance","Income","Expenditure","Closing balance (Opening Bal plus Income plus Expenditure)"
+2000.0,7231.0,640660.0,746360.0,594066.0,792955.0
+2001.0,6531.0,896421.0,621986.0,530213.0,988194.0
+2002.0,7734.0,497367.0,625454.0,534046.0,588776.0
+2003.0,7229.0,1070296.0,943281.0,673315.0,1340262.0
+2004.0,5217.0,1152992.0,698341.0,562783.0,1288549.0
+2005.0,8255.0,1682183.0,1160918.0,885297.0,1957804.0
+2006.0,8411.0,1532879.0,1156581.0,898036.0,1791424.0
+2007.0,7405.0,675545.0,429715.0,429637.0,675623.0
+2008.0,9702.0,1042493.0,1138082.0,809874.0,1370701.0

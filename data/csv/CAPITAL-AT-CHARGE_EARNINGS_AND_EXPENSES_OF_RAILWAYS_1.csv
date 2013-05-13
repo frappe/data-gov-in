@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides details on capital-at-charge, gross earnings, working expenses, net earnings, percentage of working expenses to gross earnings and percentage of net earnings to total capital-at-charge of Indian Railways from 2000-01 to 2010-11.", 
+ "file_name": "CAPITAL-AT-CHARGE_EARNINGS_AND_EXPENSES_OF_RAILWAYS_1.xls", 
+ "title": "Capital-At-Charge/Earnings And Expenses Of Railways From 2000-01 To 2010-11 ", 
+ "url": "http://data.gov.in/sites/default/files/CAPITAL-AT-CHARGE_EARNINGS_AND_EXPENSES_OF_RAILWAYS_1.xls"
+}
+-----
+"Year","Total Capital-at-Charge (1) (in Million)","Gross earnings (in Million)","Working expenses (in Million)","Net earnings (in Million)","Percentage of working expenses to gross earnings","Percentage of Net earnings to total Capital-at Charge (2)"
+"2000-01  ",356609.0,352876.0,347012.0,5864.0,98.34,1.64
+"2001-02",400380.0,378585.0,363515.0,15071.0,96.02,3.76
+"2002-03",443018.0,411477.0,379969.0,31509.0,92.34,7.11
+"2003-04",496164.0,428422.0,394711.0,33710.0,92.13,6.79
+"2004-05",551093.0,470383.0,427955.0,42427.0,90.98,7.7
+"2005-06",604258.0,544046.0,455463.0,88583.0,83.72,14.66
+"2006-07",666109.0,623705.0,490215.0,133490.0,78.68,20.04
+"2007-08",737450.0,716447.0,544064.0,172383.0,76.94,23.5
+"2008-09",832904.0,798371.0,722220.0,76151.0,90.46,8.55
+"2009-10",1002014.0,871046.0,829930.0,41116.0,95.28,4.25
+"2010-11",1185862.0,945254.0,894742.0,50512.0,94.6,4.4

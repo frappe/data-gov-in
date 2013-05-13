@@ -1,0 +1,20 @@
+-----
+{
+ "description": "This data provides all India (2001 to 2011) and state-wise (2009 to 2011) details on educational and family background of juveniles arrested under Indian Penal Code (IPC) and Special and Local Laws (SLL).", 
+ "file_name": "EDUCATIONAL_AND_FAMILY_BACKGROUND_OF_JUVENILES_ARRESTED_UNDER_IPC_SPECIAL_AND_LOCAL_LAWS.xls", 
+ "title": "All India And State-wise Educational And Family Background Of Juveniles Arrested Under IPC And Special And Local Laws ", 
+ "url": "http://data.gov.in/sites/default/files/EDUCATIONAL_AND_FAMILY_BACKGROUND_OF_JUVENILES_ARRESTED_UNDER_IPC_SPECIAL_AND_LOCAL_LAWS.xls"
+}
+-----
+"Year","Illiterate","Primary","Above Primary but below Matric/Hr.Sec","Matric/Higher Sec. and above","Total","Living with parents","Living with guardians","Homeless","Total"
+2001.0,7898.0,15943.0,7937.0,1850.0,33628.0,27020.0,4075.0,2533.0,33628.0
+2002.0,11323.0,13273.0,9350.0,1833.0,35779.0,27891.0,5692.0,2196.0,35779.0
+2003.0,9618.0,13505.0,7581.0,2616.0,33320.0,26435.0,4729.0,2156.0,33320.0
+2004.0,9273.0,10771.0,8848.0,2051.0,30943.0,23701.0,4922.0,2320.0,30943.0
+2005.0,8660.0,12394.0,9508.0,2119.0,32681.0,25398.0,4564.0,2719.0,32681.0
+2006.0,7975.0,12688.0,9405.0,2077.0,32145.0,24990.0,4958.0,2197.0,32145.0
+2007.0,7926.0,12659.0,10620.0,3322.0,34527.0,27074.0,5099.0,2354.0,34527.0
+2008.0,9069.0,12544.0,10072.0,2822.0,34507.0,27807.0,4852.0,1848.0,34507.0
+2009.0,7781.0,11653.0,10461.0,3747.0,33642.0,26633.0,4657.0,2352.0,33642.0
+2010.0,6339.0,11086.0,9855.0,3023.0,30303.0,24549.0,4082.0,1672.0,30303.0
+2011.0,6122.0,12803.0,10519.0,4443.0,33887.0,27577.0,4386.0,1924.0,33887.0

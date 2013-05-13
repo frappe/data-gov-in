@@ -1,0 +1,45 @@
+-----
+{
+ "description": "This data provides number of combined, rural and urban occupied residential houses and households in the country for the year 2001 and 2011. It also gives details on number of households per 100 occupied residential houses and number of persons per 100 households for the year 1991, 2001 and 2011.", 
+ "file_name": "OCCUPIED_RESIDENTIAL_HOUSES_AND_HOUSEHOLDS_IN_THE_COUNTRY.xls", 
+ "title": "Combined Rural And Urban Occupied Residential Houses And Households In The Country ", 
+ "url": "http://data.gov.in/sites/default/files/OCCUPIED_RESIDENTIAL_HOUSES_AND_HOUSEHOLDS_IN_THE_COUNTRY.xls"
+}
+-----
+"All-India/State/ Union Territory","Number of Occupied Residential Houses-2001","Number of Households-2001","No. of Households per 100 Occupied Residential Houses-1991","No. of Households per 100 Occupied Residential Houses-2001","No. of Persons per 100 Households-1991","No. of Persons per 100 Households-2001"
+"All-India (*)",129052642.0,137747384.0,103.0,107.0,557.0,539.0
+"Andhra Pradesh",12031434.0,12607167.0,103.0,105.0,471.0,439.0
+"Arunachal Pradesh",153275.0,166468.0,111.0,109.0,502.0,523.0
+"Assam",4098056.0,4203976.0,101.0,103.0,592.0,552.0
+"Bihar",11526194.0,12407132.0,109.0,108.0,616.0,599.0
+"Chattisgarh",3136705.0,3273647.0,"NA",104.0,"NA",509.0
+"Goa",133576.0,145229.0,105.0,109.0,508.0,466.0
+"Gujarat",4879464.0,5941858.0,102.0,122.0,563.0,534.0
+"Haryana",2149368.0,2541980.0,103.0,118.0,659.0,591.0
+"Himachal Pradesh",1057113.0,1079797.0,101.0,102.0,548.0,508.0
+"Jammu and Kashmir",954989.0,1167108.0,"NA",122.0,"NA",654.0
+"Jharkhand",3454965.0,3736524.0,"NA",108.0,"NA",561.0
+"Karnataka",6159451.0,6725882.0,102.0,109.0,560.0,519.0
+"Kerala",4870794.0,5010259.0,101.0,103.0,522.0,471.0
+"Madhya Pradesh",7335647.0,7996300.0,103.0,109.0,568.0,555.0
+"Maharashtra",10536031.0,11173512.0,103.0,106.0,523.0,499.0
+"Manipur",287969.0,273098.0,103.0,95.0,617.0,629.0
+"Meghalaya",319718.0,333119.0,100.0,104.0,544.0,560.0
+"Mizoram",76802.0,86951.0,100.0,113.0,584.0,515.0
+"Nagaland",258177.0,263129.0,100.0,102.0,573.0,626.0
+"Orissa",6222511.0,6618547.0,107.0,106.0,531.0,473.0
+"Punjab",2545919.0,2796284.0,102.0,110.0,607.0,576.0
+"Rajasthan",6794027.0,7054434.0,101.0,104.0,609.0,614.0
+"Sikkim",87507.0,101225.0,100.0,116.0,534.0,475.0
+"Tamil Nadu",8037691.0,8284383.0,101.0,103.0,436.0,422.0
+"Tripura",516637.0,539713.0,101.0,104.0,530.0,492.0
+"Uttar Pradesh",19384400.0,20373081.0,104.0,105.0,619.0,646.0
+"Uttarakhand",1124346.0,1185737.0,"NA",105.0,"NA",532.0
+"West Bengal",10568663.0,11270822.0,102.0,107.0,554.0,512.0
+"A. & N. Islands",48081.0,51866.0,100.0,108.0,482.0,463.0
+"Chandigarh",19716.0,22580.0,100.0,115.0,363.0,408.0
+"D. & N. Haveli",31357.0,33938.0,105.0,108.0,533.0,501.0
+"Daman and Diu",21348.0,23204.0,106.0,109.0,550.0,435.0
+"Delhi",155705.0,179804.0,101.0,115.0,535.0,525.0
+"Lakshadweep",5260.0,5664.0,102.0,108.0,604.0,595.0
+"Puducherry",69746.0,72966.0,111.0,105.0,477.0,447.0

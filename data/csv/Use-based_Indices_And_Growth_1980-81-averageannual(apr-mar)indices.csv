@@ -1,3 +1,11 @@
+-----
+{
+ "description": "Index of Industrial Production (Base: 1980-81=100) at use-based industry level indices (NIC-1970) with weights from April 1990 to March 1998, annual average (Apr-Mar) indices and growth over corresponding period of previous year.", 
+ "file_name": "Use-based_Indices_And_Growth_1980-81.xls", 
+ "title": "Monthly Time Series Use-based Indices And Growth (1980-81 Series)  ", 
+ "url": "http://data.gov.in/sites/default/files/Use-based_Indices_And_Growth_1980-81.xls"
+}
+-----
 "Period","Basic Goods","Capital Goods","Intermediate Goods","Total","Consumer Goods Durables","Consumer Goods Non-durables","GENERAL"
 "1990-91",213.0,291.8,177.1,188.0,359.0,167.3,212.6
 "1991-92",226.9,266.8,173.2,190.8,320.5,175.1,213.9

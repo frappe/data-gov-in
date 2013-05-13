@@ -1,0 +1,13 @@
+-----
+{
+ "description": "Data provides details on non-government companies (both liquidated and struck-off) which ceased working during 2010-11 (region / state-wise distribution). This data is based upon 56th Annual Report on the Working and Administration of the Companies Act, 1956 for year ended 31st March, 2012. Report...", 
+ "file_name": "Non-Govt_Companies_Which_Ceased_Working_During_2010-11_Region_State_Wise.xls", 
+ "title": "Non-Government Companies Which Ceased Working During 2010-11 - Region / State-wise Distribution ", 
+ "url": "http://data.gov.in/sites/default/files/Non-Govt_Companies_Which_Ceased_Working_During_2010-11_Region_State_Wise.xls"
+}
+-----
+"Region","No. of Companies - Public","No. of Companies - Private","No. of Companies - Total","Paid up Capital - Public","Paid up Capital - Private","Paid up Capital - Total"
+"NORTHERN REGION",716.0,6919.0,7635.0,154.04,258.84,412.88
+"EASTERN REGION",348.0,3012.0,3360.0,69.55,150.27,219.82
+"WESTERN  REGION",571.0,6816.0,7387.0,145.09,429.2,574.29
+"SOUTHERN REGION",784.0,4596.0,5380.0,145.2802,247.31,392.5902

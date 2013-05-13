@@ -1,0 +1,32 @@
+-----
+{
+ "description": "Data provides all India (from 2000-01 to 2010-11) and state-wise (2009-10 and 2010-11) details on the total number and amount of money orders.", 
+ "file_name": "TOTAL_NUMBER_AND_AMOUNT_OF_MONEY_ORDERS.xls", 
+ "title": "Total Number of Money Orders And Amount of Money Orders ", 
+ "url": "http://data.gov.in/sites/default/files/TOTAL_NUMBER_AND_AMOUNT_OF_MONEY_ORDERS.xls"
+}
+-----
+"Circle","Indian Money Orders issued and paid in India - Number issued (lakh)- 2009-10","Indian Money Orders issued and paid in India - Number issued (lakh)- 2010-11","Indian Money Orders issued and paid in India - Amount issued (crore)- 2009-10","Indian Money Orders issued and paid in India - Amount issued (crore)- 2010--11","Foreign Money Orders issued and paid in India - Outward Paid (Number)- 2009-10","Foreign Money Orders issued and paid in India - Outward Paid (Number)- 2010-11","Foreign Money Orders issued and paid in India - Inward Paid (Number)- 2009-10","Foreign Money Orders issued and paid in India - Inward Paid (Number)- 2010-11","Foreign Money Orders issued and paid in India - Outward Issued (thousand)-2009-10","Foreign Money Orders issued and paid in India - Outward Issued (thousand)-2010-11","Foreign Money Orders issued and paid in India - Inward Issued ( thousand)- 2009-10","Foreign Money Orders issued and paid in India - Inward Issued ( thousand)- 2010-11"
+"Andhra Pradesh",16.22,15.92,241.7,207.81,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Assam",5.12,2.66,43.49,49.41,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Bihar",5.61,2.41,73.76,66.68,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Chhattisgarh",1.6,2.96,37.9,47.33,"","","","","","","",""
+"Delhi",10.53,9.3,136.5,154.83,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Gujarat ",19.99,13.76,234.24,342.04,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Haryana",42.56,2.93,63.63,82.04,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Himachal Pradesh",4.31,10.53,133.63,137.2,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Jammu & Kashmir",2.71,2.3,34.21,31.06,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Jharkhand",4.58,2.11,54.33,43.22,"","","","","","","",""
+"Karnataka",229.75,172.22,1615.97,1774.3,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Kerala ",45.14,22.23,934.66,1273.51,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Madhya Pradesh",7.11,4.74,89.2,92.72,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Maharashtra",51.42,23.96,613.13,668.5,"NA","NA","NA","NA","NA","NA","NA","NA"
+"North Eastern",5.87,3.22,49.92,39.08,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Orissa",10.21,9.22,83.81,71.06,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Punjab ",9.13,9.7,134.09,135.65,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Rajasthan",39.19,42.21,462.18,598.59,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Tamil Nadu ",230.98,177.35,1585.38,1747.06,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Uttar Pradesh",14.64,11.19,236.36,203.86,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Uttarakhand",6.66,5.42,117.58,91.59,"NA","NA","NA","NA","NA","NA","NA","NA"
+"West Bengal ",41.19,26.29,350.12,341.63,"NA","NA","NA","NA","NA","NA","NA","NA"
+"Base P.O.",8.94,4.5,35.55,170.15,"NA","NA","NA","NA","NA","NA","NA","NA"
