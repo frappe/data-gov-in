@@ -33,7 +33,7 @@ def get_file_content(fname):
 
 def is_number(s):
 	try:
-		float(s)
+		float(s or "0")
 		return True
 	except ValueError:
 		return False

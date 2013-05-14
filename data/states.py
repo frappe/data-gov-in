@@ -33,5 +33,4 @@ states = [
 "Dadra and Nagar Haveli",
 "Daman and Diu",
 "Delhi",
-"Chandigarh"
-]
+"Chandigarh"]
