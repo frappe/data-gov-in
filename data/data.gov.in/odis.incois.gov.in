@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+                <title>Ocean Data and Information Management System - INCOIS </title>
+                <script language="JavaScript">
+                function move() {
+                        window.location = '/cgi-bin/mapserv54?map=INSITU_RECENTMAPFILE&layer=ocean&layer=copyright&layer=moored&layer=drifting&layer=aws&layer=currentmeter&layer=xbt&layer=waverider&zoom=0&program=/cgi-bin/mapserv54&root=/insitu&graphicsroot=/insitu/graphics&map_web=template+insitu.html';
+                }
+                </script>
+        </head>
+ 
+        <body onload="move();">
+        </body>
+</html>

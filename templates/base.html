@@ -3,23 +3,23 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{{ title  or "A better data.gov.in" }}</title>
+	<title>{{ title  or "India Data Project" }}</title>
 	<meta name="description" content="{{ description }}">	
 	<meta name="generator" content="wnframework">
-	<script type="text/javascript" src="js/jquery.min.js"></script>
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="{{ public_path }}js/jquery.min.js"></script>
+	<script type="text/javascript" src="{{ public_path }}js/bootstrap.min.js"></script>
 	{% if chart_type == "Map" -%}
-	<script type="text/javascript" src="js/d3.v3.min.js"></script>
-	<script type="text/javascript" src="js/topojson.v0.min.js"></script>
-	<script type="text/javascript" src="js/colorbrewer.js"></script>
+	<script type="text/javascript" src="{{ public_path }}js/d3.v3.min.js"></script>
+	<script type="text/javascript" src="{{ public_path }}js/topojson.v0.min.js"></script>
+	<script type="text/javascript" src="{{ public_path }}js/colorbrewer.js"></script>
 	<link type="text/css" rel="stylesheet" href="css/map.css">
 	{% else -%}
-	<script type="text/javascript" src="js/Chart.min.js"></script>
+	<script type="text/javascript" src="{{ public_path }}js/Chart.min.js"></script>
 	{%- endif %}
-	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
-	<link type="text/css" rel="stylesheet" href="css/bootstrap-responsive.min.css">
-	<link type="text/css" rel="stylesheet" href="css/font-awesome.min.css">
-	<link type="text/css" rel="stylesheet" href="css/main.css">
+	<link type="text/css" rel="stylesheet" href="{{ public_path }}css/bootstrap.min.css">
+	<link type="text/css" rel="stylesheet" href="{{ public_path }}css/bootstrap-responsive.min.css">
+	<link type="text/css" rel="stylesheet" href="{{ public_path }}css/font-awesome.min.css">
+	<link type="text/css" rel="stylesheet" href="{{ public_path }}css/main.css">
 	<meta name="description" content="A better visualization of data.gov.in">
 </head>
 <body>

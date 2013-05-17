@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Agricultural machinery, tractors</title>
+	<meta name="description" content="Agricultural machinery refers to the number of wheel and crawler tractors (excluding garden tractors) in use in agriculture at the end of the calendar year specified or during the first quarter of the following year.">	
+	<meta name="generator" content="wnframework">
+	<script type="text/javascript" src="../js/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../js/Chart.min.js"></script>
+	<link type="text/css" rel="stylesheet" href="../css/bootstrap.min.css">
+	<link type="text/css" rel="stylesheet" href="../css/bootstrap-responsive.min.css">
+	<link type="text/css" rel="stylesheet" href="../css/font-awesome.min.css">
+	<link type="text/css" rel="stylesheet" href="../css/main.css">
+	<meta name="description" content="A better visualization of data.gov.in">
+</head>
+<body>
+	<div class="container">
+		<div class="outer">
+			<div class="navbar navbar-inverse">
+			  <div class="navbar-inner">
+			    <a class="brand" href="index.py">
+					<span class="logo logo-data">data</span><span class="logo logo-gov">gov</span><span class="logo logo-in">in</span>
+				</a>
+			    <ul class="nav">
+			    	<li><a href="index.py?page=about">About</a></li>
+			    </ul>
+			  </div>
+			</div>
+						
+			
+
+<div style="background-color: #AAAAAA; height: 18px;">
+</div>
+
+<div class="row">
+	<div class="span12">
+		<ul class="breadcrumb">
+			<li><a href="index.html">Home</a> <span class="divider">/</span></li>
+			<li><a href="group.html">
+				<i class="icon icon-question-sign"></i> Other</a> 
+				<span class="divider">/</span>
+			</li>
+			<li class="active">Dataset</li>
+		</ul>
+	</div>
+</div>
+
+<div class="row">
+	<div class="span12">
+		<h3>Agricultural machinery, tractors</h3>
+		<p style="color: #777;">Agricultural machinery refers to the number of wheel and crawler tractors (excluding garden tractors) in use in agriculture at the end of the calendar year specified or during the first quarter of the following year.</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="span12" style="overflow-x: scroll;">
+		
+	</div>
+</div>
+
+<script>
+	var ctx = $("#canvas").get(0).getContext("2d")
+	var chart_data = [];
+
+	if(chart_data["chart_type"] == "Line") {
+		new Chart(ctx).Line(chart_data);
+	}
+	else if(chart_data["chart_type"]  == "Pie") {
+		new Chart(ctx).Pie(chart_data["datasets"]);
+	}
+</script>
+
+
+			<hr>
+			<p class="help">
+				<h5>A better way to visualize data.gov.in</h5>
+				<span style="font-size: 80%; color: #888;">Made by 
+					<a href="https://twitter.com/rushabh_mehta">@rushabh_mehta</a>, 
+					<a href="https://twitter.com/nabinhait">@nabinhait</a>, 
+					<a href="https://twitter.com/anandpdoshi">@anandpdoshi</a> for the Planning Commission Hackathon. 
+					<a href="https://github.com/codeformumbai/data-gov-in">View the code on GitHub</a>
+					<br />
+					<a href="http://data.gov.in/catalogs" target="_blank">View the original data.gov.in</a>
+					<br />
+					<br /><a href="https://groups.google.com/forum/?fromgroups#!forum/codeformumbai"><b>Join our mailing list for updates</b></a>
+					<br /><a style="color: #aaa" href="https://erpnext.com">Supported by ERPNext</a>
+				</span>
+			</p>
+			<div class="pull-right"><img src="img/India.png" /></div>
+		</div>
+	</div>
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-8911157-8']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+		if("" != "[]") console.log("");
+	</script>
+</body>
+</html>

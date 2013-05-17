@@ -1,6 +1,31 @@
 from __future__ import unicode_literals
 import os, csv, json
 
+def convert_to_csv(fpath, target_path = None):
+	import xlrd, shutil
+	files = []
+
+	fname = os.path.basename(fpath)
+	extn = fpath.split(".")[-1].lower()
+	
+	if extn == "xls":
+		wb = xlrd.open_workbook(fpath)
+		sheets = wb.sheet_names()
+		for i in xrange(len(sheets)):
+			csv_fname = (len(sheets) > 1 and (fname[:-4] + \
+				"-" + sheets[i].lower().replace(" ", "_")) or \
+				fname[:-4]) + ".csv"
+			sheet = wb.sheet_by_index(i)
+			csv_fpath = os.path.join(target_path, csv_fname)
+			files.append(csv_fpath)
+			write_csv(sheet, csv_fpath)
+	elif extn == "csv":
+		if target_path:
+			shutil.copy(fpath, target_path)
+			files.append(os.path.join(target_path, fname))
+		
+	return files
+
 def get_file_data(fname):
 	content = get_file_content(fname)
 	separator = "-----\n".encode("utf-8")
@@ -95,3 +120,40 @@ def execute_in_shell(cmd, verbose=0):
 		if out: print out
 
 	return err, out
+	
+def write_csv(sheet, fpath):
+	print fpath
+	csv_writer = UnicodeWriter()
+	for row_no in xrange(sheet.nrows):
+		csv_writer.writerow(sheet.row_values(row_no))
+	
+	with open(fpath, "w") as csv_file:
+		csv_file.write(csv_writer.getvalue())
+
+class UnicodeWriter:
+	def __init__(self, encoding="utf-8"):
+		from cStringIO import StringIO
+		self.encoding = encoding
+		self.queue = StringIO()
+		self.writer = csv.writer(self.queue, quoting=csv.QUOTE_NONNUMERIC)
+	
+	def writerow(self, row):
+		row = self.encode(row, self.encoding)
+		self.writer.writerow(row)
+	
+	def getvalue(self):
+		return self.queue.getvalue()
+	
+	def encode(self, obj, encoding="utf-8"):
+		if isinstance(obj, list):
+			out = []
+			for o in obj:
+				if isinstance(o, unicode):
+					out.append(o.encode(encoding))
+				else:
+					out.append(o)
+			return out
+		elif isinstance(obj, unicode):
+			return obj.encode(encoding)
+		else:
+			return obj
